@@ -2485,19 +2485,19 @@
   },
   "Yahoo Finance": {
    "ok": true,
-   "count": 20
+   "count": 19
   },
   "BBC Business": {
    "ok": true,
    "count": 52
   },
   "Reuters (via Google News)": {
-   "ok": false,
-   "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:reuters.com+markets&hl=en-US&gl=US&ceid=US:en"
+   "ok": true,
+   "count": 60
   },
   "AP Business (via Google News)": {
-   "ok": false,
-   "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:apnews.com+business&hl=en-US&gl=US&ceid=US:en"
+   "ok": true,
+   "count": 60
   },
   "Fed Press Releases": {
    "ok": true,
