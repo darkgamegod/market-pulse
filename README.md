@@ -37,6 +37,16 @@ kill $(cat watcher.pid)   # stops cleanly (SIGTERM is handled)
 - **State** is just `docs/data/*.json`, so the cron job doesn't need a database. It carries state forward by committing.
 - **Robustness**: per-feed retry with backoff, timeouts, one failing source doesn't stop the others, the watcher backs off after repeated failures, files are written atomically, and SIGTERM/SIGINT shut it down cleanly.
 
+## v2 features
+- **Freshness everywhere**: each block shows its as-of time (ET), source, and a badge. `DELAYED` means normal Yahoo lag (~15 min), `STALE` means older than its threshold while the market or futures are open, `CLOSED` means the last trade from a closed session, `FALLBACK` means a backup source is in use.
+- **Real catalysts**: economic calendar from the FairEconomy/ForexFactory weekly JSON (USD events, with forecast and previous). If that's unavailable it uses the rule-based `calendar.py` schedule, labelled. Earnings come from the Nasdaq earnings calendar API for the next 5 trading days, filtered to the S&P 500. If that's unavailable it uses yfinance's per-ticker `.calendar` for top names.
+- **Gap and relative-volume leaders** across the S&P 500 (`data/sp500.json`). In pre-market (4:00–9:30 ET) it uses live 5-min extended-hours bars for the top 150 names by dollar volume, and RVOL = pre-market volume ÷ 20-day average daily volume. At other times it shows the last session's opening gap and full-day RVOL, labelled.
+- **Sentiment validation** (`market_pulse/validation.py`, log at `docs/data/sentiment_log.json`): each new headline–ticker pair is logged and its price change at +1h and +1d is filled in from Yahoo 5-min bars. The panel shows hit-rate (±95% CI) and correlation, and stays **UNPROVEN** until there are ≥100 directional samples per horizon.
+- **My watchlist**: editable and saved in browser localStorage. Each ticker has a "why it moved" line linking its highest-impact headline.
+- **Alerts**: items with impact ≥ 7 on your watchlist get highlighted, plus an optional browser notification (opt-in checkbox; it fires while the page is open, and the page reloads every 5 min).
+- **Consumer/retail lens**: Cons. Discretionary, E-commerce and Shipping & Logistics (USPS/UPS/FedEx rates, postage, surcharges, de minimis) are tagged, with extra Google News feeds and a filter toggle in the live feed.
+- **Bot-readable outputs**: `docs/api/summary.json` (schema `market-pulse/summary@1`), `docs/report.txt` (plain-text report), and `index.html` is server-rendered, so fetchers without JS still see the content.
+
 ## Data sources (free, no keys)
 CNBC (Top/Markets/Economy RSS), MarketWatch (Dow Jones RSS), Yahoo Finance headline RSS, BBC Business, Reuters and AP (through Google News RSS search, since they no longer publish public RSS), Federal Reserve press releases, and Yahoo Finance quotes through `yfinance` (index futures, SPY/QQQ/DIA/IWM, VIX, WTI, gold, DXY, 10Y, BTC, 11 SPDR sector ETFs + SMH). Nasdaq's RSS is set up but often times out. A failed source shows ✗ in "Data sources".
 

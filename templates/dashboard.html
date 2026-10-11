@@ -1,89 +1,172 @@
 <!doctype html>
 <html lang="en"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Market Pulse – Pre-Market Research</title>
+<title>Market Pulse – Pre-Market Research (<!--SSR:date-->)</title>
+<meta name="description" content="Automated pre-market research dashboard for trainees. Educational research only, not financial advice.">
+<link rel="alternate" type="application/json" href="api/summary.json" title="Machine-readable summary">
+<link rel="alternate" type="text/plain" href="report.txt" title="Plain-text daily report">
 <style>
 :root{--bg:#0b1020;--card:#141a2e;--line:#232b45;--txt:#e6e9f2;--mut:#8b93ad;--up:#22c55e;--dn:#ef4444;--acc:#7aa2ff;--warn:#f59e0b}
 *{box-sizing:border-box}body{margin:0;font:14px/1.45 system-ui,-apple-system,Segoe UI,Roboto,sans-serif;background:var(--bg);color:var(--txt)}
 a{color:var(--acc);text-decoration:none}a:hover{text-decoration:underline}
-header{padding:18px 20px;border-bottom:1px solid var(--line);display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:space-between;background:linear-gradient(90deg,#111834,#0b1020)}
-h1{margin:0;font-size:22px;letter-spacing:.3px}h1 span{color:var(--acc)}
+header{padding:16px 20px;border-bottom:1px solid var(--line);display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:space-between;background:linear-gradient(90deg,#111834,#0b1020)}
+h1{margin:0;font-size:22px}h1 span{color:var(--acc)}
 .meta{color:var(--mut);font-size:12px}.pill{display:inline-block;padding:2px 8px;border-radius:999px;font-size:11px;border:1px solid var(--line);margin:2px 2px 0 0;color:var(--mut)}
+.badge{display:inline-block;padding:1px 7px;border-radius:4px;font-size:10.5px;font-weight:600;letter-spacing:.3px;text-transform:uppercase;margin-left:4px;vertical-align:middle}
+.badge.delayed{background:#1e3a5f;color:#93c5fd}.badge.stale{background:#7f1d1d;color:#fecaca}.badge.closed{background:#3f3f46;color:#d4d4d8}.badge.fresh{background:#14532d;color:#bbf7d0}.badge.fallback,.badge.unknown{background:#78350f;color:#fde68a}.badge.unproven{background:#78350f;color:#fde68a}
 .disc{background:#2a1f06;border:1px solid #5c4410;color:#fcd68a;padding:10px 14px;margin:14px 20px;border-radius:8px;font-size:13px}
+#alerts{margin:0 20px}.alert{background:#450a0a;border:1px solid var(--dn);border-radius:8px;padding:8px 12px;margin-bottom:6px}
 main{padding:0 20px 30px;display:grid;gap:16px;grid-template-columns:repeat(12,1fr)}
 .card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px;grid-column:span 12;min-width:0}
 .c6{grid-column:span 6}.c4{grid-column:span 4}.c8{grid-column:span 8}
 @media(max-width:900px){.c6,.c4,.c8{grid-column:span 12}}
-h2{margin:0 0 10px;font-size:15px;text-transform:uppercase;letter-spacing:.8px;color:var(--mut);display:flex;justify-content:space-between;align-items:center}
-.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:8px}
+h2{margin:0 0 4px;font-size:14px;text-transform:uppercase;letter-spacing:.8px;color:var(--mut)}
+.fr{font-size:11.5px;color:var(--mut);margin-bottom:10px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:8px}
 .q{background:#0f1529;border:1px solid var(--line);border-radius:8px;padding:8px 10px}.q .l{font-size:11px;color:var(--mut)}.q .p{font-size:17px;font-weight:600}
 .up{color:var(--up)}.dn{color:var(--dn)}.nt{color:var(--mut)}
 .heat{display:grid;grid-template-columns:repeat(auto-fill,minmax(120px,1fr));gap:6px}
 .hc{border-radius:8px;padding:10px;min-height:70px;color:#fff}.hc b{display:block;font-size:13px}.hc small{opacity:.85}
 .theme{border-top:1px solid var(--line);padding:10px 0}.theme:first-of-type{border-top:0}
-.theme h3{margin:0 0 4px;font-size:15px;display:flex;justify-content:space-between;gap:8px}
+.theme h3{margin:0 0 4px;font-size:15px;display:flex;justify-content:space-between;gap:8px;flex-wrap:wrap}
 ul.hl{margin:4px 0 0;padding-left:18px}ul.hl li{margin:3px 0}
-table{width:100%;border-collapse:collapse}td,th{padding:7px 6px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}th{color:var(--mut);font-weight:500;font-size:12px}
+.tw{overflow-x:auto}table{width:100%;border-collapse:collapse}td,th{padding:6px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}th{color:var(--mut);font-weight:500;font-size:12px}
 .tk{font-weight:700;font-family:ui-monospace,monospace}
 details summary{cursor:pointer;color:var(--acc);font-size:12px}
-.live{max-height:520px;overflow:auto}
-.li{padding:8px 0;border-bottom:1px solid var(--line);display:flex;gap:10px}.li:last-child{border:0}
+.live{max-height:560px;overflow:auto}
+.li{padding:8px 0;border-bottom:1px solid var(--line);display:flex;gap:10px}.li:last-child{border:0}.li.hot{background:#2a0d0d;border-left:3px solid var(--dn);padding-left:6px}
 .imp{min-width:38px;height:38px;border-radius:8px;display:flex;align-items:center;justify-content:center;font-weight:700;background:#1d2440}
 .imp.h{background:#7f1d1d}.imp.m{background:#78350f}
 .new{background:var(--dn);color:#fff;border:0;animation:p 1.5s infinite}@keyframes p{50%{opacity:.4}}
 .dot{width:8px;height:8px;border-radius:50%;background:var(--up);display:inline-block;margin-right:6px;animation:p 2s infinite}
-.ev{display:flex;gap:10px;padding:6px 0;border-bottom:1px solid var(--line)}.ev .d{min-width:88px;color:var(--mut);font-family:ui-monospace,monospace}
+.ev{display:flex;gap:10px;padding:5px 0;border-bottom:1px solid var(--line)}.ev .d{min-width:120px;color:var(--mut);font-family:ui-monospace,monospace;font-size:12px}
 .high{color:var(--dn)}.medium{color:var(--warn)}
+.ctl{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:8px}
+input[type=text]{background:#0f1529;border:1px solid var(--line);color:var(--txt);border-radius:6px;padding:5px 8px;width:170px}
+button,.tg{background:#1d2440;border:1px solid var(--line);color:var(--txt);border-radius:6px;padding:5px 10px;cursor:pointer;font-size:12px}
+.tg input{vertical-align:middle}
+.chip{display:inline-flex;gap:4px;align-items:center;background:#0f1529;border:1px solid var(--line);border-radius:999px;padding:2px 4px 2px 10px;margin:2px;font-family:ui-monospace,monospace;font-weight:700}
+.chip button{padding:0 6px;border:0;background:none;color:var(--mut)}
+.why{font-size:12.5px}
+.kpi{display:inline-block;margin-right:18px}.kpi b{font-size:20px}
 footer{color:var(--mut);font-size:12px;padding:0 20px 30px}
-input{background:#0f1529;border:1px solid var(--line);color:var(--txt);border-radius:6px;padding:5px 8px;width:160px}
+#ssr-note{display:none}
 </style></head><body>
 <header>
- <div><h1>Market <span>Pulse</span></h1><div class="meta" id="sub"></div></div>
- <div class="meta"><a href="archive/index.html">Archive</a> · <a href="data/latest.json">JSON</a> · <a href="data/live.json">Live JSON</a></div>
+ <div><h1>Market <span>Pulse</span></h1><div class="meta" id="sub">Pre-market research for <!--SSR:date--> · updated <!--SSR:generated--></div></div>
+ <div class="meta"><a href="report.txt">Plain-text report</a> · <a href="api/summary.json">API summary.json</a> · <a href="data/latest.json">Daily JSON</a> · <a href="archive/index.html">Archive</a></div>
 </header>
-<div class="disc"><b>Educational research only — not financial advice.</b> This dashboard is generated automatically from public headlines and delayed market data for training purposes. Sentiment and impact scores are crude heuristics and can be wrong. Do your own analysis; never trade solely on this page.</div>
+<div class="disc"><b>Educational research only, not financial advice.</b> This page is generated automatically from public headlines and delayed market data for training. Sentiment and impact scores are crude heuristics. <b>Sentiment is unproven</b> until the validation panel says otherwise. Do your own analysis and never trade on this page alone.</div>
+<div id="alerts"></div>
 <main>
- <section class="card" id="livecard"><h2><span><span class="dot"></span>Live feed / breaking</span><span class="meta" id="liveupd"></span></h2>
-  <div style="margin-bottom:6px"><input id="flt" placeholder="filter (e.g. NVDA, fed)"></div><div class="live" id="live"></div></section>
- <section class="card"><h2>Pre-market snapshot <span class="meta" id="snapas"></span></h2><div class="grid" id="snap"></div></section>
- <section class="card c8"><h2>Top themes</h2><div id="themes"></div></section>
- <section class="card c4"><h2>What to watch</h2><div id="watch"></div></section>
- <section class="card c6"><h2>Sector heatmap <span class="meta">color = ETF % chg · ★ news sentiment</span></h2><div class="heat" id="heat"></div></section>
- <section class="card c6"><h2>Ticker watchlist</h2><table><thead><tr><th>Ticker</th><th>% chg</th><th>Mentions</th><th>Sent.</th><th>Headlines</th></tr></thead><tbody id="wl"></tbody></table></section>
- <section class="card"><h2>Data sources</h2><div id="src"></div></section>
+ <section class="card c6" id="mywl"><h2>My watchlist <span class="meta">(saved in this browser)</span></h2>
+  <div class="fr">Prices: Yahoo Finance via yfinance · "why it moved" = top-impact headline mentioning the ticker</div>
+  <div class="ctl"><input type="text" id="wladd" placeholder="add ticker, e.g. NVDA"><button id="wlbtn">Add</button><button id="wlreset">Reset</button>
+   <label class="tg"><input type="checkbox" id="notif"> Browser alerts (impact ≥ 7)</label></div>
+  <div id="chips"></div><div class="tw"><table><thead><tr><th>Ticker</th><th>Last</th><th>% chg</th><th>As of</th><th>Why it moved</th></tr></thead><tbody id="mywlb"><tr><td colspan="5" class="meta">Enable JavaScript to use the editable watchlist.</td></tr></tbody></table></div></section>
+ <section class="card c6" id="livecard"><h2><span class="dot"></span>Live feed / breaking</h2><div class="fr" id="livefr"></div>
+  <div class="ctl"><input type="text" id="flt" placeholder="filter (NVDA, fed…)"><label class="tg"><input type="checkbox" id="cons"> Consumer / retail / shipping lens</label><label class="tg"><input type="checkbox" id="onlywl"> My watchlist only</label></div>
+  <div class="live" id="live"><!--SSR:live--></div></section>
+ <section class="card"><h2>Market snapshot</h2><div class="fr" id="snapfr"></div><div class="grid" id="snap"><!--SSR:snap--></div></section>
+ <section class="card c6"><h2>Gap leaders</h2><div class="fr" id="mvfr"></div><div class="tw"><table><thead><tr><th>Ticker</th><th>Gap</th><th>RVOL</th><th>Sector</th></tr></thead><tbody id="gap"><!--SSR:gap--></tbody></table></div></section>
+ <section class="card c6"><h2>Relative-volume leaders</h2><div class="fr" id="mvfr2"></div><div class="tw"><table><thead><tr><th>Ticker</th><th>Gap</th><th>RVOL</th><th>Sector</th></tr></thead><tbody id="vol"><!--SSR:vol--></tbody></table></div></section>
+ <section class="card c6"><h2>Economic calendar</h2><div class="fr" id="econfr"></div><div id="econ"><!--SSR:econ--></div></section>
+ <section class="card c6"><h2>Earnings (next 5 trading days)</h2><div class="fr" id="earnfr"></div><div id="earn" class="live" style="max-height:420px"><!--SSR:earn--></div></section>
+ <section class="card c8"><h2>Top themes</h2><div class="fr" id="themefr"></div><div id="themes"><!--SSR:themes--></div></section>
+ <section class="card c4"><h2>Sentiment validation</h2><div class="fr" id="valfr"></div><div id="val"><!--SSR:val--></div></section>
+ <section class="card c6"><h2>Sector heatmap</h2><div class="fr" id="heatfr"></div><div class="heat" id="heat"></div></section>
+ <section class="card c6"><h2>Ticker watchlist (most in the news)</h2><div class="fr" id="wlfr"></div><div class="tw"><table><thead><tr><th>Ticker</th><th>% chg</th><th>Mentions</th><th>Sent.</th><th>Why it moved</th></tr></thead><tbody id="wl"><!--SSR:wl--></tbody></table></div></section>
+ <section class="card"><h2>Data sources &amp; freshness</h2><div id="src"><!--SSR:src--></div></section>
 </main>
-<footer>Generated by Market Pulse. Quotes via Yahoo Finance (may be delayed). Headlines © their publishers; links go to the original source. <b>Not financial advice.</b></footer>
+<footer>Market Pulse · quotes from Yahoo Finance (often ~15 min delayed; extended-hours bars are thin) · earnings from Nasdaq · economic calendar from FairEconomy/ForexFactory (rule-based fallback if unavailable) · headlines © their publishers. <b>Not financial advice.</b></footer>
 <script>
-const DATA=/*__DATA__*/null;
-const D=DATA.daily,L=DATA.live||{items:[]};
+const B=/*__DATA__*/null;
+const D=B.daily,L=B.live||{items:[]},M=B.market||{},C=B.catalysts||{},V=B.validation||{};
 const $=id=>document.getElementById(id);
 const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const cls=v=>v==null?"nt":v>0?"up":v<0?"dn":"nt";
-const pct=v=>v==null?"–":(v>0?"+":"")+v.toFixed(2)+"%";
+const pct=v=>v==null?"–":(v>0?"+":"")+Number(v).toFixed(2)+"%";
 const sl=s=>s>=0.25?'<span class="up">bullish</span>':s<=-0.25?'<span class="dn">bearish</span>':'<span class="nt">neutral</span>';
-const a=h=>`<a href="${esc(h.link)}" target="_blank" rel="noopener">${esc(h.title)}</a> <span class="meta">— ${esc(h.source)}</span>`;
-$("sub").textContent=`Daily pre-market report for ${D.date} · generated ${D.generated_et} · ${D.item_count} headlines analysed`;
-const groups={};Object.values(D.quotes).filter(q=>q.group!=="Sectors").forEach(q=>(groups[q.group]=groups[q.group]||[]).push(q));
-$("snap").innerHTML=Object.values(groups).flat().map(q=>`<div class="q"><div class="l">${esc(q.label)} · ${esc(q.group)}</div><div class="p">${q.price.toLocaleString()}</div><div class="${cls(q.pct)}">${q.change>0?"+":""}${q.change} (${pct(q.pct)})</div></div>`).join("")||"<i>No quotes available</i>";
-$("snapas").textContent=D.quotes_asof?"last close/quote: "+D.quotes_asof:"";
-$("themes").innerHTML=D.themes.map(t=>`<div class="theme"><h3><span>${esc(t.name)}</span><span class="meta">${t.count} items · score ${t.score} · ${sl(t.sentiment)}</span></h3>
-<div>${t.tickers.map(x=>`<span class="pill tk">${esc(x)}</span>`).join("")}</div><ul class="hl">${t.headlines.map(h=>`<li>${a(h)} <span class="pill">impact ${h.impact}</span></li>`).join("")}</ul></div>`).join("");
-const col=p=>{if(p==null)return"#334";const k=Math.min(1,Math.abs(p)/2.5);return p>=0?`rgba(34,197,94,${.25+.7*k})`:`rgba(239,68,68,${.25+.7*k})`};
-$("heat").innerHTML=D.sectors.map(s=>`<div class="hc" style="background:${col(s.pct)}"><b>${esc(s.name)}</b><small>${s.etf} ${pct(s.pct)}</small><br><small>★ ${s.news} news · ${s.sentiment>0?"+":""}${s.sentiment}</small></div>`).join("");
-$("wl").innerHTML=D.watchlist.map(w=>`<tr><td class="tk">${esc(w.ticker)}</td><td class="${cls(w.pct)}">${pct(w.pct)}</td><td>${w.mentions}</td><td>${sl(w.sentiment)}</td><td><details><summary>${w.headlines.length} source headline(s)</summary><ul class="hl">${w.headlines.map(h=>`<li>${a(h)}</li>`).join("")}</ul></details></td></tr>`).join("");
-const W=D.what_to_watch;
-$("watch").innerHTML=W.events.map(e=>`<div class="ev"><span class="d">${e.date}</span><span class="${e.importance}">${esc(e.event)}</span></div>`).join("")+
- (W.headline_hints.length?`<h2 style="margin-top:12px">Forward-looking headlines</h2><ul class="hl">${W.headline_hints.map(h=>`<li>${a(h)}</li>`).join("")}</ul>`:"")+`<p class="meta">${esc(W.note)}</p>`;
-$("src").innerHTML=Object.entries(D.sources).map(([k,v])=>`<span class="pill" style="color:${v.ok?"var(--up)":"var(--dn)"}">${v.ok?"✓":"✗"} ${esc(k)}${v.count!=null?" ("+v.count+")":""}</span>`).join("");
-function renderLive(){
- const f=$("flt").value.toLowerCase();
- const its=(L.items||[]).filter(i=>!f||(i.title+" "+i.tickers.join(" ")+" "+i.themes.join(" ")).toLowerCase().includes(f));
- const cut=Date.now()-30*60e3;
- $("live").innerHTML=its.slice(0,150).map(i=>{const c=i.impact>=7?"h":i.impact>=5?"m":"";const fresh=Date.parse(i.seen_at)>cut;
- return `<div class="li"><div class="imp ${c}">${i.impact}</div><div>${fresh?'<span class="pill new">NEW</span>':""}${a(i)}<div>${i.tickers.slice(0,6).map(x=>`<span class="pill tk">${esc(x)}</span>`).join("")}${i.themes.map(x=>`<span class="pill">${esc(x)}</span>`).join("")} ${sl(i.sentiment)} <span class="meta">· seen ${esc(i.seen_et)}</span></div></div></div>`}).join("")||"<i class='meta'>No live items yet. Run <code>python run.py --watch</code>.</i>";
+const a=h=>h?`<a href="${esc(h.link)}" target="_blank" rel="noopener">${esc(h.title)}</a> <span class="meta">— ${esc(h.source)}</span>`:"";
+const badge=f=>f?`<span class="badge ${esc(f.badge)}">${esc(f.label)}</span>`:"";
+const ageMin=iso=>iso?(Date.now()-Date.parse(iso))/6e4:1e9;
+const fb=(iso,thr)=>B.archived?{badge:"closed",label:"archived"}:ageMin(iso)>thr?{badge:"stale",label:"stale · "+Math.round(ageMin(iso))+" min old"}:{badge:"fresh",label:"fresh"};
+const fr=(id,asof,src,b)=>{$(id).innerHTML=`As of ${esc(asof||"–")} · Source: ${esc(src)} ${b?badge(b):""}`};
+$("sub").textContent=`Pre-market report for ${D.date} (built ${D.generated_et}) · page updated ${B.generated_et} · session: ${B.session}${B.archived?" · ARCHIVED":""}`;
+
+// ---------- watchlist state (localStorage) ----------
+const DEF=["SPY","QQQ","NVDA","AAPL","TSLA","AMZN","UPS","FDX"];
+let WL;try{WL=JSON.parse(localStorage.getItem("mp_wl"))||DEF}catch(e){WL=DEF}
+const saveWL=()=>localStorage.setItem("mp_wl",JSON.stringify(WL));
+const priceOf=t=>{const q=(M.quotes||{})[t];if(q)return{price:q.price,pct:q.pct,asof:q.asof_et,fresh:q.fresh};const p=(M.prices||{})[t];return p?{price:p.price,pct:p.pct,asof:p.asof+" close",fresh:{badge:"closed",label:"daily close"}}:null};
+const why=t=>{const its=(L.items||[]).filter(i=>i.tickers.includes(t)).sort((x,y)=>y.impact-x.impact);return its[0]||(B.why||{})[t]||null};
+function renderWL(){
+ $("chips").innerHTML=WL.map(t=>`<span class="chip">${esc(t)}<button data-t="${esc(t)}" title="remove">×</button></span>`).join("");
+ document.querySelectorAll(".chip button").forEach(b=>b.onclick=()=>{WL=WL.filter(x=>x!==b.dataset.t);saveWL();renderAll()});
+ $("mywlb").innerHTML=WL.map(t=>{const p=priceOf(t),w=why(t);return `<tr><td class="tk">${esc(t)}</td><td>${p?p.price.toLocaleString():"–"}</td><td class="${cls(p&&p.pct)}">${p?pct(p.pct):"–"}</td><td class="meta">${p?esc(p.asof)+" "+badge(p.fresh):"not tracked"}</td><td class="why">${w?`${w.impact>=7?'<span class="badge stale">impact '+w.impact+'</span> ':""}${a(w)}`:'<span class="meta">no headline in feed</span>'}</td></tr>`}).join("");
 }
-$("flt").oninput=renderLive;renderLive();
-$("liveupd").textContent=L.archived?"(archived snapshot)":`updated ${L.updated_et||"–"} · ${(L.items||[]).length} items`;
-// auto-refresh when hosted (new data arrives via watcher / scheduled job)
-if(!L.archived)setTimeout(()=>location.reload(),5*60e3);
+$("wlbtn").onclick=()=>{const v=$("wladd").value.trim().toUpperCase().replace(/[^A-Z0-9.\-=^]/g,"");if(v&&!WL.includes(v)){WL.push(v);saveWL();renderAll()}$("wladd").value=""};
+$("wladd").onkeydown=e=>{if(e.key==="Enter")$("wlbtn").click()};
+$("wlreset").onclick=()=>{WL=DEF.slice();saveWL();renderAll()};
+
+// ---------- alerts ----------
+const hotItems=()=>(L.items||[]).filter(i=>i.impact>=7&&i.tickers.some(t=>WL.includes(t)));
+function renderAlerts(){
+ const h=hotItems().filter(i=>ageMin(i.seen_at)<24*60);
+ $("alerts").innerHTML=h.slice(0,5).map(i=>`<div class="alert">🔔 <b>Watchlist alert</b> · impact ${i.impact} · <span class="tk">${esc(i.tickers.filter(t=>WL.includes(t)).join(", "))}</span> — ${a(i)}</div>`).join("");
+ if(B.archived||!("Notification" in window)||Notification.permission!=="granted"||localStorage.getItem("mp_notif")!=="1")return;
+ let sent;try{sent=new Set(JSON.parse(localStorage.getItem("mp_sent")||"[]"))}catch(e){sent=new Set()}
+ h.filter(i=>!sent.has(i.id)).slice(0,3).forEach(i=>{try{const n=new Notification("Market Pulse: "+i.tickers.filter(t=>WL.includes(t)).join(", ")+" (impact "+i.impact+")",{body:i.title});n.onclick=()=>window.open(i.link)}catch(e){}sent.add(i.id)});
+ localStorage.setItem("mp_sent",JSON.stringify([...sent].slice(-500)));
+}
+$("notif").checked=localStorage.getItem("mp_notif")==="1"&&"Notification" in window&&Notification.permission==="granted";
+$("notif").onchange=async e=>{if(!("Notification" in window)){alert("Browser notifications not supported");e.target.checked=false;return}
+ if(e.target.checked){const p=await Notification.requestPermission();e.target.checked=p==="granted"}localStorage.setItem("mp_notif",e.target.checked?"1":"0");renderAlerts()};
+
+// ---------- live feed ----------
+["cons","onlywl"].forEach(k=>{$(k).checked=localStorage.getItem("mp_"+k)==="1";$(k).onchange=()=>{localStorage.setItem("mp_"+k,$(k).checked?"1":"0");renderLive()}});
+function renderLive(){
+ const f=$("flt").value.toLowerCase(),cons=$("cons").checked,only=$("onlywl").checked;
+ const its=(L.items||[]).filter(i=>(!f||(i.title+" "+i.tickers.join(" ")+" "+i.themes.join(" ")).toLowerCase().includes(f))&&(!cons||i.consumer)&&(!only||i.tickers.some(t=>WL.includes(t))));
+ $("live").innerHTML=its.slice(0,150).map(i=>{const c=i.impact>=7?"h":i.impact>=5?"m":"";const fresh=ageMin(i.seen_at)<30&&!B.archived;const hot=i.impact>=7&&i.tickers.some(t=>WL.includes(t));
+ return `<div class="li ${hot?"hot":""}"><div class="imp ${c}">${i.impact}</div><div>${fresh?'<span class="pill new">NEW</span>':""}${hot?'<span class="badge stale">watchlist alert</span> ':""}${a(i)}<div>${i.tickers.slice(0,6).map(x=>`<span class="pill tk">${esc(x)}</span>`).join("")}${i.consumer?'<span class="pill" style="color:var(--warn)">consumer lens</span>':""}${i.themes.map(x=>`<span class="pill">${esc(x)}</span>`).join("")} ${sl(i.sentiment)} <span class="meta">· published ${esc(new Date(i.published).toLocaleString("en-US",{timeZone:"America/New_York",month:"short",day:"numeric",hour:"numeric",minute:"2-digit"}))} ET · seen ${esc(i.seen_et)}</span></div></div></div>`}).join("")||"<i class='meta'>No matching items.</i>";
+}
+$("flt").oninput=renderLive;
+fr("livefr",L.updated_et,`${Object.values(B.sources).filter(s=>s.newest).length} RSS feeds, polled every ~15 min`,fb(L.updated_at,40));
+
+// ---------- static sections ----------
+const Q=Object.values(M.quotes||{});
+$("snap").innerHTML=Q.filter(q=>q.group!=="Sectors").map(q=>`<div class="q"><div class="l">${esc(q.label)} · ${esc(q.group)}</div><div class="p">${q.price.toLocaleString()}</div><div class="${cls(q.pct)}">${q.change>0?"+":""}${q.change} (${pct(q.pct)})</div><div class="meta">as of ${esc(q.asof_et)}</div>${badge(q.fresh)}</div>`).join("")||"<i>No quotes</i>";
+fr("snapfr",M.quotes_fetched_et,M.quotes_source+" · last 5-min bar incl. extended hours vs prior close",null);
+const mv=M.movers||{};
+const mrow=x=>`<tr><td class="tk">${esc(x.symbol)}</td><td class="${cls(x.gap_pct)}">${pct(x.gap_pct)}</td><td>${x.rvol??"–"}×</td><td class="meta">${esc(x.sector)}${why(x.symbol)?`<div class="why">${a(why(x.symbol))}</div>`:""}</td></tr>`;
+$("gap").innerHTML=(mv.gappers||[]).map(mrow).join("");$("vol").innerHTML=(mv.volume_leaders||[]).map(mrow).join("");
+const mvb=mv.session==="pre-market"?{badge:"delayed",label:"live pre-market"}:{badge:"closed",label:"last session · market not in pre-market"};
+fr("mvfr",mv.fetched_et,`${mv.source||"Yahoo"} · ${mv.universe||""} · ${mv.basis||""}`,mvb);fr("mvfr2",mv.fetched_et,`${mv.universe||""}`,mvb);
+const ec=C.econ||{};
+$("econ").innerHTML=(ec.events||[]).filter(e=>e.importance!=="low").map(e=>`<div class="ev"><span class="d">${esc(e.when_et)}</span><span class="${e.importance}">${esc(e.event)}${e.forecast?` <span class="meta">fcst ${esc(e.forecast)}</span>`:""}${e.previous?` <span class="meta">prev ${esc(e.previous)}</span>`:""}</span></div>`).join("")+
+ `<details><summary>${(ec.events||[]).filter(e=>e.importance==="low").length} lower-impact events</summary>${(ec.events||[]).filter(e=>e.importance==="low").map(e=>`<div class="ev"><span class="d">${esc(e.when_et)}</span><span>${esc(e.event)}</span></div>`).join("")}</details>`;
+fr("econfr",ec.fetched_et,ec.source||"–",ec.fallback?{badge:"fallback",label:"rule-based fallback"}:fb(ec.fetched_at,180));
+const er=C.earnings||{};
+$("earn").innerHTML=(er.events||[]).map(e=>`<div class="ev"><span class="d">${esc(e.date)}</span><span>${WL.includes(e.symbol)?'<span class="badge stale">watchlist</span> ':""}<b class="tk">${esc(e.symbol)}</b> ${esc(e.name)} · <span class="meta">${esc(e.time)} · EPS est ${esc(e.eps_forecast||"n/a")} (yr ago ${esc(e.last_year_eps||"n/a")})</span></span></div>`).join("")||"<i class='meta'>No S&P 500 earnings found.</i>";
+fr("earnfr",er.fetched_et,er.source||"–",er.ok?fb(er.fetched_at,480):{badge:"stale",label:"fetch failed"});
+$("themes").innerHTML=D.themes.map(t=>`<div class="theme"><h3><span>${esc(t.name)}</span><span class="meta">${t.count} items · score ${t.score} · ${sl(t.sentiment)}</span></h3><div>${t.tickers.map(x=>`<span class="pill tk">${esc(x)}</span>`).join("")}</div><ul class="hl">${t.headlines.map(h=>`<li>${a(h)} <span class="pill">impact ${h.impact}</span></li>`).join("")}</ul></div>`).join("");
+fr("themefr",D.generated_et,`${D.item_count} headlines from ${Object.keys(D.sources).length} feeds (daily pre-market report)`,null);
+const col=p=>{if(p==null)return"#334";const k=Math.min(1,Math.abs(p)/2.5);return p>=0?`rgba(34,197,94,${.25+.7*k})`:`rgba(239,68,68,${.25+.7*k})`};
+$("heat").innerHTML=D.sectors.map(s=>{const q=(M.quotes||{})[s.etf]||{};const p=q.pct??s.pct;return `<div class="hc" style="background:${col(p)}"><b>${esc(s.name)}</b><small>${s.etf} ${pct(p)}</small><br><small>${s.news} news · sent ${s.sentiment>0?"+":""}${s.sentiment}</small></div>`}).join("");
+const sq=Q.find(q=>q.group==="Sectors")||{};fr("heatfr",sq.asof_et,"Yahoo Finance sector ETFs (color = % chg); news counts from the daily report",sq.fresh);
+$("wl").innerHTML=D.watchlist.map(w=>{const p=priceOf(w.ticker);return `<tr><td class="tk">${esc(w.ticker)}</td><td class="${cls(p&&p.pct)}">${p?pct(p.pct):"–"}</td><td>${w.mentions}</td><td>${sl(w.sentiment)}</td><td class="why">${a(w.why)}<details><summary>${w.headlines.length} source headline(s)</summary><ul class="hl">${w.headlines.map(h=>`<li>${a(h)}</li>`).join("")}</ul></details></td></tr>`}).join("");
+fr("wlfr",D.generated_et,"daily report headlines; % chg from latest Yahoo quote",null);
+// validation
+const H=V.horizons||{};
+$("val").innerHTML=`<div style="margin-bottom:8px">${V.status==="UNPROVEN"?'<span class="badge unproven">UNPROVEN</span> Sentiment labels have no demonstrated predictive value yet.':'<span class="badge delayed">MEASURED</span>'}</div>`+
+ Object.values(H).map(h=>`<div style="margin:8px 0"><div><b>${esc(h.name)}</b> ${h.status==="UNPROVEN"?'<span class="badge unproven">unproven</span>':`<span class="badge ${h.status.startsWith("EDGE")?"fresh":"stale"}">${esc(h.status)}</span>`}</div>
+ <span class="kpi"><b>${h.hit_rate??"–"}${h.hit_rate!=null?"%":""}</b><br><span class="meta">hit-rate ${h.ci95!=null?"±"+h.ci95:""}</span></span><span class="kpi"><b>${h.corr??"–"}</b><br><span class="meta">correlation</span></span><span class="kpi"><b>${h.n_directional}</b>/<span class="meta">${V.min_sample} needed</span><br><span class="meta">samples</span></span></div>`).join("")+
+ `<p class="meta">A "hit" means a bullish (≥0.25) or bearish (≤−0.25) headline was followed by a price move in the same direction, measured from the first 5-min bar after the headline was seen (extended hours included). 50% = coin flip. ${V.logged||0} ticker-headline pairs logged.</p>`+
+ ((V.recent||[]).length?`<details><summary>recent scored samples</summary><table>${V.recent.map(r=>`<tr><td class="tk">${esc(r.ticker)}</td><td>${r.sentiment}</td><td class="${cls(r.r1h)}">${pct(r.r1h)}</td><td class="${cls(r.r1d)}">${pct(r.r1d)}</td><td class="meta">${esc(r.title)}</td></tr>`).join("")}</table></details>`:"");
+fr("valfr",V.generated_et,"own log: headline sentiment vs subsequent Yahoo price move",null);
+$("src").innerHTML=Object.entries(B.sources).map(([k,v])=>`<span class="pill" style="color:${v.ok?"var(--up)":"var(--dn)"}" title="${esc(v.error||v.note||"")}">${v.ok?"✓":"✗"} ${esc(k)}${v.count!=null?" ("+v.count+")":""}${v.fetched_et?" · fetched "+esc(v.fetched_et):""}${v.newest_et?" · newest "+esc(v.newest_et):""}</span>`).join("");
+function renderAll(){renderWL();renderLive();renderAlerts()}
+renderAll();
+if(!B.archived)setTimeout(()=>location.reload(),5*60e3);
 </script></body></html>

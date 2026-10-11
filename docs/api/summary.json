@@ -1,0 +1,1807 @@
+{
+ "schema": "market-pulse/summary@1",
+ "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
+ "generated_et": "Oct 11 03:05 PM ET",
+ "generated_at": "2026-10-11T15:05:11.294168-04:00",
+ "session": "closed",
+ "daily_report": {
+  "date": "2026-10-11",
+  "generated_et": "Sun Oct 11 2026, 03:04 PM ET"
+ },
+ "snapshot": [
+  {
+   "symbol": "ES=F",
+   "label": "S&P 500 Fut",
+   "price": 7859.75,
+   "pct": 0.56,
+   "asof_et": "Oct 09 04:55 PM ET",
+   "freshness": "closed"
+  },
+  {
+   "symbol": "NQ=F",
+   "label": "Nasdaq 100 Fut",
+   "price": 31108.75,
+   "pct": 0.45,
+   "asof_et": "Oct 09 04:55 PM ET",
+   "freshness": "closed"
+  },
+  {
+   "symbol": "YM=F",
+   "label": "Dow Fut",
+   "price": 51926.0,
+   "pct": 0.84,
+   "asof_et": "Oct 09 04:55 PM ET",
+   "freshness": "closed"
+  },
+  {
+   "symbol": "RTY=F",
+   "label": "Russell 2000 Fut",
+   "price": 2822.1,
+   "pct": 0.44,
+   "asof_et": "Oct 09 04:55 PM ET",
+   "freshness": "closed"
+  },
+  {
+   "symbol": "SPY",
+   "label": "SPY",
+   "price": 778.57,
+   "pct": 0.6,
+   "asof_et": "Oct 09 07:55 PM ET",
+   "freshness": "closed"
+  },
+  {
+   "symbol": "QQQ",
+   "label": "QQQ",
+   "price": 751.38,
+   "pct": 0.51,
+   "asof_et": "Oct 09 07:55 PM ET",
+   "freshness": "closed"
+  },
+  {
+   "symbol": "DIA",
+   "label": "DIA",
+   "price": 516.21,
+   "pct": 0.89,
+   "asof_et": "Oct 09 07:55 PM ET",
+   "freshness": "closed"
+  },
+  {
+   "symbol": "IWM",
+   "label": "IWM",
+   "price": 278.81,
+   "pct": 0.45,
+   "asof_et": "Oct 09 07:55 PM ET",
+   "freshness": "closed"
+  },
+  {
+   "symbol": "^VIX",
+   "label": "VIX",
+   "price": 14.84,
+   "pct": -3.7,
+   "asof_et": "Oct 09 04:10 PM ET",
+   "freshness": "closed"
+  },
+  {
+   "symbol": "CL=F",
+   "label": "WTI Crude",
+   "price": 91.85,
+   "pct": 0.39,
+   "asof_et": "Oct 09 04:55 PM ET",
+   "freshness": "closed"
+  },
+  {
+   "symbol": "GC=F",
+   "label": "Gold",
+   "price": 4216.3,
+   "pct": 1.43,
+   "asof_et": "Oct 09 04:55 PM ET",
+   "freshness": "closed"
+  },
+  {
+   "symbol": "DX-Y.NYB",
+   "label": "Dollar Index",
+   "price": 102.23,
+   "pct": 0.09,
+   "asof_et": "Oct 09 04:55 PM ET",
+   "freshness": "closed"
+  },
+  {
+   "symbol": "^TNX",
+   "label": "10Y Yield",
+   "price": 5.24,
+   "pct": 0.25,
+   "asof_et": "Oct 09 02:55 PM ET",
+   "freshness": "closed"
+  },
+  {
+   "symbol": "BTC-USD",
+   "label": "Bitcoin",
+   "price": 83636.71,
+   "pct": 0.87,
+   "asof_et": "Oct 11 03:05 PM ET",
+   "freshness": "delayed"
+  },
+  {
+   "symbol": "XLK",
+   "label": "Technology",
+   "price": 198.8,
+   "pct": 0.52,
+   "asof_et": "Oct 09 07:55 PM ET",
+   "freshness": "closed"
+  },
+  {
+   "symbol": "XLF",
+   "label": "Financials",
+   "price": 54.76,
+   "pct": 0.98,
+   "asof_et": "Oct 09 07:55 PM ET",
+   "freshness": "closed"
+  },
+  {
+   "symbol": "XLE",
+   "label": "Energy",
+   "price": 65.2,
+   "pct": -0.07,
+   "asof_et": "Oct 09 07:55 PM ET",
+   "freshness": "closed"
+  },
+  {
+   "symbol": "XLV",
+   "label": "Health Care",
+   "price": 170.8,
+   "pct": 1.57,
+   "asof_et": "Oct 09 07:55 PM ET",
+   "freshness": "closed"
+  },
+  {
+   "symbol": "XLY",
+   "label": "Cons. Discretionary",
+   "price": 112.85,
+   "pct": 1.02,
+   "asof_et": "Oct 09 05:03 PM ET",
+   "freshness": "closed"
+  },
+  {
+   "symbol": "XLP",
+   "label": "Cons. Staples",
+   "price": 83.47,
+   "pct": 0.06,
+   "asof_et": "Oct 09 05:55 PM ET",
+   "freshness": "closed"
+  },
+  {
+   "symbol": "XLI",
+   "label": "Industrials",
+   "price": 169.25,
+   "pct": 0.5,
+   "asof_et": "Oct 09 05:30 PM ET",
+   "freshness": "closed"
+  },
+  {
+   "symbol": "XLB",
+   "label": "Materials",
+   "price": 49.34,
+   "pct": 0.14,
+   "asof_et": "Oct 09 06:45 PM ET",
+   "freshness": "closed"
+  },
+  {
+   "symbol": "XLU",
+   "label": "Utilities",
+   "price": 41.38,
+   "pct": 0.75,
+   "asof_et": "Oct 09 07:55 PM ET",
+   "freshness": "closed"
+  },
+  {
+   "symbol": "XLRE",
+   "label": "Real Estate",
+   "price": 41.61,
+   "pct": 1.86,
+   "asof_et": "Oct 09 05:30 PM ET",
+   "freshness": "closed"
+  },
+  {
+   "symbol": "XLC",
+   "label": "Communication",
+   "price": 110.34,
+   "pct": -1.54,
+   "asof_et": "Oct 09 04:05 PM ET",
+   "freshness": "closed"
+  },
+  {
+   "symbol": "SMH",
+   "label": "Semiconductors",
+   "price": 603.5,
+   "pct": -0.62,
+   "asof_et": "Oct 09 07:55 PM ET",
+   "freshness": "closed"
+  }
+ ],
+ "top_themes": [
+  {
+   "name": "Earnings & Guidance",
+   "count": 53,
+   "sentiment": 0.13,
+   "tickers": [
+    "CL=F",
+    "XLE",
+    "GOOGL",
+    "^TNX",
+    "TSM",
+    "SPY"
+   ],
+   "top_headline": {
+    "title": "We’re about to get a huge read on whether earnings can keep propping up the stock market",
+    "link": "https://www.marketwatch.com/story/were-about-to-get-a-huge-read-on-whether-earnings-can-keep-propping-up-the-stock-market-459b565b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top",
+    "impact": 7.4,
+    "sentiment_label": "bullish"
+   }
+  },
+  {
+   "name": "Inflation & Macro Data",
+   "count": 35,
+   "sentiment": 0.04,
+   "tickers": [
+    "^TNX",
+    "SPY",
+    "GOOGL",
+    "CL=F",
+    "XLE",
+    "GS"
+   ],
+   "top_headline": {
+    "title": "The stock market this week (October 12–16): Big bank earnings, September CPI, and retail sales to test record rally",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTHRyWUxYTkVmUFZzREJnZEkxMWdBMFh3dUNrTmhFdlBXS25uNHM0YXFwRVhxak1qSlcxaUh3OHhSdlNDSzBxR0dXMjBkLTJKa3N3cExBajAtaldJQlhudGZpbzhlU3dGckhialVlUkZadnRSMFpsbFJlR0tDdE1FSFNhaTJTRnA2eFNXQ0s2SXpSWFNfZnlDZFJUMUJNMW9aOWdnRUFsR0ZrZktLdHM5XzZCU0hLcWVNbUVwRU4yNFZIc1VXNTZaVVE4ZEVQNThvcklFaEVoY20zWHIzTVJiaTB4U3VkOGhaRVh4dkxQRdIB9AFBVV95cUxPSVpsNUgwaTRtWFVZQzMtcC1LUEd3NlBRRjZqcE1lNWhnZUZNdHpzYkY2ZHNNb3VnT3FDc0pmWDA3aEhXanFOUHdWdDIyOXl6U3JXWTUwOFlxSXhrLXIzU3EwaWRkbHNSaHE1LVdoX1ZuenZtanRFTmttSUM5OTdieFMyM05UUkgxazFLLWRCNDZ3a2o0bDNGVFlJNnFfYlNmSG13ZkQyOU9NMkU5WFBIM3Vjbm1WZlo1RE5jbjFCeFBiVjdEMnkxUXJJTWs1MnZBZndLN0cyekduTjBTUEdsYkt5ZWhNUnI2NTdpTVRIMkxLTXJk?oc=5",
+    "source": "Clarin.com",
+    "impact": 7.1,
+    "sentiment_label": "bullish"
+   }
+  },
+  {
+   "name": "Fed & Rates",
+   "count": 37,
+   "sentiment": -0.05,
+   "tickers": [
+    "^TNX",
+    "SPY",
+    "DIA",
+    "CL=F",
+    "XLE",
+    "GC=F"
+   ],
+   "top_headline": {
+    "title": "Trump created a committee to dig into the Fed's Lisa Cook. What is it and what comes next?",
+    "link": "https://www.cnbc.com/2026/10/09/trump-lisa-cook-fed-firing-committee-explained.html",
+    "source": "CNBC Top News",
+    "impact": 6.4,
+    "sentiment_label": "bullish"
+   }
+  },
+  {
+   "name": "Banks & Credit",
+   "count": 33,
+   "sentiment": 0.19,
+   "tickers": [
+    "^TNX",
+    "SPY",
+    "GOOGL",
+    "TSM",
+    "FDX",
+    "UPS"
+   ],
+   "top_headline": {
+    "title": "The stock market this week (October 12–16): Big bank earnings, September CPI, and retail sales to test record rally",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTHRyWUxYTkVmUFZzREJnZEkxMWdBMFh3dUNrTmhFdlBXS25uNHM0YXFwRVhxak1qSlcxaUh3OHhSdlNDSzBxR0dXMjBkLTJKa3N3cExBajAtaldJQlhudGZpbzhlU3dGckhialVlUkZadnRSMFpsbFJlR0tDdE1FSFNhaTJTRnA2eFNXQ0s2SXpSWFNfZnlDZFJUMUJNMW9aOWdnRUFsR0ZrZktLdHM5XzZCU0hLcWVNbUVwRU4yNFZIc1VXNTZaVVE4ZEVQNThvcklFaEVoY20zWHIzTVJiaTB4U3VkOGhaRVh4dkxQRdIB9AFBVV95cUxPSVpsNUgwaTRtWFVZQzMtcC1LUEd3NlBRRjZqcE1lNWhnZUZNdHpzYkY2ZHNNb3VnT3FDc0pmWDA3aEhXanFOUHdWdDIyOXl6U3JXWTUwOFlxSXhrLXIzU3EwaWRkbHNSaHE1LVdoX1ZuenZtanRFTmttSUM5OTdieFMyM05UUkgxazFLLWRCNDZ3a2o0bDNGVFlJNnFfYlNmSG13ZkQyOU9NMkU5WFBIM3Vjbm1WZlo1RE5jbjFCeFBiVjdEMnkxUXJJTWs1MnZBZndLN0cyekduTjBTUEdsYkt5ZWhNUnI2NTdpTVRIMkxLTXJk?oc=5",
+    "source": "Clarin.com",
+    "impact": 7.1,
+    "sentiment_label": "bullish"
+   }
+  },
+  {
+   "name": "Consumer & Retail",
+   "count": 42,
+   "sentiment": 0.09,
+   "tickers": [
+    "GOOGL",
+    "SPY",
+    "^TNX",
+    "AMZN",
+    "GS",
+    "LULU"
+   ],
+   "top_headline": {
+    "title": "The stock market this week (October 12–16): Big bank earnings, September CPI, and retail sales to test record rally",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTHRyWUxYTkVmUFZzREJnZEkxMWdBMFh3dUNrTmhFdlBXS25uNHM0YXFwRVhxak1qSlcxaUh3OHhSdlNDSzBxR0dXMjBkLTJKa3N3cExBajAtaldJQlhudGZpbzhlU3dGckhialVlUkZadnRSMFpsbFJlR0tDdE1FSFNhaTJTRnA2eFNXQ0s2SXpSWFNfZnlDZFJUMUJNMW9aOWdnRUFsR0ZrZktLdHM5XzZCU0hLcWVNbUVwRU4yNFZIc1VXNTZaVVE4ZEVQNThvcklFaEVoY20zWHIzTVJiaTB4U3VkOGhaRVh4dkxQRdIB9AFBVV95cUxPSVpsNUgwaTRtWFVZQzMtcC1LUEd3NlBRRjZqcE1lNWhnZUZNdHpzYkY2ZHNNb3VnT3FDc0pmWDA3aEhXanFOUHdWdDIyOXl6U3JXWTUwOFlxSXhrLXIzU3EwaWRkbHNSaHE1LVdoX1ZuenZtanRFTmttSUM5OTdieFMyM05UUkgxazFLLWRCNDZ3a2o0bDNGVFlJNnFfYlNmSG13ZkQyOU9NMkU5WFBIM3Vjbm1WZlo1RE5jbjFCeFBiVjdEMnkxUXJJTWs1MnZBZndLN0cyekduTjBTUEdsYkt5ZWhNUnI2NTdpTVRIMkxLTXJk?oc=5",
+    "source": "Clarin.com",
+    "impact": 7.1,
+    "sentiment_label": "bullish"
+   }
+  },
+  {
+   "name": "Trade, Tariffs & Geopolitics",
+   "count": 56,
+   "sentiment": -0.15,
+   "tickers": [
+    "SPY",
+    "^TNX",
+    "FDX",
+    "CL=F",
+    "XLE",
+    "GOOGL"
+   ],
+   "top_headline": {
+    "title": "Trump created a committee to dig into the Fed's Lisa Cook. What is it and what comes next?",
+    "link": "https://www.cnbc.com/2026/10/09/trump-lisa-cook-fed-firing-committee-explained.html",
+    "source": "CNBC Top News",
+    "impact": 6.4,
+    "sentiment_label": "bullish"
+   }
+  },
+  {
+   "name": "Other Market News",
+   "count": 175,
+   "sentiment": -0.01,
+   "tickers": [
+    "GOOGL",
+    "MSFT",
+    "TSLA",
+    "SPY",
+    "DIA",
+    "QQQ"
+   ],
+   "top_headline": {
+    "title": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
+    "source": "Fed Press Releases",
+    "impact": 4.7,
+    "sentiment_label": "bearish"
+   }
+  },
+  {
+   "name": "Energy & Commodities",
+   "count": 19,
+   "sentiment": 0.01,
+   "tickers": [
+    "CL=F",
+    "XLE",
+    "^TNX",
+    "GC=F",
+    "GOOGL",
+    "SPY"
+   ],
+   "top_headline": {
+    "title": "We’re about to get a huge read on whether earnings can keep propping up the stock market",
+    "link": "https://www.marketwatch.com/story/were-about-to-get-a-huge-read-on-whether-earnings-can-keep-propping-up-the-stock-market-459b565b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top",
+    "impact": 7.4,
+    "sentiment_label": "bullish"
+   }
+  }
+ ],
+ "breaking": [
+  {
+   "title": "Why Did CUPR Stock Surge Over 150% Today?",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON0tjd2NTQXVPNlQxWXVlb0h6RW43SXFUdGUtSzU1dlE5Rmx2SjRoNXp2U1JNNU50Y1lhRy1nalNORkc2bHBVSnVHMHB6QkQ5QWI5cnIySGNKZzZ5QkpTSlp5SlZKMzI4SWp1Nm5TZzJCbmJMSlByQVBlcE9OYU4zWVRPS1hRLXFLZmJ4b1BZdGpGeFNpRS1vU1ZkOVNkWnBhbVFlMXhpeWZiNGJaNXBkTQ?oc=5",
+   "source": "Stocktwits",
+   "impact": 3.1,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 11 03:05 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "This Analyst Sees 34% Upside For SRPT Stock — Here's Why They Expect A Sustained Rally Next",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPejRzbXc3VzdveE9MY1ZvR2QxYmFIdVFBSXFYRmVoaFdGX0VqSk01bFZ2d2RNQWpHRnEwVVVRM25TZURWMDBQR2x6NjkzbV9XbUM1V2JHbmZxdi1pckpHZUVJVTVqb2NkLTV0Z1l5WV9vWlFnZ0N1RXJITUlUZkNJUUx0OWxaTVZMeWJ1alNVdXF5Qktxdm9qd3dIaFlwTmtEYWVxQ216UjFkaGxObExqVG85RXF3M3NGRTFfZHdneEFNYkpQRUE?oc=5",
+   "source": "Stocktwits",
+   "impact": 2.3,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 11 03:05 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "SNAP Stock Rises Overnight After Specs AI Tool Unveiling — Retail Gets More Bullish",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNV203TE9QU240UDBJdEpGMzYtTTZ3RkdRWFo1T3BJS09IUm9aYUJ2S3poYVR2ZWNSWTg2d21IQkR3YTEwWWlMWmFfekZTNHphZS00X0gxSW12UlFXek1BdVgyXzVjMzZSRWlXOEVnekd4NndMX2JyTHZYWE94SWxKU0RuQURPRm42Y042eGc3UzFJVEl5TEJLWUEwbTFEY2EwUDBoRklQMEtWbUVqMmwwem5zdnY3aUFkZ182SGVFczN2QU1CLS0td3ptV0J5QmMxaVBqZ1NMRm5CdVRLNHc?oc=5",
+   "source": "Stocktwits",
+   "impact": 1.1,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 11 03:05 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Deutsche Bank chief warns German election results worrying foreign investors",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOEkyUXVpdmtTaTgzSDN5R253RzhiNHByZXNDYXZjMFh0bWJaRmZpbVBIVjlCVnFBTktCX2ZvM0stMUtRbTByT0stdk5OdGpJQmVKYXhSMm5wbmlTYXdDdG1ENjBPNlp1emhDSjk4Tkc2Qm8zUnp2RzlpSGxJQmVYbUpJYzUwZHJJLXZrbE9ZLXB5clNxN1VHcHZsc20ydkVOS0VLeUQwUG9GRHFDVGx0SFU0bllCRE4wX2otNVhR?oc=5",
+   "source": "Reuters",
+   "impact": 3.2,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 11 03:04 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Warren Buffett Bought These 4 Dividend Stocks Years Ago. Here's What $1,000 in Each Would Be Worth Today.",
+   "link": "https://www.nasdaq.com/articles/warren-buffett-bought-these-4-dividend-stocks-years-ago-heres-what-1000-each-would-be",
+   "source": "Nasdaq Markets",
+   "impact": 4.0,
+   "tickers": [
+    "BRK-B"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 11 03:04 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Banco Bradesco Wealth Management Chief Purchases $1.1 Million Preference Shares. Is This Brazilian Financial Powerhouse Stock a Buy?",
+   "link": "https://www.nasdaq.com/articles/banco-bradesco-wealth-management-chief-purchases-11-million-preference-shares-brazilian",
+   "source": "Nasdaq Markets",
+   "impact": 2.3,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 11 03:04 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "How to Beat a Choppy Market With 4 Steady Stocks",
+   "link": "https://www.nasdaq.com/articles/how-beat-choppy-market-4-steady-stocks",
+   "source": "Nasdaq Markets",
+   "impact": 1.9,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 11 03:04 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "The S&P 500 Just Hit a Record High -- Here's How Much Higher It Can Climb, According to the Wall Street Consensus",
+   "link": "https://www.nasdaq.com/articles/sp-500-just-hit-record-high-heres-how-much-higher-it-can-climb-according-wall-street",
+   "source": "Nasdaq Markets",
+   "impact": 2.8,
+   "tickers": [
+    "SPY"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 11 03:04 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Axon Enterprise vs. Turning Point Brands: Which Slumping Stock Is a Better Rebound Candidate Right Now?",
+   "link": "https://www.nasdaq.com/articles/axon-enterprise-vs-turning-point-brands-which-slumping-stock-better-rebound-candidate",
+   "source": "Nasdaq Markets",
+   "impact": 3.4,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 11 03:04 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Mach Natural Resources Chairman Purchases 34,514 Shares for $389,000. Is This Buy a Sign Oil Prices Stay High?",
+   "link": "https://www.nasdaq.com/articles/mach-natural-resources-chairman-purchases-34514-shares-389000-buy-sign-oil-prices-stay",
+   "source": "Nasdaq Markets",
+   "impact": 4.5,
+   "tickers": [
+    "CL=F",
+    "XLE"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 11 03:04 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Hiring worse than expected in June, but White House says labor market on 'upward trajectory' - ABC News",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNGNFemF1MkxCY1FJcC0xZE41RFpxb3NFQWlaNE9PNUNUMWtaRUFaVXlIWUdKa0lTVkc4UWFpbVE2cnZjOERHcUhIbDU1akF4ajBvUHdkU0RHUUxGblE5WENBcHBEYmxHZXhGbGxqNk8yZWQ3aW12SEpxbmtkbDU0aFJkcDdyOEEzb18xR1NiQy3SAZYBQVVfeXFMTjEtazlZUUpJRDNTYlpJSUlzNVNnbXhKT1p0cV9mODk2SDNzVU13R3VwYU9KR1dlU3BIaU1ySlJObmFnR1NBYzZhNmFERFpvbV8yQTh4VzRmX3ZUTGFSa0hxOWM3Q2E5MnpuRDJBSnZQYmtmSHpxeTZPY1B3OWNLdEF3VXJPWEtRSklicG9RcGFKTGMxUThR?oc=5",
+   "source": "Breaking News, Latest News and Videos",
+   "impact": 2.8,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 11 03:04 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Top Retail Stocks To Add to Your Watchlist - October 11th",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbVhZRTZlcmFUNjdxcWVCNG1wWGZsN2V4TjJwQ3NoTXlpbld4NThFX3VVWW9Qd1ZEcmRiWnlFXzFrNzlzRGVaaEJOdWxxVVJZMGZPNmxrR3Nfbzd1dktVNUY2VGhZWWlUOFFDdjdMaUdQWmRiTUc5QTc4WEZxRGRvZU9rUXRfbk1NYVd1RGlkWTNRRERfWW1Ua3ptTlA0WTN2SS1HYkxRR3hNc2xqY3d3VVZmc0o?oc=5",
+   "source": "MarketBeat",
+   "impact": 1.9,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 11 03:03 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Columbus Day 2026: Is the Post Office Open on October 12? Check USPS Mail Delivery, Bank Closures, Stock Market Hours, UPS, FedEx and What’s Open or Closed",
+   "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQWEpaQ0Rtc2d3SW1BUVllc0J5M3ZRalhkTW5jbFhBQm1vV05scWVLY2YyWHEzMG9RQlQwbTRJUFRHVDNsdmNpaXJvZlIzUnRzSU9sU3V4VXlNZVE5TzMwR09ZRUJ3R3pfVVZWVDhPZUZfYTl1eVBYYVE3ZVg5SGhoS2VHNGl2ak9DcGx2NlBUN2RpcmVZOS1DOXUyTWtSQ0dFbjdSWnF0MXZwbnpxZWw5RHpOLUxpX2lDZ01BYkJ2Y2tjOEIzcnFwa0JyMmE0UFgxZUc1WW1ueFVRdk9MWU1KV2ZOTEJ1YlJnSWgtcXdMRTlwa28xZzNGOTlpZHluZUpZUkQtS0Y0R1BENm50Y3ZldzdQVzVIYWxyZlNoa25kcG9JMG_SAaMCQVVfeXFMUFhKWkNEbXNnd0ltQVFZZXNCeTN2UWpYZE1uY2xYQUJtb1dObHFlS2NmMlhxMzBvUUJUMG00SVBUR1QzbHZjaWlyb2ZSM1J0c0lPbFN1eFV5TWVROU8zMEdPWUVCd0d6X1VWVlQ4T2VGX2E5dXlQWGFRN2VYOUhoaEtlRzRpdmpPQ3BsdjZQVDdkaXJlWTktQzl1Mk1rUkNHRW43UlpxdDF2cG56cWVsOUR6Ti1MaV9pQ2dNQWJCdmNrYzhCM3JxcGtCcjJhNFBYMWVHNVltbnhVUXZPTFlNSldmTkxCdWJSZ0loLXF3TEU5cGtvMWczRjk5aWR5bmVKWVJELUtGNEdQRDZudGN2ZXc3UFc1SGFscmZTaGtuZHBvSTBv?oc=5",
+   "source": "The Sunday Guardian",
+   "impact": 4.6,
+   "tickers": [
+    "FDX",
+    "GOOGL",
+    "UPS"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 11 03:03 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Why Is Procter & Gamble (NYSE:PG) Gaining E-Commerce Attention?",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVENaXzV1VTJpQkpjZ1BtV1VhQnFndzNoSF91cFVXQmNwYlVEb0dXaVo3SG15b1Awb0VkMVdOUWNZemZkV01fdEZXdDIwU0tCN0FNemx3SWl0aWNnU2hjcC1SS053NHM1NjRsRzBFQi14dFAzbXNiVUcteXZqU0xhejU2WFU3UjJTamFNYjh5NnJuSXJjTjV3ZV9EYmpCSzJiS1k4?oc=5",
+   "source": "Kalkine Media",
+   "impact": 2.8,
+   "tickers": [
+    "PG"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 11 03:03 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Columbus Day 2026: Will USPS Post Offices Be Open or Closed on October 12? Check Holiday Schedule, Mail Services & Latest Updates",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQcUpfcVQtdDJ4UXQtYk80dnZwWVpvUFJXMzdmbTY4T0hnVTNLTVlSbFRFZ09MUWZ0T2pPUFVyd1BqQkczYmpGMTRnTkNPX2ZjSXF1MnI0LTdRNXNTUzlZV2dkVzgtdlptOUZQcUNOVlJyTV96RUEydGtmYzRzSGpVNmpKZExRbVYwd2FQUlg1UWhlMkh3WjcxVlYzR0hvMlFUcHVaMVRhUGhvMmpyOGhqaU1fV2s3S0V3R05hRi1UcXRGdlFOeHRPQUlmRktZaUd2TXFRVDNVMk4xX2l6bWVZQngtVGhaaTRjSWZoMzlsUmhyQXhxLTVueG5zVk1Rb1lET2RZ0gGDAkFVX3lxTFBxSl9xVC10MnhRdC1iTzR2dnBZWm9QUlczN2ZtNjhPSGdVM0tNWVJsVEVnT0xRZnRPak9QVXJ3UGpCRzNiakYxNGdOQ09fZmNJcXUycjQtN1E1c1NTOVlXZ2RXOC12Wm05RlBxQ05WUnJNX3pFQTJ0a2ZjNHNIalU2akpkTFFtVjB3YVBSWDVRaGUySHdaNzFWVjNHSG8yUVRwdVoxVGFQaG8yanI4aGppTV9XazdLRXdHTmFGLVRxdEZ2UU54dE9BSWZGS1lpR3ZNcVFUM1UyTjFfaXptZVlCeC1UaFppNGNJZmgzOWxSaHJBeHEtNW54bnNWTVFvWURPZFk?oc=5",
+   "source": "The Sunday Guardian",
+   "impact": 2.4,
+   "tickers": [
+    "GOOGL"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 11 03:03 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Value Added Resource Week In Review 10-11-26",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE85NTFBYXlRcld6b3BXdUZPeFh5cl9fcHNEaE9WTXRjZEQ0REJPY3Q3WEpxcm9HQ09ySjY4OVVXdVdJNmVZU3Q1Q0N0LXp1VDBCMVFWR3lGR0h2cjY2ZUJQV1VaZDljazczWWVj?oc=5",
+   "source": "Value Added Resource",
+   "impact": 2.3,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 11 03:03 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "USPS will be closed in observance of Columbus Day, October 12",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONlRRS1lOcFNOeThrbjktN1ZpdC1LbWR4b0wxNW9uOTNLbF9yQTZxRkpiM0RWRG9rdEduSm95em03Yi1xV2c2T3RXM0o3b2FobTQxbW9nMUZ0VzQxMUVNTVNYS0R3WnhQS0YzNkFLUzA2TjFHbDJ1Y3dmeENZQ0JETGxPR0VkR2JaTXVqLS1Bd0h3ZHRYZ2VQWC1FQ2ZoTWQwYjdES0VfazhZRUtW?oc=5",
+   "source": "Lake Okeechobee News",
+   "impact": 1.4,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 11 03:03 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Planning ahead for the holidays? Postal Service announces 2026 mailing and shipping dates",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNHo1QTM3SkVqWnM4UkVqZnFPenZoc0N2MkNTeXBjdU1jbThJSGpSc3lmYmo0X2RfeUoxa2hFMTFoblQ4N2dES1JjM1dMSkc2NVFmb2FXekdpcGNjVU1Mc3pzRlZUUDFqbzVoeE9PQ1h0YTlqRkMzc3l2MDFHRU9fS1F2SUhlejNUNGhBTXd5a2dFeVdYaVNkMWk4TWRySGZRUlNNdGVZeWZraWpkcW5tX3MzbnZQYU82SmpKeHZqVG9LQzBOeWk2WlRRZ0drTjhiNk9YeTJwRFXSAdgBQVVfeXFMUDR6NUEzN0pFalpzOFJFamZxT3p2aHNDdjJDU3lwY3VNY204SUhqUnN5ZmJqNF9kX3lKMWtoRTExaG5UODdnREtSYzNXTEpHNjVRZm9hV3pHaXBjY1VNTHN6c0ZWVFAxam81aHhPT0NYdGE5akZDM3N5djAxR0VPX0tRdklIZXozVDRoQU13eWtnRXlXWGlTZDFpOE1kckhmUVJTTXRlWXlma2lqZHFubV9zM252UGFPNkpqSnh2alRvS0MwTnlpNlpUUWdHa044YjZPWHkycERV?oc=5",
+   "source": "Grice Connect",
+   "impact": 4.0,
+   "tickers": [
+    "GOOGL"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 11 03:03 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Liverpool vs Man City preview: Response to judgment, atmosphere and predicted line-ups",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMXpNQmMybWpxcmZ1WW5mMjVFc2w1MVYxbU4zWUF3UU90dE5UYXJVRVhTWTZ3ajZYNDExX2lzQ3E3UkdFWnZ1X3pfVi1xYThfTXNMQVRZeDNzZjNqYjViVktaeDZTSlVWdF9LWEJZT1VCSm15Q20xbWlqekxmRm9xNVA4Tk1HcXBXa1ZSSGEzbEVKR2JWcDVOeThfZmh4WFk?oc=5",
+   "source": "The New York Times",
+   "impact": 1.8,
+   "tickers": [
+    "UPS"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 11 03:03 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "What is open and closed on Columbus Day 2026? Service guide for the federal holiday this Monday, October 12",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPODJ4b3FOWEo1cE8xTlQ0amhDNEU1a250RDR2SlpKaHQzeV9rSG1jdUUtVkwwVi15ZHROMENXQmpBcjFCMGYwU3ZERENwVzNRaEIxUjZKNDhCalNNQThzeXRwUjItT2xSWVVNNlE2LTA4a3VjbVVCcXhoX25sRzRMZmpjLWVNSWQzM1d6RjdYcE9QeGhJS3B1eHVRYWNwZkFWcUNpdzhITEdNYWMyMmZVQVVXS1p1ekhPY09vQldfV0JKdlhBRzJ2SmdaMHF3bVZIdl9UOFBPaHBsNXhzM01DM2dvYjE3NDdyWVHSAe8BQVVfeXFMUFlfVUM1d0tDRXFLbTZ1SktpUkFqRTl3am13RDhfQ0w3Ykg4eXU1akxLRUljWjJMaFVZTjF2Z2pmUHEtUzByellJc2Y0c1ZsVG1kTDZSN1pGaHZwSXU0OEY5UjYwYmNoeUVham1WQmlscjhjdXk5MWpTRjJxa29qdWRmdVJpN01POXFJY2hna3FqV0psdHNRV3RRbnN4T0hwWjNPTlM0VVRNS1FrSkZ3SkFlNXhsQkE1OTE3aElobTZRVHB3VEtBV0o4ekZGLXZuaEIxUmJjRVZHNDZIeFRPZFMwNm9TSzJUVXdsaFBPN1U?oc=5",
+   "source": "Clarin.com",
+   "impact": 4.0,
+   "tickers": [
+    "GOOGL"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 11 03:03 PM ET",
+   "consumer": false
+  }
+ ],
+ "high_impact": [
+  {
+   "title": "The stock market this week (October 12–16): Big bank earnings, September CPI, and retail sales to test record rally",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTHRyWUxYTkVmUFZzREJnZEkxMWdBMFh3dUNrTmhFdlBXS25uNHM0YXFwRVhxak1qSlcxaUh3OHhSdlNDSzBxR0dXMjBkLTJKa3N3cExBajAtaldJQlhudGZpbzhlU3dGckhialVlUkZadnRSMFpsbFJlR0tDdE1FSFNhaTJTRnA2eFNXQ0s2SXpSWFNfZnlDZFJUMUJNMW9aOWdnRUFsR0ZrZktLdHM5XzZCU0hLcWVNbUVwRU4yNFZIc1VXNTZaVVE4ZEVQNThvcklFaEVoY20zWHIzTVJiaTB4U3VkOGhaRVh4dkxQRdIB9AFBVV95cUxPSVpsNUgwaTRtWFVZQzMtcC1LUEd3NlBRRjZqcE1lNWhnZUZNdHpzYkY2ZHNNb3VnT3FDc0pmWDA3aEhXanFOUHdWdDIyOXl6U3JXWTUwOFlxSXhrLXIzU3EwaWRkbHNSaHE1LVdoX1ZuenZtanRFTmttSUM5OTdieFMyM05UUkgxazFLLWRCNDZ3a2o0bDNGVFlJNnFfYlNmSG13ZkQyOU9NMkU5WFBIM3Vjbm1WZlo1RE5jbjFCeFBiVjdEMnkxUXJJTWs1MnZBZndLN0cyekduTjBTUEdsYkt5ZWhNUnI2NTdpTVRIMkxLTXJk?oc=5",
+   "impact": 7.1,
+   "tickers": [
+    "GOOGL"
+   ]
+  }
+ ],
+ "watchlist": [
+  {
+   "ticker": "^TNX",
+   "pct": 0.25,
+   "mentions": 29,
+   "sentiment": -0.03,
+   "why": {
+    "title": "Trump created a committee to dig into the Fed's Lisa Cook. What is it and what comes next?",
+    "link": "https://www.cnbc.com/2026/10/09/trump-lisa-cook-fed-firing-committee-explained.html",
+    "source": "CNBC Top News",
+    "impact": 6.4,
+    "sentiment_label": "bullish"
+   }
+  },
+  {
+   "ticker": "SPY",
+   "pct": 0.6,
+   "mentions": 15,
+   "sentiment": -0.17,
+   "why": {
+    "title": "Trump created a committee to dig into the Fed's Lisa Cook. What is it and what comes next?",
+    "link": "https://www.cnbc.com/2026/10/09/trump-lisa-cook-fed-firing-committee-explained.html",
+    "source": "CNBC Top News",
+    "impact": 6.4,
+    "sentiment_label": "bullish"
+   }
+  },
+  {
+   "ticker": "GOOGL",
+   "pct": null,
+   "mentions": 14,
+   "sentiment": 0.42,
+   "why": {
+    "title": "The stock market this week (October 12–16): Big bank earnings, September CPI, and retail sales to test record rally",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTHRyWUxYTkVmUFZzREJnZEkxMWdBMFh3dUNrTmhFdlBXS25uNHM0YXFwRVhxak1qSlcxaUh3OHhSdlNDSzBxR0dXMjBkLTJKa3N3cExBajAtaldJQlhudGZpbzhlU3dGckhialVlUkZadnRSMFpsbFJlR0tDdE1FSFNhaTJTRnA2eFNXQ0s2SXpSWFNfZnlDZFJUMUJNMW9aOWdnRUFsR0ZrZktLdHM5XzZCU0hLcWVNbUVwRU4yNFZIc1VXNTZaVVE4ZEVQNThvcklFaEVoY20zWHIzTVJiaTB4U3VkOGhaRVh4dkxQRdIB9AFBVV95cUxPSVpsNUgwaTRtWFVZQzMtcC1LUEd3NlBRRjZqcE1lNWhnZUZNdHpzYkY2ZHNNb3VnT3FDc0pmWDA3aEhXanFOUHdWdDIyOXl6U3JXWTUwOFlxSXhrLXIzU3EwaWRkbHNSaHE1LVdoX1ZuenZtanRFTmttSUM5OTdieFMyM05UUkgxazFLLWRCNDZ3a2o0bDNGVFlJNnFfYlNmSG13ZkQyOU9NMkU5WFBIM3Vjbm1WZlo1RE5jbjFCeFBiVjdEMnkxUXJJTWs1MnZBZndLN0cyekduTjBTUEdsYkt5ZWhNUnI2NTdpTVRIMkxLTXJk?oc=5",
+    "source": "Clarin.com",
+    "impact": 7.1,
+    "sentiment_label": "bullish"
+   }
+  },
+  {
+   "ticker": "CL=F",
+   "pct": 0.39,
+   "mentions": 15,
+   "sentiment": 0.1,
+   "why": {
+    "title": "We’re about to get a huge read on whether earnings can keep propping up the stock market",
+    "link": "https://www.marketwatch.com/story/were-about-to-get-a-huge-read-on-whether-earnings-can-keep-propping-up-the-stock-market-459b565b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top",
+    "impact": 7.4,
+    "sentiment_label": "bullish"
+   }
+  },
+  {
+   "ticker": "XLE",
+   "pct": -0.07,
+   "mentions": 15,
+   "sentiment": 0.1,
+   "why": {
+    "title": "We’re about to get a huge read on whether earnings can keep propping up the stock market",
+    "link": "https://www.marketwatch.com/story/were-about-to-get-a-huge-read-on-whether-earnings-can-keep-propping-up-the-stock-market-459b565b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top",
+    "impact": 7.4,
+    "sentiment_label": "bullish"
+   }
+  },
+  {
+   "ticker": "FDX",
+   "pct": null,
+   "mentions": 7,
+   "sentiment": -0.29,
+   "why": {
+    "title": "Hundreds protest in Oakland to demand FedEx stop shipping arms to Israel",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbDMybWIwbWI1V3k1cHBVS1M2X2FCNU1IQVZHNlBBemRIdVVEamhaSUxLcnFvdjhjUnBIeEcwdDFxYTZOQnBjRHVmZTJwTWRmNWhoQUdxcTVFZVVHZW5zVjEyTmlsSmpTSnpIWWtfR0RFUWFHejF5WWtrcVI4UG1XSGVlbUZldw?oc=5",
+    "source": "The Oaklandside",
+    "impact": 4.9,
+    "sentiment_label": "bearish"
+   }
+  },
+  {
+   "ticker": "UPS",
+   "pct": null,
+   "mentions": 9,
+   "sentiment": 0.06,
+   "why": {
+    "title": "Columbus Day 2026: Is the Post Office Open on October 12? Check USPS Mail Delivery, Bank Closures, Stock Market Hours, UPS, FedEx and What’s Open or Closed",
+    "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPeEJjYldmTG5yNlZZSmE1NlcxZE9JcDR2bUJlMzY0ZUhjTTJsZ09NYzd4QmRxalFzNkItNzNGTU15clBJcG5mdE5YOHd6ZjdveGtKNnRuc0lnVmRwUE1iUGdfWVBjVjV3MUNkUk5SUXAyMWlRd1h1Nl9ZTlJmSGp4cUJPVFNmMmlwUFlUUDczaEdlUUhweWVxQ2dEN0VVRk1Qa3BRMXlxWGlpdUZyNHdOdEFjVHZKeDVLbFVEQ2hyTzg4Q3lhQVlIMm9wWnFBdFBNWmt0VjBwMExvTzdsaXIxTFVCQTJ0SGVnd1lRRmI0QUx4YlZVQ0RuOV9BVWl0ZFNTVTZ6RUNCNy1JSXZ5U3pyTDRzbmZic1g0RWRsY2tB0gGjAkFVX3lxTFBYSlpDRG1zZ3dJbUFRWWVzQnkzdlFqWGRNbmNsWEFCbW9XTmxxZUtjZjJYcTMwb1FCVDBtNElQVEdUM2x2Y2lpcm9mUjNSdHNJT2xTdXhVeU1lUTlPMzBHT1lFQndHel9VVlZUOE9lRl9hOXV5UFhhUTdlWDlIaGhLZUc0aXZqT0NwbHY2UFQ3ZGlyZVk5LUM5dTJNa1JDR0VuN1JacXQxdnBuenFlbDlEek4tTGlfaUNnTUFiQnZja2M4QjNycXBrQnIyYTRQWDFlRzVZbW54VVF2T0xZTUpXZk5MQnViUmdJaC1xd0xFOXBrbzFnM0Y5OWlkeW5lSllSRC1LRjRHUEQ2bnRjdmV3N1BXNUhhbHJmU2hrbmRwb0kwbw?oc=5",
+    "source": "The Sunday Guardian",
+    "impact": 4.6,
+    "sentiment_label": "neutral"
+   }
+  },
+  {
+   "ticker": "DIA",
+   "pct": 0.89,
+   "mentions": 5,
+   "sentiment": -0.0,
+   "why": {
+    "title": "Fed’s preferred gauge showed core inflation at 3.0% in August, much lighter than expected",
+    "link": "https://www.cnbc.com/2026/09/30/feds-preferred-gauge-showed-core-inflation-at-3point0percent-in-august-much-lighter-than-expected.html",
+    "source": "CNBC Markets",
+    "impact": 5.5,
+    "sentiment_label": "bullish"
+   }
+  },
+  {
+   "ticker": "GS",
+   "pct": null,
+   "mentions": 3,
+   "sentiment": -0.12,
+   "why": {
+    "title": "India’s central bank hikes rates for the first time since 2023 as inflation risks build",
+    "link": "https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html",
+    "source": "CNBC Markets",
+    "impact": 4.5,
+    "sentiment_label": "bullish"
+   }
+  },
+  {
+   "ticker": "MSFT",
+   "pct": null,
+   "mentions": 6,
+   "sentiment": 0.02,
+   "why": {
+    "title": "Mapping the Market: Microsoft set to extend rally",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObzEzVU5JUzJKLWVQZGpiUUxPY0dpOTNTUjU1NnU0dkZjQ0JUb0ctU0V2NUZDbk90OWFnb2E1emU4ZHRWakZQb0Y0MFBCS0RwSkg1WEpMcHV3ODBBdFZfTWtUdmYtRmNWZWpfRnN1YlEyems1ZHJBMjJJamdZci1PcnhXM2w?oc=5",
+    "source": "Reuters",
+    "impact": 3.7,
+    "sentiment_label": "bullish"
+   }
+  },
+  {
+   "ticker": "TSM",
+   "pct": null,
+   "mentions": 2,
+   "sentiment": 0.26,
+   "why": {
+    "title": "The Week Ahead: US September CPI and PPI Set for Release, Wall Street Major Bank Earnings Season Officially Kicks Off, TSMC Earnings in Focus",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPazJkVS11d1V6YUZxWHJLaU4xdUQ2dkxrRldHZFFuUmo4eTJkenpTUmUzd3g2MHRCNkRWaTg0dFZ0Szk4MXpJRzR4MUlvY0Z3LVRLRVQ0YUdhTGhXMmNCWmw3Y3hJRnJsVE9jMmM1cTZtblVZc1ZxbnJkdXpPd1NocHpibml2dFkwMTRYbHUwY3RkX09VMkZvaWhISXNYWlZXNkpuR3NMbDJ1U1hPNEJOek5OdHEzYVBPUlpvNlhIU2hoR3dVUjhTRHBzZkFQQmF1RVdMN0Q4Q28?oc=5",
+    "source": "TradingKey",
+    "impact": 6.1,
+    "sentiment_label": "neutral"
+   }
+  },
+  {
+   "ticker": "GC=F",
+   "pct": 1.43,
+   "mentions": 3,
+   "sentiment": -0.23,
+   "why": {
+    "title": "Gold ticks up as investors weigh Fed path, mounting debt concerns",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaTl2VDRiV2EtanRNTGxRVGc4OEhQUUhZOEV1MXduVGNBOW1wa2V6N2lqaXJaX2hiVnpPdU5kSC05VGNVUV9ydExDbnVral9vVW1qTFlvYTZSMGY2cTFraXRJeEthaEZmMFRuVmtVYzc2azRkYlM5MVBvWG9nUGY0LUFBX2VmZHNWTkxHTVZGdUtvTWd2NGlJbg?oc=5",
+    "source": "Reuters",
+    "impact": 3.8,
+    "sentiment_label": "bearish"
+   }
+  },
+  {
+   "ticker": "NVDA",
+   "pct": null,
+   "mentions": 6,
+   "sentiment": -0.03,
+   "why": {
+    "title": "If I Had a Choice to Invest $10,000 in SpaceX or Nvidia, Here's What I Would Do",
+    "link": "https://www.nasdaq.com/articles/if-i-had-choice-invest-10000-spacex-or-nvidia-heres-what-i-would-do",
+    "source": "Nasdaq Markets",
+    "impact": 2.5,
+    "sentiment_label": "bullish"
+   }
+  },
+  {
+   "ticker": "BRK-B",
+   "pct": null,
+   "mentions": 2,
+   "sentiment": 0.68,
+   "why": {
+    "title": "Warren Buffett Bought These 4 Dividend Stocks Years Ago. Here's What $1,000 in Each Would Be Worth Today.",
+    "link": "https://www.nasdaq.com/articles/warren-buffett-bought-these-4-dividend-stocks-years-ago-heres-what-1000-each-would-be",
+    "source": "Nasdaq Markets",
+    "impact": 4.0,
+    "sentiment_label": "bullish"
+   }
+  },
+  {
+   "ticker": "QQQ",
+   "pct": 0.51,
+   "mentions": 3,
+   "sentiment": 0.05,
+   "why": {
+    "title": "S&P 500, Nasdaq, Dow Futures Mixed As Hormuz Uncertainty Weighs: Why AAPL, TSM, MU, SPCX, ASTS, SLS Stocks Are In Focus",
+    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNUW91N0lYVC1uZE1NRkF1RWdhUFRyX2l0VDM0bkZXTWozbmdPV3JxLTgtd3huZkRlVUtpLXlLQVhzMjBZeDhwaHgtTEh4VUlKWGFURnFKOGZpMkpoOUlCU1VHLWRuYWd0T0tQd3hxMTk3NTYwWVJKY25OQ3pSem5SdHZLaWdEVnVPV2J4SmpLX2VsY0dNYkVuSmpTVm5FN3JDWUJwUmNZdFhlMnRnRVdLR1Z0TTJxVmd2YXZPVEZZUjRIT3I0Qzl3MTN4WndKLTFTZTRzMS13UGxMcFRNcm5kaThkUkM1czBmc1plbWJWZFZyYkRNV0RoUmNQRXBvR3c?oc=5",
+    "source": "Stocktwits",
+    "impact": 2.8,
+    "sentiment_label": "bearish"
+   }
+  }
+ ],
+ "movers": {
+  "mode": "last session (market not in pre-market)",
+  "basis": "opening gap (open vs prior close) of the last session; RVOL = session volume / 20-day avg",
+  "fetched_et": "Oct 11 03:04 PM ET",
+  "gappers": [
+   {
+    "symbol": "HUM",
+    "name": "Humana",
+    "sector": "Health Care",
+    "price": 431.87,
+    "gap_pct": 16.37,
+    "day_pct": 11.56,
+    "volume": 4989900,
+    "rvol": 3.9,
+    "asof_et": "2026-10-09 close"
+   },
+   {
+    "symbol": "T",
+    "name": "AT&T",
+    "sector": "Communication Services",
+    "price": 22.18,
+    "gap_pct": -10.01,
+    "day_pct": -10.82,
+    "volume": 150406100,
+    "rvol": 3.94,
+    "asof_et": "2026-10-09 close"
+   },
+   {
+    "symbol": "TMUS",
+    "name": "T-Mobile US",
+    "sector": "Communication Services",
+    "price": 148.58,
+    "gap_pct": -9.22,
+    "day_pct": -13.27,
+    "volume": 18978100,
+    "rvol": 3.67,
+    "asof_et": "2026-10-09 close"
+   },
+   {
+    "symbol": "CCI",
+    "name": "Crown Castle",
+    "sector": "Real Estate",
+    "price": 79.64,
+    "gap_pct": 7.88,
+    "day_pct": 15.6,
+    "volume": 14389600,
+    "rvol": 3.8,
+    "asof_et": "2026-10-09 close"
+   },
+   {
+    "symbol": "VZ",
+    "name": "Verizon",
+    "sector": "Communication Services",
+    "price": 41.65,
+    "gap_pct": -7.59,
+    "day_pct": -10.14,
+    "volume": 95070900,
+    "rvol": 4.31,
+    "asof_et": "2026-10-09 close"
+   },
+   {
+    "symbol": "LITE",
+    "name": "Lumentum",
+    "sector": "Information Technology",
+    "price": 1103.35,
+    "gap_pct": 6.29,
+    "day_pct": 5.22,
+    "volume": 5239900,
+    "rvol": 1.11,
+    "asof_et": "2026-10-09 close"
+   },
+   {
+    "symbol": "AMT",
+    "name": "American Tower",
+    "sector": "Real Estate",
+    "price": 182.24,
+    "gap_pct": 6.11,
+    "day_pct": 9.3,
+    "volume": 8512000,
+    "rvol": 2.99,
+    "asof_et": "2026-10-09 close"
+   },
+   {
+    "symbol": "COHR",
+    "name": "Coherent Corp.",
+    "sector": "Information Technology",
+    "price": 312.62,
+    "gap_pct": 5.34,
+    "day_pct": 3.4,
+    "volume": 8101800,
+    "rvol": 1.15,
+    "asof_et": "2026-10-09 close"
+   },
+   {
+    "symbol": "SBAC",
+    "name": "SBA Communications",
+    "sector": "Real Estate",
+    "price": 182.49,
+    "gap_pct": 4.78,
+    "day_pct": 7.34,
+    "volume": 2355500,
+    "rvol": 2.45,
+    "asof_et": "2026-10-09 close"
+   },
+   {
+    "symbol": "DAL",
+    "name": "Delta Air Lines",
+    "sector": "Industrials",
+    "price": 82.17,
+    "gap_pct": -2.99,
+    "day_pct": 0.04,
+    "volume": 11921100,
+    "rvol": 1.49,
+    "asof_et": "2026-10-09 close"
+   },
+   {
+    "symbol": "RDDT",
+    "name": "Reddit",
+    "sector": "Communication Services",
+    "price": 159.91,
+    "gap_pct": 2.93,
+    "day_pct": 2.2,
+    "volume": 5059700,
+    "rvol": 1.08,
+    "asof_et": "2026-10-09 close"
+   },
+   {
+    "symbol": "ECHO",
+    "name": "EchoStar",
+    "sector": "Communication Services",
+    "price": 94.84,
+    "gap_pct": 2.73,
+    "day_pct": 1.59,
+    "volume": 5896800,
+    "rvol": 1.57,
+    "asof_et": "2026-10-09 close"
+   },
+   {
+    "symbol": "FCX",
+    "name": "Freeport-McMoRan",
+    "sector": "Materials",
+    "price": 73.69,
+    "gap_pct": 2.64,
+    "day_pct": 3.58,
+    "volume": 6979900,
+    "rvol": 0.64,
+    "asof_et": "2026-10-09 close"
+   },
+   {
+    "symbol": "AAPL",
+    "name": "Apple Inc.",
+    "sector": "Information Technology",
+    "price": 336.64,
+    "gap_pct": -2.56,
+    "day_pct": -1.11,
+    "volume": 37855000,
+    "rvol": 0.99,
+    "asof_et": "2026-10-09 close"
+   },
+   {
+    "symbol": "SNPS",
+    "name": "Synopsys",
+    "sector": "Information Technology",
+    "price": 509.99,
+    "gap_pct": 2.56,
+    "day_pct": 2.46,
+    "volume": 2094800,
+    "rvol": 0.84,
+    "asof_et": "2026-10-09 close"
+   }
+  ],
+  "volume_leaders": [
+   {
+    "symbol": "VZ",
+    "name": "Verizon",
+    "sector": "Communication Services",
+    "price": 41.65,
+    "gap_pct": -7.59,
+    "day_pct": -10.14,
+    "volume": 95070900,
+    "rvol": 4.31,
+    "asof_et": "2026-10-09 close"
+   },
+   {
+    "symbol": "T",
+    "name": "AT&T",
+    "sector": "Communication Services",
+    "price": 22.18,
+    "gap_pct": -10.01,
+    "day_pct": -10.82,
+    "volume": 150406100,
+    "rvol": 3.94,
+    "asof_et": "2026-10-09 close"
+   },
+   {
+    "symbol": "HUM",
+    "name": "Humana",
+    "sector": "Health Care",
+    "price": 431.87,
+    "gap_pct": 16.37,
+    "day_pct": 11.56,
+    "volume": 4989900,
+    "rvol": 3.9,
+    "asof_et": "2026-10-09 close"
+   },
+   {
+    "symbol": "CCI",
+    "name": "Crown Castle",
+    "sector": "Real Estate",
+    "price": 79.64,
+    "gap_pct": 7.88,
+    "day_pct": 15.6,
+    "volume": 14389600,
+    "rvol": 3.8,
+    "asof_et": "2026-10-09 close"
+   },
+   {
+    "symbol": "TMUS",
+    "name": "T-Mobile US",
+    "sector": "Communication Services",
+    "price": 148.58,
+    "gap_pct": -9.22,
+    "day_pct": -13.27,
+    "volume": 18978100,
+    "rvol": 3.67,
+    "asof_et": "2026-10-09 close"
+   },
+   {
+    "symbol": "AMT",
+    "name": "American Tower",
+    "sector": "Real Estate",
+    "price": 182.24,
+    "gap_pct": 6.11,
+    "day_pct": 9.3,
+    "volume": 8512000,
+    "rvol": 2.99,
+    "asof_et": "2026-10-09 close"
+   },
+   {
+    "symbol": "SBAC",
+    "name": "SBA Communications",
+    "sector": "Real Estate",
+    "price": 182.49,
+    "gap_pct": 4.78,
+    "day_pct": 7.34,
+    "volume": 2355500,
+    "rvol": 2.45,
+    "asof_et": "2026-10-09 close"
+   },
+   {
+    "symbol": "CF",
+    "name": "CF Industries",
+    "sector": "Materials",
+    "price": 111.54,
+    "gap_pct": 0.48,
+    "day_pct": -1.8,
+    "volume": 4809800,
+    "rvol": 1.89,
+    "asof_et": "2026-10-09 close"
+   },
+   {
+    "symbol": "ELV",
+    "name": "Elevance Health",
+    "sector": "Health Care",
+    "price": 412.7,
+    "gap_pct": 0.24,
+    "day_pct": 2.93,
+    "volume": 2077000,
+    "rvol": 1.79,
+    "asof_et": "2026-10-09 close"
+   },
+   {
+    "symbol": "MRNA",
+    "name": "Moderna",
+    "sector": "Health Care",
+    "price": 225.0,
+    "gap_pct": 1.02,
+    "day_pct": 14.21,
+    "volume": 28867100,
+    "rvol": 1.7,
+    "asof_et": "2026-10-09 close"
+   },
+   {
+    "symbol": "CHTR",
+    "name": "Charter Communications",
+    "sector": "Communication Services",
+    "price": 103.38,
+    "gap_pct": -1.19,
+    "day_pct": -5.74,
+    "volume": 5114100,
+    "rvol": 1.64,
+    "asof_et": "2026-10-09 close"
+   },
+   {
+    "symbol": "PLTR",
+    "name": "Palantir Technologies",
+    "sector": "Information Technology",
+    "price": 209.05,
+    "gap_pct": 1.36,
+    "day_pct": 5.17,
+    "volume": 37479600,
+    "rvol": 1.63,
+    "asof_et": "2026-10-09 close"
+   },
+   {
+    "symbol": "FITB",
+    "name": "Fifth Third Bancorp",
+    "sector": "Financials",
+    "price": 50.64,
+    "gap_pct": -0.57,
+    "day_pct": -0.12,
+    "volume": 11289500,
+    "rvol": 1.59,
+    "asof_et": "2026-10-09 close"
+   },
+   {
+    "symbol": "MOS",
+    "name": "Mosaic Company (The)",
+    "sector": "Materials",
+    "price": 18.74,
+    "gap_pct": 0.41,
+    "day_pct": -5.02,
+    "volume": 13910100,
+    "rvol": 1.59,
+    "asof_et": "2026-10-09 close"
+   },
+   {
+    "symbol": "ECHO",
+    "name": "EchoStar",
+    "sector": "Communication Services",
+    "price": 94.84,
+    "gap_pct": 2.73,
+    "day_pct": 1.59,
+    "volume": 5896800,
+    "rvol": 1.57,
+    "asof_et": "2026-10-09 close"
+   }
+  ]
+ },
+ "economic_calendar": {
+  "source": "FairEconomy / ForexFactory weekly calendar (nfs.faireconomy.media)",
+  "fallback": false,
+  "fetched_et": "Oct 11 03:04 PM ET",
+  "events": [
+   {
+    "when_et": "Oct 12 07:00 AM ET",
+    "date": "2026-10-12",
+    "event": "Bank Holiday",
+    "importance": "medium",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "when_et": "Oct 12 12:10 PM ET",
+    "date": "2026-10-12",
+    "event": "FOMC Member Hammack Speaks",
+    "importance": "low",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "when_et": "Oct 13 03:45 AM ET",
+    "date": "2026-10-13",
+    "event": "FOMC Member Waller Speaks",
+    "importance": "low",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "when_et": "Oct 13 06:00 AM ET",
+    "date": "2026-10-13",
+    "event": "NFIB Small Business Index",
+    "importance": "low",
+    "forecast": "98.0",
+    "previous": "98.7"
+   },
+   {
+    "when_et": "Oct 13 08:15 AM ET",
+    "date": "2026-10-13",
+    "event": "ADP Weekly Employment Change",
+    "importance": "low",
+    "forecast": "",
+    "previous": "23.8K"
+   },
+   {
+    "when_et": "Oct 13 10:00 AM ET",
+    "date": "2026-10-13",
+    "event": "Existing Home Sales",
+    "importance": "low",
+    "forecast": "3.96M",
+    "previous": "3.98M"
+   },
+   {
+    "when_et": "Oct 13 01:00 PM ET",
+    "date": "2026-10-13",
+    "event": "FOMC Member Barkin Speaks",
+    "importance": "low",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "when_et": "Oct 13 04:00 PM ET",
+    "date": "2026-10-13",
+    "event": "FOMC Member Collins Speaks",
+    "importance": "low",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "when_et": "Oct 14 05:40 AM ET",
+    "date": "2026-10-14",
+    "event": "FOMC Member Bowman Speaks",
+    "importance": "low",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "when_et": "Oct 14 08:30 AM ET",
+    "date": "2026-10-14",
+    "event": "Core CPI m/m",
+    "importance": "high",
+    "forecast": "0.2%",
+    "previous": "0.3%"
+   },
+   {
+    "when_et": "Oct 14 08:30 AM ET",
+    "date": "2026-10-14",
+    "event": "Core CPI y/y",
+    "importance": "high",
+    "forecast": "2.5%",
+    "previous": "2.4%"
+   },
+   {
+    "when_et": "Oct 14 08:30 AM ET",
+    "date": "2026-10-14",
+    "event": "CPI m/m",
+    "importance": "high",
+    "forecast": "0.6%",
+    "previous": "0.4%"
+   },
+   {
+    "when_et": "Oct 14 08:30 AM ET",
+    "date": "2026-10-14",
+    "event": "CPI y/y",
+    "importance": "high",
+    "forecast": "3.6%",
+    "previous": "3.4%"
+   },
+   {
+    "when_et": "Oct 14 01:30 PM ET",
+    "date": "2026-10-14",
+    "event": "FOMC Member Barkin Speaks",
+    "importance": "low",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "when_et": "Oct 14 02:00 PM ET",
+    "date": "2026-10-14",
+    "event": "Beige Book",
+    "importance": "low",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "when_et": "Oct 14 04:30 PM ET",
+    "date": "2026-10-14",
+    "event": "API Weekly Statistical Bulletin",
+    "importance": "low",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "when_et": "Oct 14 10:55 PM ET",
+    "date": "2026-10-14",
+    "event": "FOMC Member Bowman Speaks",
+    "importance": "low",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "when_et": "Oct 15 08:30 AM ET",
+    "date": "2026-10-15",
+    "event": "Core PPI m/m",
+    "importance": "high",
+    "forecast": "0.3%",
+    "previous": "0.2%"
+   },
+   {
+    "when_et": "Oct 15 08:30 AM ET",
+    "date": "2026-10-15",
+    "event": "Core Retail Sales m/m",
+    "importance": "high",
+    "forecast": "0.5%",
+    "previous": "1.4%"
+   },
+   {
+    "when_et": "Oct 15 08:30 AM ET",
+    "date": "2026-10-15",
+    "event": "PPI m/m",
+    "importance": "high",
+    "forecast": "0.5%",
+    "previous": "0.4%"
+   },
+   {
+    "when_et": "Oct 15 08:30 AM ET",
+    "date": "2026-10-15",
+    "event": "Retail Sales m/m",
+    "importance": "high",
+    "forecast": "0.3%",
+    "previous": "1.2%"
+   },
+   {
+    "when_et": "Oct 15 08:30 AM ET",
+    "date": "2026-10-15",
+    "event": "Philly Fed Manufacturing Index",
+    "importance": "medium",
+    "forecast": "26.5",
+    "previous": "37.8"
+   },
+   {
+    "when_et": "Oct 15 08:30 AM ET",
+    "date": "2026-10-15",
+    "event": "Unemployment Claims",
+    "importance": "medium",
+    "forecast": "195K",
+    "previous": "197K"
+   },
+   {
+    "when_et": "Oct 15 08:30 AM ET",
+    "date": "2026-10-15",
+    "event": "Empire State Manufacturing Index",
+    "importance": "low",
+    "forecast": "3.2",
+    "previous": "7.6"
+   },
+   {
+    "when_et": "Oct 15 10:00 AM ET",
+    "date": "2026-10-15",
+    "event": "Business Inventories m/m",
+    "importance": "low",
+    "forecast": "0.4%",
+    "previous": "0.8%"
+   },
+   {
+    "when_et": "Oct 15 10:30 AM ET",
+    "date": "2026-10-15",
+    "event": "Natural Gas Storage",
+    "importance": "low",
+    "forecast": "",
+    "previous": "85B"
+   },
+   {
+    "when_et": "Oct 15 12:00 PM ET",
+    "date": "2026-10-15",
+    "event": "Crude Oil Inventories",
+    "importance": "low",
+    "forecast": "",
+    "previous": "-3.2M"
+   },
+   {
+    "when_et": "Oct 15 04:30 PM ET",
+    "date": "2026-10-15",
+    "event": "FOMC Member Hammack Speaks",
+    "importance": "low",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "when_et": "Oct 15 11:30 PM ET",
+    "date": "2026-10-15",
+    "event": "Fed Chairman Warsh Speaks",
+    "importance": "high",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "when_et": "Oct 16 08:30 AM ET",
+    "date": "2026-10-16",
+    "event": "Import Prices m/m",
+    "importance": "low",
+    "forecast": "0.6%",
+    "previous": "0.7%"
+   },
+   {
+    "when_et": "Oct 16 09:15 AM ET",
+    "date": "2026-10-16",
+    "event": "Capacity Utilization Rate",
+    "importance": "low",
+    "forecast": "76.5%",
+    "previous": "76.3%"
+   },
+   {
+    "when_et": "Oct 16 09:15 AM ET",
+    "date": "2026-10-16",
+    "event": "Industrial Production m/m",
+    "importance": "low",
+    "forecast": "0.4%",
+    "previous": "0.0%"
+   },
+   {
+    "when_et": "Oct 16 02:00 PM ET",
+    "date": "2026-10-16",
+    "event": "Federal Budget Balance",
+    "importance": "low",
+    "forecast": "75.3B",
+    "previous": "-166.8B"
+   },
+   {
+    "when_et": "Oct 16 04:00 PM ET",
+    "date": "2026-10-16",
+    "event": "TIC Long-Term Purchases",
+    "importance": "low",
+    "forecast": "125.7B",
+    "previous": "-27.9B"
+   }
+  ]
+ },
+ "earnings": {
+  "source": "Nasdaq earnings calendar API (api.nasdaq.com), filtered to S&P 500 + watchlist",
+  "fetched_et": "Oct 11 03:04 PM ET",
+  "events": [
+   {
+    "date": "2026-10-13",
+    "symbol": "JPM",
+    "name": "J P Morgan Chase & Co",
+    "time": "BMO (pre-market)",
+    "eps_forecast": "$5.94",
+    "last_year_eps": "$5.07",
+    "mcap": 880976070000
+   },
+   {
+    "date": "2026-10-13",
+    "symbol": "JNJ",
+    "name": "Johnson & Johnson",
+    "time": "BMO (pre-market)",
+    "eps_forecast": "$2.53",
+    "last_year_eps": "$2.80",
+    "mcap": 618090790000
+   },
+   {
+    "date": "2026-10-13",
+    "symbol": "UNH",
+    "name": "UnitedHealth Group Incorporated",
+    "time": "BMO (pre-market)",
+    "eps_forecast": "$4.12",
+    "last_year_eps": "$2.92",
+    "mcap": 332962824000
+   },
+   {
+    "date": "2026-10-13",
+    "symbol": "GS",
+    "name": "The Goldman Sachs Group, Inc.",
+    "time": "BMO (pre-market)",
+    "eps_forecast": "$12.90",
+    "last_year_eps": "$12.25",
+    "mcap": 256984973000
+   },
+   {
+    "date": "2026-10-13",
+    "symbol": "WFC",
+    "name": "Wells Fargo & Company",
+    "time": "BMO (pre-market)",
+    "eps_forecast": "$1.85",
+    "last_year_eps": "$1.73",
+    "mcap": 248058659000
+   },
+   {
+    "date": "2026-10-13",
+    "symbol": "C",
+    "name": "Citigroup Inc.",
+    "time": "BMO (pre-market)",
+    "eps_forecast": "$2.66",
+    "last_year_eps": "$2.24",
+    "mcap": 214846095000
+   },
+   {
+    "date": "2026-10-13",
+    "symbol": "DPZ",
+    "name": "Domino's Pizza Inc",
+    "time": "BMO (pre-market)",
+    "eps_forecast": "$4.33",
+    "last_year_eps": "$4.08",
+    "mcap": 10210677800
+   },
+   {
+    "date": "2026-10-14",
+    "symbol": "BAC",
+    "name": "Bank of America Corporation",
+    "time": "BMO (pre-market)",
+    "eps_forecast": "$1.11",
+    "last_year_eps": "$1.06",
+    "mcap": 374881255000
+   },
+   {
+    "date": "2026-10-14",
+    "symbol": "MS",
+    "name": "Morgan Stanley",
+    "time": "BMO (pre-market)",
+    "eps_forecast": "$2.83",
+    "last_year_eps": "$2.80",
+    "mcap": 294386958000
+   },
+   {
+    "date": "2026-10-14",
+    "symbol": "BLK",
+    "name": "BlackRock, Inc.",
+    "time": "BMO (pre-market)",
+    "eps_forecast": "$14.01",
+    "last_year_eps": "$11.55",
+    "mcap": 164989960000
+   },
+   {
+    "date": "2026-10-14",
+    "symbol": "PGR",
+    "name": "Progressive Corporation (The)",
+    "time": "BMO (pre-market)",
+    "eps_forecast": "$4.37",
+    "last_year_eps": "$4.05",
+    "mcap": 127163449000
+   },
+   {
+    "date": "2026-10-14",
+    "symbol": "FAST",
+    "name": "Fastenal Company",
+    "time": "BMO (pre-market)",
+    "eps_forecast": "$0.34",
+    "last_year_eps": "$0.29",
+    "mcap": 57937154000
+   },
+   {
+    "date": "2026-10-14",
+    "symbol": "STT",
+    "name": "State Street Corporation",
+    "time": "BMO (pre-market)",
+    "eps_forecast": "$3.63",
+    "last_year_eps": "$2.78",
+    "mcap": 48097534000
+   },
+   {
+    "date": "2026-10-15",
+    "symbol": "SCHW",
+    "name": "The Charles Schwab Corporation",
+    "time": "BMO (pre-market)",
+    "eps_forecast": "$1.66",
+    "last_year_eps": "$1.31",
+    "mcap": 167520748000
+   },
+   {
+    "date": "2026-10-15",
+    "symbol": "PLD",
+    "name": "Prologis, Inc.",
+    "time": "BMO (pre-market)",
+    "eps_forecast": "$1.58",
+    "last_year_eps": "$1.49",
+    "mcap": 122576749000
+   },
+   {
+    "date": "2026-10-15",
+    "symbol": "BNY",
+    "name": "The Bank Of New York Mellon Corporation ",
+    "time": "BMO (pre-market)",
+    "eps_forecast": "$2.26",
+    "last_year_eps": "$1.91",
+    "mcap": 97439982000
+   },
+   {
+    "date": "2026-10-15",
+    "symbol": "USB",
+    "name": "U.S. Bancorp",
+    "time": "BMO (pre-market)",
+    "eps_forecast": "$1.32",
+    "last_year_eps": "$1.22",
+    "mcap": 88855675000
+   },
+   {
+    "date": "2026-10-15",
+    "symbol": "PNC",
+    "name": "PNC Financial Services Group, Inc. (The)",
+    "time": "BMO (pre-market)",
+    "eps_forecast": "$4.97",
+    "last_year_eps": "$4.35",
+    "mcap": 87639941000
+   },
+   {
+    "date": "2026-10-15",
+    "symbol": "MRSH",
+    "name": "Marsh",
+    "time": "BMO (pre-market)",
+    "eps_forecast": "$1.96",
+    "last_year_eps": "$1.85",
+    "mcap": 84308918000
+   },
+   {
+    "date": "2026-10-15",
+    "symbol": "IBKR",
+    "name": "Interactive Brokers Group, Inc.",
+    "time": "AMC (after close)",
+    "eps_forecast": "$0.66",
+    "last_year_eps": "$0.57",
+    "mcap": 39177671000
+   },
+   {
+    "date": "2026-10-15",
+    "symbol": "JBHT",
+    "name": "J.B. Hunt Transport Services, Inc.",
+    "time": "AMC (after close)",
+    "eps_forecast": "$1.95",
+    "last_year_eps": "$1.76",
+    "mcap": 21452050400
+   },
+   {
+    "date": "2026-10-16",
+    "symbol": "TRV",
+    "name": "The Travelers Companies, Inc.",
+    "time": "BMO (pre-market)",
+    "eps_forecast": "$6.86",
+    "last_year_eps": "$8.14",
+    "mcap": 77229072000
+   },
+   {
+    "date": "2026-10-16",
+    "symbol": "TFC",
+    "name": "Truist Financial Corporation",
+    "time": "BMO (pre-market)",
+    "eps_forecast": "$1.17",
+    "last_year_eps": "$1.04",
+    "mcap": 56414695000
+   },
+   {
+    "date": "2026-10-16",
+    "symbol": "MTB",
+    "name": "M&T Bank Corporation",
+    "time": "BMO (pre-market)",
+    "eps_forecast": "$4.98",
+    "last_year_eps": "$4.87",
+    "mcap": 31419201500
+   },
+   {
+    "date": "2026-10-16",
+    "symbol": "CFG",
+    "name": "Citizens Financial Group, Inc.",
+    "time": "BMO (pre-market)",
+    "eps_forecast": "$1.38",
+    "last_year_eps": "$1.05",
+    "mcap": 26993219600
+   },
+   {
+    "date": "2026-10-16",
+    "symbol": "RF",
+    "name": "Regions Financial Corporation",
+    "time": "BMO (pre-market)",
+    "eps_forecast": "$0.67",
+    "last_year_eps": "$0.63",
+    "mcap": 23061731300
+   }
+  ]
+ },
+ "sentiment_validation": {
+  "logged": 25,
+  "min_sample": 100,
+  "generated_et": "Oct 11 03:05 PM ET",
+  "horizons": {
+   "r1h": {
+    "name": "+1 hour",
+    "n_scored": 0,
+    "n_directional": 0,
+    "hit_rate": null,
+    "ci95": null,
+    "corr": null,
+    "status": "UNPROVEN"
+   },
+   "r1d": {
+    "name": "+1 day",
+    "n_scored": 0,
+    "n_directional": 0,
+    "hit_rate": null,
+    "ci95": null,
+    "corr": null,
+    "status": "UNPROVEN"
+   }
+  },
+  "status": "UNPROVEN",
+  "recent": []
+ },
+ "sources": {
+  "CNBC Top News": {
+   "ok": true,
+   "count": 30,
+   "fetched_et": "Oct 11 03:05 PM ET",
+   "newest_et": "Oct 11 01:08 PM ET",
+   "newest": "2026-10-11T17:08:30+00:00"
+  },
+  "CNBC Markets": {
+   "ok": true,
+   "count": 30,
+   "fetched_et": "Oct 11 03:05 PM ET",
+   "newest_et": "Oct 09 03:18 PM ET",
+   "newest": "2026-10-09T19:18:24+00:00"
+  },
+  "CNBC Economy": {
+   "ok": true,
+   "count": 30,
+   "fetched_et": "Oct 11 03:05 PM ET",
+   "newest_et": "Oct 11 01:08 PM ET",
+   "newest": "2026-10-11T17:08:30+00:00"
+  },
+  "MarketWatch Top": {
+   "ok": true,
+   "count": 10,
+   "fetched_et": "Oct 11 03:05 PM ET",
+   "newest_et": "Oct 11 12:35 PM ET",
+   "newest": "2026-10-11T16:35:00+00:00"
+  },
+  "MarketWatch Pulse": {
+   "ok": true,
+   "count": 30,
+   "fetched_et": "Oct 11 03:05 PM ET",
+   "newest_et": "Jul 03 08:36 AM ET",
+   "newest": "2025-07-03T12:36:00+00:00"
+  },
+  "Yahoo Finance": {
+   "ok": true,
+   "count": 19,
+   "fetched_et": "Oct 11 03:05 PM ET",
+   "newest_et": "Oct 11 02:37 PM ET",
+   "newest": "2026-10-11T18:37:00+00:00"
+  },
+  "BBC Business": {
+   "ok": true,
+   "count": 52,
+   "fetched_et": "Oct 11 03:05 PM ET",
+   "newest_et": "Oct 11 01:00 PM ET",
+   "newest": "2026-10-11T17:00:05+00:00"
+  },
+  "Reuters (via Google News)": {
+   "ok": true,
+   "count": 60,
+   "fetched_et": "Oct 11 03:05 PM ET",
+   "newest_et": "Oct 11 09:19 AM ET",
+   "newest": "2026-10-11T13:19:13+00:00"
+  },
+  "AP Business (via Google News)": {
+   "ok": true,
+   "count": 60,
+   "fetched_et": "Oct 11 03:05 PM ET",
+   "newest_et": "Oct 11 01:41 PM ET",
+   "newest": "2026-10-11T17:41:00+00:00"
+  },
+  "Shipping & Postage (via Google News)": {
+   "ok": true,
+   "count": 36,
+   "fetched_et": "Oct 11 03:05 PM ET",
+   "newest_et": "Oct 11 02:05 PM ET",
+   "newest": "2026-10-11T18:05:23+00:00"
+  },
+  "Retail & E-commerce (via Google News)": {
+   "ok": true,
+   "count": 51,
+   "fetched_et": "Oct 11 03:05 PM ET",
+   "newest_et": "Oct 11 02:12 PM ET",
+   "newest": "2026-10-11T18:12:29+00:00"
+  },
+  "Fed Press Releases": {
+   "ok": true,
+   "count": 20,
+   "fetched_et": "Oct 11 03:05 PM ET",
+   "newest_et": "Oct 09 10:00 AM ET",
+   "newest": "2026-10-09T14:00:00+00:00"
+  },
+  "Nasdaq Markets": {
+   "ok": true,
+   "count": 15,
+   "fetched_et": "Oct 11 03:05 PM ET",
+   "newest_et": "Oct 11 02:35 PM ET",
+   "newest": "2026-10-11T18:35:00+00:00"
+  },
+  "Yahoo Finance quotes": {
+   "ok": true,
+   "count": 26,
+   "fetched_et": "Oct 11 03:05 PM ET"
+  },
+  "Nasdaq earnings API": {
+   "ok": true,
+   "count": 26,
+   "fetched_et": "Oct 11 03:04 PM ET"
+  },
+  "Economic calendar": {
+   "ok": true,
+   "count": 34,
+   "fetched_et": "Oct 11 03:04 PM ET",
+   "note": "FairEconomy / ForexFactory weekly calendar (nfs.faireconomy.media)"
+  }
+ }
+}

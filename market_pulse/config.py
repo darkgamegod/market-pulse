@@ -10,8 +10,10 @@ FEEDS = {
     "BBC Business": "https://feeds.bbci.co.uk/news/business/rss.xml",
     "Reuters (via Google News)": "https://news.google.com/rss/search?q=site:reuters.com+markets&hl=en-US&gl=US&ceid=US:en",
     "AP Business (via Google News)": "https://news.google.com/rss/search?q=site:apnews.com+business&hl=en-US&gl=US&ceid=US:en",
+    "Shipping & Postage (via Google News)": "https://news.google.com/rss/search?q=(USPS+OR+UPS+OR+FedEx)+(rates+OR+surcharge+OR+postage+OR+shipping)+when:2d&hl=en-US&gl=US&ceid=US:en",
+    "Retail & E-commerce (via Google News)": "https://news.google.com/rss/search?q=(retail+sales+OR+e-commerce+OR+retailers)+stocks+when:2d&hl=en-US&gl=US&ceid=US:en",
     "Fed Press Releases": "https://www.federalreserve.gov/feeds/press_all.xml",
-    "Nasdaq Markets (slow, optional)": "https://www.nasdaq.com/feed/rssoutbound?category=Markets",
+    "Nasdaq Markets": "https://www.nasdaq.com/feed/rssoutbound?category=Markets",
 }
 
 # symbol -> (label, group)
@@ -55,6 +57,11 @@ TICKER_KEYWORDS = {
     "gold": ["GC=F"], "treasury": ["^TNX"], "yields": ["^TNX"], "bond": ["^TNX"],
     "dollar index": ["DX-Y.NYB"], "u.s. dollar": ["DX-Y.NYB"], "greenback": ["DX-Y.NYB"], "fed": ["^TNX", "SPY"], "powell": ["^TNX", "SPY"],
     "volatility": ["^VIX"],
+    "ups": ["UPS"], "united parcel": ["UPS"], "fedex": ["FDX"], "shopify": ["SHOP"], "etsy": ["ETSY"],
+    "ebay": ["EBAY"], "wayfair": ["W"], "chewy": ["CHWY"], "temu": ["PDD"], "pdd holdings": ["PDD"],
+    "alibaba": ["BABA"], "mercadolibre": ["MELI"], "home depot": ["HD"], "lowe's": ["LOW"], "best buy": ["BBY"],
+    "macy's": ["M"], "gap inc": ["GAP"], "lululemon": ["LULU"], "dollar general": ["DG"], "dollar tree": ["DLTR"],
+    "kroger": ["KR"], "booking holdings": ["BKNG"], "airbnb": ["ABNB"], "doordash": ["DASH"],
 }
 
 SECTOR_KEYWORDS = {
@@ -69,6 +76,11 @@ SECTOR_KEYWORDS = {
     "Materials": ["copper", "steel", "mining", "gold", "lithium", "chemical"],
     "Utilities": ["utility", "utilities", "power grid", "electricity"],
     "Real Estate": ["real estate", "reit", "mortgage", "home sales", "housing"],
+    "E-commerce": ["e-commerce", "ecommerce", "online retail", "online sales", "shopify", "etsy", "ebay", "temu", "shein",
+                   "amazon", "marketplace", "prime day", "cyber monday", "online shopping", "direct-to-consumer"],
+    "Shipping & Logistics": ["usps", "postal service", "postage", "stamp price", "ups", "fedex", "parcel", "shipping rate",
+                             "shipping cost", "shipping surcharge", "freight", "logistics", "de minimis", "delivery fee",
+                             "peak surcharge", "dhl", "container ship", "supply chain"],
     "Communication": ["meta", "google", "alphabet", "netflix", "disney", "media", "telecom", "streaming"],
 }
 
@@ -92,5 +104,10 @@ THEME_RULES = [
     ("Crypto", ["bitcoin", "crypto", "ether", "coinbase", "stablecoin"]),
     ("M&A & Deals", ["merger", "acquire", "acquisition", "deal", "buyout", "ipo"]),
     ("Banks & Credit", ["bank", "credit", "lender", "loan", "debt"]),
+    ("Shipping, Postage & Logistics", ["usps", "postal", "postage", "ups ", "fedex", "parcel", "shipping rate",
+                                       "shipping cost", "surcharge", "freight", "de minimis", "logistics"]),
+    ("E-commerce", ["e-commerce", "ecommerce", "online retail", "online sales", "shopify", "temu", "shein", "etsy", "ebay"]),
     ("Consumer & Retail", ["consumer", "retail", "shopper", "spending", "walmart", "amazon"]),
 ]
+
+CONSUMER_LENS = {"Cons. Discretionary", "E-commerce", "Shipping & Logistics"}

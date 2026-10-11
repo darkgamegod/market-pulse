@@ -3,10 +3,14 @@ import logging, time, calendar
 from datetime import datetime, timezone
 import feedparser, requests
 
-from .config import FEEDS, QUOTES, SECTOR_ETFS
+from .config import FEEDS
 
 log = logging.getLogger("collectors")
-UA = {"User-Agent": "Mozilla/5.0 (MarketPulse research bot; educational)"}
+UA = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36",
+      "Accept": "application/rss+xml, application/xml, text/xml, */*", "Accept-Language": "en-US,en;q=0.9"}
+
+
+BOT_UA = {"User-Agent": "Mozilla/5.0 (MarketPulse research bot; educational)"}
 
 
 def _retry(fn, tries=2, delay=2.0):
@@ -22,7 +26,8 @@ def _retry(fn, tries=2, delay=2.0):
 
 def fetch_feed(name, url):
     def go():
-        r = requests.get(url, headers=UA, timeout=(6, 12))
+        hdr = BOT_UA if "yahoo.com" in url else UA  # Yahoo 429s browser-like UAs from scripts
+        r = requests.get(url, headers=hdr, timeout=(6, 12))
         r.raise_for_status()
         return feedparser.parse(r.content)
     parsed = _retry(go)
@@ -57,37 +62,14 @@ def collect_news():
         try:
             got = fetch_feed(name, url)
             all_items += got
-            status[name] = {"ok": True, "count": len(got)}
+            from .clock import fmt
+            status[name] = {"ok": True, "count": len(got), "fetched_et": fmt(datetime.now(timezone.utc)),
+                            "newest_et": fmt(max(i["published"] for i in got)), "newest": max(i["published"] for i in got)}
         except Exception as e:
             log.warning("feed %s failed: %s", name, e)
-            status[name] = {"ok": False, "error": str(e)[:200]}
+            from .clock import fmt
+            status[name] = {"ok": False, "error": str(e)[:200], "fetched_et": fmt(datetime.now(timezone.utc))}
     return all_items, status
-
-
-def collect_quotes():
-    import yfinance as yf
-    symbols = list(QUOTES) + list(SECTOR_ETFS)
-    out, status = {}, {}
-    try:
-        df = _retry(lambda: yf.download(symbols, period="5d", interval="1d", group_by="ticker",
-                                        progress=False, threads=True, auto_adjust=False))
-    except Exception as e:
-        log.error("yfinance download failed: %s", e)
-        return out, {"yfinance": {"ok": False, "error": str(e)[:200]}}
-    for s in symbols:
-        try:
-            closes = df[s]["Close"].dropna()
-            if len(closes) < 2:
-                raise ValueError("insufficient data")
-            last, prev = float(closes.iloc[-1]), float(closes.iloc[-2])
-            label, group = QUOTES.get(s, (SECTOR_ETFS.get(s, s), "Sectors"))
-            out[s] = {"symbol": s, "label": label, "group": group, "price": round(last, 2),
-                      "change": round(last - prev, 2), "pct": round((last / prev - 1) * 100, 2),
-                      "asof": str(closes.index[-1].date())}
-        except Exception as e:
-            status[s] = {"ok": False, "error": str(e)[:100]}
-    status["yfinance"] = {"ok": bool(out), "count": len(out)}
-    return out, status
 
 
 # Placeholder: X/Twitter trends. See README "Extending: X/Twitter".

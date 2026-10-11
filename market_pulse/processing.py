@@ -3,7 +3,7 @@ import re, hashlib, html
 from datetime import datetime, timezone
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 
-from .config import TICKER_KEYWORDS, SECTOR_KEYWORDS, HIGH_IMPACT, THEME_RULES
+from .config import TICKER_KEYWORDS, SECTOR_KEYWORDS, HIGH_IMPACT, THEME_RULES, CONSUMER_LENS
 
 _sia = SentimentIntensityAnalyzer()
 # finance-specific lexicon tweaks
@@ -56,9 +56,18 @@ def tag(it):
     for kw, ts in TICKER_KEYWORDS.items():
         if re.search(r"(?<![a-z])" + re.escape(kw.strip()) + r"(?![a-z])", text):
             tickers.update(ts)
-    sectors = [s for s, kws in SECTOR_KEYWORDS.items() if any(k in text for k in kws)]
-    themes = [n for n, kws in THEME_RULES if any(k in text for k in kws)]
+    sectors = [s for s, kws in SECTOR_KEYWORDS.items() if any(_kw(k, text) for k in kws)]
+    themes = [n for n, kws in THEME_RULES if any(_kw(k, text) for k in kws)]
+    it["consumer"] = bool(CONSUMER_LENS & set(sectors))
     it["tickers"], it["sectors"], it["themes"] = sorted(tickers), sectors, themes or ["Other Market News"]
+
+
+def _kw(k, text):
+    k = k.strip()
+    if len(k) <= 4:  # short keywords need word boundaries ("ups" vs "groups")
+        return re.search(r"(?<![a-z])" + re.escape(k), text) is not None and re.search(re.escape(k) + r"(?![a-z])", text) is not None \
+            if " " in k else re.search(r"(?<![a-z])" + re.escape(k) + r"(?![a-z])", text) is not None
+    return k in text
 
 
 def score(it, now=None):
@@ -119,11 +128,23 @@ def sector_heat(items, quotes):
     return res
 
 
+def why_moved(items):
+    """ticker -> highest-impact headline mentioning it (used for 'why it moved' lines)."""
+    best = {}
+    for i in items:
+        for t in i["tickers"]:
+            if t not in best or i["impact"] > best[t]["impact"]:
+                best[t] = {k: i.get(k) for k in ("title", "link", "source", "impact", "sentiment_label", "published")}
+    return best
+
+
 def watchlist(items, quotes, n=15):
     agg = {}
     for i in items:
         for t in i["tickers"]:
-            a = agg.setdefault(t, {"ticker": t, "mentions": 0, "impact": 0.0, "sent": 0.0, "headlines": []})
+            a = agg.setdefault(t, {"ticker": t, "mentions": 0, "impact": 0.0, "sent": 0.0, "headlines": [], "why": None})
+            if a["why"] is None or i["impact"] > a["why"]["impact"]:
+                a["why"] = {k: i[k] for k in ("title", "link", "source", "impact", "sentiment_label")}
             a["mentions"] += 1; a["impact"] += i["impact"]; a["sent"] += i["sentiment"]
             if len(a["headlines"]) < 4:
                 a["headlines"].append({k: i[k] for k in ("title", "link", "source")})
