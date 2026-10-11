@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 11 03:34 PM ET",
- "generated_at": "2026-10-11T15:34:09.662190-04:00",
+ "generated_et": "Oct 11 03:56 PM ET",
+ "generated_at": "2026-10-11T15:56:14.049500-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-11",
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 83666.89,
-   "pct": 0.91,
-   "asof_et": "Oct 11 03:30 PM ET",
+   "price": 83581.95,
+   "pct": 0.81,
+   "asof_et": "Oct 11 03:55 PM ET",
    "freshness": "delayed"
   },
   {
@@ -382,6 +382,82 @@
  ],
  "breaking": [
   {
+   "title": "Trump declares 'energy ceasefire' between Russia and Ukraine; Zelenskyy is waiting for details",
+   "link": "https://www.cnbc.com/2026/10/11/trump-energy-ceasefire-russia-ukraine-zelenskyy.html",
+   "source": "CNBC Top News",
+   "impact": 1.8,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 11 03:56 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
+   "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+   "source": "MarketWatch Top",
+   "impact": 2.0,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 11 03:56 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
+   "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
+   "source": "MarketWatch Top",
+   "impact": 1.8,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 11 03:56 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "History Says This Will Happen to Palantir Stock by 2028",
+   "link": "https://www.fool.com/investing/2026/10/11/history-says-this-will-happen-to-palantir-stock-by/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.0,
+   "tickers": [
+    "PLTR"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 11 03:56 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Georgia takes over at No. 1 in AP Top 25 with Notre Dame, Miami next; Oregon is out of the poll",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX3JIZDlwcWZFVDNxaldYRTU4LUJVVG1kUy1TT3NmVmtLWDNGQ1JPS2h1RHE1U1dvc3E4bjY4a0E2VXVKVUFySzNuSm1Ja1hsWjJTNDFhWmI2bEF1X3dZTjVkR1l5NXNuSHNyeXpFRGR0dVk5VlpfRXZUSWQ1eGJSWS1vVTZzVDYxT2tYR0VaUkx6ZWlRSU9J?oc=5",
+   "source": "AP News",
+   "impact": 1.9,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 11 03:56 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Hollywood takes on Zuckerberg, Musk and Altman amid widespread anxiety over AI",
+   "link": "https://www.cnbc.com/2026/10/10/ai-movies-tech-ceos-hollywood.html",
+   "source": "CNBC Top News",
+   "impact": 0.8,
+   "tickers": [
+    "TSLA"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 11 03:56 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Tesla's China-made EV sales quicken in September",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcnJ1OTlHNUZkVXV0a1VVRnJRWlRPVXJ4SVYxSXd0WWUtVG1DQUJraS1uY1cwc0JMNEdaS3B2bUtPN25SQllXZm1DdTRCYjNfeERIV3ZCX2NBMmdybzhUT0lBbWpyak9pUGltclBGQkNKNjhCdFFFUUpsakhpbHRJak9CTjVDbTRWMU9uMGVXQ1JKbXVXa3FxcXlsTzhHMnhTZks0bHRBdEIxZWwyX0FN?oc=5",
+   "source": "Reuters",
+   "impact": 0.5,
+   "tickers": [
+    "TSLA"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 11 03:56 PM ET",
+   "consumer": true
+  },
+  {
    "title": "Clas Ohlson (OM:CLAS B) Following Strong September Sales The Valuation Case Stays In Focus",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPS0FhQ190SHVaRmdVM1l4SmJVeXJLTGhwbWs4U3lBdGt2NFBwbzZ6NGJFTS1BZE4walRpRklGWl80aWFaZXFaWUphamZQdEJsQ1BBbUZveUwwNHVWZ1FFSkRBb1FwOXowYlU5WUZNd2otekszR3pNUXNuMGJiZEtZamdIbzF4Wm9yOUFBNndDM2RzbU9uTjduWTEzV0pTYjhSZkdJdjFNc0tsVmVBQVZJWXYyd1U4RXcwaGVXaDB0YTNmNlZWdUJVdWdRZXViNFnSAdQBQVVfeXFMTWl4NEFDdW1vV2I3TExNNUFyOVVrbjBzSjQxSkxaX0FmR3hFOGRqSW5mbWM0WGNORHJVLXdxU2JFR0ZPdXNkTlVhandQdlRab1FjcVlfcHhGX0I4bDJmTzVrd2dfZVJsQ1BoQjU5cVlpX2RBNlNMUkZMUTd0d013VS02X0xHc1BfX0k5YU1VNmYyZkRWUmhLS3dQZWc4QUNRQU9IUDZxd29fWU1lNmpMaURSRHh3TDZxd3NmZnN2MHVwZVB0blFldHRHWGxybFFVQk0zcUM?oc=5",
    "source": "Simply Wall Street",
@@ -516,91 +592,6 @@
     "BKE"
    ],
    "sentiment_label": "bullish",
-   "seen_et": "Oct 11 03:06 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Why Are Nasdaq, S&P 500 Futures Edging Higher Premarket Ahead Of CPI? SPCX, SMCI, CRWV, NBIS, MU Stocks In Focus",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQN09oalhBTWtoYlJ3QjNGb0x4WjdyR294MDgxQ083R240VmtGUHFLQml3c0pSb3JybUwwN0d1NFNKc0pTRFo0WFB1UGZad2RrU0p6NjRIbXA3SEllNEY3UUJ3R2p6QV9KS3Q2YnVoeDBzNWE5cVFyNDNNM0pTN2Q1c3NQWjA3YmRZNWYtSll3YWR1dkNnbFlNOG1KdUJ6YV9ZTjRGblhJLUhQZVBiTVJ3RmxkTnpHSEdMQVNWdWg1VnEtWGdRMXpGbkRMdUFGQQ?oc=5",
-   "source": "Stocktwits",
-   "impact": 3.9,
-   "tickers": [
-    "QQQ",
-    "SPY"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 11 03:06 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "MINISTOP (TSE:9946) Stock Trails Revenue Growth As Losses Deepen",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQU0V2eUN6R1J3R1JWVXNRNnFNRVU2cTZqam9rdDBVazVINVl4dXlVdHFqcWJyLUlWY0xzZVJKTlNYam1jNW9rZjA3VHY3YWNfZ2h5a2NPdlhIVmxGVDhBMG1DWkVXVnlMN1RtbFc4d0UtVWlTaXczRTJOVWtmUWg4SmhUVlNZaXV6ZzB4MFhYMUctZ2hBS0ZhVVVGSmMyYzNqSUhfQmJoUWpOZ0txaWVGUFpJMjV4RkdqVEw1SUZfdjMySUNsYVJTQ0U0RkdUSlU5N1N2V3FaeEJDMk9sTlHSAd4BQVVfeXFMUFNFdnlDekdSd0dSVlVzUTZxTUVVNnE2ampva3QwVWs1SDVZeHV5VXRxanFici1JVmNMc2VSSk5TWGptYzVva2YwN1R2N2FjX2doeWtjT3ZYSFZsRlQ4QTBtQ1pFV1Z5TDdUbWxXOHdFLVVpU2l3M0UyTlVrZlFoOEpoVFZTWWl1emcweDBYWDFHLWdoQUtGYVVVRkpjMmMzaklIX0JiaFFqTmdLcWllRlBaSTI1eEZHalRMNUlGX3YzMklDbGFSU0NFNEZHVEpVOTdTdldxWnhCQzJPbE5R?oc=5",
-   "source": "Simply Wall Street",
-   "impact": 1.1,
-   "tickers": [
-    "GOOGL"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 11 03:06 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Costco Stock Forecast: Q4 Earnings Could Decide COST’s Next Major Move",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQLTBPZEd3clUyNlZkWW9wWnhuLS1EbVZNNjdwenNKM24tLUxIMy1KUUNlS2RkSjdjX2REV0NUYVZJZjZ1aXJwQTJUWHFuejZlU0ZRbzdnT0J1dzBlZHZmaTA4bFpWVGhZUEdfb05zRjZ5VnloV00wVTdsamV3bm55UlMwbHJNMHFrb0NwcU5yX3lVTWFsMnZ4bU9acEJhTUpveUV2ZWRXWUlwVlV0Wm5zYktfSlpmcFJ5?oc=5",
-   "source": "TradingKey",
-   "impact": 2.1,
-   "tickers": [
-    "COST"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 11 03:06 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Soriana Shares Rose Even As Sales Fell",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNV3pzUUozZTQ0Z0RzNlViZ2tETUhqYVRJczdCR21uWGthNEFZdjNZU2EzelMzVW1ldWR5ejNHOW5xcjJYT2JvZ3lzblV4SlFOV0sxTjByUW5QYTZKOHFudXNWU21rVUdrYVRaTUVSSTI1aWNvV3hmckxUaHd5T1BzZ3QwdzJjMmZEc2dHMWZ0eERnQy1lZVI3RHFvd2lENmN6TXV0VGt5bENBSGd5Vk1TdUxzdmttcDdlODFWY0Jtc2drS1ZFcUJKX1F4LTJSQ00yaUtqYVhDSU90MmJkb1ZJaGhQZjAwZ1My0gHoAUFVX3lxTE1XenNRSjNlNDRnRHM2VWJna0RNSGphVElzN0JHbW5Ya2E0QVl2M1lTYTN6UzNVbWV1ZHl6M0c5bnFyMlhPYm9neXNuVXhKUU5XSzFOMHJRblBhNko4cW51c1ZTbWtVR2thVFpNRVJJMjVpY29XeGZyTFRod3lPUHNndDB3MmMyZkRzZ0cxZnR4RGdDLWVlUjdEcW93aUQ2Y3pNdXRUa3lsQ0FIZ3lWTVN1THN2a21wN2U4MVZjQm1zZ2tLVkVxQkpfUXgtMlJDTTJpS2phWENJT3QyYmRvVkloaFBmMDBnUzI?oc=5",
-   "source": "Simply Wall Street",
-   "impact": 1.2,
-   "tickers": [
-    "GOOGL"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 11 03:06 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Is E Commerce Growth Altering The Investment Case For Academy Sports and Outdoors Stock?",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSlhXMHVBandqd0I5MFBacXJSN0N0T1hnYV94TUNRUXpkdThQUi1iX19YMk9oWm55TW1sb1dIcFM1czJkdG13NzB0aDBwZ0xmTU5CQldaaVg0emotNTlsOFpTNDRvRHp0NVExUURfYTFlUHJJV2szM0JsR1RaZ2JOMXA0VlEzU0tjalg4OHNfR3hfd2dsWkR6a25kWnd2aWc0TFZqVE1DdDlpdTdMQ3hXTG00TVd4ekRXYkgwN1hRS29NaEhMYl9OcHUzOUhCSVhiRGpQRDNsOG1XNGvSAeABQVVfeXFMTVlfQ3JPUTk2SHR4d01WQmJHY0VFaGJqa0FHd1c0dHM0SHpUXzJCYkdNQkpDbU5sdGhSbUhPWk03cmNwLWo5Z0ZaWnREWXNuOTBuSnp4TE1rdlQ4cnhxb1p2U2hfTnVGV2lDWGVYVFh4azhjNTAyQklGZk51Q3U1UGZpdlh3ZjUzMUx1R0ZET3JzMUJnYWJfSlBKVEQ1RlZIZXJSZzRRU1hlSmF4aHZIQ05EQ3VUM3FLc29rZTVvRTdFQ2pPUHdlS0gxOUdKRkFMT3Z3RHZURkdCUUFkaGRQTVY?oc=5",
-   "source": "Simply Wall Street",
-   "impact": 1.3,
-   "tickers": [
-    "GOOGL"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 11 03:06 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "MCD Stock’s Target Cut To $250 By Bernstein Amid Sales Growth Concerns, NEXT Uncertainty",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOanZuRXdXWXlFLVZlZTdvalVlUDNTcGFFTXRrS1FNa2V3MnNBTFdsYUxxYUt1WkY5VHVvbE5QRHZocjJQZlVjUE01ZE9oTzMtQXRGZkhQN0FhN1FZbWtIX19HcjFaaEhuRWtncUttb2RaRnlPblFCSlR4Y2p5eHpoZ2hvRFhHUXdLa0Q5SHJweXdxS19UbHRBUDFFQVJ1QTQ0dVRpbHhQWEhteGd2bVFqTkJDV25hX0s4WUlRcjVjelVtQTktN1VialRycTlPeFBlSnZiYXhTaVFtYk5MbUVfcng1ZDc?oc=5",
-   "source": "Stocktwits",
-   "impact": 1.2,
-   "tickers": [
-    "TGT"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 11 03:06 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Kusuri No Aoki Holdings (TSE:3549) Just Gave Investors Something To Consider",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcnNxQ3dfazg0c0ZkVlpLNXphQ0lsN1ZhQWQ3QzBmUEFRejlxUEtrYTUxWE5xSHdId0syck4zVkhTakp0U29HQUtzaEdfNGhHZXV1cS1NTV9zbVFwcHF2WGNlUFp5a1pqc2pNYkdWanJNdVpGNWVtN0ZTWHNlaHAtZE1XWUV3TDlvRFRMeFVUc2RwSXNJbmsyNDRsYURUVzFwc1pQS3RJcFMwZUY0SnI0a2RTT1dXd1pfS09zX252RDY0M0RVZGl4a01MVU5QZ21XSTMtc3FpZVdTdm02Wk85YlFkSVpNWnJsblRUa2djaGNrZ9IB8gFBVV95cUxQcnNxQ3dfazg0c0ZkVlpLNXphQ0lsN1ZhQWQ3QzBmUEFRejlxUEtrYTUxWE5xSHdId0syck4zVkhTakp0U29HQUtzaEdfNGhHZXV1cS1NTV9zbVFwcHF2WGNlUFp5a1pqc2pNYkdWanJNdVpGNWVtN0ZTWHNlaHAtZE1XWUV3TDlvRFRMeFVUc2RwSXNJbmsyNDRsYURUVzFwc1pQS3RJcFMwZUY0SnI0a2RTT1dXd1pfS09zX252RDY0M0RVZGl4a01MVU5QZ21XSTMtc3FpZVdTdm02Wk85YlFkSVpNWnJsblRUa2djaGNrZw?oc=5",
-   "source": "Simply Wall Street",
-   "impact": 0.8,
-   "tickers": [
-    "GOOGL"
-   ],
-   "sentiment_label": "bearish",
    "seen_et": "Oct 11 03:06 PM ET",
    "consumer": false
   }
@@ -1671,9 +1662,9 @@
   ]
  },
  "sentiment_validation": {
-  "logged": 35,
+  "logged": 36,
   "min_sample": 100,
-  "generated_et": "Oct 11 03:34 PM ET",
+  "generated_et": "Oct 11 03:56 PM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
@@ -1701,98 +1692,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 11 03:34 PM ET",
-   "newest_et": "Oct 11 03:15 PM ET",
-   "newest": "2026-10-11T19:15:21+00:00"
+   "fetched_et": "Oct 11 03:56 PM ET",
+   "newest_et": "Oct 11 03:33 PM ET",
+   "newest": "2026-10-11T19:33:51+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 11 03:34 PM ET",
+   "fetched_et": "Oct 11 03:56 PM ET",
    "newest_et": "Oct 09 03:18 PM ET",
    "newest": "2026-10-09T19:18:24+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 11 03:34 PM ET",
+   "fetched_et": "Oct 11 03:56 PM ET",
    "newest_et": "Oct 11 01:08 PM ET",
    "newest": "2026-10-11T17:08:30+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 11 03:34 PM ET",
-   "newest_et": "Oct 11 12:35 PM ET",
-   "newest": "2026-10-11T16:35:00+00:00"
+   "fetched_et": "Oct 11 03:56 PM ET",
+   "newest_et": "Oct 11 03:32 PM ET",
+   "newest": "2026-10-11T19:32:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 11 03:34 PM ET",
+   "fetched_et": "Oct 11 03:56 PM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 19,
-   "fetched_et": "Oct 11 03:34 PM ET",
-   "newest_et": "Oct 11 03:09 PM ET",
-   "newest": "2026-10-11T19:09:09+00:00"
+   "fetched_et": "Oct 11 03:56 PM ET",
+   "newest_et": "Oct 11 03:30 PM ET",
+   "newest": "2026-10-11T19:30:00+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 52,
-   "fetched_et": "Oct 11 03:34 PM ET",
+   "fetched_et": "Oct 11 03:56 PM ET",
    "newest_et": "Oct 11 01:00 PM ET",
    "newest": "2026-10-11T17:00:05+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 11 03:34 PM ET",
+   "fetched_et": "Oct 11 03:56 PM ET",
    "newest_et": "Oct 11 09:19 AM ET",
    "newest": "2026-10-11T13:19:13+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 11 03:34 PM ET",
-   "newest_et": "Oct 11 01:41 PM ET",
-   "newest": "2026-10-11T17:41:00+00:00"
+   "fetched_et": "Oct 11 03:56 PM ET",
+   "newest_et": "Oct 11 02:00 PM ET",
+   "newest": "2026-10-11T18:00:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 35,
-   "fetched_et": "Oct 11 03:34 PM ET",
+   "count": 34,
+   "fetched_et": "Oct 11 03:56 PM ET",
    "newest_et": "Oct 11 02:05 PM ET",
    "newest": "2026-10-11T18:05:23+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
-   "count": 51,
-   "fetched_et": "Oct 11 03:34 PM ET",
+   "count": 52,
+   "fetched_et": "Oct 11 03:56 PM ET",
    "newest_et": "Oct 11 03:09 PM ET",
    "newest": "2026-10-11T19:09:11+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 11 03:34 PM ET",
+   "fetched_et": "Oct 11 03:56 PM ET",
    "newest_et": "Oct 09 10:00 AM ET",
    "newest": "2026-10-09T14:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 11 03:34 PM ET",
+   "fetched_et": "Oct 11 03:56 PM ET",
    "newest_et": "Oct 11 02:50 PM ET",
    "newest": "2026-10-11T18:50:00+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Oct 11 03:34 PM ET"
+   "fetched_et": "Oct 11 03:56 PM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
