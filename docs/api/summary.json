@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 11 07:34 PM ET",
- "generated_at": "2026-10-11T19:34:19.012745-04:00",
+ "generated_et": "Oct 11 07:56 PM ET",
+ "generated_at": "2026-10-11T19:56:34.669051-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-11",
@@ -12,33 +12,33 @@
   {
    "symbol": "ES=F",
    "label": "S&P 500 Fut",
-   "price": 7875.25,
-   "pct": 0.2,
-   "asof_et": "Oct 11 07:20 PM ET",
+   "price": 7878.75,
+   "pct": 0.24,
+   "asof_et": "Oct 11 07:45 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "NQ=F",
    "label": "Nasdaq 100 Fut",
-   "price": 31239.25,
-   "pct": 0.42,
-   "asof_et": "Oct 11 07:20 PM ET",
+   "price": 31263.25,
+   "pct": 0.5,
+   "asof_et": "Oct 11 07:45 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "YM=F",
    "label": "Dow Fut",
-   "price": 51982.0,
-   "pct": 0.11,
-   "asof_et": "Oct 11 07:20 PM ET",
+   "price": 52014.0,
+   "pct": 0.17,
+   "asof_et": "Oct 11 07:45 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "RTY=F",
    "label": "Russell 2000 Fut",
-   "price": 2826.0,
-   "pct": 0.14,
-   "asof_et": "Oct 11 07:20 PM ET",
+   "price": 2828.9,
+   "pct": 0.24,
+   "asof_et": "Oct 11 07:45 PM ET",
    "freshness": "delayed"
   },
   {
@@ -84,25 +84,25 @@
   {
    "symbol": "CL=F",
    "label": "WTI Crude",
-   "price": 91.75,
-   "pct": -0.11,
-   "asof_et": "Oct 11 07:20 PM ET",
+   "price": 91.16,
+   "pct": -0.75,
+   "asof_et": "Oct 11 07:45 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "GC=F",
    "label": "Gold",
-   "price": 4219.7,
+   "price": 4219.8,
    "pct": 0.08,
-   "asof_et": "Oct 11 07:20 PM ET",
+   "asof_et": "Oct 11 07:45 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "DX-Y.NYB",
    "label": "Dollar Index",
-   "price": 102.24,
-   "pct": 0.02,
-   "asof_et": "Oct 11 07:20 PM ET",
+   "price": 102.21,
+   "pct": -0.0,
+   "asof_et": "Oct 11 07:45 PM ET",
    "freshness": "delayed"
   },
   {
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 83637.76,
-   "pct": 0.88,
-   "asof_et": "Oct 11 07:30 PM ET",
+   "price": 83681.55,
+   "pct": 0.93,
+   "asof_et": "Oct 11 07:55 PM ET",
    "freshness": "delayed"
   },
   {
@@ -382,6 +382,30 @@
  ],
  "breaking": [
   {
+   "title": "Not Nvidia. Not Broadcom. This Little-Known Chip Supplier Could Be the AI Boom's Best-Kept Secret.",
+   "link": "https://www.fool.com/investing/2026/10/11/not-nvidia-not-broadcom-this-little-known-chip-sup/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.5,
+   "tickers": [
+    "AVGO",
+    "MSFT",
+    "NVDA"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 11 07:56 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Texans acquire WR Marvin Harrison Jr. from Cardinals, hoping to bolster offense",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOenpHakNqSlFSckJuU05VbjlCVEtlWG4xSlVnQ0tmQVFTNHBkRXlFSGFhay0tanJweXNvbllqN2Y0ejM2Y2Z3UVAxSjRVc1dOTXZITUI4aXBac2N6LXM5SjdvUkIxalZvVTdsNDAzbnBnd2o2RTVsMlRxNGdzTVZCVTAxZi00LVlzNHJBN2NXYmxEYXJEa1E?oc=5",
+   "source": "AP News",
+   "impact": 3.0,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 11 07:56 PM ET",
+   "consumer": false
+  },
+  {
    "title": "Forget Chasing Volume. Here's the Most Active Stock I'd Actually Hold for 5 Years.",
    "link": "https://www.fool.com/investing/2026/10/11/forget-chasing-volume-heres-the-most-active-stock/?.tsrc=rss",
    "source": "Yahoo Finance",
@@ -570,28 +594,6 @@
     "MSFT"
    ],
    "sentiment_label": "neutral",
-   "seen_et": "Oct 11 06:46 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "S&P 500 futures are little changed with big banks set to kick off earnings season: Live updates",
-   "link": "https://www.cnbc.com/2026/10/11/stock-market-today-live-updates.html",
-   "source": "CNBC Top News",
-   "impact": 4.9,
-   "tickers": [
-    "SPY"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 11 06:46 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Pennsylvania shooter who killed 8 was family’s patriarch, slain toddler’s dad says",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVHFaUjhNVFltYnJUQ2NXWXRBYXNVaHVKakl4TExNT3F1OEFicDM4bUFIRU5ORGJnZ056V3BzSzZsN1E1MVZVRW45NTh2YUJaTWpJNnF1ZEV4ZmdoMzM1MnVZOTZ6UUxDcWx6cDlCU2Z1V18tYjRRQ1UwUTJsT0t5a3FfdDJBdHBGTWE2ZFk4WF9Yb1c5YUE?oc=5",
-   "source": "AP News",
-   "impact": 2.5,
-   "tickers": [],
-   "sentiment_label": "bearish",
    "seen_et": "Oct 11 06:46 PM ET",
    "consumer": false
   }
@@ -1136,7 +1138,7 @@
  "economic_calendar": {
   "source": "FairEconomy / ForexFactory weekly calendar (nfs.faireconomy.media)",
   "fallback": false,
-  "fetched_et": "Oct 11 06:46 PM ET",
+  "fetched_et": "Oct 11 07:56 PM ET",
   "events": [
    {
     "when_et": "Oct 12 07:00 AM ET",
@@ -1655,7 +1657,7 @@
  "sentiment_validation": {
   "logged": 58,
   "min_sample": 100,
-  "generated_et": "Oct 11 07:34 PM ET",
+  "generated_et": "Oct 11 07:56 PM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
@@ -1683,98 +1685,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 11 07:34 PM ET",
+   "fetched_et": "Oct 11 07:56 PM ET",
    "newest_et": "Oct 11 07:24 PM ET",
    "newest": "2026-10-11T23:24:29+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 11 07:34 PM ET",
+   "fetched_et": "Oct 11 07:56 PM ET",
    "newest_et": "Oct 09 03:18 PM ET",
    "newest": "2026-10-09T19:18:24+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 11 07:34 PM ET",
+   "fetched_et": "Oct 11 07:56 PM ET",
    "newest_et": "Oct 11 01:08 PM ET",
    "newest": "2026-10-11T17:08:30+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 11 07:34 PM ET",
+   "fetched_et": "Oct 11 07:56 PM ET",
    "newest_et": "Oct 11 04:15 PM ET",
    "newest": "2026-10-11T20:15:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 11 07:34 PM ET",
+   "fetched_et": "Oct 11 07:56 PM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 11 07:34 PM ET",
-   "newest_et": "Oct 11 07:20 PM ET",
-   "newest": "2026-10-11T23:20:00+00:00"
+   "fetched_et": "Oct 11 07:56 PM ET",
+   "newest_et": "Oct 11 07:50 PM ET",
+   "newest": "2026-10-11T23:50:00+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 39,
-   "fetched_et": "Oct 11 07:34 PM ET",
+   "fetched_et": "Oct 11 07:56 PM ET",
    "newest_et": "Oct 11 07:19 PM ET",
    "newest": "2026-10-11T23:19:49+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 11 07:34 PM ET",
+   "fetched_et": "Oct 11 07:56 PM ET",
    "newest_et": "Oct 11 09:19 AM ET",
    "newest": "2026-10-11T13:19:13+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 11 07:34 PM ET",
+   "fetched_et": "Oct 11 07:56 PM ET",
    "newest_et": "Oct 11 06:33 PM ET",
    "newest": "2026-10-11T22:33:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 35,
-   "fetched_et": "Oct 11 07:34 PM ET",
-   "newest_et": "Oct 11 05:00 PM ET",
-   "newest": "2026-10-11T21:00:00+00:00"
+   "count": 34,
+   "fetched_et": "Oct 11 07:56 PM ET",
+   "newest_et": "Oct 11 05:08 PM ET",
+   "newest": "2026-10-11T21:08:00+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
    "count": 51,
-   "fetched_et": "Oct 11 07:34 PM ET",
+   "fetched_et": "Oct 11 07:56 PM ET",
    "newest_et": "Oct 11 06:26 PM ET",
    "newest": "2026-10-11T22:26:43+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 11 07:34 PM ET",
+   "fetched_et": "Oct 11 07:56 PM ET",
    "newest_et": "Oct 09 10:00 AM ET",
    "newest": "2026-10-09T14:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 11 07:34 PM ET",
+   "fetched_et": "Oct 11 07:56 PM ET",
    "newest_et": "Oct 11 07:03 PM ET",
    "newest": "2026-10-11T23:03:15+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Oct 11 07:34 PM ET"
+   "fetched_et": "Oct 11 07:56 PM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
@@ -1784,7 +1786,7 @@
   "Economic calendar": {
    "ok": true,
    "count": 34,
-   "fetched_et": "Oct 11 06:46 PM ET",
+   "fetched_et": "Oct 11 07:56 PM ET",
    "note": "FairEconomy / ForexFactory weekly calendar (nfs.faireconomy.media)"
   }
  }
