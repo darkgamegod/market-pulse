@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 11 06:45 PM ET",
- "generated_at": "2026-10-11T18:45:59.035514-04:00",
+ "generated_et": "Oct 11 07:14 PM ET",
+ "generated_at": "2026-10-11T19:14:05.256622-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-11",
@@ -12,33 +12,33 @@
   {
    "symbol": "ES=F",
    "label": "S&P 500 Fut",
-   "price": 7871.25,
-   "pct": 0.15,
-   "asof_et": "Oct 11 06:35 PM ET",
+   "price": 7867.75,
+   "pct": 0.1,
+   "asof_et": "Oct 11 07:00 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "NQ=F",
    "label": "Nasdaq 100 Fut",
-   "price": 31196.25,
-   "pct": 0.28,
-   "asof_et": "Oct 11 06:35 PM ET",
+   "price": 31185.0,
+   "pct": 0.25,
+   "asof_et": "Oct 11 07:00 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "YM=F",
    "label": "Dow Fut",
-   "price": 51972.0,
-   "pct": 0.09,
-   "asof_et": "Oct 11 06:35 PM ET",
+   "price": 51949.0,
+   "pct": 0.04,
+   "asof_et": "Oct 11 07:00 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "RTY=F",
    "label": "Russell 2000 Fut",
-   "price": 2824.3,
-   "pct": 0.08,
-   "asof_et": "Oct 11 06:35 PM ET",
+   "price": 2823.3,
+   "pct": 0.04,
+   "asof_et": "Oct 11 07:00 PM ET",
    "freshness": "delayed"
   },
   {
@@ -84,17 +84,17 @@
   {
    "symbol": "CL=F",
    "label": "WTI Crude",
-   "price": 92.5,
-   "pct": 0.71,
-   "asof_et": "Oct 11 06:35 PM ET",
+   "price": 92.44,
+   "pct": 0.64,
+   "asof_et": "Oct 11 07:00 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "GC=F",
    "label": "Gold",
-   "price": 4213.2,
-   "pct": -0.07,
-   "asof_et": "Oct 11 06:35 PM ET",
+   "price": 4211.1,
+   "pct": -0.12,
+   "asof_et": "Oct 11 07:00 PM ET",
    "freshness": "delayed"
   },
   {
@@ -102,7 +102,7 @@
    "label": "Dollar Index",
    "price": 102.27,
    "pct": 0.06,
-   "asof_et": "Oct 11 06:35 PM ET",
+   "asof_et": "Oct 11 07:00 PM ET",
    "freshness": "delayed"
   },
   {
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 83588.07,
-   "pct": 0.82,
-   "asof_et": "Oct 11 06:45 PM ET",
+   "price": 83606.22,
+   "pct": 0.84,
+   "asof_et": "Oct 11 07:10 PM ET",
    "freshness": "delayed"
   },
   {
@@ -382,6 +382,50 @@
  ],
  "breaking": [
   {
+   "title": "Micron Is Down 18% From Its High. History Suggests This Is What Happens Next.",
+   "link": "https://www.fool.com/investing/2026/10/11/micron-is-down-x-from-its-high-history-suggests-th/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.4,
+   "tickers": [
+    "MU"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 11 07:14 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Pope Leo XIV says he will undergo surgery in the coming days to remove a nodule on his lung",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUzd2TWpTUTY4aDBlZm00b1RaVHgxenRmVzBCTWYtRERQNW5EczFLcmZFUzFoV1JLdDlORVctV2NEcVctUXJaWV9veEVOWlhISUN3cFZORV81YkVBY05MSjVEUEpUVURTUEJIQlJvd3pnT3VDbzBjekY3b1Z0VDA4aUl4UXVWaUxVZkMtSndaRUdseEE3Vmx1SVNRdXo?oc=5",
+   "source": "AP News",
+   "impact": 2.4,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 11 07:14 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "In Silicon Valley, AI founders cheer Trump’s calls for the industry to police itself on safety",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPX291RmlBcG5lT01mbXhCeFVFUGRkaVppc1FBcjEzU1J4NlVsdng1ZnZTaS04VmFIV2xRNDhzRGY2MVJhMTMzUm50bDRBYVpFSnlNMjE1R2o1Z2cxU1lxeWhiSWhIbjlrbDhQblZ6dmFLVFRhYzlVWDIyY1JoOFhaQXBqaC1xbWdKSy1kWVBGYw?oc=5",
+   "source": "AP News",
+   "impact": 1.7,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 11 07:14 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "CoreWeave Turns To Europe For Bond Sale – Retail Believes CRWV Stock Is A ‘Good Long-Term Buy’ Above This Level",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNRWo0WTBHbjFxTmVZTW12aFQtZUNMc0NMRjV0dDBsbEJpUEFONTlCT2lzdGR1OWtiMUdjM2cxelFabWd2S2JNTWxlY0UxTmpJTkszcHlYeUxaVWdXeEMtcWFUcTVHX0ZmXzVvc1dKRFptU3FSZFZpQ21odXI1ZnZLR09zRkp0TW5WdWhwQy1GZkRhamZoNGZpU1g1TG92R1pNRDRNcVFiRVBOUW1yZFdkcVhTN2VrbnFzak9hN25scVZHVDFYZUZPTmpxNjJMMlNKbEk0c3NuTXpzeTV1Qk9COE5oS3p2a1FwM3N4OTFtNlBxamVlU1R3dEo1cFREcU81S0E?oc=5",
+   "source": "Stocktwits",
+   "impact": 0.8,
+   "tickers": [
+    "^TNX"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 11 07:14 PM ET",
+   "consumer": true
+  },
+  {
    "title": "3 Monthly Dividend Stocks Yielding Over 5% Worth Owning Now",
    "link": "https://www.fool.com/investing/2026/10/11/3-monthly-dividend-stocks-yielding-over-5-worth-ow/?.tsrc=rss",
    "source": "Yahoo Finance",
@@ -559,56 +603,6 @@
    "sentiment_label": "bearish",
    "seen_et": "Oct 11 05:57 PM ET",
    "consumer": true
-  },
-  {
-   "title": "Daily Markets Briefing: STI down 0.2%; Top stock is Yangzijiang Shipbuilding",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNnFFZEhGV1ZXNjZNQy10S2dzSUdpUUZDUWZzdjBnTDhMdkhIM2JtejBCSHhYcmw1UFUxaUg1bzdzUm1kbmdtQzctai1xS1I2VE5MVng1Q3F6d0RxVmNydzN2ZDNJeHNVaGRfUzBidFRTUnYtWVIyeXpBaTAxUk9JQ3BRcFpXODZNODJPYnRWeV84dUZRTjdIbm5ZazFaVkVXTEE?oc=5",
-   "source": "Singapore Business Review",
-   "impact": 1.9,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 11 05:57 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Treasury Yields Are Now Above 5%. Here's Why That's Bearish For Bitcoin.",
-   "link": "https://www.fool.com/investing/2026/10/11/treasury-yields-are-now-above-5-heres-why-thats-bu/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 5.1,
-   "tickers": [
-    "BTC-USD",
-    "COIN",
-    "^TNX"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 11 05:36 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "3 AI Stocks To Own In October 2026",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/3-ai-stocks-own-october-211612769.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 4.6,
-   "tickers": [
-    "^TNX"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 11 05:36 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Better Energy ETF: Global X's MLPX Targeting Oil and Gas Infrastructure vs. Invesco's Solar-Focused TAN",
-   "link": "https://www.nasdaq.com/articles/better-energy-etf-global-xs-mlpx-targeting-oil-and-gas-infrastructure-vs-invescos-solar",
-   "source": "Nasdaq Markets",
-   "impact": 3.8,
-   "tickers": [
-    "CL=F",
-    "XLE",
-    "^VIX"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 11 05:36 PM ET",
-   "consumer": false
   }
  ],
  "high_impact": [
@@ -1438,7 +1432,7 @@
  },
  "earnings": {
   "source": "Nasdaq earnings calendar API (api.nasdaq.com), filtered to S&P 500 + watchlist",
-  "fetched_et": "Oct 11 03:04 PM ET",
+  "fetched_et": "Oct 11 07:14 PM ET",
   "events": [
    {
     "date": "2026-10-13",
@@ -1677,9 +1671,9 @@
   ]
  },
  "sentiment_validation": {
-  "logged": 54,
+  "logged": 55,
   "min_sample": 100,
-  "generated_et": "Oct 11 06:46 PM ET",
+  "generated_et": "Oct 11 07:14 PM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
@@ -1707,103 +1701,103 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 11 06:46 PM ET",
+   "fetched_et": "Oct 11 07:14 PM ET",
    "newest_et": "Oct 11 06:23 PM ET",
    "newest": "2026-10-11T22:23:02+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 11 06:46 PM ET",
+   "fetched_et": "Oct 11 07:14 PM ET",
    "newest_et": "Oct 09 03:18 PM ET",
    "newest": "2026-10-09T19:18:24+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 11 06:46 PM ET",
+   "fetched_et": "Oct 11 07:14 PM ET",
    "newest_et": "Oct 11 01:08 PM ET",
    "newest": "2026-10-11T17:08:30+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 11 06:46 PM ET",
+   "fetched_et": "Oct 11 07:14 PM ET",
    "newest_et": "Oct 11 04:15 PM ET",
    "newest": "2026-10-11T20:15:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 11 06:46 PM ET",
+   "fetched_et": "Oct 11 07:14 PM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 11 06:46 PM ET",
-   "newest_et": "Oct 11 06:38 PM ET",
-   "newest": "2026-10-11T22:38:00+00:00"
+   "fetched_et": "Oct 11 07:14 PM ET",
+   "newest_et": "Oct 11 06:53 PM ET",
+   "newest": "2026-10-11T22:53:18+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 52,
-   "fetched_et": "Oct 11 06:46 PM ET",
+   "fetched_et": "Oct 11 07:14 PM ET",
    "newest_et": "Oct 11 01:00 PM ET",
    "newest": "2026-10-11T17:00:05+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 11 06:46 PM ET",
+   "fetched_et": "Oct 11 07:14 PM ET",
    "newest_et": "Oct 11 09:19 AM ET",
    "newest": "2026-10-11T13:19:13+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 11 06:46 PM ET",
+   "fetched_et": "Oct 11 07:14 PM ET",
    "newest_et": "Oct 11 06:10 PM ET",
    "newest": "2026-10-11T22:10:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
    "count": 36,
-   "fetched_et": "Oct 11 06:46 PM ET",
+   "fetched_et": "Oct 11 07:14 PM ET",
    "newest_et": "Oct 11 05:00 PM ET",
    "newest": "2026-10-11T21:00:00+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
    "count": 51,
-   "fetched_et": "Oct 11 06:46 PM ET",
+   "fetched_et": "Oct 11 07:14 PM ET",
    "newest_et": "Oct 11 06:26 PM ET",
    "newest": "2026-10-11T22:26:43+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 11 06:46 PM ET",
+   "fetched_et": "Oct 11 07:14 PM ET",
    "newest_et": "Oct 09 10:00 AM ET",
    "newest": "2026-10-09T14:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 11 06:46 PM ET",
+   "fetched_et": "Oct 11 07:14 PM ET",
    "newest_et": "Oct 11 05:35 PM ET",
    "newest": "2026-10-11T21:35:00+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Oct 11 06:45 PM ET"
+   "fetched_et": "Oct 11 07:14 PM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Oct 11 03:04 PM ET"
+   "fetched_et": "Oct 11 07:14 PM ET"
   },
   "Economic calendar": {
    "ok": true,
