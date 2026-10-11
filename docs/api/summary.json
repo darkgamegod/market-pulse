@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 11 04:16 PM ET",
- "generated_at": "2026-10-11T16:16:21.493764-04:00",
+ "generated_et": "Oct 11 04:46 PM ET",
+ "generated_at": "2026-10-11T16:46:03.184662-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-11",
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 83628.12,
-   "pct": 0.86,
-   "asof_et": "Oct 11 04:15 PM ET",
+   "price": 83595.47,
+   "pct": 0.82,
+   "asof_et": "Oct 11 04:45 PM ET",
    "freshness": "delayed"
   },
   {
@@ -382,6 +382,115 @@
  ],
  "breaking": [
   {
+   "title": "Elon Musk just handed Intel a new problem Wall Street can't ignore",
+   "link": "https://www.thestreet.com/investing/stocks/elon-musk-just-handed-intel-a-new-problem-wall-street-cant-ignore?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.5,
+   "tickers": [
+    "INTC",
+    "TSLA"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 11 04:46 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "AST SpaceMobile Shipped 3 More BlueBird Satellites to Cape Canaveral. Here's How Many It Needs in Orbit Before Revenue Shows Up.",
+   "link": "https://www.fool.com/investing/2026/10/11/ast-spacemobile-shipped-3-more-bluebird-satellites/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 1.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 11 04:46 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Not Alphabet. Not Amazon. Microsoft Trades at Big Tech's Cheapest Valuation.",
+   "link": "https://www.fool.com/investing/2026/10/11/not-alphabet-not-amazon-microsoft-trades-at-big-te/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.2,
+   "tickers": [
+    "AMZN",
+    "GOOGL",
+    "MSFT"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 11 04:46 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Does Tesla (TSLA) Gain More From Megachargers Or Tokenized Stock Trading?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/does-tesla-tsla-gain-more-200622751.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.7,
+   "tickers": [
+    "TSLA"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 11 04:46 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Trump says Russia and Ukraine agree to an ‘energy ceasefire’ but Kyiv says attacks continue",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPamZWc0pzUzdKd3YzOVM2MXRGdTc1akUwMDBma1pxUkt1OXd3ajk5RUlhLS1xaHJsVVdwVXk5cDVaMlFIcGxqSWtpelg1UUsydjFIZ3VpSXBKMTBnVlh3TTFUMGdjNlBtMWhEZmFpSnFTNVBDMWx1OVN5X2xGQS1DUndqS2RPQ2FBWXIxNGE5QzFhX0wzaW9vWUkwb2VoUHhGZU5Z?oc=5",
+   "source": "AP News",
+   "impact": 2.1,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 11 04:46 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Still Haven't Taken Your 2026 RMDs? Here's What You Need to Do.",
+   "link": "https://www.nasdaq.com/articles/still-havent-taken-your-2026-rmds-heres-what-you-need-do",
+   "source": "Nasdaq Markets",
+   "impact": 1.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 11 04:46 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Ethiopian official promises change in Tigray after troops retake regional capital",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZWs1c1NTQXhiWkFCdXRBU1RLNUt6M1o2V0JHbzg4WkwzWVQ2aElQUVNmTmY0eEFScllZRnZXVTJmQm1pcG5VOWVuS09TN2VPZFYtVnVBTmtGV2pTazFyODdram90cTB3elRjMzRRVlE1WUt6SkJnbkstZEkzSmx3OVdHQ2VOSVdzM2VBbnQ3b2taTVpNdnBV?oc=5",
+   "source": "AP News",
+   "impact": 2.1,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 11 04:46 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Lewis Hamilton unwell after Singapore race and apology to Ferrari",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSUJmQzF1c0NDMllXUDFJdmdCYnNmRGJFQWpudmt3aUVmS3hBZUFXUEJDRjFIMVR0bmk3Smx6TW0tc1lTb1FGVGlSbTdOWUU5dDRyMWcxczJKMUZaLVZpWkV6LU1icVRlTnE5U3J5NHVnN0JwMUlTVTlCLTZMN19EWDJQdWFrbGEwQUM4eE4xcTg1MmgybnE1Vmg0U1ZVc1Zxel9RXw?oc=5",
+   "source": "AP News",
+   "impact": 1.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 11 04:46 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "WMT Stock Sinks To Near Eight-Month Low — Cleveland Research Flags Slowing Sales",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQzJlR2Vhd0ExcjZuVTczNDlPc3BOdzdXaC1aM1p3V2UzOUxmVm5UNTJBTkZxeGdWTmZDa3BPVG1NbjE5bENHejBMR2NfalZCZW5hZWNLaENHa0dSZ252WmRQYWpZemxDNUxMM2dJMDZOcE1UZ2ZsWG9qNTZESUFpdU1OSEtSVDZtenJLZHhjMHhqQng5UGR6bmlNUHFWZnZoLXFQSEs3emNwdWdUbmR6OEZsN1B2VmoyXzNjaHk3aGlGRzlEOHJ4MWczZnhrZmZqWTNtQTBzNFRyQQ?oc=5",
+   "source": "Stocktwits",
+   "impact": 1.8,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 11 04:46 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Knicks champion Karl-Anthony Towns opens up about grief for World Mental Health Day",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOVJpTE1uV1ItVEZyU0dIMW0xVHF5TGtqZ181VG8zVkFBT0w1RGMtVm1rS21tRWMzbGFac1lfV3EzUnhyQUw4bmJTZ1BtcjBZTlRhU1kzcEdaTG9IcGF5aUZjdEwtUlZQVGF4UmlVM3VST3BtR0NQVmtkblF4NjRLSEFJdnZfLVRqaHJKV0F6OEtsQm9hTVFhcjlBcVYtTXBH?oc=5",
+   "source": "AP News",
+   "impact": 0.9,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 11 04:46 PM ET",
+   "consumer": false
+  },
+  {
    "title": "Justice Department investigates TV networks as White House press-access fight escalates",
    "link": "https://www.cnbc.com/2026/10/11/trump-doj-white-house-tv-press-pool-antitrust.html",
    "source": "CNBC Top News",
@@ -491,114 +600,6 @@
    ],
    "sentiment_label": "neutral",
    "seen_et": "Oct 11 03:56 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Tesla's China-made EV sales quicken in September",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcnJ1OTlHNUZkVXV0a1VVRnJRWlRPVXJ4SVYxSXd0WWUtVG1DQUJraS1uY1cwc0JMNEdaS3B2bUtPN25SQllXZm1DdTRCYjNfeERIV3ZCX2NBMmdybzhUT0lBbWpyak9pUGltclBGQkNKNjhCdFFFUUpsakhpbHRJak9CTjVDbTRWMU9uMGVXQ1JKbXVXa3FxcXlsTzhHMnhTZks0bHRBdEIxZWwyX0FN?oc=5",
-   "source": "Reuters",
-   "impact": 0.5,
-   "tickers": [
-    "TSLA"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 11 03:56 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "Clas Ohlson (OM:CLAS B) Following Strong September Sales The Valuation Case Stays In Focus",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPS0FhQ190SHVaRmdVM1l4SmJVeXJLTGhwbWs4U3lBdGt2NFBwbzZ6NGJFTS1BZE4walRpRklGWl80aWFaZXFaWUphamZQdEJsQ1BBbUZveUwwNHVWZ1FFSkRBb1FwOXowYlU5WUZNd2otekszR3pNUXNuMGJiZEtZamdIbzF4Wm9yOUFBNndDM2RzbU9uTjduWTEzV0pTYjhSZkdJdjFNc0tsVmVBQVZJWXYyd1U4RXcwaGVXaDB0YTNmNlZWdUJVdWdRZXViNFnSAdQBQVVfeXFMTWl4NEFDdW1vV2I3TExNNUFyOVVrbjBzSjQxSkxaX0FmR3hFOGRqSW5mbWM0WGNORHJVLXdxU2JFR0ZPdXNkTlVhandQdlRab1FjcVlfcHhGX0I4bDJmTzVrd2dfZVJsQ1BoQjU5cVlpX2RBNlNMUkZMUTd0d013VS02X0xHc1BfX0k5YU1VNmYyZkRWUmhLS3dQZWc4QUNRQU9IUDZxd29fWU1lNmpMaURSRHh3TDZxd3NmZnN2MHVwZVB0blFldHRHWGxybFFVQk0zcUM?oc=5",
-   "source": "Simply Wall Street",
-   "impact": 2.6,
-   "tickers": [
-    "GOOGL"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 11 03:34 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Nvidia (NVDA) Stock May Be 27% Undervalued Despite Record Highs",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-stock-may-27-190909543.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.3,
-   "tickers": [
-    "NVDA"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 11 03:34 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "USA Rare Earth's $2.8 Billion Brazil Deal vs. Its $1.2 Billion South Carolina Bet: Which One Actually Matters More?",
-   "link": "https://www.fool.com/investing/2026/10/11/usa-rare-earth-stock-billion-brazil-deal-carolina/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.1,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 11 03:34 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "What Does Kohl's (NYSE:KSS) Earnings Beat Mean for Retail Stocks?",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR01ZUkk1ek9uUkY0bXNNamhtZzRVZ0NqRHgzU1J4TW54dTI4WDlqTGl6WVBVUjBsMzY3WXVDQjZseExQc2tlNDhZU3NaX0xqR3ZmTUlCT0szazZQb2RfZFMwbFpsUkxCWTh3d3pLekRYS0Q3RkctWWJSNkNvcHQwLTE3YWw0TnlXd3lKVlEzRzRfRjFoS2JoSkE5WkJ4QUJJZklyLXpkcw?oc=5",
-   "source": "Kalkine Media",
-   "impact": 3.9,
-   "tickers": [
-    "KSS"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 11 03:34 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "A magnitude 5.2 earthquake jolts southern Peru coast and residents report light to moderate shaking",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORU1mQ1pFYXFpb1pEblNCNTdFWVpFckFqTWNJWGhGdEhVME9NTDRLc0I2TWV1MDVoYjFId1RiazBDcW13YnJSTWtTNF9laEVLRWl0TmdJTFIxLVpRdEpXYklSOFFfallnckJNdUVyYS1taGtXSVJrSXFhQVFfOXVoc3hpNmtveFdjc242VVFQV1E?oc=5",
-   "source": "AP News",
-   "impact": 1.8,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 11 03:34 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Georgia is in line to replace Texas at No. 1 in AP poll; LSU likely to fall out of top 10",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX3JIZDlwcWZFVDNxaldYRTU4LUJVVG1kUy1TT3NmVmtLWDNGQ1JPS2h1RHE1U1dvc3E4bjY4a0E2VXVKVUFySzNuSm1Ja1hsWjJTNDFhWmI2bEF1X3dZTjVkR1l5NXNuSHNyeXpFRGR0dVk5VlpfRXZUSWQ1eGJSWS1vVTZzVDYxT2tYR0VaUkx6ZWlRSU9J?oc=5",
-   "source": "AP News",
-   "impact": 1.6,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 11 03:34 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Justice Department opens antitrust probe as White House press-access fight escalates",
-   "link": "https://www.cnbc.com/2026/10/11/trump-doj-white-house-tv-press-pool-antitrust.html",
-   "source": "CNBC Top News",
-   "impact": 1.8,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 11 03:14 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Warren Buffett's Successor Has Billions in This Cloud Titan",
-   "link": "https://www.nasdaq.com/articles/warren-buffetts-successor-has-billions-cloud-titan",
-   "source": "Nasdaq Markets",
-   "impact": 2.9,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 11 03:14 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Why Is SMCI Stock Rising 10% In Premarket?",
-   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNVXZVWm1fT0RsdFlEaFFTNm9vT2hjWk5RUlRHTlpSczZYSjJJM0pYSUJSTkV6TkVmM3JQcnZOQ1dVVWk3WnpsWDE3VENaMFJ4ZVhmT2diem82OFljWm9XOEc0dHBYTkZtQzNaVkV1N0VkdWJKaHpETzRGMlBoN011bHRUbzBCdzJfZERqSnZjLTgxOG15enprVUtXTTlHekh6LVkwYXN0VVdiLWJudG1VVXJqYW16LXE4b3hiVzJrRDF1UU5waGt3dmdhQ2lXdmNObjIyZzF2dUY0TUpEck5rcVhBbzJqOThrcTBhRTctUEhVMVVRbk1HZG9rYXNoRXJqSHhUQl9B?oc=5",
-   "source": "Stocktwits",
-   "impact": 1.1,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 11 03:06 PM ET",
    "consumer": false
   }
  ],
@@ -1668,9 +1669,9 @@
   ]
  },
  "sentiment_validation": {
-  "logged": 39,
+  "logged": 43,
   "min_sample": 100,
-  "generated_et": "Oct 11 04:16 PM ET",
+  "generated_et": "Oct 11 04:46 PM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
@@ -1698,98 +1699,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 11 04:16 PM ET",
-   "newest_et": "Oct 11 04:12 PM ET",
-   "newest": "2026-10-11T20:12:12+00:00"
+   "fetched_et": "Oct 11 04:46 PM ET",
+   "newest_et": "Oct 11 04:18 PM ET",
+   "newest": "2026-10-11T20:18:38+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 11 04:16 PM ET",
+   "fetched_et": "Oct 11 04:46 PM ET",
    "newest_et": "Oct 09 03:18 PM ET",
    "newest": "2026-10-09T19:18:24+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 11 04:16 PM ET",
+   "fetched_et": "Oct 11 04:46 PM ET",
    "newest_et": "Oct 11 01:08 PM ET",
    "newest": "2026-10-11T17:08:30+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 11 04:16 PM ET",
-   "newest_et": "Oct 11 04:00 PM ET",
-   "newest": "2026-10-11T20:00:00+00:00"
+   "fetched_et": "Oct 11 04:46 PM ET",
+   "newest_et": "Oct 11 04:15 PM ET",
+   "newest": "2026-10-11T20:15:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 11 04:16 PM ET",
+   "fetched_et": "Oct 11 04:46 PM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
-   "count": 19,
-   "fetched_et": "Oct 11 04:16 PM ET",
-   "newest_et": "Oct 11 04:00 PM ET",
-   "newest": "2026-10-11T20:00:18+00:00"
+   "count": 20,
+   "fetched_et": "Oct 11 04:46 PM ET",
+   "newest_et": "Oct 11 04:33 PM ET",
+   "newest": "2026-10-11T20:33:00+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 52,
-   "fetched_et": "Oct 11 04:16 PM ET",
+   "fetched_et": "Oct 11 04:46 PM ET",
    "newest_et": "Oct 11 01:00 PM ET",
    "newest": "2026-10-11T17:00:05+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 11 04:16 PM ET",
+   "fetched_et": "Oct 11 04:46 PM ET",
    "newest_et": "Oct 11 09:19 AM ET",
    "newest": "2026-10-11T13:19:13+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 11 04:16 PM ET",
-   "newest_et": "Oct 11 04:01 PM ET",
-   "newest": "2026-10-11T20:01:00+00:00"
+   "fetched_et": "Oct 11 04:46 PM ET",
+   "newest_et": "Oct 11 03:29 PM ET",
+   "newest": "2026-10-11T19:29:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
    "count": 36,
-   "fetched_et": "Oct 11 04:16 PM ET",
+   "fetched_et": "Oct 11 04:46 PM ET",
    "newest_et": "Oct 11 04:00 PM ET",
    "newest": "2026-10-11T20:00:00+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
    "count": 51,
-   "fetched_et": "Oct 11 04:16 PM ET",
-   "newest_et": "Oct 11 03:09 PM ET",
-   "newest": "2026-10-11T19:09:11+00:00"
+   "fetched_et": "Oct 11 04:46 PM ET",
+   "newest_et": "Oct 11 02:57 PM ET",
+   "newest": "2026-10-11T18:57:00+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 11 04:16 PM ET",
+   "fetched_et": "Oct 11 04:46 PM ET",
    "newest_et": "Oct 09 10:00 AM ET",
    "newest": "2026-10-09T14:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 11 04:16 PM ET",
-   "newest_et": "Oct 11 02:50 PM ET",
-   "newest": "2026-10-11T18:50:00+00:00"
+   "fetched_et": "Oct 11 04:46 PM ET",
+   "newest_et": "Oct 11 03:30 PM ET",
+   "newest": "2026-10-11T19:30:00+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Oct 11 04:16 PM ET"
+   "fetched_et": "Oct 11 04:46 PM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
