@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Market Pulse – Pre-Market Research</title>
+<style>
+:root{--bg:#0b1020;--card:#141a2e;--line:#232b45;--txt:#e6e9f2;--mut:#8b93ad;--up:#22c55e;--dn:#ef4444;--acc:#7aa2ff;--warn:#f59e0b}
+*{box-sizing:border-box}body{margin:0;font:14px/1.45 system-ui,-apple-system,Segoe UI,Roboto,sans-serif;background:var(--bg);color:var(--txt)}
+a{color:var(--acc);text-decoration:none}a:hover{text-decoration:underline}
+header{padding:18px 20px;border-bottom:1px solid var(--line);display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:space-between;background:linear-gradient(90deg,#111834,#0b1020)}
+h1{margin:0;font-size:22px;letter-spacing:.3px}h1 span{color:var(--acc)}
+.meta{color:var(--mut);font-size:12px}.pill{display:inline-block;padding:2px 8px;border-radius:999px;font-size:11px;border:1px solid var(--line);margin:2px 2px 0 0;color:var(--mut)}
+.disc{background:#2a1f06;border:1px solid #5c4410;color:#fcd68a;padding:10px 14px;margin:14px 20px;border-radius:8px;font-size:13px}
+main{padding:0 20px 30px;display:grid;gap:16px;grid-template-columns:repeat(12,1fr)}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px;grid-column:span 12;min-width:0}
+.c6{grid-column:span 6}.c4{grid-column:span 4}.c8{grid-column:span 8}
+@media(max-width:900px){.c6,.c4,.c8{grid-column:span 12}}
+h2{margin:0 0 10px;font-size:15px;text-transform:uppercase;letter-spacing:.8px;color:var(--mut);display:flex;justify-content:space-between;align-items:center}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:8px}
+.q{background:#0f1529;border:1px solid var(--line);border-radius:8px;padding:8px 10px}.q .l{font-size:11px;color:var(--mut)}.q .p{font-size:17px;font-weight:600}
+.up{color:var(--up)}.dn{color:var(--dn)}.nt{color:var(--mut)}
+.heat{display:grid;grid-template-columns:repeat(auto-fill,minmax(120px,1fr));gap:6px}
+.hc{border-radius:8px;padding:10px;min-height:70px;color:#fff}.hc b{display:block;font-size:13px}.hc small{opacity:.85}
+.theme{border-top:1px solid var(--line);padding:10px 0}.theme:first-of-type{border-top:0}
+.theme h3{margin:0 0 4px;font-size:15px;display:flex;justify-content:space-between;gap:8px}
+ul.hl{margin:4px 0 0;padding-left:18px}ul.hl li{margin:3px 0}
+table{width:100%;border-collapse:collapse}td,th{padding:7px 6px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}th{color:var(--mut);font-weight:500;font-size:12px}
+.tk{font-weight:700;font-family:ui-monospace,monospace}
+details summary{cursor:pointer;color:var(--acc);font-size:12px}
+.live{max-height:520px;overflow:auto}
+.li{padding:8px 0;border-bottom:1px solid var(--line);display:flex;gap:10px}.li:last-child{border:0}
+.imp{min-width:38px;height:38px;border-radius:8px;display:flex;align-items:center;justify-content:center;font-weight:700;background:#1d2440}
+.imp.h{background:#7f1d1d}.imp.m{background:#78350f}
+.new{background:var(--dn);color:#fff;border:0;animation:p 1.5s infinite}@keyframes p{50%{opacity:.4}}
+.dot{width:8px;height:8px;border-radius:50%;background:var(--up);display:inline-block;margin-right:6px;animation:p 2s infinite}
+.ev{display:flex;gap:10px;padding:6px 0;border-bottom:1px solid var(--line)}.ev .d{min-width:88px;color:var(--mut);font-family:ui-monospace,monospace}
+.high{color:var(--dn)}.medium{color:var(--warn)}
+footer{color:var(--mut);font-size:12px;padding:0 20px 30px}
+input{background:#0f1529;border:1px solid var(--line);color:var(--txt);border-radius:6px;padding:5px 8px;width:160px}
+</style></head><body>
+<header>
+ <div><h1>Market <span>Pulse</span></h1><div class="meta" id="sub"></div></div>
+ <div class="meta"><a href="archive/index.html">Archive</a> · <a href="data/latest.json">JSON</a> · <a href="data/live.json">Live JSON</a></div>
+</header>
+<div class="disc"><b>Educational research only — not financial advice.</b> This dashboard is generated automatically from public headlines and delayed market data for training purposes. Sentiment and impact scores are crude heuristics and can be wrong. Do your own analysis; never trade solely on this page.</div>
+<main>
+ <section class="card" id="livecard"><h2><span><span class="dot"></span>Live feed / breaking</span><span class="meta" id="liveupd"></span></h2>
+  <div style="margin-bottom:6px"><input id="flt" placeholder="filter (e.g. NVDA, fed)"></div><div class="live" id="live"></div></section>
+ <section class="card"><h2>Pre-market snapshot <span class="meta" id="snapas"></span></h2><div class="grid" id="snap"></div></section>
+ <section class="card c8"><h2>Top themes</h2><div id="themes"></div></section>
+ <section class="card c4"><h2>What to watch</h2><div id="watch"></div></section>
+ <section class="card c6"><h2>Sector heatmap <span class="meta">color = ETF % chg · ★ news sentiment</span></h2><div class="heat" id="heat"></div></section>
+ <section class="card c6"><h2>Ticker watchlist</h2><table><thead><tr><th>Ticker</th><th>% chg</th><th>Mentions</th><th>Sent.</th><th>Headlines</th></tr></thead><tbody id="wl"></tbody></table></section>
+ <section class="card"><h2>Data sources</h2><div id="src"></div></section>
+</main>
+<footer>Generated by Market Pulse. Quotes via Yahoo Finance (may be delayed). Headlines © their publishers; links go to the original source. <b>Not financial advice.</b></footer>
+<script>
+const DATA=/*__DATA__*/null;
+const D=DATA.daily,L=DATA.live||{items:[]};
+const $=id=>document.getElementById(id);
+const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const cls=v=>v==null?"nt":v>0?"up":v<0?"dn":"nt";
+const pct=v=>v==null?"–":(v>0?"+":"")+v.toFixed(2)+"%";
+const sl=s=>s>=0.25?'<span class="up">bullish</span>':s<=-0.25?'<span class="dn">bearish</span>':'<span class="nt">neutral</span>';
+const a=h=>`<a href="${esc(h.link)}" target="_blank" rel="noopener">${esc(h.title)}</a> <span class="meta">— ${esc(h.source)}</span>`;
+$("sub").textContent=`Daily pre-market report for ${D.date} · generated ${D.generated_et} · ${D.item_count} headlines analysed`;
+const groups={};Object.values(D.quotes).filter(q=>q.group!=="Sectors").forEach(q=>(groups[q.group]=groups[q.group]||[]).push(q));
+$("snap").innerHTML=Object.values(groups).flat().map(q=>`<div class="q"><div class="l">${esc(q.label)} · ${esc(q.group)}</div><div class="p">${q.price.toLocaleString()}</div><div class="${cls(q.pct)}">${q.change>0?"+":""}${q.change} (${pct(q.pct)})</div></div>`).join("")||"<i>No quotes available</i>";
+$("snapas").textContent=D.quotes_asof?"last close/quote: "+D.quotes_asof:"";
+$("themes").innerHTML=D.themes.map(t=>`<div class="theme"><h3><span>${esc(t.name)}</span><span class="meta">${t.count} items · score ${t.score} · ${sl(t.sentiment)}</span></h3>
+<div>${t.tickers.map(x=>`<span class="pill tk">${esc(x)}</span>`).join("")}</div><ul class="hl">${t.headlines.map(h=>`<li>${a(h)} <span class="pill">impact ${h.impact}</span></li>`).join("")}</ul></div>`).join("");
+const col=p=>{if(p==null)return"#334";const k=Math.min(1,Math.abs(p)/2.5);return p>=0?`rgba(34,197,94,${.25+.7*k})`:`rgba(239,68,68,${.25+.7*k})`};
+$("heat").innerHTML=D.sectors.map(s=>`<div class="hc" style="background:${col(s.pct)}"><b>${esc(s.name)}</b><small>${s.etf} ${pct(s.pct)}</small><br><small>★ ${s.news} news · ${s.sentiment>0?"+":""}${s.sentiment}</small></div>`).join("");
+$("wl").innerHTML=D.watchlist.map(w=>`<tr><td class="tk">${esc(w.ticker)}</td><td class="${cls(w.pct)}">${pct(w.pct)}</td><td>${w.mentions}</td><td>${sl(w.sentiment)}</td><td><details><summary>${w.headlines.length} source headline(s)</summary><ul class="hl">${w.headlines.map(h=>`<li>${a(h)}</li>`).join("")}</ul></details></td></tr>`).join("");
+const W=D.what_to_watch;
+$("watch").innerHTML=W.events.map(e=>`<div class="ev"><span class="d">${e.date}</span><span class="${e.importance}">${esc(e.event)}</span></div>`).join("")+
+ (W.headline_hints.length?`<h2 style="margin-top:12px">Forward-looking headlines</h2><ul class="hl">${W.headline_hints.map(h=>`<li>${a(h)}</li>`).join("")}</ul>`:"")+`<p class="meta">${esc(W.note)}</p>`;
+$("src").innerHTML=Object.entries(D.sources).map(([k,v])=>`<span class="pill" style="color:${v.ok?"var(--up)":"var(--dn)"}">${v.ok?"✓":"✗"} ${esc(k)}${v.count!=null?" ("+v.count+")":""}</span>`).join("");
+function renderLive(){
+ const f=$("flt").value.toLowerCase();
+ const its=(L.items||[]).filter(i=>!f||(i.title+" "+i.tickers.join(" ")+" "+i.themes.join(" ")).toLowerCase().includes(f));
+ const cut=Date.now()-30*60e3;
+ $("live").innerHTML=its.slice(0,150).map(i=>{const c=i.impact>=7?"h":i.impact>=5?"m":"";const fresh=Date.parse(i.seen_at)>cut;
+ return `<div class="li"><div class="imp ${c}">${i.impact}</div><div>${fresh?'<span class="pill new">NEW</span>':""}${a(i)}<div>${i.tickers.slice(0,6).map(x=>`<span class="pill tk">${esc(x)}</span>`).join("")}${i.themes.map(x=>`<span class="pill">${esc(x)}</span>`).join("")} ${sl(i.sentiment)} <span class="meta">· seen ${esc(i.seen_et)}</span></div></div></div>`}).join("")||"<i class='meta'>No live items yet. Run <code>python run.py --watch</code>.</i>";
+}
+$("flt").oninput=renderLive;renderLive();
+$("liveupd").textContent=L.archived?"(archived snapshot)":`updated ${L.updated_et||"–"} · ${(L.items||[]).length} items`;
+// auto-refresh when hosted (new data arrives via watcher / scheduled job)
+if(!L.archived)setTimeout(()=>location.reload(),5*60e3);
+</script></body></html>

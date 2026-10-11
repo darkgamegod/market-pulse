@@ -1,0 +1,2516 @@
+{
+ "date": "2026-10-11",
+ "generated_et": "Sun Oct 11 2026, 09:34 AM ET",
+ "generated_utc": "2026-10-11T13:34:47.140355+00:00",
+ "item_count": 334,
+ "quotes": {
+  "ES=F": {
+   "symbol": "ES=F",
+   "label": "S&P 500 Fut",
+   "group": "Futures",
+   "price": 7859.75,
+   "change": 43.5,
+   "pct": 0.56,
+   "asof": "2026-10-09"
+  },
+  "NQ=F": {
+   "symbol": "NQ=F",
+   "label": "Nasdaq 100 Fut",
+   "group": "Futures",
+   "price": 31108.75,
+   "change": 139.25,
+   "pct": 0.45,
+   "asof": "2026-10-09"
+  },
+  "YM=F": {
+   "symbol": "YM=F",
+   "label": "Dow Fut",
+   "group": "Futures",
+   "price": 51926.0,
+   "change": 433.0,
+   "pct": 0.84,
+   "asof": "2026-10-09"
+  },
+  "RTY=F": {
+   "symbol": "RTY=F",
+   "label": "Russell 2000 Fut",
+   "group": "Futures",
+   "price": 2822.1,
+   "change": 12.5,
+   "pct": 0.44,
+   "asof": "2026-10-09"
+  },
+  "SPY": {
+   "symbol": "SPY",
+   "label": "SPY",
+   "group": "Index ETFs",
+   "price": 778.57,
+   "change": 4.64,
+   "pct": 0.6,
+   "asof": "2026-10-09"
+  },
+  "QQQ": {
+   "symbol": "QQQ",
+   "label": "QQQ",
+   "group": "Index ETFs",
+   "price": 751.27,
+   "change": 3.69,
+   "pct": 0.49,
+   "asof": "2026-10-09"
+  },
+  "DIA": {
+   "symbol": "DIA",
+   "label": "DIA",
+   "group": "Index ETFs",
+   "price": 516.11,
+   "change": 4.46,
+   "pct": 0.87,
+   "asof": "2026-10-09"
+  },
+  "IWM": {
+   "symbol": "IWM",
+   "label": "IWM",
+   "group": "Index ETFs",
+   "price": 278.94,
+   "change": 1.37,
+   "pct": 0.49,
+   "asof": "2026-10-09"
+  },
+  "^VIX": {
+   "symbol": "^VIX",
+   "label": "VIX",
+   "group": "Volatility",
+   "price": 14.84,
+   "change": -0.57,
+   "pct": -3.7,
+   "asof": "2026-10-09"
+  },
+  "CL=F": {
+   "symbol": "CL=F",
+   "label": "WTI Crude",
+   "group": "Macro",
+   "price": 91.85,
+   "change": 0.36,
+   "pct": 0.39,
+   "asof": "2026-10-09"
+  },
+  "GC=F": {
+   "symbol": "GC=F",
+   "label": "Gold",
+   "group": "Macro",
+   "price": 4216.3,
+   "change": 59.3,
+   "pct": 1.43,
+   "asof": "2026-10-09"
+  },
+  "DX-Y.NYB": {
+   "symbol": "DX-Y.NYB",
+   "label": "Dollar Index",
+   "group": "Macro",
+   "price": 102.21,
+   "change": 0.07,
+   "pct": 0.07,
+   "asof": "2026-10-09"
+  },
+  "^TNX": {
+   "symbol": "^TNX",
+   "label": "10Y Yield",
+   "group": "Macro",
+   "price": 5.24,
+   "change": 0.01,
+   "pct": 0.25,
+   "asof": "2026-10-09"
+  },
+  "BTC-USD": {
+   "symbol": "BTC-USD",
+   "label": "Bitcoin",
+   "group": "Macro",
+   "price": 83007.19,
+   "change": 94.96,
+   "pct": 0.11,
+   "asof": "2026-10-11"
+  },
+  "XLK": {
+   "symbol": "XLK",
+   "label": "Technology",
+   "group": "Sectors",
+   "price": 198.78,
+   "change": 1.0,
+   "pct": 0.51,
+   "asof": "2026-10-09"
+  },
+  "XLF": {
+   "symbol": "XLF",
+   "label": "Financials",
+   "group": "Sectors",
+   "price": 54.73,
+   "change": 0.5,
+   "pct": 0.92,
+   "asof": "2026-10-09"
+  },
+  "XLE": {
+   "symbol": "XLE",
+   "label": "Energy",
+   "group": "Sectors",
+   "price": 65.08,
+   "change": -0.16,
+   "pct": -0.25,
+   "asof": "2026-10-09"
+  },
+  "XLV": {
+   "symbol": "XLV",
+   "label": "Health Care",
+   "group": "Sectors",
+   "price": 170.81,
+   "change": 2.65,
+   "pct": 1.58,
+   "asof": "2026-10-09"
+  },
+  "XLY": {
+   "symbol": "XLY",
+   "label": "Cons. Discretionary",
+   "group": "Sectors",
+   "price": 112.85,
+   "change": 1.14,
+   "pct": 1.02,
+   "asof": "2026-10-09"
+  },
+  "XLP": {
+   "symbol": "XLP",
+   "label": "Cons. Staples",
+   "group": "Sectors",
+   "price": 83.43,
+   "change": 0.01,
+   "pct": 0.01,
+   "asof": "2026-10-09"
+  },
+  "XLI": {
+   "symbol": "XLI",
+   "label": "Industrials",
+   "group": "Sectors",
+   "price": 169.25,
+   "change": 0.85,
+   "pct": 0.5,
+   "asof": "2026-10-09"
+  },
+  "XLB": {
+   "symbol": "XLB",
+   "label": "Materials",
+   "group": "Sectors",
+   "price": 49.43,
+   "change": 0.16,
+   "pct": 0.32,
+   "asof": "2026-10-09"
+  },
+  "XLU": {
+   "symbol": "XLU",
+   "label": "Utilities",
+   "group": "Sectors",
+   "price": 41.41,
+   "change": 0.34,
+   "pct": 0.83,
+   "asof": "2026-10-09"
+  },
+  "XLRE": {
+   "symbol": "XLRE",
+   "label": "Real Estate",
+   "group": "Sectors",
+   "price": 41.61,
+   "change": 0.76,
+   "pct": 1.86,
+   "asof": "2026-10-09"
+  },
+  "XLC": {
+   "symbol": "XLC",
+   "label": "Communication",
+   "group": "Sectors",
+   "price": 110.38,
+   "change": -1.69,
+   "pct": -1.51,
+   "asof": "2026-10-09"
+  },
+  "SMH": {
+   "symbol": "SMH",
+   "label": "Semiconductors",
+   "group": "Sectors",
+   "price": 603.33,
+   "change": -3.94,
+   "pct": -0.65,
+   "asof": "2026-10-09"
+  }
+ },
+ "quotes_asof": "2026-10-11",
+ "themes": [
+  {
+   "name": "Fed & Rates",
+   "count": 68,
+   "score": 54.6,
+   "sentiment": 0.0,
+   "tickers": [
+    "^TNX",
+    "SPY",
+    "CL=F",
+    "XLE",
+    "DIA",
+    "^VIX"
+   ],
+   "headlines": [
+    {
+     "title": "Trump created a committee to dig into the Fed's Lisa Cook. What is it and what comes next?",
+     "link": "https://www.cnbc.com/2026/10/09/trump-lisa-cook-fed-firing-committee-explained.html",
+     "source": "CNBC Top News",
+     "impact": 6.4,
+     "sentiment_label": "bullish"
+    },
+    {
+     "title": "Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed",
+     "link": "https://www.cnbc.com/2026/09/24/surging-treasury-yields-are-posing-a-brand-new-problem-for-kevin-warsh-and-the-fed.html",
+     "source": "CNBC Markets",
+     "impact": 5.6,
+     "sentiment_label": "neutral"
+    },
+    {
+     "title": "Federal Reserve issues FOMC statement",
+     "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+     "source": "Fed Press Releases",
+     "impact": 5.6,
+     "sentiment_label": "neutral"
+    },
+    {
+     "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
+     "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
+     "source": "Fed Press Releases",
+     "impact": 5.6,
+     "sentiment_label": "neutral"
+    },
+    {
+     "title": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
+     "link": "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html",
+     "source": "CNBC Markets",
+     "impact": 5.5,
+     "sentiment_label": "neutral"
+    }
+   ]
+  },
+  {
+   "name": "Inflation & Macro Data",
+   "count": 34,
+   "score": 50.1,
+   "sentiment": 0.08,
+   "tickers": [
+    "^TNX",
+    "SPY",
+    "GS",
+    "DIA",
+    "MSFT",
+    "C"
+   ],
+   "headlines": [
+    {
+     "title": "Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed",
+     "link": "https://www.cnbc.com/2026/09/24/surging-treasury-yields-are-posing-a-brand-new-problem-for-kevin-warsh-and-the-fed.html",
+     "source": "CNBC Markets",
+     "impact": 5.6,
+     "sentiment_label": "neutral"
+    },
+    {
+     "title": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
+     "link": "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html",
+     "source": "CNBC Markets",
+     "impact": 5.5,
+     "sentiment_label": "neutral"
+    },
+    {
+     "title": "Fed’s preferred gauge showed core inflation at 3.0% in August, much lighter than expected",
+     "link": "https://www.cnbc.com/2026/09/30/feds-preferred-gauge-showed-core-inflation-at-3point0percent-in-august-much-lighter-than-expected.html",
+     "source": "CNBC Markets",
+     "impact": 5.5,
+     "sentiment_label": "bullish"
+    },
+    {
+     "title": "Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva",
+     "link": "https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html",
+     "source": "CNBC Markets",
+     "impact": 5.3,
+     "sentiment_label": "bullish"
+    },
+    {
+     "title": "Fed's Musalem says tighter monetary policy needed to lower inflation",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaGVSNzFYTFV0aklwQnlYM3lyV3NMY0FmNi1QUFQ4b1A5bmNkZ01LMkdVZ3NmdmI0SFVRZXM4V1BjN1JOcHE3bTJQQUczbF9ESGI1VUM5ZklBZXFqSUpFQlZLazhaUU5BNjUyTVFDMEtmdHhqOU12WjJMM2ZDNzdscVU5NUl6d1BuV2k4ZWVBblZGaFVoVWxReFlIUFdOU09KempHczB4bnl2SFBabnkwMGJR?oc=5",
+     "source": "Reuters",
+     "impact": 5.0,
+     "sentiment_label": "bearish"
+    }
+   ]
+  },
+  {
+   "name": "Trade, Tariffs & Geopolitics",
+   "count": 67,
+   "score": 47.8,
+   "sentiment": -0.02,
+   "tickers": [
+    "^TNX",
+    "SPY",
+    "CL=F",
+    "XLE",
+    "NFLX",
+    "COST"
+   ],
+   "headlines": [
+    {
+     "title": "Trump created a committee to dig into the Fed's Lisa Cook. What is it and what comes next?",
+     "link": "https://www.cnbc.com/2026/10/09/trump-lisa-cook-fed-firing-committee-explained.html",
+     "source": "CNBC Top News",
+     "impact": 6.4,
+     "sentiment_label": "bullish"
+    },
+    {
+     "title": "Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed",
+     "link": "https://www.cnbc.com/2026/09/24/surging-treasury-yields-are-posing-a-brand-new-problem-for-kevin-warsh-and-the-fed.html",
+     "source": "CNBC Markets",
+     "impact": 5.6,
+     "sentiment_label": "neutral"
+    },
+    {
+     "title": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
+     "link": "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html",
+     "source": "CNBC Markets",
+     "impact": 5.5,
+     "sentiment_label": "neutral"
+    },
+    {
+     "title": "Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva",
+     "link": "https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html",
+     "source": "CNBC Markets",
+     "impact": 5.3,
+     "sentiment_label": "bullish"
+    },
+    {
+     "title": "Levi Strauss hikes profit guidance after tariff refunds, but its sales outlook is less optimistic",
+     "link": "https://www.cnbc.com/2026/10/07/levi-strauss-levi-q3-2026-earnings.html",
+     "source": "CNBC Economy",
+     "impact": 5.1,
+     "sentiment_label": "bullish"
+    }
+   ]
+  },
+  {
+   "name": "Banks & Credit",
+   "count": 36,
+   "score": 47.7,
+   "sentiment": 0.15,
+   "tickers": [
+    "^TNX",
+    "SPY",
+    "GS",
+    "JPM",
+    "GC=F",
+    "BAC"
+   ],
+   "headlines": [
+    {
+     "title": "Trump created a committee to dig into the Fed's Lisa Cook. What is it and what comes next?",
+     "link": "https://www.cnbc.com/2026/10/09/trump-lisa-cook-fed-firing-committee-explained.html",
+     "source": "CNBC Top News",
+     "impact": 6.4,
+     "sentiment_label": "bullish"
+    },
+    {
+     "title": "Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed",
+     "link": "https://www.cnbc.com/2026/09/24/surging-treasury-yields-are-posing-a-brand-new-problem-for-kevin-warsh-and-the-fed.html",
+     "source": "CNBC Markets",
+     "impact": 5.6,
+     "sentiment_label": "neutral"
+    },
+    {
+     "title": "Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva",
+     "link": "https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html",
+     "source": "CNBC Markets",
+     "impact": 5.3,
+     "sentiment_label": "bullish"
+    },
+    {
+     "title": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
+     "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm",
+     "source": "Fed Press Releases",
+     "impact": 5.2,
+     "sentiment_label": "bullish"
+    },
+    {
+     "title": "Wall St Week Ahead Bank earnings, CPI headline busy markets week as S&P 500 hovers near records",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc2ZtTkg1OU1ZeEVqdGdTUjFKR1BSYkwzcWRwWG1wNjE2UFpqa2NYbmxPMXNxM2pURVpLWVVUYm9zUmE2S1QwMEUxZURaejlrb1g1V0dEMF80RnBWOUo4U1VPYzNlM0M5dlBnMkdQVS1ObHA2b1BYTmJLa1RuUk8xSVB4bk5FUnRQblcwTUtLTVFMZGU2Y0o0VEVWLWFBUnRCOWlpUEI0MmF2WGJyTmdhd3lpQlZDZ3JQZXJMd0FYcw?oc=5",
+     "source": "Reuters",
+     "impact": 4.5,
+     "sentiment_label": "neutral"
+    }
+   ]
+  },
+  {
+   "name": "Earnings & Guidance",
+   "count": 39,
+   "score": 43.4,
+   "sentiment": 0.18,
+   "tickers": [
+    "SPY",
+    "^TNX",
+    "DIA",
+    "NVDA",
+    "QQQ",
+    "NFLX"
+   ],
+   "headlines": [
+    {
+     "title": "Levi Strauss hikes profit guidance after tariff refunds, but its sales outlook is less optimistic",
+     "link": "https://www.cnbc.com/2026/10/07/levi-strauss-levi-q3-2026-earnings.html",
+     "source": "CNBC Economy",
+     "impact": 5.1,
+     "sentiment_label": "bullish"
+    },
+    {
+     "title": "Inflation fears on the rise as one-year outlook in Fed survey hits highest level since May 2023",
+     "link": "https://www.cnbc.com/2026/10/07/inflation-fears-on-the-rise-as-one-year-outlook-in-fed-survey-hits-highest-since-may-2023.html",
+     "source": "CNBC Markets",
+     "impact": 4.9,
+     "sentiment_label": "bearish"
+    },
+    {
+     "title": "Dow Jones Futures Loom; ASML, Nvidia Chipmaker Taiwan Semi To Kick Off AI Earnings",
+     "link": "https://finance.yahoo.com/m/0d7a86f7-63d8-35ac-9402-ed0f2ca814ac/dow-jones-futures-loom%3B-asml%2C.html?.tsrc=rss",
+     "source": "Yahoo Finance",
+     "impact": 4.8,
+     "sentiment_label": "neutral"
+    },
+    {
+     "title": "Prediction: Netflix Stock Is Going to Soar After Oct. 20",
+     "link": "https://www.fool.com/investing/2026/10/11/prediction-netflix-stock-going-soar-after-oct-20/?.tsrc=rss",
+     "source": "Yahoo Finance",
+     "impact": 4.8,
+     "sentiment_label": "bullish"
+    },
+    {
+     "title": "Stocks advance ahead of earnings, navigating still-high Treasury yields and oil prices",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmemlrTzkxS0ZGNW4xVC1Bb0FYNmR0MWNHMnFtYXl6Wmg2UHFSVWwwUEQ0MEI5dmY0VGVtR1RURVc2aHlZRjBnVS0yQzdJaDVqNWVnSGFOZkh6SHdTSTJVUDBjd0tFdFhrbjFHa3ExVzFNN0FvOXFpOTZ2QQ?oc=5",
+     "source": "Reuters",
+     "impact": 4.7,
+     "sentiment_label": "bullish"
+    }
+   ]
+  },
+  {
+   "name": "AI & Semiconductors",
+   "count": 29,
+   "score": 34.3,
+   "sentiment": 0.05,
+   "tickers": [
+    "NVDA",
+    "MSFT",
+    "^TNX",
+    "DIA",
+    "QQQ",
+    "SPY"
+   ],
+   "headlines": [
+    {
+     "title": "Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva",
+     "link": "https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html",
+     "source": "CNBC Markets",
+     "impact": 5.3,
+     "sentiment_label": "bullish"
+    },
+    {
+     "title": "Dow Jones Futures Loom; ASML, Nvidia Chipmaker Taiwan Semi To Kick Off AI Earnings",
+     "link": "https://finance.yahoo.com/m/0d7a86f7-63d8-35ac-9402-ed0f2ca814ac/dow-jones-futures-loom%3B-asml%2C.html?.tsrc=rss",
+     "source": "Yahoo Finance",
+     "impact": 4.8,
+     "sentiment_label": "neutral"
+    },
+    {
+     "title": "AI’s quiet safety gatekeepers are stepping into the spotlight",
+     "link": "https://www.cnbc.com/2026/10/11/ais-quiet-safety-gatekeepers-are-stepping-into-the-spotlight.html",
+     "source": "CNBC Top News",
+     "impact": 3.9,
+     "sentiment_label": "bullish"
+    },
+    {
+     "title": "Billionaire Ray Dalio Said The AI Bubble Is Close To Popping. Could SpaceX Be the Culpirit?",
+     "link": "https://www.fool.com/investing/2026/10/11/billionaire-ray-dalio-said-the-ai-bubble-is-close-to-popping-could-spacex-be-the-culpirit/?.tsrc=rss",
+     "source": "Yahoo Finance",
+     "impact": 3.6,
+     "sentiment_label": "bearish"
+    },
+    {
+     "title": "SpaceX vs. Micron: Which Is the Better Artificial Intelligence (AI) Stock to Own for the Next 5 Years?",
+     "link": "https://www.fool.com/investing/2026/10/11/spacex-vs-micron-better-artificial-intelligence-ai/?.tsrc=rss",
+     "source": "Yahoo Finance",
+     "impact": 3.3,
+     "sentiment_label": "bullish"
+    }
+   ]
+  },
+  {
+   "name": "Energy & Commodities",
+   "count": 19,
+   "score": 31.9,
+   "sentiment": -0.09,
+   "tickers": [
+    "CL=F",
+    "XLE",
+    "^TNX",
+    "GS",
+    "GC=F",
+    "SPY"
+   ],
+   "headlines": [
+    {
+     "title": "Stocks advance ahead of earnings, navigating still-high Treasury yields and oil prices",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmemlrTzkxS0ZGNW4xVC1Bb0FYNmR0MWNHMnFtYXl6Wmg2UHFSVWwwUEQ0MEI5dmY0VGVtR1RURVc2aHlZRjBnVS0yQzdJaDVqNWVnSGFOZkh6SHdTSTJVUDBjd0tFdFhrbjFHa3ExVzFNN0FvOXFpOTZ2QQ?oc=5",
+     "source": "Reuters",
+     "impact": 4.7,
+     "sentiment_label": "bullish"
+    },
+    {
+     "title": "India’s central bank hikes rates for the first time since 2023 as inflation risks build",
+     "link": "https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html",
+     "source": "CNBC Markets",
+     "impact": 4.5,
+     "sentiment_label": "bullish"
+    },
+    {
+     "title": "Gold ticks up as investors weigh Fed path, mounting debt concerns",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaTl2VDRiV2EtanRNTGxRVGc4OEhQUUhZOEV1MXduVGNBOW1wa2V6N2lqaXJaX2hiVnpPdU5kSC05VGNVUV9ydExDbnVral9vVW1qTFlvYTZSMGY2cTFraXRJeEthaEZmMFRuVmtVYzc2azRkYlM5MVBvWG9nUGY0LUFBX2VmZHNWTkxHTVZGdUtvTWd2NGlJbg?oc=5",
+     "source": "Reuters",
+     "impact": 3.8,
+     "sentiment_label": "bearish"
+    },
+    {
+     "title": "JPMorgan Chase, Goldman and other big banks report earnings this week. What to expect",
+     "link": "https://www.cnbc.com/2026/10/11/bank-earnings-jpmorgan-goldman.html",
+     "source": "CNBC Top News",
+     "impact": 3.5,
+     "sentiment_label": "neutral"
+    },
+    {
+     "title": "Shares slip as oil jumps and bond yields stay high",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYWJkYkZhMHpnb0pNVlAyTTZGOEYtSno1YTJGRV9GYWRPSDg1WGxXNlFKUVY4VGVzc0RMLVVVVFFlamgzd3ROTjBXTndhYm5Ia0hwbDhaSXBCQWIzZDhQSGxGUWdoZndaZHV3YUgyd2NUb0FsTkNlYWRYYUFyN0tSWFlYbw?oc=5",
+     "source": "Reuters",
+     "impact": 3.5,
+     "sentiment_label": "bullish"
+    }
+   ]
+  },
+  {
+   "name": "Consumer & Retail",
+   "count": 15,
+   "score": 28.4,
+   "sentiment": -0.01,
+   "tickers": [
+    "SPY",
+    "^TNX",
+    "GS",
+    "CL=F",
+    "XLE",
+    "AMZN"
+   ],
+   "headlines": [
+    {
+     "title": "Inflation fears on the rise as one-year outlook in Fed survey hits highest level since May 2023",
+     "link": "https://www.cnbc.com/2026/10/07/inflation-fears-on-the-rise-as-one-year-outlook-in-fed-survey-hits-highest-since-may-2023.html",
+     "source": "CNBC Markets",
+     "impact": 4.9,
+     "sentiment_label": "bearish"
+    },
+    {
+     "title": "The Fed's main inflation measure will be released Wednesday. Here's what to expect",
+     "link": "https://www.cnbc.com/2026/09/29/the-feds-main-inflation-measure-will-be-released-wednesday-heres-what-to-expect.html",
+     "source": "CNBC Markets",
+     "impact": 4.8,
+     "sentiment_label": "bearish"
+    },
+    {
+     "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
+     "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
+     "source": "Fed Press Releases",
+     "impact": 3.3,
+     "sentiment_label": "neutral"
+    },
+    {
+     "title": "Consumer sentiment is in the dumps despite a solid economy. Goldman Sachs blames 'lower happiness'",
+     "link": "https://www.cnbc.com/2026/09/19/goldman-sachs-happiness-struggling-consumer-sentiment.html",
+     "source": "CNBC Markets",
+     "impact": 3.1,
+     "sentiment_label": "bearish"
+    },
+    {
+     "title": "AI may change the price of your Big Mac and groceries — what this means for shoppers",
+     "link": "https://www.cnbc.com/2026/10/11/ai-dynamic-pricing-shoppers-groceries.html",
+     "source": "CNBC Top News",
+     "impact": 2.7,
+     "sentiment_label": "bearish"
+    }
+   ]
+  }
+ ],
+ "sectors": [
+  {
+   "etf": "XLK",
+   "name": "Technology",
+   "pct": 0.51,
+   "news": 43,
+   "sentiment": 0.13
+  },
+  {
+   "etf": "XLF",
+   "name": "Financials",
+   "pct": 0.92,
+   "news": 28,
+   "sentiment": 0.15
+  },
+  {
+   "etf": "XLE",
+   "name": "Energy",
+   "pct": -0.25,
+   "news": 14,
+   "sentiment": -0.07
+  },
+  {
+   "etf": "XLV",
+   "name": "Health Care",
+   "pct": 1.58,
+   "news": 9,
+   "sentiment": -0.06
+  },
+  {
+   "etf": "XLY",
+   "name": "Cons. Discretionary",
+   "pct": 1.02,
+   "news": 18,
+   "sentiment": 0.05
+  },
+  {
+   "etf": "XLP",
+   "name": "Cons. Staples",
+   "pct": 0.01,
+   "news": 2,
+   "sentiment": -0.44
+  },
+  {
+   "etf": "XLI",
+   "name": "Industrials",
+   "pct": 0.5,
+   "news": 12,
+   "sentiment": 0.05
+  },
+  {
+   "etf": "XLB",
+   "name": "Materials",
+   "pct": 0.32,
+   "news": 6,
+   "sentiment": -0.03
+  },
+  {
+   "etf": "XLU",
+   "name": "Utilities",
+   "pct": 0.83,
+   "news": 1,
+   "sentiment": 0.34
+  },
+  {
+   "etf": "XLRE",
+   "name": "Real Estate",
+   "pct": 1.86,
+   "news": 3,
+   "sentiment": -0.2
+  },
+  {
+   "etf": "XLC",
+   "name": "Communication",
+   "pct": -1.51,
+   "news": 10,
+   "sentiment": 0.18
+  },
+  {
+   "etf": "SMH",
+   "name": "Semiconductors",
+   "pct": -0.65,
+   "news": 14,
+   "sentiment": 0.23
+  }
+ ],
+ "watchlist": [
+  {
+   "ticker": "^TNX",
+   "mentions": 29,
+   "impact": 103.6,
+   "headlines": [
+    {
+     "title": "The bull market is turning 4 years old — but yields could crash the party",
+     "link": "https://www.marketwatch.com/story/the-bull-market-is-turning-4-years-old-but-yields-could-crash-the-party-1305fe6c?mod=mw_rss_topstories",
+     "source": "MarketWatch Top"
+    },
+    {
+     "title": "Bank earnings to shed the first light on how higher yields are affecting the economy",
+     "link": "https://www.marketwatch.com/story/bank-earnings-to-shed-the-first-light-on-how-higher-yields-are-affecting-the-economy-cf3763ef?mod=mw_rss_topstories",
+     "source": "MarketWatch Top"
+    },
+    {
+     "title": "Should I put my nest egg in a 30-year Treasury bond?",
+     "link": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
+     "source": "MarketWatch Top"
+    },
+    {
+     "title": "Stocks advance ahead of earnings, navigating still-high Treasury yields and oil prices",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmemlrTzkxS0ZGNW4xVC1Bb0FYNmR0MWNHMnFtYXl6Wmg2UHFSVWwwUEQ0MEI5dmY0VGVtR1RURVc2aHlZRjBnVS0yQzdJaDVqNWVnSGFOZkh6SHdTSTJVUDBjd0tFdFhrbjFHa3ExVzFNN0FvOXFpOTZ2QQ?oc=5",
+     "source": "Reuters"
+    }
+   ],
+   "sentiment": -0.03,
+   "pct": 0.25
+  },
+  {
+   "ticker": "SPY",
+   "mentions": 14,
+   "impact": 65.0,
+   "headlines": [
+    {
+     "title": "Dow Jones Futures Loom; ASML, Nvidia Chipmaker Taiwan Semi To Kick Off AI Earnings",
+     "link": "https://finance.yahoo.com/m/0d7a86f7-63d8-35ac-9402-ed0f2ca814ac/dow-jones-futures-loom%3B-asml%2C.html?.tsrc=rss",
+     "source": "Yahoo Finance"
+    },
+    {
+     "title": "Wall St Week Ahead Bank earnings, CPI headline busy markets week as S&P 500 hovers near records",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc2ZtTkg1OU1ZeEVqdGdTUjFKR1BSYkwzcWRwWG1wNjE2UFpqa2NYbmxPMXNxM2pURVpLWVVUYm9zUmE2S1QwMEUxZURaejlrb1g1V0dEMF80RnBWOUo4U1VPYzNlM0M5dlBnMkdQVS1ObHA2b1BYTmJLa1RuUk8xSVB4bk5FUnRQblcwTUtLTVFMZGU2Y0o0VEVWLWFBUnRCOWlpUEI0MmF2WGJyTmdhd3lpQlZDZ3JQZXJMd0FYcw?oc=5",
+     "source": "Reuters"
+    },
+    {
+     "title": "Trump created a committee to dig into the Fed's Lisa Cook. What is it and what comes next?",
+     "link": "https://www.cnbc.com/2026/10/09/trump-lisa-cook-fed-firing-committee-explained.html",
+     "source": "CNBC Top News"
+    },
+    {
+     "title": "Treasury's Bessent hires Trump's controversial former Fed board pick, Judy Shelton, as advisor",
+     "link": "https://www.cnbc.com/2026/10/09/judy-shelton-scott-bessent-treasury.html",
+     "source": "CNBC Markets"
+    }
+   ],
+   "sentiment": -0.17,
+   "pct": 0.6
+  },
+  {
+   "ticker": "CL=F",
+   "mentions": 12,
+   "impact": 23.3,
+   "headlines": [
+    {
+     "title": "Boosting US oil supplies with Russian diesel unlikely to have much impact on prices, experts say",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMzEtb1o4d0NCUDQxNV8zN0JxdDhSdnhSR1JySzdrMTB3eFpVY2U0MVAtcW1WMXVNeTFsSzBOMTR1R3NFMXB6aDZ4aUZfTnlXRWNSQ0x5bGxRWWZPYnF3WklOaUZPLWt5dHFpOEZMOUlUYVdZYS1lamZDSFd3MmZqWFFIenpVWDRsbWhQNDhVNVhaNGFY?oc=5",
+     "source": "AP News"
+    },
+    {
+     "title": "Euro falls, set for fifth straight weekly drop as oil prices rise",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeXdEVjljdXBVWmtDOUFnLWJiRVhYWHg1TVNmTEhLbXN1Q0RSeFN0UW5ES2pmYmV0aVA0Z3BuMkdLTFAydFJBNm1KeE5xUFNITlhIMzZMRHNTMkRSc3QwWTRfMVRPSkJGY1BlQUJ5R1NZN3NOOU9xUWNnOGk4bGxlYlh2emNhaXNwdjBXNXU1bWVjeUxXVHdpMUpsZ202M3JwVnIyc3J3?oc=5",
+     "source": "Reuters"
+    },
+    {
+     "title": "Oil prices settle higher as more production shut ahead of hurricane",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONW0wejJNQmpGTE9heFBmZG8wTWE5a010VFNMSDBqcThNXzBFTjZkbWF3NnpxSWxoVkRJSEhMcDk4VDh5OVp3bzlZNzdiS0pNTnd6aGkwQVZsU0JiOU9wb0k1ckN1V2ZUVl9sTFRuZnVhLXFlaDUwZGIxT2VxNW1RZUwyNlJ3c2ZxRkdONll5RVdtTnlfcDllN0pnLWE4VU1FblRvbHdkTkIwbHNk?oc=5",
+     "source": "Reuters"
+    },
+    {
+     "title": "Stocks advance ahead of earnings, navigating still-high Treasury yields and oil prices",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmemlrTzkxS0ZGNW4xVC1Bb0FYNmR0MWNHMnFtYXl6Wmg2UHFSVWwwUEQ0MEI5dmY0VGVtR1RURVc2aHlZRjBnVS0yQzdJaDVqNWVnSGFOZkh6SHdTSTJVUDBjd0tFdFhrbjFHa3ExVzFNN0FvOXFpOTZ2QQ?oc=5",
+     "source": "Reuters"
+    }
+   ],
+   "sentiment": -0.01,
+   "pct": 0.39
+  },
+  {
+   "ticker": "XLE",
+   "mentions": 12,
+   "impact": 23.3,
+   "headlines": [
+    {
+     "title": "Boosting US oil supplies with Russian diesel unlikely to have much impact on prices, experts say",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMzEtb1o4d0NCUDQxNV8zN0JxdDhSdnhSR1JySzdrMTB3eFpVY2U0MVAtcW1WMXVNeTFsSzBOMTR1R3NFMXB6aDZ4aUZfTnlXRWNSQ0x5bGxRWWZPYnF3WklOaUZPLWt5dHFpOEZMOUlUYVdZYS1lamZDSFd3MmZqWFFIenpVWDRsbWhQNDhVNVhaNGFY?oc=5",
+     "source": "AP News"
+    },
+    {
+     "title": "Euro falls, set for fifth straight weekly drop as oil prices rise",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeXdEVjljdXBVWmtDOUFnLWJiRVhYWHg1TVNmTEhLbXN1Q0RSeFN0UW5ES2pmYmV0aVA0Z3BuMkdLTFAydFJBNm1KeE5xUFNITlhIMzZMRHNTMkRSc3QwWTRfMVRPSkJGY1BlQUJ5R1NZN3NOOU9xUWNnOGk4bGxlYlh2emNhaXNwdjBXNXU1bWVjeUxXVHdpMUpsZ202M3JwVnIyc3J3?oc=5",
+     "source": "Reuters"
+    },
+    {
+     "title": "Oil prices settle higher as more production shut ahead of hurricane",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONW0wejJNQmpGTE9heFBmZG8wTWE5a010VFNMSDBqcThNXzBFTjZkbWF3NnpxSWxoVkRJSEhMcDk4VDh5OVp3bzlZNzdiS0pNTnd6aGkwQVZsU0JiOU9wb0k1ckN1V2ZUVl9sTFRuZnVhLXFlaDUwZGIxT2VxNW1RZUwyNlJ3c2ZxRkdONll5RVdtTnlfcDllN0pnLWE4VU1FblRvbHdkTkIwbHNk?oc=5",
+     "source": "Reuters"
+    },
+    {
+     "title": "Stocks advance ahead of earnings, navigating still-high Treasury yields and oil prices",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmemlrTzkxS0ZGNW4xVC1Bb0FYNmR0MWNHMnFtYXl6Wmg2UHFSVWwwUEQ0MEI5dmY0VGVtR1RURVc2aHlZRjBnVS0yQzdJaDVqNWVnSGFOZkh6SHdTSTJVUDBjd0tFdFhrbjFHa3ExVzFNN0FvOXFpOTZ2QQ?oc=5",
+     "source": "Reuters"
+    }
+   ],
+   "sentiment": -0.01,
+   "pct": -0.25
+  },
+  {
+   "ticker": "NVDA",
+   "mentions": 8,
+   "impact": 15.7,
+   "headlines": [
+    {
+     "title": "Dow Jones Futures Loom; ASML, Nvidia Chipmaker Taiwan Semi To Kick Off AI Earnings",
+     "link": "https://finance.yahoo.com/m/0d7a86f7-63d8-35ac-9402-ed0f2ca814ac/dow-jones-futures-loom%3B-asml%2C.html?.tsrc=rss",
+     "source": "Yahoo Finance"
+    },
+    {
+     "title": "Not Anthropic. Not AMD. Here's My Top AI Stock for 2027.",
+     "link": "https://www.fool.com/investing/2026/10/11/not-anthropic-not-palantir-top-ai-stock-2027/?.tsrc=rss",
+     "source": "Yahoo Finance"
+    },
+    {
+     "title": "This Nvidia Partner Was My Top Pick for 2026, and It's Up 43%: Here's Why It's Still a Great Value Now",
+     "link": "https://www.fool.com/investing/2026/10/11/this-nvidia-partner-was-my-top-pick-for-2026-and-i/?.tsrc=rss",
+     "source": "Yahoo Finance"
+    },
+    {
+     "title": "Nvidia GPUs are everywhere. Here are the ways companies are accessing them",
+     "link": "https://www.cnbc.com/2026/10/10/nvidia-gpus-are-everywhere-heres-how-companies-access-them.html",
+     "source": "CNBC Top News"
+    }
+   ],
+   "sentiment": 0.02,
+   "pct": null
+  },
+  {
+   "ticker": "DIA",
+   "mentions": 4,
+   "impact": 14.5,
+   "headlines": [
+    {
+     "title": "Dow Jones Futures Loom; ASML, Nvidia Chipmaker Taiwan Semi To Kick Off AI Earnings",
+     "link": "https://finance.yahoo.com/m/0d7a86f7-63d8-35ac-9402-ed0f2ca814ac/dow-jones-futures-loom%3B-asml%2C.html?.tsrc=rss",
+     "source": "Yahoo Finance"
+    },
+    {
+     "title": "Dow rises 400 points on Friday as Wall Street scores winning week: Live updates",
+     "link": "https://www.cnbc.com/2026/10/08/stock-market-today-live-updates.html",
+     "source": "CNBC Top News"
+    },
+    {
+     "title": "Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year",
+     "link": "https://www.cnbc.com/2026/10/06/trade-deficit-hits-105point6-billion-widest-since-just-before-trump-tariffs-enacted-last-year.html",
+     "source": "CNBC Markets"
+    },
+    {
+     "title": "Fed’s preferred gauge showed core inflation at 3.0% in August, much lighter than expected",
+     "link": "https://www.cnbc.com/2026/09/30/feds-preferred-gauge-showed-core-inflation-at-3point0percent-in-august-much-lighter-than-expected.html",
+     "source": "CNBC Markets"
+    }
+   ],
+   "sentiment": 0.09,
+   "pct": 0.87
+  },
+  {
+   "ticker": "MSFT",
+   "mentions": 7,
+   "impact": 11.9,
+   "headlines": [
+    {
+     "title": "OpenAI’s $20 Billion Revenue Problem",
+     "link": "https://app.moby.co/home/news/news-openais-20-billion-revenue-problem?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+     "source": "Yahoo Finance"
+    },
+    {
+     "title": "Vance says Microsoft replaced laid-off workers with foreign hires. Here’s what the visa data shows",
+     "link": "https://www.cnbc.com/2026/10/10/vance-microsoft-h1b-layoffs-visa-data.html",
+     "source": "CNBC Top News"
+    },
+    {
+     "title": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
+     "link": "https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Business"
+    },
+    {
+     "title": "White House blocks Microsoft from foreign worker hiring programme",
+     "link": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Business"
+    }
+   ],
+   "sentiment": 0.05,
+   "pct": null
+  },
+  {
+   "ticker": "GS",
+   "mentions": 3,
+   "impact": 11.1,
+   "headlines": [
+    {
+     "title": "JPMorgan Chase, Goldman and other big banks report earnings this week. What to expect",
+     "link": "https://www.cnbc.com/2026/10/11/bank-earnings-jpmorgan-goldman.html",
+     "source": "CNBC Top News"
+    },
+    {
+     "title": "India’s central bank hikes rates for the first time since 2023 as inflation risks build",
+     "link": "https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html",
+     "source": "CNBC Markets"
+    },
+    {
+     "title": "Consumer sentiment is in the dumps despite a solid economy. Goldman Sachs blames 'lower happiness'",
+     "link": "https://www.cnbc.com/2026/09/19/goldman-sachs-happiness-struggling-consumer-sentiment.html",
+     "source": "CNBC Markets"
+    }
+   ],
+   "sentiment": -0.12,
+   "pct": null
+  },
+  {
+   "ticker": "QQQ",
+   "mentions": 3,
+   "impact": 10.1,
+   "headlines": [
+    {
+     "title": "Dow Jones Futures Loom; ASML, Nvidia Chipmaker Taiwan Semi To Kick Off AI Earnings",
+     "link": "https://finance.yahoo.com/m/0d7a86f7-63d8-35ac-9402-ed0f2ca814ac/dow-jones-futures-loom%3B-asml%2C.html?.tsrc=rss",
+     "source": "Yahoo Finance"
+    },
+    {
+     "title": "Why ’Net Stocks’ are down sharply this year despite Nasdaq’s gains",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/why-net-stocks-down-sharply-130327040.html?.tsrc=rss",
+     "source": "Yahoo Finance"
+    },
+    {
+     "title": "Dow rises 400 points on Friday as Wall Street scores winning week: Live updates",
+     "link": "https://www.cnbc.com/2026/10/08/stock-market-today-live-updates.html",
+     "source": "CNBC Top News"
+    }
+   ],
+   "sentiment": 0.28,
+   "pct": 0.49
+  },
+  {
+   "ticker": "NFLX",
+   "mentions": 2,
+   "impact": 7.9,
+   "headlines": [
+    {
+     "title": "Paramount and Warner Bros. Discovery Are Now Skydance. Here's Why I'd Rather Own Netflix.",
+     "link": "https://www.fool.com/investing/2026/10/11/paramount-and-warner-bros-discovery-are-now-skydan/?.tsrc=rss",
+     "source": "Yahoo Finance"
+    },
+    {
+     "title": "Prediction: Netflix Stock Is Going to Soar After Oct. 20",
+     "link": "https://www.fool.com/investing/2026/10/11/prediction-netflix-stock-going-soar-after-oct-20/?.tsrc=rss",
+     "source": "Yahoo Finance"
+    }
+   ],
+   "sentiment": 0.27,
+   "pct": null
+  },
+  {
+   "ticker": "^VIX",
+   "mentions": 2,
+   "impact": 5.6,
+   "headlines": [
+    {
+     "title": "Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen",
+     "link": "https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Business"
+    },
+    {
+     "title": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
+     "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
+     "source": "Fed Press Releases"
+    }
+   ],
+   "sentiment": -0.44,
+   "pct": -3.7
+  },
+  {
+   "ticker": "GC=F",
+   "mentions": 2,
+   "impact": 5.2,
+   "headlines": [
+    {
+     "title": "Gold hits one-week high, heads for weekly gain on bargain-hunting",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVl80MTVLVXR1WWd1MGxyNFRNN1VaNlJ2WFNIeGlrLS1HTGwzc1pZZ3FqaFZyOFBZcDk0VGRnMzVvSUtiSGFyR3c2Z29Fa25XZk1xX0JlWGpJZVlNaEJhWXhoenc3enFGZGZ3QnVUaGg1U2ZTNE9GZGxfTDIyb3hoMl9ycTNsOHpHeWdKRXk1VmdZZ1VITnhMR29NQ3JYUmV4TXJpemVRaw?oc=5",
+     "source": "Reuters"
+    },
+    {
+     "title": "Gold ticks up as investors weigh Fed path, mounting debt concerns",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaTl2VDRiV2EtanRNTGxRVGc4OEhQUUhZOEV1MXduVGNBOW1wa2V6N2lqaXJaX2hiVnpPdU5kSC05VGNVUV9ydExDbnVral9vVW1qTFlvYTZSMGY2cTFraXRJeEthaEZmMFRuVmtVYzc2azRkYlM5MVBvWG9nUGY0LUFBX2VmZHNWTkxHTVZGdUtvTWd2NGlJbg?oc=5",
+     "source": "Reuters"
+    }
+   ],
+   "sentiment": 0.08,
+   "pct": 1.43
+  },
+  {
+   "ticker": "JPM",
+   "mentions": 2,
+   "impact": 5.1,
+   "headlines": [
+    {
+     "title": "JPMorgan Chase, Goldman and other big banks report earnings this week. What to expect",
+     "link": "https://www.cnbc.com/2026/10/11/bank-earnings-jpmorgan-goldman.html",
+     "source": "CNBC Top News"
+    },
+    {
+     "title": "JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity",
+     "link": "https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html",
+     "source": "CNBC Top News"
+    }
+   ],
+   "sentiment": 0.26,
+   "pct": null
+  },
+  {
+   "ticker": "BA",
+   "mentions": 2,
+   "impact": 4.0,
+   "headlines": [
+    {
+     "title": "FAA says Boeing 737 Max software glitch not a flight-safety issue",
+     "link": "https://www.cnbc.com/2026/10/02/faa-says-boeing-737-max-10-software-glitch-not-a-flight-safety-issue.html",
+     "source": "CNBC Economy"
+    },
+    {
+     "title": "Moody’s places all of Boeing’s ratings on review for a downgrade",
+     "link": "https://www.marketwatch.com/story/moodys-places-all-of-boeings-ratings-on-review-for-a-downgrade-be242697?mod=mw_rss_marketpulse",
+     "source": "MarketWatch Pulse"
+    }
+   ],
+   "sentiment": -0.09,
+   "pct": null
+  },
+  {
+   "ticker": "AI",
+   "mentions": 1,
+   "impact": 3.3,
+   "headlines": [
+    {
+     "title": "SpaceX vs. Micron: Which Is the Better Artificial Intelligence (AI) Stock to Own for the Next 5 Years?",
+     "link": "https://www.fool.com/investing/2026/10/11/spacex-vs-micron-better-artificial-intelligence-ai/?.tsrc=rss",
+     "source": "Yahoo Finance"
+    }
+   ],
+   "sentiment": 0.79,
+   "pct": null
+  }
+ ],
+ "what_to_watch": {
+  "events": [
+   {
+    "date": "2026-10-12",
+    "event": "CPI inflation report window (mid-month, check BLS schedule)",
+    "importance": "high"
+   },
+   {
+    "date": "2026-10-14",
+    "event": "EIA crude oil inventories, 10:30am ET",
+    "importance": "medium"
+   },
+   {
+    "date": "2026-10-15",
+    "event": "Weekly initial jobless claims, 8:30am ET",
+    "importance": "medium"
+   },
+   {
+    "date": "2026-10-28",
+    "event": "FOMC decision (meeting 2026-10-27–2026-10-28), 2:00pm ET + Powell presser",
+    "importance": "high"
+   }
+  ],
+  "headline_hints": [
+   {
+    "title": "JPMorgan Chase, Goldman and other big banks report earnings this week. What to expect",
+    "link": "https://www.cnbc.com/2026/10/11/bank-earnings-jpmorgan-goldman.html",
+    "source": "CNBC Top News"
+   },
+   {
+    "title": "Bank of America is bullish on these top stocks ahead of earnings",
+    "link": "https://www.cnbc.com/2026/10/10/stocks-to-buy-before-they-report-earnings.html",
+    "source": "CNBC Top News"
+   },
+   {
+    "title": "Wall St Week Ahead Bank earnings, CPI headline busy markets week as S&P 500 hovers near records",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc2ZtTkg1OU1ZeEVqdGdTUjFKR1BSYkwzcWRwWG1wNjE2UFpqa2NYbmxPMXNxM2pURVpLWVVUYm9zUmE2S1QwMEUxZURaejlrb1g1V0dEMF80RnBWOUo4U1VPYzNlM0M5dlBnMkdQVS1ObHA2b1BYTmJLa1RuUk8xSVB4bk5FUnRQblcwTUtLTVFMZGU2Y0o0VEVWLWFBUnRCOWlpUEI0MmF2WGJyTmdhd3lpQlZDZ3JQZXJMd0FYcw?oc=5",
+    "source": "Reuters"
+   },
+   {
+    "title": "Oil prices settle higher as more production shut ahead of hurricane",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONW0wejJNQmpGTE9heFBmZG8wTWE5a010VFNMSDBqcThNXzBFTjZkbWF3NnpxSWxoVkRJSEhMcDk4VDh5OVp3bzlZNzdiS0pNTnd6aGkwQVZsU0JiOU9wb0k1ckN1V2ZUVl9sTFRuZnVhLXFlaDUwZGIxT2VxNW1RZUwyNlJ3c2ZxRkdONll5RVdtTnlfcDllN0pnLWE4VU1FblRvbHdkTkIwbHNk?oc=5",
+    "source": "Reuters"
+   },
+   {
+    "title": "Stocks advance ahead of earnings, navigating still-high Treasury yields and oil prices",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmemlrTzkxS0ZGNW4xVC1Bb0FYNmR0MWNHMnFtYXl6Wmg2UHFSVWwwUEQ0MEI5dmY0VGVtR1RURVc2aHlZRjBnVS0yQzdJaDVqNWVnSGFOZkh6SHdTSTJVUDBjd0tFdFhrbjFHa3ExVzFNN0FvOXFpOTZ2QQ?oc=5",
+    "source": "Reuters"
+   },
+   {
+    "title": "China saw 'surprise' jump in U.S. orders ahead of Trump-Xi summit, private survey shows",
+    "link": "https://www.cnbc.com/2026/09/25/china-exports-surplus-trade-tariffs-.html",
+    "source": "CNBC Markets"
+   }
+  ],
+  "note": "Rule-based schedule; confirm exact dates on bls.gov, federalreserve.gov and earnings calendars."
+ },
+ "top_items": [
+  {
+   "title": "Trump created a committee to dig into the Fed's Lisa Cook. What is it and what comes next?",
+   "summary": "Trump’s bid to fire the Fed's Lisa Cook follows a Supreme Court ruling and could affect Jerome Powell, central bank independence and interest rates.",
+   "link": "https://www.cnbc.com/2026/10/09/trump-lisa-cook-fed-firing-committee-explained.html",
+   "source": "CNBC Top News",
+   "feed": "CNBC Top News",
+   "published": "2026-10-09T19:19:00+00:00",
+   "id": "a0d8808e4aed",
+   "tickers": [
+    "SPY",
+    "^TNX"
+   ],
+   "sectors": [
+    "Financials"
+   ],
+   "themes": [
+    "Fed & Rates",
+    "Trade, Tariffs & Geopolitics",
+    "Banks & Credit"
+   ],
+   "sentiment": 0.735,
+   "sentiment_label": "bullish",
+   "impact": 6.4,
+   "age_hours": 42.3
+  },
+  {
+   "title": "Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed",
+   "summary": "Markets expect the central bank will take a firmer hand on inflation. It's not that easy.",
+   "link": "https://www.cnbc.com/2026/09/24/surging-treasury-yields-are-posing-a-brand-new-problem-for-kevin-warsh-and-the-fed.html",
+   "source": "CNBC Markets",
+   "feed": "CNBC Markets",
+   "published": "2026-09-25T11:08:05+00:00",
+   "id": "c195e71df3fa",
+   "tickers": [
+    "SPY",
+    "^TNX"
+   ],
+   "sectors": [
+    "Financials"
+   ],
+   "themes": [
+    "Fed & Rates",
+    "Inflation & Macro Data",
+    "Trade, Tariffs & Geopolitics",
+    "Banks & Credit"
+   ],
+   "sentiment": -0.027,
+   "sentiment_label": "neutral",
+   "impact": 5.6,
+   "age_hours": 386.4
+  },
+  {
+   "title": "Federal Reserve issues FOMC statement",
+   "summary": "Federal Reserve issues FOMC statement",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+   "source": "Fed Press Releases",
+   "feed": "Fed Press Releases",
+   "published": "2026-09-16T18:00:00+00:00",
+   "id": "1fd9dba15325",
+   "tickers": [],
+   "sectors": [],
+   "themes": [
+    "Fed & Rates"
+   ],
+   "sentiment": 0.0,
+   "sentiment_label": "neutral",
+   "impact": 5.6,
+   "age_hours": 595.6
+  },
+  {
+   "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
+   "summary": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
+   "source": "Fed Press Releases",
+   "feed": "Fed Press Releases",
+   "published": "2026-09-16T18:00:00+00:00",
+   "id": "7a899b26d598",
+   "tickers": [],
+   "sectors": [],
+   "themes": [
+    "Fed & Rates"
+   ],
+   "sentiment": 0.0,
+   "sentiment_label": "neutral",
+   "impact": 5.6,
+   "age_hours": 595.6
+  },
+  {
+   "title": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
+   "summary": "Tariffs added 2.9 percentage points to inflation in 67 categories of goods by February 2026, researchers at the New York Federal Reserve found.",
+   "link": "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html",
+   "source": "CNBC Markets",
+   "feed": "CNBC Markets",
+   "published": "2026-10-08T17:31:03+00:00",
+   "id": "908c73c2f88b",
+   "tickers": [
+    "SPY",
+    "^TNX"
+   ],
+   "sectors": [
+    "Industrials"
+   ],
+   "themes": [
+    "Fed & Rates",
+    "Inflation & Macro Data",
+    "Trade, Tariffs & Geopolitics"
+   ],
+   "sentiment": 0.0,
+   "sentiment_label": "neutral",
+   "impact": 5.5,
+   "age_hours": 68.1
+  },
+  {
+   "title": "Fed’s preferred gauge showed core inflation at 3.0% in August, much lighter than expected",
+   "summary": "The personal consumption expenditures price index was projected to show an annual gain of 3.7% on headline and 3.3% for core, according to the Dow Jones consensus.",
+   "link": "https://www.cnbc.com/2026/09/30/feds-preferred-gauge-showed-core-inflation-at-3point0percent-in-august-much-lighter-than-expected.html",
+   "source": "CNBC Markets",
+   "feed": "CNBC Markets",
+   "published": "2026-09-30T15:14:57+00:00",
+   "id": "3b0372d0bf9d",
+   "tickers": [
+    "DIA",
+    "SPY",
+    "^TNX"
+   ],
+   "sectors": [],
+   "themes": [
+    "Fed & Rates",
+    "Inflation & Macro Data"
+   ],
+   "sentiment": 0.527,
+   "sentiment_label": "bullish",
+   "impact": 5.5,
+   "age_hours": 262.3
+  },
+  {
+   "title": "Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva",
+   "summary": "Kristalina Georgieva warns that the technology lifting growth hopes is also pushing up inflation and yields, just as public debt levels rose.",
+   "link": "https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html",
+   "source": "CNBC Markets",
+   "feed": "CNBC Markets",
+   "published": "2026-10-07T06:16:39+00:00",
+   "id": "b489d50f8ecb",
+   "tickers": [
+    "^TNX"
+   ],
+   "sectors": [
+    "Technology"
+   ],
+   "themes": [
+    "Fed & Rates",
+    "Inflation & Macro Data",
+    "AI & Semiconductors",
+    "Trade, Tariffs & Geopolitics",
+    "Banks & Credit"
+   ],
+   "sentiment": 0.66,
+   "sentiment_label": "bullish",
+   "impact": 5.3,
+   "age_hours": 103.3
+  },
+  {
+   "title": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
+   "summary": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm",
+   "source": "Fed Press Releases",
+   "feed": "Fed Press Releases",
+   "published": "2026-09-04T15:00:00+00:00",
+   "id": "66424eb84f5b",
+   "tickers": [],
+   "sectors": [
+    "Financials"
+   ],
+   "themes": [
+    "Fed & Rates",
+    "M&A & Deals",
+    "Banks & Credit"
+   ],
+   "sentiment": 0.681,
+   "sentiment_label": "bullish",
+   "impact": 5.2,
+   "age_hours": 886.6
+  },
+  {
+   "title": "Levi Strauss hikes profit guidance after tariff refunds, but its sales outlook is less optimistic",
+   "summary": "Levi Strauss on Wednesday posted earnings that beat expectations, though it saw benefits from tariff refunds.",
+   "link": "https://www.cnbc.com/2026/10/07/levi-strauss-levi-q3-2026-earnings.html",
+   "source": "CNBC Economy",
+   "feed": "CNBC Economy",
+   "published": "2026-10-08T14:43:38+00:00",
+   "id": "4daadbbcc9d6",
+   "tickers": [],
+   "sectors": [
+    "Industrials"
+   ],
+   "themes": [
+    "Earnings & Guidance",
+    "Trade, Tariffs & Geopolitics"
+   ],
+   "sentiment": 0.878,
+   "sentiment_label": "bullish",
+   "impact": 5.1,
+   "age_hours": 70.9
+  },
+  {
+   "title": "Fed's Musalem says tighter monetary policy needed to lower inflation",
+   "summary": "Fed's Musalem says tighter monetary policy needed to lower inflation Reuters",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaGVSNzFYTFV0aklwQnlYM3lyV3NMY0FmNi1QUFQ4b1A5bmNkZ01LMkdVZ3NmdmI0SFVRZXM4V1BjN1JOcHE3bTJQQUczbF9ESGI1VUM5ZklBZXFqSUpFQlZLazhaUU5BNjUyTVFDMEtmdHhqOU12WjJMM2ZDNzdscVU5NUl6d1BuV2k4ZWVBblZGaFVoVWxReFlIUFdOU09KempHczB4bnl2SFBabnkwMGJR?oc=5",
+   "source": "Reuters",
+   "feed": "Reuters (via Google News)",
+   "published": "2026-10-08T20:48:43+00:00",
+   "id": "71acfdf6a3b1",
+   "tickers": [
+    "SPY",
+    "^TNX"
+   ],
+   "sectors": [],
+   "themes": [
+    "Fed & Rates",
+    "Inflation & Macro Data"
+   ],
+   "sentiment": -0.527,
+   "sentiment_label": "bearish",
+   "impact": 5.0,
+   "age_hours": 64.8
+  },
+  {
+   "title": "The bull market is turning 4 years old — but yields could crash the party",
+   "summary": "For four years, tech has been the answer to almost every question about this bull market.",
+   "link": "https://www.marketwatch.com/story/the-bull-market-is-turning-4-years-old-but-yields-could-crash-the-party-1305fe6c?mod=mw_rss_topstories",
+   "source": "MarketWatch Top",
+   "feed": "MarketWatch Top",
+   "published": "2026-10-11T13:00:00+00:00",
+   "id": "647774b60e89",
+   "tickers": [
+    "^TNX"
+   ],
+   "sectors": [
+    "Technology"
+   ],
+   "themes": [
+    "Fed & Rates"
+   ],
+   "sentiment": 0.0,
+   "sentiment_label": "neutral",
+   "impact": 4.9,
+   "age_hours": 0.6
+  },
+  {
+   "title": "Inflation fears on the rise as one-year outlook in Fed survey hits highest level since May 2023",
+   "summary": "The Survey of Consumer Expectations indicated that the median outlook for inflation over the next 12 months rose to 3.9%.",
+   "link": "https://www.cnbc.com/2026/10/07/inflation-fears-on-the-rise-as-one-year-outlook-in-fed-survey-hits-highest-since-may-2023.html",
+   "source": "CNBC Markets",
+   "feed": "CNBC Markets",
+   "published": "2026-10-07T18:44:36+00:00",
+   "id": "1842cafe28bf",
+   "tickers": [
+    "SPY",
+    "^TNX"
+   ],
+   "sectors": [
+    "Cons. Discretionary",
+    "Communication"
+   ],
+   "themes": [
+    "Fed & Rates",
+    "Inflation & Macro Data",
+    "Earnings & Guidance",
+    "Consumer & Retail"
+   ],
+   "sentiment": -0.421,
+   "sentiment_label": "bearish",
+   "impact": 4.9,
+   "age_hours": 90.8
+  },
+  {
+   "title": "Dow Jones Futures Loom; ASML, Nvidia Chipmaker Taiwan Semi To Kick Off AI Earnings",
+   "summary": "Despite some chop, the S&P 500 and Nasdaq are near highs. ASML and Nvidia chipmaker Taiwan Semi earnings may decide if the AI stock pullback is bullish.",
+   "link": "https://finance.yahoo.com/m/0d7a86f7-63d8-35ac-9402-ed0f2ca814ac/dow-jones-futures-loom%3B-asml%2C.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "feed": "Yahoo Finance",
+   "published": "2026-10-11T13:20:00+00:00",
+   "id": "7d32b56ec917",
+   "tickers": [
+    "DIA",
+    "NVDA",
+    "QQQ",
+    "SPY"
+   ],
+   "sectors": [
+    "Technology",
+    "Semiconductors"
+   ],
+   "themes": [
+    "Earnings & Guidance",
+    "AI & Semiconductors"
+   ],
+   "sentiment": -0.226,
+   "sentiment_label": "neutral",
+   "impact": 4.8,
+   "age_hours": 0.2
+  },
+  {
+   "title": "Prediction: Netflix Stock Is Going to Soar After Oct. 20",
+   "summary": "Netflix stock looks incredibly cheap heading into its third-quarter earnings report.",
+   "link": "https://www.fool.com/investing/2026/10/11/prediction-netflix-stock-going-soar-after-oct-20/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "feed": "Yahoo Finance",
+   "published": "2026-10-11T11:22:00+00:00",
+   "id": "f4bf11c2223d",
+   "tickers": [
+    "NFLX"
+   ],
+   "sectors": [
+    "Communication"
+   ],
+   "themes": [
+    "Earnings & Guidance"
+   ],
+   "sentiment": 0.542,
+   "sentiment_label": "bullish",
+   "impact": 4.8,
+   "age_hours": 2.2
+  },
+  {
+   "title": "The Fed's main inflation measure will be released Wednesday. Here's what to expect",
+   "summary": "Data is expected to show ongoing price pressures and consumers who nevertheless continue to spend.",
+   "link": "https://www.cnbc.com/2026/09/29/the-feds-main-inflation-measure-will-be-released-wednesday-heres-what-to-expect.html",
+   "source": "CNBC Markets",
+   "feed": "CNBC Markets",
+   "published": "2026-09-29T20:51:43+00:00",
+   "id": "b1db41f235aa",
+   "tickers": [
+    "SPY",
+    "^TNX"
+   ],
+   "sectors": [
+    "Cons. Discretionary"
+   ],
+   "themes": [
+    "Fed & Rates",
+    "Inflation & Macro Data",
+    "Consumer & Retail"
+   ],
+   "sentiment": -0.318,
+   "sentiment_label": "bearish",
+   "impact": 4.8,
+   "age_hours": 280.7
+  },
+  {
+   "title": "Stocks advance ahead of earnings, navigating still-high Treasury yields and oil prices",
+   "summary": "Stocks advance ahead of earnings, navigating still-high Treasury yields and oil prices Reuters",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmemlrTzkxS0ZGNW4xVC1Bb0FYNmR0MWNHMnFtYXl6Wmg2UHFSVWwwUEQ0MEI5dmY0VGVtR1RURVc2aHlZRjBnVS0yQzdJaDVqNWVnSGFOZkh6SHdTSTJVUDBjd0tFdFhrbjFHa3ExVzFNN0FvOXFpOTZ2QQ?oc=5",
+   "source": "Reuters",
+   "feed": "Reuters (via Google News)",
+   "published": "2026-10-09T19:19:05+00:00",
+   "id": "a921a79852d0",
+   "tickers": [
+    "CL=F",
+    "XLE",
+    "^TNX"
+   ],
+   "sectors": [
+    "Energy"
+   ],
+   "themes": [
+    "Fed & Rates",
+    "Earnings & Guidance",
+    "Energy & Commodities"
+   ],
+   "sentiment": 0.382,
+   "sentiment_label": "bullish",
+   "impact": 4.7,
+   "age_hours": 42.3
+  },
+  {
+   "title": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
+   "summary": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
+   "source": "Fed Press Releases",
+   "feed": "Fed Press Releases",
+   "published": "2026-09-30T13:00:00+00:00",
+   "id": "78d1e2d215c5",
+   "tickers": [
+    "^VIX"
+   ],
+   "sectors": [],
+   "themes": [
+    "Fed & Rates"
+   ],
+   "sentiment": -0.881,
+   "sentiment_label": "bearish",
+   "impact": 4.7,
+   "age_hours": 264.6
+  },
+  {
+   "title": "Wall St Week Ahead Bank earnings, CPI headline busy markets week as S&P 500 hovers near records",
+   "summary": "Wall St Week Ahead Bank earnings, CPI headline busy markets week as S&P 500 hovers near records Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc2ZtTkg1OU1ZeEVqdGdTUjFKR1BSYkwzcWRwWG1wNjE2UFpqa2NYbmxPMXNxM2pURVpLWVVUYm9zUmE2S1QwMEUxZURaejlrb1g1V0dEMF80RnBWOUo4U1VPYzNlM0M5dlBnMkdQVS1ObHA2b1BYTmJLa1RuUk8xSVB4bk5FUnRQblcwTUtLTVFMZGU2Y0o0VEVWLWFBUnRCOWlpUEI0MmF2WGJyTmdhd3lpQlZDZ3JQZXJMd0FYcw?oc=5",
+   "source": "Reuters",
+   "feed": "Reuters (via Google News)",
+   "published": "2026-10-09T21:04:49+00:00",
+   "id": "091704d87d3a",
+   "tickers": [
+    "SPY"
+   ],
+   "sectors": [
+    "Financials"
+   ],
+   "themes": [
+    "Inflation & Macro Data",
+    "Earnings & Guidance",
+    "Banks & Credit"
+   ],
+   "sentiment": 0.0,
+   "sentiment_label": "neutral",
+   "impact": 4.5,
+   "age_hours": 40.5
+  },
+  {
+   "title": "India’s central bank hikes rates for the first time since 2023 as inflation risks build",
+   "summary": "HSBC and Goldman Sachs expect the RBI to raise interest rates in December as well.",
+   "link": "https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html",
+   "source": "CNBC Markets",
+   "feed": "CNBC Markets",
+   "published": "2026-10-07T11:55:36+00:00",
+   "id": "d7fd1af7dfe8",
+   "tickers": [
+    "GS"
+   ],
+   "sectors": [
+    "Financials",
+    "Materials"
+   ],
+   "themes": [
+    "Fed & Rates",
+    "Inflation & Macro Data",
+    "Energy & Commodities",
+    "Banks & Credit"
+   ],
+   "sentiment": 0.459,
+   "sentiment_label": "bullish",
+   "impact": 4.5,
+   "age_hours": 97.7
+  },
+  {
+   "title": "Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%",
+   "summary": "Nonfarm payrolls rose by just 29,000 in September, well below the 84,000 forecast, and the unemployment rate rose to 4.2%, the Bureau of Labor Statistics said.",
+   "link": "https://www.cnbc.com/2026/10/02/jobs-report-september-2026.html",
+   "source": "CNBC Markets",
+   "feed": "CNBC Markets",
+   "published": "2026-10-02T13:45:58+00:00",
+   "id": "5e0935184ace",
+   "tickers": [],
+   "sectors": [],
+   "themes": [
+    "Fed & Rates",
+    "Inflation & Macro Data"
+   ],
+   "sentiment": -0.382,
+   "sentiment_label": "bearish",
+   "impact": 4.5,
+   "age_hours": 215.8
+  },
+  {
+   "title": "Bank earnings to shed the first light on how higher yields are affecting the economy",
+   "summary": "The big banks kick off earnings season on Tuesday, to provide a first read on the health of the economy in a rising-yield environment.",
+   "link": "https://www.marketwatch.com/story/bank-earnings-to-shed-the-first-light-on-how-higher-yields-are-affecting-the-economy-cf3763ef?mod=mw_rss_topstories",
+   "source": "MarketWatch Top",
+   "feed": "MarketWatch Top",
+   "published": "2026-10-11T12:00:00+00:00",
+   "id": "d4f4e5b06539",
+   "tickers": [
+    "^TNX"
+   ],
+   "sectors": [
+    "Financials",
+    "Health Care"
+   ],
+   "themes": [
+    "Fed & Rates",
+    "Inflation & Macro Data",
+    "Earnings & Guidance",
+    "Banks & Credit"
+   ],
+   "sentiment": 0.0,
+   "sentiment_label": "neutral",
+   "impact": 4.2,
+   "age_hours": 1.6
+  },
+  {
+   "title": "Putin relayed Iran war proposal to Trump, Kremlin says",
+   "summary": "Putin's reported call with Trump regarding the Iran war comes on the heels of a deal for the U.S. to buy Russian diesel amid a surge in fuel prices.",
+   "link": "https://www.cnbc.com/2026/10/10/putin-trump-iran-war-russia-diesel.html",
+   "source": "CNBC Top News",
+   "feed": "CNBC Top News",
+   "published": "2026-10-10T13:42:36+00:00",
+   "id": "11c0656e0e13",
+   "tickers": [],
+   "sectors": [],
+   "themes": [
+    "Trade, Tariffs & Geopolitics",
+    "M&A & Deals"
+   ],
+   "sentiment": -0.7,
+   "sentiment_label": "bearish",
+   "impact": 4.2,
+   "age_hours": 23.9
+  },
+  {
+   "title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
+   "summary": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
+   "source": "Fed Press Releases",
+   "feed": "Fed Press Releases",
+   "published": "2026-10-08T20:30:00+00:00",
+   "id": "c925e4ab8844",
+   "tickers": [],
+   "sectors": [],
+   "themes": [
+    "Fed & Rates"
+   ],
+   "sentiment": -0.813,
+   "sentiment_label": "bearish",
+   "impact": 4.2,
+   "age_hours": 65.1
+  },
+  {
+   "title": "Euro drops toward 17-month lows, dollar holds gains after Fed minutes",
+   "summary": "Euro drops toward 17-month lows, dollar holds gains after Fed minutes Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVnY5bzdPR0xZNUZ6VEJzWUhMVmJQZEI0bzY0cHpWV21LdHRFeDlIWkxnMURDYVFDVU9nZEVPYU9TNWNNV3NvWUE5MlJPaUVXT2VqaGJQQVFwNmtHWE5nNUF2SU5Ob3dmYVlSOENZVmRBc3lVUjFMM1NYYlBfLUJ6ZzJaU0FQQlQwMkh0cXlrZEItc0ZKeC1YLXdOd2wzRWxHeUlSUDg4STVVQTVGdmc?oc=5",
+   "source": "Reuters",
+   "feed": "Reuters (via Google News)",
+   "published": "2026-10-07T17:46:37+00:00",
+   "id": "591346a7dc5a",
+   "tickers": [
+    "SPY",
+    "^TNX"
+   ],
+   "sectors": [],
+   "themes": [
+    "Fed & Rates",
+    "Trade, Tariffs & Geopolitics"
+   ],
+   "sentiment": -0.382,
+   "sentiment_label": "bearish",
+   "impact": 4.2,
+   "age_hours": 91.8
+  },
+  {
+   "title": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
+   "summary": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
+   "source": "Fed Press Releases",
+   "feed": "Fed Press Releases",
+   "published": "2026-10-05T20:30:00+00:00",
+   "id": "78868ed9a0d9",
+   "tickers": [],
+   "sectors": [
+    "Financials"
+   ],
+   "themes": [
+    "Fed & Rates",
+    "Banks & Credit"
+   ],
+   "sentiment": 0.735,
+   "sentiment_label": "bullish",
+   "impact": 4.1,
+   "age_hours": 137.1
+  },
+  {
+   "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
+   "summary": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
+   "source": "Fed Press Releases",
+   "feed": "Fed Press Releases",
+   "published": "2026-10-02T20:45:00+00:00",
+   "id": "05b06e00db94",
+   "tickers": [],
+   "sectors": [],
+   "themes": [
+    "Fed & Rates"
+   ],
+   "sentiment": 0.735,
+   "sentiment_label": "bullish",
+   "impact": 4.1,
+   "age_hours": 208.8
+  },
+  {
+   "title": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
+   "summary": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
+   "source": "Fed Press Releases",
+   "feed": "Fed Press Releases",
+   "published": "2026-09-25T20:30:00+00:00",
+   "id": "a3470f84211e",
+   "tickers": [],
+   "sectors": [],
+   "themes": [
+    "Fed & Rates"
+   ],
+   "sentiment": 0.735,
+   "sentiment_label": "bullish",
+   "impact": 4.1,
+   "age_hours": 377.1
+  },
+  {
+   "title": "Here's what happens to the economy when Treasury yields soar like they are now",
+   "summary": "Government debt costs leaped higher Wednesday, the product of multiple factors.",
+   "link": "https://www.cnbc.com/2026/09/23/what-happens-to-the-economy-when-treasury-yields-soar.html",
+   "source": "CNBC Markets",
+   "feed": "CNBC Markets",
+   "published": "2026-09-25T13:48:19+00:00",
+   "id": "7b56f8f62077",
+   "tickers": [
+    "^TNX"
+   ],
+   "sectors": [],
+   "themes": [
+    "Fed & Rates",
+    "Inflation & Macro Data",
+    "Banks & Credit"
+   ],
+   "sentiment": 0.649,
+   "sentiment_label": "bullish",
+   "impact": 4.1,
+   "age_hours": 383.8
+  },
+  {
+   "title": "Federal Reserve Board announces approval of application by BancFirst Corporation",
+   "summary": "Federal Reserve Board announces approval of application by BancFirst Corporation",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm",
+   "source": "Fed Press Releases",
+   "feed": "Fed Press Releases",
+   "published": "2026-09-22T20:30:00+00:00",
+   "id": "3d28fc9b7164",
+   "tickers": [],
+   "sectors": [],
+   "themes": [
+    "Fed & Rates"
+   ],
+   "sentiment": 0.735,
+   "sentiment_label": "bullish",
+   "impact": 4.1,
+   "age_hours": 449.1
+  },
+  {
+   "title": "AI’s quiet safety gatekeepers are stepping into the spotlight",
+   "summary": "The intensifying AI safety debate is bringing a small group of third-party evaluators into the center of a multitrillion-dollar industry.",
+   "link": "https://www.cnbc.com/2026/10/11/ais-quiet-safety-gatekeepers-are-stepping-into-the-spotlight.html",
+   "source": "CNBC Top News",
+   "feed": "CNBC Top News",
+   "published": "2026-10-11T11:00:01+00:00",
+   "id": "c84725d339e1",
+   "tickers": [],
+   "sectors": [
+    "Technology"
+   ],
+   "themes": [
+    "Inflation & Macro Data",
+    "AI & Semiconductors"
+   ],
+   "sentiment": 0.681,
+   "sentiment_label": "bullish",
+   "impact": 3.9,
+   "age_hours": 2.6
+  },
+  {
+   "title": "Treasury's Bessent hires Trump's controversial former Fed board pick, Judy Shelton, as advisor",
+   "summary": "Shelton's controversial economic ideas led the Senate to block her nomination to the Fed. Now she's going to be a counselor to the Treasury secretary.",
+   "link": "https://www.cnbc.com/2026/10/09/judy-shelton-scott-bessent-treasury.html",
+   "source": "CNBC Markets",
+   "feed": "CNBC Markets",
+   "published": "2026-10-09T13:09:19+00:00",
+   "id": "ecd1a07c35e6",
+   "tickers": [
+    "SPY",
+    "^TNX"
+   ],
+   "sectors": [],
+   "themes": [
+    "Fed & Rates",
+    "Trade, Tariffs & Geopolitics"
+   ],
+   "sentiment": -0.572,
+   "sentiment_label": "bearish",
+   "impact": 3.9,
+   "age_hours": 48.4
+  },
+  {
+   "title": "World heads into food crises 'blind' as U.S. aid cuts squeeze UN food agency, experts warn",
+   "summary": "Climate shocks, conflict and a global fuel crisis, on top of surging interest rates and donor cuts, leave agencies less able to help those facing higher food prices.",
+   "link": "https://www.cnbc.com/2026/09/24/hormuz-blacksea-ukraine-iran-food-security-united-nations-.html",
+   "source": "CNBC Markets",
+   "feed": "CNBC Markets",
+   "published": "2026-09-24T04:02:26+00:00",
+   "id": "264856130bd0",
+   "tickers": [],
+   "sectors": [
+    "Cons. Staples"
+   ],
+   "themes": [
+    "Fed & Rates",
+    "Trade, Tariffs & Geopolitics"
+   ],
+   "sentiment": -0.858,
+   "sentiment_label": "bearish",
+   "impact": 3.9,
+   "age_hours": 417.5
+  },
+  {
+   "title": "Why ’Net Stocks’ are down sharply this year despite Nasdaq’s gains",
+   "summary": "Investing.com - A sharp selloff across internet equities this year has created an attractive entry point for investors, with major hyperscalers poised for potential free cash flow inflection points over the next 3 to 12 months, according to a research note from Evercore ISI.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-net-stocks-down-sharply-130327040.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "feed": "Yahoo Finance",
+   "published": "2026-10-11T13:03:27+00:00",
+   "id": "6d827f21874f",
+   "tickers": [
+    "QQQ"
+   ],
+   "sectors": [],
+   "themes": [
+    "Other Market News"
+   ],
+   "sentiment": 0.595,
+   "sentiment_label": "bullish",
+   "impact": 3.8,
+   "age_hours": 0.5
+  },
+  {
+   "title": "The cost of drugs from Canada is set to soar for millions of Americans because of a federal rule",
+   "summary": "The cost of drugs from Canada is set to soar for millions of Americans because of a federal rule AP News",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYUN1YXBQZlhqay1wa2lJT2R0UVhKb04wdjRid3dacW45VFRJX09iek9LRkcwR0Y2Y0FQVE55bGRtVnpqRERVdHhyVTk3UUNzenp3WUhzc0pPZ2hkOWRLM1JCUzlLVTMyOWVfMkRMYVBHcFNyVkhvN3c1cllaNnVMTW11MmltNXZaZGdYZ1JBQ05aWnRJdWhTb2xqalBadEtIYTg5dVV3?oc=5",
+   "source": "AP News",
+   "feed": "AP Business (via Google News)",
+   "published": "2026-10-08T19:05:00+00:00",
+   "id": "f0ce62282b2e",
+   "tickers": [],
+   "sectors": [
+    "Health Care"
+   ],
+   "themes": [
+    "Fed & Rates"
+   ],
+   "sentiment": 0.791,
+   "sentiment_label": "bullish",
+   "impact": 3.8,
+   "age_hours": 66.5
+  },
+  {
+   "title": "Gold ticks up as investors weigh Fed path, mounting debt concerns",
+   "summary": "Gold ticks up as investors weigh Fed path, mounting debt concerns Reuters",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaTl2VDRiV2EtanRNTGxRVGc4OEhQUUhZOEV1MXduVGNBOW1wa2V6N2lqaXJaX2hiVnpPdU5kSC05VGNVUV9ydExDbnVral9vVW1qTFlvYTZSMGY2cTFraXRJeEthaEZmMFRuVmtVYzc2azRkYlM5MVBvWG9nUGY0LUFBX2VmZHNWTkxHTVZGdUtvTWd2NGlJbg?oc=5",
+   "source": "Reuters",
+   "feed": "Reuters (via Google News)",
+   "published": "2026-10-08T10:31:04+00:00",
+   "id": "c3bcc5f50cae",
+   "tickers": [
+    "GC=F",
+    "SPY",
+    "^TNX"
+   ],
+   "sectors": [
+    "Materials"
+   ],
+   "themes": [
+    "Fed & Rates",
+    "Energy & Commodities",
+    "Banks & Credit"
+   ],
+   "sentiment": -0.612,
+   "sentiment_label": "bearish",
+   "impact": 3.8,
+   "age_hours": 75.1
+  },
+  {
+   "title": "Warren Buffett said 'nobody gets paid' to give this easy investing advice — how it’s still helping your portfolio today",
+   "summary": "Buffett’s advice for everyday investors is simpler than you might expect, and lately it’s been generating great returns.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-said-nobody-gets-133000670.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "feed": "Yahoo Finance",
+   "published": "2026-10-11T13:30:00+00:00",
+   "id": "1836a2b1acf6",
+   "tickers": [],
+   "sectors": [],
+   "themes": [
+    "Trade, Tariffs & Geopolitics"
+   ],
+   "sentiment": 0.865,
+   "sentiment_label": "bullish",
+   "impact": 3.7,
+   "age_hours": 0.1
+  },
+  {
+   "title": "Mapping the Market: Microsoft set to extend rally",
+   "summary": "Mapping the Market: Microsoft set to extend rally Reuters",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObzEzVU5JUzJKLWVQZGpiUUxPY0dpOTNTUjU1NnU0dkZjQ0JUb0ctU0V2NUZDbk90OWFnb2E1emU4ZHRWakZQb0Y0MFBCS0RwSkg1WEpMcHV3ODBBdFZfTWtUdmYtRmNWZWpfRnN1YlEyems1ZHJBMjJJamdZci1PcnhXM2w?oc=5",
+   "source": "Reuters",
+   "feed": "Reuters (via Google News)",
+   "published": "2026-10-08T10:14:37+00:00",
+   "id": "ea9c1a67eaa1",
+   "tickers": [
+    "MSFT"
+   ],
+   "sectors": [
+    "Technology"
+   ],
+   "themes": [
+    "Inflation & Macro Data"
+   ],
+   "sentiment": 0.813,
+   "sentiment_label": "bullish",
+   "impact": 3.7,
+   "age_hours": 75.3
+  },
+  {
+   "title": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
+   "summary": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
+   "source": "Fed Press Releases",
+   "feed": "Fed Press Releases",
+   "published": "2026-10-02T20:00:00+00:00",
+   "id": "010ba35ec48d",
+   "tickers": [],
+   "sectors": [],
+   "themes": [
+    "Fed & Rates"
+   ],
+   "sentiment": 0.34,
+   "sentiment_label": "bullish",
+   "impact": 3.7,
+   "age_hours": 209.6
+  },
+  {
+   "title": "Billionaire Ray Dalio Said The AI Bubble Is Close To Popping. Could SpaceX Be the Culpirit?",
+   "summary": "SpaceX is already racking up debt just four months after its IPO.",
+   "link": "https://www.fool.com/investing/2026/10/11/billionaire-ray-dalio-said-the-ai-bubble-is-close-to-popping-could-spacex-be-the-culpirit/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "feed": "Yahoo Finance",
+   "published": "2026-10-11T11:50:02+00:00",
+   "id": "db91984e5944",
+   "tickers": [],
+   "sectors": [
+    "Technology"
+   ],
+   "themes": [
+    "Inflation & Macro Data",
+    "AI & Semiconductors",
+    "M&A & Deals",
+    "Banks & Credit"
+   ],
+   "sentiment": -0.361,
+   "sentiment_label": "bearish",
+   "impact": 3.6,
+   "age_hours": 1.7
+  },
+  {
+   "title": "Wall Street posts weekly gains with earnings, inflation data on tap",
+   "summary": "Wall Street posts weekly gains with earnings, inflation data on tap Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY0hWbFNBUlE5SFJjLVpMMnIwZzFpN2hVNEd2YkxlalYyVDRKTDZxcGJ0REJLUERXb0tlVVVreVZLMHFodlAtZlY0eDhuN2xiOHcybjM1c3gxMlBNTmZMWWdrdkhQOG9Pc2JRdTEwYXM5N181QmttRVEyRkdXTy1LT2J0ZVA4d2FXdjZZeGZwaGRaSUtDUXJUZXFjSU94cnprbTVUSXRpXzFtQzV2TWtpR1dNSjdaWVplUlE?oc=5",
+   "source": "Reuters",
+   "feed": "Reuters (via Google News)",
+   "published": "2026-10-09T23:33:00+00:00",
+   "id": "e807139af6d6",
+   "tickers": [],
+   "sectors": [],
+   "themes": [
+    "Inflation & Macro Data",
+    "Earnings & Guidance"
+   ],
+   "sentiment": 0.612,
+   "sentiment_label": "bullish",
+   "impact": 3.6,
+   "age_hours": 38.0
+  },
+  {
+   "title": "JPMorgan Chase, Goldman and other big banks report earnings this week. What to expect",
+   "summary": "The biggest banks in the U.S. are due to report third-quarter results this week, setting the tone for the rest of the reporting period.",
+   "link": "https://www.cnbc.com/2026/10/11/bank-earnings-jpmorgan-goldman.html",
+   "source": "CNBC Top News",
+   "feed": "CNBC Top News",
+   "published": "2026-10-11T11:46:11+00:00",
+   "id": "d74eb67a96cc",
+   "tickers": [
+    "GS",
+    "JPM"
+   ],
+   "sectors": [
+    "Financials",
+    "Materials"
+   ],
+   "themes": [
+    "Earnings & Guidance",
+    "Energy & Commodities",
+    "Banks & Credit"
+   ],
+   "sentiment": 0.0,
+   "sentiment_label": "neutral",
+   "impact": 3.5,
+   "age_hours": 1.8
+  },
+  {
+   "title": "Poland’s police warn of a possible plot to attack Prime Minister Donald Tusk",
+   "summary": "Poland’s police warn of a possible plot to attack Prime Minister Donald Tusk AP News",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTEM0SEhDMFJtcDRlUkZUWnhzT2hKMnZqQnNzS3RLb0t1Uy1TMWx4SGpqUElWYWRBNlZ5VjlibEJ3cnlYTGNLWHN2OEtJazJPQ3NYaXJHY3A5eXBCZmYyVjU5TDNDbTJwbDAwdzBYdlVrNVdteURRX3dTV3I0SEJ2RHpNaGVjeW5POHdtb0c0XzVkQWZCa0tsSEVjcDZNRTdp?oc=5",
+   "source": "AP News",
+   "feed": "AP Business (via Google News)",
+   "published": "2026-10-11T10:11:00+00:00",
+   "id": "fa28bba286bb",
+   "tickers": [],
+   "sectors": [],
+   "themes": [
+    "Trade, Tariffs & Geopolitics"
+   ],
+   "sentiment": -0.791,
+   "sentiment_label": "bearish",
+   "impact": 3.5,
+   "age_hours": 3.4
+  },
+  {
+   "title": "Americans' debt problems are flashing a warning not seen since the Great Recession",
+   "summary": "Researchers found that while wealth disparities narrowed somewhat, the ability to meet debt payments deteriorated significantly.",
+   "link": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
+   "source": "CNBC Markets",
+   "feed": "CNBC Markets",
+   "published": "2026-10-09T19:18:24+00:00",
+   "id": "5fdd0e5cbeaf",
+   "tickers": [],
+   "sectors": [],
+   "themes": [
+    "Fed & Rates",
+    "Trade, Tariffs & Geopolitics",
+    "Banks & Credit"
+   ],
+   "sentiment": -0.507,
+   "sentiment_label": "bearish",
+   "impact": 3.5,
+   "age_hours": 42.3
+  },
+  {
+   "title": "Shares slip as oil jumps and bond yields stay high",
+   "summary": "Shares slip as oil jumps and bond yields stay high Reuters",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYWJkYkZhMHpnb0pNVlAyTTZGOEYtSno1YTJGRV9GYWRPSDg1WGxXNlFKUVY4VGVzc0RMLVVVVFFlamgzd3ROTjBXTndhYm5Ia0hwbDhaSXBCQWIzZDhQSGxGUWdoZndaZHV3YUgyd2NUb0FsTkNlYWRYYUFyN0tSWFlYbw?oc=5",
+   "source": "Reuters",
+   "feed": "Reuters (via Google News)",
+   "published": "2026-10-08T22:01:47+00:00",
+   "id": "d3fae0e11e99",
+   "tickers": [
+    "CL=F",
+    "XLE",
+    "^TNX"
+   ],
+   "sectors": [
+    "Energy"
+   ],
+   "themes": [
+    "Fed & Rates",
+    "Energy & Commodities"
+   ],
+   "sentiment": 0.856,
+   "sentiment_label": "bullish",
+   "impact": 3.5,
+   "age_hours": 63.6
+  },
+  {
+   "title": "Isaias kills four and leaves about 670,000 without power after landfall",
+   "summary": "About 420,000 customers in Florida, 190,000 in Alabama, 43,000 in Georgia and 17,000 in Mississippi had no power, according to tracking firm PowerOutage.us.",
+   "link": "https://www.cnbc.com/2026/10/10/isaias-weakens-to-category-1-hurricane-after-florida-landfall.html",
+   "source": "CNBC Top News",
+   "feed": "CNBC Top News",
+   "published": "2026-10-10T21:08:50+00:00",
+   "id": "ed72a61329c0",
+   "tickers": [],
+   "sectors": [],
+   "themes": [
+    "Inflation & Macro Data"
+   ],
+   "sentiment": -0.691,
+   "sentiment_label": "bearish",
+   "impact": 3.4,
+   "age_hours": 16.4
+  },
+  {
+   "title": "Fed minutes show some officials want to prepare for market stress",
+   "summary": "Fed minutes show some officials want to prepare for market stress Reuters",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOWFKZEFfR182VlUzeWdFaHJOYlVxQ3FxYVVnS3Z4VXdnUlRZaGtIZkxocjFlejVyY2lKbHA5UEw0bUFUbEhRaExnTUMzZWlPWmFMQkdlVU94ejB3bjBGdGFfYXlwX0c5M3RMRDJ2NGNmU0pNSWo5X200MTZGdzJuREtOekJpRGEtZHV1ODZUTEZ5empUOFU2ajFxdF9TaDNQMndvTnFn?oc=5",
+   "source": "Reuters",
+   "feed": "Reuters (via Google News)",
+   "published": "2026-10-07T21:34:27+00:00",
+   "id": "42f3d58545d5",
+   "tickers": [
+    "SPY",
+    "^TNX"
+   ],
+   "sectors": [],
+   "themes": [
+    "Fed & Rates"
+   ],
+   "sentiment": -0.612,
+   "sentiment_label": "bearish",
+   "impact": 3.4,
+   "age_hours": 88.0
+  },
+  {
+   "title": "SpaceX vs. Micron: Which Is the Better Artificial Intelligence (AI) Stock to Own for the Next 5 Years?",
+   "summary": "SpaceX looks poised to outperform Micron in the coming years.",
+   "link": "https://www.fool.com/investing/2026/10/11/spacex-vs-micron-better-artificial-intelligence-ai/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "feed": "Yahoo Finance",
+   "published": "2026-10-11T12:05:00+00:00",
+   "id": "7d44bb2e593f",
+   "tickers": [
+    "AI",
+    "MU"
+   ],
+   "sectors": [
+    "Technology",
+    "Semiconductors"
+   ],
+   "themes": [
+    "AI & Semiconductors"
+   ],
+   "sentiment": 0.791,
+   "sentiment_label": "bullish",
+   "impact": 3.3,
+   "age_hours": 1.5
+  },
+  {
+   "title": "Rising interest rates: The good, the bad and the ugly for retirees",
+   "summary": "Unlike higher gas prices, which hurt almost everyone, higher borrowing costs have an uneven impact.",
+   "link": "https://www.marketwatch.com/story/the-good-the-bad-and-the-ugly-of-rising-interest-rates-ee465a81?mod=mw_rss_topstories",
+   "source": "MarketWatch Top",
+   "feed": "MarketWatch Top",
+   "published": "2026-10-10T19:44:00+00:00",
+   "id": "c329e22b23c0",
+   "tickers": [],
+   "sectors": [
+    "Energy"
+   ],
+   "themes": [
+    "Fed & Rates",
+    "Energy & Commodities"
+   ],
+   "sentiment": -0.649,
+   "sentiment_label": "bearish",
+   "impact": 3.3,
+   "age_hours": 17.8
+  },
+  {
+   "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
+   "summary": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
+   "source": "Fed Press Releases",
+   "feed": "Fed Press Releases",
+   "published": "2026-10-09T14:00:00+00:00",
+   "id": "837d031c20a6",
+   "tickers": [],
+   "sectors": [
+    "Cons. Discretionary"
+   ],
+   "themes": [
+    "Fed & Rates",
+    "Earnings & Guidance",
+    "Consumer & Retail"
+   ],
+   "sentiment": 0.0,
+   "sentiment_label": "neutral",
+   "impact": 3.3,
+   "age_hours": 47.6
+  },
+  {
+   "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+   "summary": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
+   "source": "Fed Press Releases",
+   "feed": "Fed Press Releases",
+   "published": "2026-10-07T18:00:00+00:00",
+   "id": "874fb8b9359e",
+   "tickers": [],
+   "sectors": [],
+   "themes": [
+    "Fed & Rates"
+   ],
+   "sentiment": 0.0,
+   "sentiment_label": "neutral",
+   "impact": 3.3,
+   "age_hours": 91.6
+  },
+  {
+   "title": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
+   "summary": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm",
+   "source": "Fed Press Releases",
+   "feed": "Fed Press Releases",
+   "published": "2026-10-02T15:00:00+00:00",
+   "id": "a51902fa7e5f",
+   "tickers": [],
+   "sectors": [],
+   "themes": [
+    "Fed & Rates"
+   ],
+   "sentiment": 0.0,
+   "sentiment_label": "neutral",
+   "impact": 3.3,
+   "age_hours": 214.6
+  },
+  {
+   "title": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
+   "summary": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
+   "source": "Fed Press Releases",
+   "feed": "Fed Press Releases",
+   "published": "2026-09-24T18:30:00+00:00",
+   "id": "008c7e03b157",
+   "tickers": [],
+   "sectors": [],
+   "themes": [
+    "Fed & Rates",
+    "Crypto"
+   ],
+   "sentiment": 0.0,
+   "sentiment_label": "neutral",
+   "impact": 3.3,
+   "age_hours": 403.1
+  },
+  {
+   "title": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank",
+   "summary": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260924a.htm",
+   "source": "Fed Press Releases",
+   "feed": "Fed Press Releases",
+   "published": "2026-09-24T15:00:00+00:00",
+   "id": "4ffb93043e73",
+   "tickers": [],
+   "sectors": [
+    "Financials"
+   ],
+   "themes": [
+    "Fed & Rates",
+    "Banks & Credit"
+   ],
+   "sentiment": 0.0,
+   "sentiment_label": "neutral",
+   "impact": 3.3,
+   "age_hours": 406.6
+  },
+  {
+   "title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
+   "summary": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
+   "source": "Fed Press Releases",
+   "feed": "Fed Press Releases",
+   "published": "2026-09-18T15:00:00+00:00",
+   "id": "ce21d6b180e1",
+   "tickers": [],
+   "sectors": [
+    "Financials"
+   ],
+   "themes": [
+    "Fed & Rates",
+    "Banks & Credit"
+   ],
+   "sentiment": 0.0,
+   "sentiment_label": "neutral",
+   "impact": 3.3,
+   "age_hours": 550.6
+  },
+  {
+   "title": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
+   "summary": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
+   "source": "Fed Press Releases",
+   "feed": "Fed Press Releases",
+   "published": "2026-09-18T15:00:00+00:00",
+   "id": "adb49753feb7",
+   "tickers": [],
+   "sectors": [
+    "Financials",
+    "Cons. Discretionary"
+   ],
+   "themes": [
+    "Fed & Rates",
+    "Banks & Credit"
+   ],
+   "sentiment": 0.0,
+   "sentiment_label": "neutral",
+   "impact": 3.3,
+   "age_hours": 550.6
+  },
+  {
+   "title": "Republicans face midterm backlash from factory workers squeezed out of jobs by Trump's tariffs",
+   "summary": "Republicans face midterm backlash from factory workers squeezed out of jobs by Trump's tariffs AP News",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdnNFZTdGejNfd01TajhFLWhwUHlRU2t1Y25QUzlXeWtuLXNGT2l2OTU4dTNDSm15UzFiUjZRelFfVGVnS1VHOU5rZ1o2Y3I0d181OExFWnJoeG50Z1dreENBMEhzMi1UNFFqTzViNktVcWhneEZRdnZ4Z0VqRHVUQUFkLUo1Z3g4NXVrdkdfQkFKV2p4UUlkNVk3TVhCX1daYl84LXFlYTNRUW9HblliN1Jtd1ctS3JkS2RZ?oc=5",
+   "source": "AP News",
+   "feed": "AP Business (via Google News)",
+   "published": "2026-10-11T11:50:00+00:00",
+   "id": "018f46c6ae41",
+   "tickers": [],
+   "sectors": [
+    "Industrials"
+   ],
+   "themes": [
+    "Inflation & Macro Data",
+    "Trade, Tariffs & Geopolitics"
+   ],
+   "sentiment": 0.0,
+   "sentiment_label": "neutral",
+   "impact": 3.2,
+   "age_hours": 1.7
+  },
+  {
+   "title": "Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers",
+   "summary": "Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm",
+   "source": "Fed Press Releases",
+   "feed": "Fed Press Releases",
+   "published": "2026-09-11T14:00:00+00:00",
+   "id": "fcf70a05cba2",
+   "tickers": [],
+   "sectors": [
+    "Financials"
+   ],
+   "themes": [
+    "Earnings & Guidance",
+    "Banks & Credit"
+   ],
+   "sentiment": 0.421,
+   "sentiment_label": "bullish",
+   "impact": 3.2,
+   "age_hours": 719.6
+  },
+  {
+   "title": "Paramount and Warner Bros. Discovery Are Now Skydance. Here's Why I'd Rather Own Netflix.",
+   "summary": "The new massive media conglomerate has a lot to prove.",
+   "link": "https://www.fool.com/investing/2026/10/11/paramount-and-warner-bros-discovery-are-now-skydan/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "feed": "Yahoo Finance",
+   "published": "2026-10-11T12:20:00+00:00",
+   "id": "be383b60e7d2",
+   "tickers": [
+    "NFLX"
+   ],
+   "sectors": [
+    "Communication"
+   ],
+   "themes": [
+    "Fed & Rates",
+    "Trade, Tariffs & Geopolitics"
+   ],
+   "sentiment": 0.0,
+   "sentiment_label": "neutral",
+   "impact": 3.1,
+   "age_hours": 1.2
+  },
+  {
+   "title": "History Says This Is the Amount of Yearly Dividend Income a $10,000 Investment in Costco Stock Could Generate by 2031 (Without Even Considering Special Dividends)",
+   "summary": "The warehouse club giant's share price has more than doubled in five years, with quarterly payouts adding a small sum to the returns.",
+   "link": "https://www.fool.com/investing/2026/10/11/history-says-yearly-dividend-income-costco-2031/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "feed": "Yahoo Finance",
+   "published": "2026-10-11T11:34:00+00:00",
+   "id": "f06e3b8d2099",
+   "tickers": [
+    "COST"
+   ],
+   "sectors": [
+    "Cons. Staples"
+   ],
+   "themes": [
+    "Fed & Rates",
+    "Earnings & Guidance",
+    "Trade, Tariffs & Geopolitics"
+   ],
+   "sentiment": -0.015,
+   "sentiment_label": "neutral",
+   "impact": 3.1,
+   "age_hours": 2.0
+  },
+  {
+   "title": "Consumer sentiment is in the dumps despite a solid economy. Goldman Sachs blames 'lower happiness'",
+   "summary": "Goldman economist Joseph Briggs said broader pessimism in society may be contributing to struggling consumer sentiment even as the economy chugs along.",
+   "link": "https://www.cnbc.com/2026/09/19/goldman-sachs-happiness-struggling-consumer-sentiment.html",
+   "source": "CNBC Markets",
+   "feed": "CNBC Markets",
+   "published": "2026-09-19T12:50:49+00:00",
+   "id": "751c8a725900",
+   "tickers": [
+    "GS"
+   ],
+   "sectors": [
+    "Financials",
+    "Cons. Discretionary",
+    "Materials"
+   ],
+   "themes": [
+    "Inflation & Macro Data",
+    "Energy & Commodities",
+    "Consumer & Retail"
+   ],
+   "sentiment": -0.829,
+   "sentiment_label": "bearish",
+   "impact": 3.1,
+   "age_hours": 528.7
+  }
+ ],
+ "sources": {
+  "CNBC Top News": {
+   "ok": true,
+   "count": 30
+  },
+  "CNBC Markets": {
+   "ok": true,
+   "count": 30
+  },
+  "CNBC Economy": {
+   "ok": true,
+   "count": 30
+  },
+  "MarketWatch Top": {
+   "ok": true,
+   "count": 10
+  },
+  "MarketWatch Pulse": {
+   "ok": true,
+   "count": 30
+  },
+  "Yahoo Finance": {
+   "ok": true,
+   "count": 20
+  },
+  "BBC Business": {
+   "ok": true,
+   "count": 52
+  },
+  "Reuters (via Google News)": {
+   "ok": true,
+   "count": 60
+  },
+  "AP Business (via Google News)": {
+   "ok": true,
+   "count": 60
+  },
+  "Fed Press Releases": {
+   "ok": true,
+   "count": 20
+  },
+  "Nasdaq Markets (slow, optional)": {
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='www.nasdaq.com', port=443): Read timed out. (read timeout=12)"
+  },
+  "yfinance": {
+   "ok": true,
+   "count": 26
+  }
+ },
+ "failed_symbols": []
+}
