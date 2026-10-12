@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 11 07:56 PM ET",
- "generated_at": "2026-10-11T19:56:34.669051-04:00",
+ "generated_et": "Oct 11 08:30 PM ET",
+ "generated_at": "2026-10-11T20:30:21.135383-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-11",
@@ -12,33 +12,33 @@
   {
    "symbol": "ES=F",
    "label": "S&P 500 Fut",
-   "price": 7878.75,
-   "pct": 0.24,
-   "asof_et": "Oct 11 07:45 PM ET",
+   "price": 7877.5,
+   "pct": 0.23,
+   "asof_et": "Oct 11 08:20 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "NQ=F",
    "label": "Nasdaq 100 Fut",
-   "price": 31263.25,
-   "pct": 0.5,
-   "asof_et": "Oct 11 07:45 PM ET",
+   "price": 31240.75,
+   "pct": 0.42,
+   "asof_et": "Oct 11 08:20 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "YM=F",
    "label": "Dow Fut",
-   "price": 52014.0,
-   "pct": 0.17,
-   "asof_et": "Oct 11 07:45 PM ET",
+   "price": 52032.0,
+   "pct": 0.2,
+   "asof_et": "Oct 11 08:20 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "RTY=F",
    "label": "Russell 2000 Fut",
-   "price": 2828.9,
-   "pct": 0.24,
-   "asof_et": "Oct 11 07:45 PM ET",
+   "price": 2828.7,
+   "pct": 0.23,
+   "asof_et": "Oct 11 08:20 PM ET",
    "freshness": "delayed"
   },
   {
@@ -84,25 +84,25 @@
   {
    "symbol": "CL=F",
    "label": "WTI Crude",
-   "price": 91.16,
-   "pct": -0.75,
-   "asof_et": "Oct 11 07:45 PM ET",
+   "price": 90.69,
+   "pct": -1.26,
+   "asof_et": "Oct 11 08:20 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "GC=F",
    "label": "Gold",
-   "price": 4219.8,
-   "pct": 0.08,
-   "asof_et": "Oct 11 07:45 PM ET",
+   "price": 4229.1,
+   "pct": 0.3,
+   "asof_et": "Oct 11 08:20 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "DX-Y.NYB",
    "label": "Dollar Index",
-   "price": 102.21,
-   "pct": -0.0,
-   "asof_et": "Oct 11 07:45 PM ET",
+   "price": 102.15,
+   "pct": -0.06,
+   "asof_et": "Oct 11 08:20 PM ET",
    "freshness": "delayed"
   },
   {
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 83681.55,
-   "pct": 0.93,
-   "asof_et": "Oct 11 07:55 PM ET",
+   "price": 83733.36,
+   "pct": 0.99,
+   "asof_et": "Oct 11 08:30 PM ET",
    "freshness": "delayed"
   },
   {
@@ -382,6 +382,111 @@
  ],
  "breaking": [
   {
+   "title": "Plenty is working against this market. Here's why I'm staying invested anyway",
+   "link": "https://www.cnbc.com/investingclub/2026/10/11/plenty-is-working-against-this-market-why-im-staying-invested-anyway.html",
+   "source": "CNBC Top News",
+   "impact": 2.0,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 11 08:30 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Prediction: A $5,000 Investment in IonQ Could Be Worth This Much by 2028",
+   "link": "https://www.fool.com/investing/2026/10/11/prediction-a-5000-investment-in-ionq-could-be-wort/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 1.7,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 11 08:30 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "2027 Budget: Consumers, property stocks in spotlight",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcExFLUt6LUtJOVpPblBkWktSWXF3VHdNd05WUFk2S28xVFlyV1dEc3dzZlpwRTk1dzJKV2xXUUp3OWkxZWhmVDNQMkZTZjJ2al9oX3VENDg3dlV2YzF3U3JnTnh2YzRlXzl1LXBzWFMxQTFHelRyVzFSWWZEaFJjQW5URktWN2FaczVfWkdFQS0zVmVtSUpNUXAzelNQaHNGLVE?oc=5",
+   "source": "KLSE Screener",
+   "impact": 1.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 11 08:30 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Amazon in talks to acquire AI startup Decart for $7 bln- WSJ",
+   "link": "https://finance.yahoo.com/technology/ai/articles/amazon-talks-acquire-ai-startup-235502420.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 5.1,
+   "tickers": [
+    "AMZN",
+    "QQQ"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 11 08:30 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Malaysia Bourse May Extend Friday's Gains",
+   "link": "https://www.nasdaq.com/articles/malaysia-bourse-may-extend-fridays-gains-0",
+   "source": "Nasdaq Markets",
+   "impact": 1.8,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 11 08:30 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Which iShares Healthcare ETF Is the Better Buy: Biotech-Focused IBB or Broad IYH?",
+   "link": "https://www.nasdaq.com/articles/which-ishares-healthcare-etf-better-buy-biotech-focused-ibb-or-broad-iyh",
+   "source": "Nasdaq Markets",
+   "impact": 1.7,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 11 08:30 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Enlight's 2026 Outlook: Global Energy Platform Expansion Targets 3x Growth in 3 Years",
+   "link": "https://www.nasdaq.com/articles/enlights-2026-outlook-global-energy-platform-expansion-targets-3x-growth-3-years",
+   "source": "Nasdaq Markets",
+   "impact": 2.5,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 11 08:30 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Which Precious Metals ETF Is the Better Buy: abrdn’s Silver SIVR or VanEck’s Gold Miners GDX?",
+   "link": "https://www.nasdaq.com/articles/which-precious-metals-etf-better-buy-abrdns-silver-sivr-or-vanecks-gold-miners-gdx",
+   "source": "Nasdaq Markets",
+   "impact": 2.9,
+   "tickers": [
+    "GC=F"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 11 08:30 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Which Healthcare ETF Is the Better Buy: Simplify’s Active PINK or VanEck’s Pharma-Focused PPH?",
+   "link": "https://www.nasdaq.com/articles/which-healthcare-etf-better-buy-simplifys-active-pink-or-vanecks-pharma-focused-pph",
+   "source": "Nasdaq Markets",
+   "impact": 2.3,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 11 08:30 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Which Healthcare ETF Is the Better Buy: Fidelity’s Broad FHLC or Invesco’s Biotech-Focused PBE?",
+   "link": "https://www.nasdaq.com/articles/which-healthcare-etf-better-buy-fidelitys-broad-fhlc-or-invescos-biotech-focused-pbe",
+   "source": "Nasdaq Markets",
+   "impact": 2.1,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 11 08:30 PM ET",
+   "consumer": false
+  },
+  {
    "title": "Not Nvidia. Not Broadcom. This Little-Known Chip Supplier Could Be the AI Boom's Best-Kept Secret.",
    "link": "https://www.fool.com/investing/2026/10/11/not-nvidia-not-broadcom-this-little-known-chip-sup/?.tsrc=rss",
    "source": "Yahoo Finance",
@@ -487,114 +592,6 @@
    "tickers": [],
    "sentiment_label": "bearish",
    "seen_et": "Oct 11 07:34 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Can Aritzia (TSX:ATZ) Expand Its Retail Presence Across North America?",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZkxUTjV0S2FMMUp4QkpybkxSSjFzYnJ0TFJnWGI0ZWNWME1sYkhGMWJPSUZrWHNIRWlsLTc3NlJ6T2JtQU5hNGxvTy1VdERjdUQyVWxiVk5tcFJqbTVtN3NyVEtKTHItWVJEc2ZvZGUtUWU3Y3ZPdnVkVDhVaTdEU2VXdmdWNEg4aFo0bW5yT2ZjOEJqRFhra3dhdGVlcjY5Q2dBMnA4bmYwZFV4NGk4?oc=5",
-   "source": "Kalkine Media",
-   "impact": 1.3,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 11 07:34 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "Why Japan's 7-Eleven store closures in India don’t signal an exit",
-   "link": "https://www.cnbc.com/2026/10/10/7-eleven-india-japan-reliance.html",
-   "source": "CNBC Top News",
-   "impact": 0.0,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 11 07:34 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
-   "link": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html",
-   "source": "CNBC Top News",
-   "impact": 1.1,
-   "tickers": [
-    "QQQ"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 11 07:34 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Micron Is Down 18% From Its High. History Suggests This Is What Happens Next.",
-   "link": "https://www.fool.com/investing/2026/10/11/micron-is-down-x-from-its-high-history-suggests-th/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.4,
-   "tickers": [
-    "MU"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 11 07:14 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Pope Leo XIV says he will undergo surgery in the coming days to remove a nodule on his lung",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUzd2TWpTUTY4aDBlZm00b1RaVHgxenRmVzBCTWYtRERQNW5EczFLcmZFUzFoV1JLdDlORVctV2NEcVctUXJaWV9veEVOWlhISUN3cFZORV81YkVBY05MSjVEUEpUVURTUEJIQlJvd3pnT3VDbzBjekY3b1Z0VDA4aUl4UXVWaUxVZkMtSndaRUdseEE3Vmx1SVNRdXo?oc=5",
-   "source": "AP News",
-   "impact": 2.4,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 11 07:14 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "In Silicon Valley, AI founders cheer Trump’s calls for the industry to police itself on safety",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPX291RmlBcG5lT01mbXhCeFVFUGRkaVppc1FBcjEzU1J4NlVsdng1ZnZTaS04VmFIV2xRNDhzRGY2MVJhMTMzUm50bDRBYVpFSnlNMjE1R2o1Z2cxU1lxeWhiSWhIbjlrbDhQblZ6dmFLVFRhYzlVWDIyY1JoOFhaQXBqaC1xbWdKSy1kWVBGYw?oc=5",
-   "source": "AP News",
-   "impact": 1.7,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 11 07:14 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "CoreWeave Turns To Europe For Bond Sale – Retail Believes CRWV Stock Is A ‘Good Long-Term Buy’ Above This Level",
-   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNRWo0WTBHbjFxTmVZTW12aFQtZUNMc0NMRjV0dDBsbEJpUEFONTlCT2lzdGR1OWtiMUdjM2cxelFabWd2S2JNTWxlY0UxTmpJTkszcHlYeUxaVWdXeEMtcWFUcTVHX0ZmXzVvc1dKRFptU3FSZFZpQ21odXI1ZnZLR09zRkp0TW5WdWhwQy1GZkRhamZoNGZpU1g1TG92R1pNRDRNcVFiRVBOUW1yZFdkcVhTN2VrbnFzak9hN25scVZHVDFYZUZPTmpxNjJMMlNKbEk0c3NuTXpzeTV1Qk9COE5oS3p2a1FwM3N4OTFtNlBxamVlU1R3dEo1cFREcU81S0E?oc=5",
-   "source": "Stocktwits",
-   "impact": 0.8,
-   "tickers": [
-    "^TNX"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 11 07:14 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "3 Monthly Dividend Stocks Yielding Over 5% Worth Owning Now",
-   "link": "https://www.fool.com/investing/2026/10/11/3-monthly-dividend-stocks-yielding-over-5-worth-ow/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 1.9,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 11 06:46 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Gerry Harvey Buys More Shares As Harvey Norman Stock Plunges 40%, Retail Downturn Deepens",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQXN5YkNackZ4VTZqX2dJemtKRjhpTndNcnZpdXpIQ1BjeVo0UmFYeWpEUVRIejJNdlM4Yk9aUG9EQTRpQi1mZ3ZFb3QyMFFEZ3VRenFQT0dyTFdTOE9md0ZEV2ZfdnFGeHZsMEhlaTVlUkl4cjNoV2hRYzlhcFZfVmpLTUtvb3dCZl8weTJaUXZWcHBPSGxxaW1hRFdlZ2NrcGlFajlncGUtVmJQd053TFNpYkpvdmVHWlhZ?oc=5",
-   "source": "ChannelNews.com.au",
-   "impact": 3.4,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 11 06:46 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "Following OpenAI’s Revenue Report, Should You Really Buy AI Stocks Right Now?",
-   "link": "https://www.fool.com/investing/2026/10/11/following-openai-s-revenue-report-should-you-really-buy-ai-stocks-right-now/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.0,
-   "tickers": [
-    "MSFT"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 11 06:46 PM ET",
    "consumer": false
   }
  ],
@@ -1655,9 +1652,9 @@
   ]
  },
  "sentiment_validation": {
-  "logged": 58,
+  "logged": 60,
   "min_sample": 100,
-  "generated_et": "Oct 11 07:56 PM ET",
+  "generated_et": "Oct 11 08:30 PM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
@@ -1685,98 +1682,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 11 07:56 PM ET",
-   "newest_et": "Oct 11 07:24 PM ET",
-   "newest": "2026-10-11T23:24:29+00:00"
+   "fetched_et": "Oct 11 08:30 PM ET",
+   "newest_et": "Oct 11 08:23 PM ET",
+   "newest": "2026-10-12T00:23:07+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 11 07:56 PM ET",
+   "fetched_et": "Oct 11 08:30 PM ET",
    "newest_et": "Oct 09 03:18 PM ET",
    "newest": "2026-10-09T19:18:24+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 11 07:56 PM ET",
+   "fetched_et": "Oct 11 08:30 PM ET",
    "newest_et": "Oct 11 01:08 PM ET",
    "newest": "2026-10-11T17:08:30+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 11 07:56 PM ET",
+   "fetched_et": "Oct 11 08:30 PM ET",
    "newest_et": "Oct 11 04:15 PM ET",
    "newest": "2026-10-11T20:15:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 11 07:56 PM ET",
+   "fetched_et": "Oct 11 08:30 PM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 11 07:56 PM ET",
-   "newest_et": "Oct 11 07:50 PM ET",
-   "newest": "2026-10-11T23:50:00+00:00"
+   "fetched_et": "Oct 11 08:30 PM ET",
+   "newest_et": "Oct 11 08:20 PM ET",
+   "newest": "2026-10-12T00:20:00+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 39,
-   "fetched_et": "Oct 11 07:56 PM ET",
+   "fetched_et": "Oct 11 08:30 PM ET",
    "newest_et": "Oct 11 07:19 PM ET",
    "newest": "2026-10-11T23:19:49+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 11 07:56 PM ET",
+   "fetched_et": "Oct 11 08:30 PM ET",
    "newest_et": "Oct 11 09:19 AM ET",
    "newest": "2026-10-11T13:19:13+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 11 07:56 PM ET",
+   "fetched_et": "Oct 11 08:30 PM ET",
    "newest_et": "Oct 11 06:33 PM ET",
    "newest": "2026-10-11T22:33:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 34,
-   "fetched_et": "Oct 11 07:56 PM ET",
+   "count": 33,
+   "fetched_et": "Oct 11 08:30 PM ET",
    "newest_et": "Oct 11 05:08 PM ET",
    "newest": "2026-10-11T21:08:00+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
-   "count": 51,
-   "fetched_et": "Oct 11 07:56 PM ET",
-   "newest_et": "Oct 11 06:26 PM ET",
-   "newest": "2026-10-11T22:26:43+00:00"
+   "count": 50,
+   "fetched_et": "Oct 11 08:30 PM ET",
+   "newest_et": "Oct 11 08:00 PM ET",
+   "newest": "2026-10-12T00:00:24+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 11 07:56 PM ET",
+   "fetched_et": "Oct 11 08:30 PM ET",
    "newest_et": "Oct 09 10:00 AM ET",
    "newest": "2026-10-09T14:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 11 07:56 PM ET",
-   "newest_et": "Oct 11 07:03 PM ET",
-   "newest": "2026-10-11T23:03:15+00:00"
+   "fetched_et": "Oct 11 08:30 PM ET",
+   "newest_et": "Oct 11 07:33 PM ET",
+   "newest": "2026-10-11T23:33:15+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Oct 11 07:56 PM ET"
+   "fetched_et": "Oct 11 08:30 PM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
