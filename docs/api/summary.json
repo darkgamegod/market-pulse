@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 12 12:02 AM ET",
- "generated_at": "2026-10-12T00:02:18.285213-04:00",
+ "generated_et": "Oct 12 12:36 AM ET",
+ "generated_at": "2026-10-12T00:36:19.433759-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-12",
@@ -12,33 +12,33 @@
   {
    "symbol": "ES=F",
    "label": "S&P 500 Fut",
-   "price": 7886.25,
-   "pct": 0.34,
-   "asof_et": "Oct 11 11:50 PM ET",
+   "price": 7883.75,
+   "pct": 0.31,
+   "asof_et": "Oct 12 12:25 AM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "NQ=F",
    "label": "Nasdaq 100 Fut",
-   "price": 31239.25,
-   "pct": 0.42,
-   "asof_et": "Oct 11 11:50 PM ET",
+   "price": 31220.0,
+   "pct": 0.36,
+   "asof_et": "Oct 12 12:25 AM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "YM=F",
    "label": "Dow Fut",
-   "price": 52129.0,
-   "pct": 0.39,
-   "asof_et": "Oct 11 11:50 PM ET",
+   "price": 52108.0,
+   "pct": 0.35,
+   "asof_et": "Oct 12 12:25 AM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "RTY=F",
    "label": "Russell 2000 Fut",
-   "price": 2833.2,
-   "pct": 0.39,
-   "asof_et": "Oct 11 11:50 PM ET",
+   "price": 2830.8,
+   "pct": 0.31,
+   "asof_et": "Oct 12 12:25 AM ET",
    "freshness": "delayed"
   },
   {
@@ -84,17 +84,17 @@
   {
    "symbol": "CL=F",
    "label": "WTI Crude",
-   "price": 90.34,
-   "pct": -1.64,
-   "asof_et": "Oct 11 11:50 PM ET",
+   "price": 90.29,
+   "pct": -1.7,
+   "asof_et": "Oct 12 12:25 AM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "GC=F",
    "label": "Gold",
-   "price": 4229.0,
-   "pct": 0.3,
-   "asof_et": "Oct 11 11:50 PM ET",
+   "price": 4224.2,
+   "pct": 0.19,
+   "asof_et": "Oct 12 12:25 AM ET",
    "freshness": "delayed"
   },
   {
@@ -102,7 +102,7 @@
    "label": "Dollar Index",
    "price": 102.17,
    "pct": -0.04,
-   "asof_et": "Oct 11 11:50 PM ET",
+   "asof_et": "Oct 12 12:25 AM ET",
    "freshness": "delayed"
   },
   {
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 83506.37,
-   "pct": 0.72,
-   "asof_et": "Oct 12 12:00 AM ET",
+   "price": 83779.64,
+   "pct": 1.05,
+   "asof_et": "Oct 12 12:35 AM ET",
    "freshness": "delayed"
   },
   {
@@ -382,6 +382,103 @@
  ],
  "breaking": [
   {
+   "title": "TikTok CEO sees major scientific breakthroughs from AI within three years",
+   "link": "https://www.cnbc.com/2026/10/12/tiktok-ceo-bytedance-ai-scientific-breakthroughs.html",
+   "source": "CNBC Top News",
+   "impact": 2.3,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 12 12:36 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "As Shoppers Trade Down, These 5 Brands Still Have Pricing Power",
+   "link": "https://www.fool.com/investing/2026/10/12/as-shoppers-trade-down-these-5-brands-still-have-p/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.2,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 12 12:36 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Elon Musk Wants Tesla, SpaceX To Test 10 Chip Designs A Year At Terafab As TSMC Reportedly Eyes Texas",
+   "link": "https://stocktwits.com/news-articles/markets/equity/elon-musk-tesla-spacex-test-10-chip-designs-a-year-terafab-tsmc-reportedly-eyes-texas/cZx4U7ZRBFW?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.4,
+   "tickers": [
+    "TSLA",
+    "TSM"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 12 12:36 AM ET",
+   "consumer": true
+  },
+  {
+   "title": "The Ups and Downs of Hong Kong's Property Market: Trends, Challenges and Investment Insights",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIcy0zX18tVzZUZXloQU9iWlgtTmVVMzFkcDVnQTJ3Ui1DZGt4X1Z4aEtTQUFsTWhlVGczWkpHVFZWRWJsYU9SQjM4bE5pVjRhSXpr?oc=5",
+   "source": "36Kr",
+   "impact": 2.2,
+   "tickers": [
+    "UPS"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 12 12:36 AM ET",
+   "consumer": true
+  },
+  {
+   "title": "What's open and closed on Columbus Day and Indigenous Peoples' Day?",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUDYxeHhkM3lCYjlkRFV5bFBraDUxbmh6VHhXNGItZnlya3llYU9scTBNc0pEUTh2WVhhMTBDVlBFbEduQ0k2RFVUSkw0UUxObXBqWDJhem8wV0swTWFfenIwRVhrOTlXZE44UWw5ZFpXckpPMEY4eThuV2l5SWNRZ0YwT3FfeXVWZU0yZnFDd1lYZEtqZVhZOUtSb0lHRnlyWU11a1V2SG1qQnBENEVPVXZVNU12YlVreVE4?oc=5",
+   "source": "USA Today",
+   "impact": 1.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 12 12:36 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Australian Market Extends Early Gains In Mid-market",
+   "link": "https://www.nasdaq.com/articles/australian-market-extends-early-gains-mid-market-6",
+   "source": "Nasdaq Markets",
+   "impact": 3.0,
+   "tickers": [
+    "SPY"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 12 12:36 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Asian Markets Trade Mixed",
+   "link": "https://www.nasdaq.com/articles/asian-markets-trade-mixed-11",
+   "source": "Nasdaq Markets",
+   "impact": 2.1,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 12 12:36 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "‘Other Mommy’ tops the box office with $27.5M; ‘The Social Reckoning’ opens to $5.5M",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbjNEeFhPQl9oUzBIZ3dLblNPaHZZQmlyUmhoLTVKd0NWaEFwZE0xZE9LV2JBY2twbmFMSnMydl9jR2loUkpLaWtpdk11SmlBbmpSdzZwZGJhSThnazhEcUx0S1VjX1ZYLWJjVXZzUmduekdyMzYxNDBUZU5VR0NXZEpuSmtWQjZtTkdnSUdHLTFqSjJ5SXRPY1JSQW1RWldB?oc=5",
+   "source": "AP News",
+   "impact": 1.9,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 12 12:36 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "US-Ukraine-European negotiators meet in Miami as Trump announces diesel deal with Russia",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSWVqVnNJdVl6QnI3QmppeUxKWlJXZXF0UHFjUDFrYVdJMTdOQnQ1ZTRreldUSl8tQ3llajdPaDVUT2dSWUFFdnhiZFJBVk5NeGZ6aXR1VGt1YUU1MzA3VEFVODBWOGVHSnoweFQxLWFPcC1lZEphNFZzdklJQUZVd2x6WXJhQmtxbEVZUUZSN3NCTkNyTHFfVkY2bFVoTWhncnFianJ5ZS1HVTZ0enNiNUtidHR6X1BqZlVkZWxxZjd3UQ?oc=5",
+   "source": "Reuters",
+   "impact": 0.6,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 12 12:36 AM ET",
+   "consumer": false
+  },
+  {
    "title": "2 Unstoppable Cryptocurrencies Poised for Massive Gains This Year",
    "link": "https://www.fool.com/investing/2026/10/11/2-unstoppable-cryptocurrencies-poised-for-massive/?.tsrc=rss",
    "source": "Yahoo Finance",
@@ -502,109 +599,6 @@
    "sentiment_label": "bullish",
    "seen_et": "Oct 11 11:37 PM ET",
    "consumer": true
-  },
-  {
-   "title": "3 Tech Stocks Wall Street Upgraded Last Week, and the One I'd Buy First",
-   "link": "https://www.fool.com/investing/2026/10/11/stocks-wall-street-upgraded-last-week-one-id-buy/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.6,
-   "tickers": [
-    "MSFT",
-    "PLTR"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 11 11:00 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "UPS error caused China to get parts from F-35 stealth fighter jet: Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQTVocGlqb2E1TnVuQVUtS3ZXcGMxWU1oQTBhWDhjR1ZpcnpyTG16aV9WcWthU2h0d2FZTDFWUS1STTB4azRxSGx2ay0yOU4wb2ZkVmVjbGxDZWZnbG5QRk96eWZGeG1Dc3NNeGFPTDZGcG10eHFlbHhZY3kyZnVPOHJXWmhvaTFyR3pQbWNhLUZ4cFFkYzM1U29iVXJ6dVV6enVuMVZ3?oc=5",
-   "source": "Straight Arrow",
-   "impact": 2.5,
-   "tickers": [
-    "UPS"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 11 11:00 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "Feud spills onto South Carolina debate stage as Darline Graham, Annie Andrews snipe in Senate race",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS25lQVV3aTRLX1NaM2RuLU1KOTh6QU9SLUY1SlVBcFRRTG4wWW05Y2hTUXFOb0VLWE1uM29YLVlZX1V2NkczOTBMOEdUQUhodGNIZWVzZVlKQ2x2dnI3ODFwVDF6MmxidE05Yy1QYkM1QjdkUU9uVFI5NTlyanJfVmQ1UklzNGNkR09VRlZGQWh3blVCd3cyY0txSUpsSm01eTZJUHF6T2ZmZm4wN3BJ?oc=5",
-   "source": "AP News",
-   "impact": 2.2,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 11 11:00 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Amazon Reportedly in Talks to Buy Decart for $7 Billion — Market Strategist Says It Is 'Effectively Buying Software Expertise'",
-   "link": "https://finance.yahoo.com/technology/ai/articles/amazon-reportedly-talks-buy-decart-013303203.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 5.1,
-   "tickers": [
-    "AMZN",
-    "QQQ"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 11 11:00 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "Quentin Tarantino’s first stage play will debut in London with Sacha Baron Cohen as star",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeWlVeHpXdGEtZHQ4TEhXTjRQVXdGaDZQcWhYWWN6VFRNalpYZWhQZTdjOWRtV2Y2ZE0yRzAtLVNKSWdYSHdPaE5paEtOYjNvajRfdUMtalJYUGwwZkV1Z2QtZG81Y3VNdWc3NUc5T1N1WHo4NDYxQ09YT0MxVkowRmtSUHVNWVR6aUlnUXZ3OFdIbkhJREY3RllVM1kyejk1?oc=5",
-   "source": "AP News",
-   "impact": 2.0,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 11 11:00 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Judge orders Trump administration to immediately stop taxpayer-funded TV ads",
-   "link": "https://www.cnbc.com/2026/10/11/trump-ads-dhs-judge-order.html",
-   "source": "CNBC Top News",
-   "impact": 2.3,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 11 10:34 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Oil falls after Trump declares 'energy ceasefire' between Russia and Ukraine",
-   "link": "https://www.cnbc.com/2026/10/12/oil-prics-today-iran-us-saudi-arabia-crude-.html",
-   "source": "CNBC Top News",
-   "impact": 2.9,
-   "tickers": [
-    "CL=F",
-    "XLE"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 11 10:34 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Stocktwits Pharma Pulse: JNJ Earnings, Cancer Updates And Two FDA Target Dates — The Week’s Biotech Watchlist",
-   "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-pharma-pulse-jnj-earnings-cancer-updates-fda-target-dates-week-biotech-watchlist/cZx4H9CRBFa?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.8,
-   "tickers": [
-    "TGT"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 11 10:34 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "MAAS Group slides further after Firmus IPO cancellation, hits six-month low",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/maas-group-slides-further-firmus-021402026.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.7,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 11 10:34 PM ET",
-   "consumer": false
   }
  ],
  "high_impact": [],
@@ -1664,9 +1658,9 @@
   ]
  },
  "sentiment_validation": {
-  "logged": 84,
+  "logged": 86,
   "min_sample": 100,
-  "generated_et": "Oct 12 12:03 AM ET",
+  "generated_et": "Oct 12 12:36 AM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
@@ -1694,98 +1688,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 12 12:02 AM ET",
-   "newest_et": "Oct 11 11:25 PM ET",
-   "newest": "2026-10-12T03:25:33+00:00"
+   "fetched_et": "Oct 12 12:36 AM ET",
+   "newest_et": "Oct 12 12:24 AM ET",
+   "newest": "2026-10-12T04:24:33+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 12 12:02 AM ET",
+   "fetched_et": "Oct 12 12:36 AM ET",
    "newest_et": "Oct 09 03:18 PM ET",
    "newest": "2026-10-09T19:18:24+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 12 12:02 AM ET",
+   "fetched_et": "Oct 12 12:36 AM ET",
    "newest_et": "Oct 11 01:08 PM ET",
    "newest": "2026-10-11T17:08:30+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 12 12:02 AM ET",
+   "fetched_et": "Oct 12 12:36 AM ET",
    "newest_et": "Oct 11 04:15 PM ET",
    "newest": "2026-10-11T20:15:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 12 12:02 AM ET",
+   "fetched_et": "Oct 12 12:36 AM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 12 12:02 AM ET",
-   "newest_et": "Oct 11 11:47 PM ET",
-   "newest": "2026-10-12T03:47:33+00:00"
+   "fetched_et": "Oct 12 12:36 AM ET",
+   "newest_et": "Oct 12 12:20 AM ET",
+   "newest": "2026-10-12T04:20:00+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 39,
-   "fetched_et": "Oct 12 12:02 AM ET",
+   "fetched_et": "Oct 12 12:36 AM ET",
    "newest_et": "Oct 11 07:19 PM ET",
    "newest": "2026-10-11T23:19:49+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 12 12:02 AM ET",
+   "fetched_et": "Oct 12 12:36 AM ET",
    "newest_et": "Oct 11 09:51 PM ET",
    "newest": "2026-10-12T01:51:00+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 12 12:02 AM ET",
+   "fetched_et": "Oct 12 12:36 AM ET",
    "newest_et": "Oct 11 08:33 PM ET",
    "newest": "2026-10-12T00:33:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 34,
-   "fetched_et": "Oct 12 12:02 AM ET",
-   "newest_et": "Oct 11 10:41 PM ET",
-   "newest": "2026-10-12T02:41:33+00:00"
+   "count": 35,
+   "fetched_et": "Oct 12 12:36 AM ET",
+   "newest_et": "Oct 12 12:04 AM ET",
+   "newest": "2026-10-12T04:04:33+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
    "count": 52,
-   "fetched_et": "Oct 12 12:02 AM ET",
+   "fetched_et": "Oct 12 12:36 AM ET",
    "newest_et": "Oct 11 10:13 PM ET",
    "newest": "2026-10-12T02:13:00+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 12 12:02 AM ET",
+   "fetched_et": "Oct 12 12:36 AM ET",
    "newest_et": "Oct 09 10:00 AM ET",
    "newest": "2026-10-09T14:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 12 12:02 AM ET",
-   "newest_et": "Oct 11 10:50 PM ET",
-   "newest": "2026-10-12T02:50:00+00:00"
+   "fetched_et": "Oct 12 12:36 AM ET",
+   "newest_et": "Oct 11 11:40 PM ET",
+   "newest": "2026-10-12T03:40:00+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Oct 12 12:02 AM ET"
+   "fetched_et": "Oct 12 12:36 AM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
