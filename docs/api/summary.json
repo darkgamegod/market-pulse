@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 12 12:36 AM ET",
- "generated_at": "2026-10-12T00:36:19.433759-04:00",
+ "generated_et": "Oct 12 01:01 AM ET",
+ "generated_at": "2026-10-12T01:01:59.042362-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-12",
@@ -12,33 +12,33 @@
   {
    "symbol": "ES=F",
    "label": "S&P 500 Fut",
-   "price": 7883.75,
-   "pct": 0.31,
-   "asof_et": "Oct 12 12:25 AM ET",
+   "price": 7885.5,
+   "pct": 0.33,
+   "asof_et": "Oct 12 12:50 AM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "NQ=F",
    "label": "Nasdaq 100 Fut",
-   "price": 31220.0,
-   "pct": 0.36,
-   "asof_et": "Oct 12 12:25 AM ET",
+   "price": 31245.75,
+   "pct": 0.44,
+   "asof_et": "Oct 12 12:50 AM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "YM=F",
    "label": "Dow Fut",
-   "price": 52108.0,
-   "pct": 0.35,
-   "asof_et": "Oct 12 12:25 AM ET",
+   "price": 52116.0,
+   "pct": 0.37,
+   "asof_et": "Oct 12 12:50 AM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "RTY=F",
    "label": "Russell 2000 Fut",
-   "price": 2830.8,
-   "pct": 0.31,
-   "asof_et": "Oct 12 12:25 AM ET",
+   "price": 2831.3,
+   "pct": 0.33,
+   "asof_et": "Oct 12 12:50 AM ET",
    "freshness": "delayed"
   },
   {
@@ -84,25 +84,25 @@
   {
    "symbol": "CL=F",
    "label": "WTI Crude",
-   "price": 90.29,
-   "pct": -1.7,
-   "asof_et": "Oct 12 12:25 AM ET",
+   "price": 90.41,
+   "pct": -1.57,
+   "asof_et": "Oct 12 12:50 AM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "GC=F",
    "label": "Gold",
-   "price": 4224.2,
-   "pct": 0.19,
-   "asof_et": "Oct 12 12:25 AM ET",
+   "price": 4220.5,
+   "pct": 0.1,
+   "asof_et": "Oct 12 12:50 AM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "DX-Y.NYB",
    "label": "Dollar Index",
-   "price": 102.17,
-   "pct": -0.04,
-   "asof_et": "Oct 12 12:25 AM ET",
+   "price": 102.19,
+   "pct": -0.02,
+   "asof_et": "Oct 12 12:50 AM ET",
    "freshness": "delayed"
   },
   {
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 83779.64,
-   "pct": 1.05,
-   "asof_et": "Oct 12 12:35 AM ET",
+   "price": 84051.99,
+   "pct": 1.37,
+   "asof_et": "Oct 12 01:00 AM ET",
    "freshness": "delayed"
   },
   {
@@ -382,6 +382,26 @@
  ],
  "breaking": [
   {
+   "title": "Peak XV, Accel-backed Zetwerk seeks $2.6 billion valuation in India IPO",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTW5qMTNSMzRzTGhDdEQzcFdocF9zcGN1OHJ5ZlluUkVEazlxbFNqemJXLURkYzBZSnFwMEJGb2ItR0hxTW9ta240WFNYMkVFMDFWTXVkaU9oS0FxdnV2d2xuMVRRV3VYaTJqVzU0RWZnQTNGVXNEanlZZHBkQS1VU09XNkFDdWpad1R2Y3Y0OUdBX3FsSU1qU0NWeW1jLUdnNnl4bjhTZlc1UkdFbkFNb1ppSmc3S3lZMTRj?oc=5",
+   "source": "Reuters",
+   "impact": 1.4,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 12 01:02 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Brock Purdy leads 2 late scoring drives to deliver a 32-29 win for the 49ers over the Seahawks",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTmtjRHVPT2tLTGRFU1pOLVdqZDRZQ3VNODA4ang3NVBTVTJWY3NoTWR3NF9zVVRlQWc2SHJ0OG81UmhZeUg2MU0xRi12RW5nLXBYUEZrVlBXNGhxakgtREVoRnFlcERDUmQzVjU2RFRtVTRDUFlKTnIwT1ZOYUdmMjlNUWxnc0E?oc=5",
+   "source": "AP News",
+   "impact": 2.3,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 12 01:02 AM ET",
+   "consumer": false
+  },
+  {
    "title": "TikTok CEO sees major scientific breakthroughs from AI within three years",
    "link": "https://www.cnbc.com/2026/10/12/tiktok-ceo-bytedance-ai-scientific-breakthroughs.html",
    "source": "CNBC Top News",
@@ -579,26 +599,6 @@
    "sentiment_label": "bearish",
    "seen_et": "Oct 11 11:37 PM ET",
    "consumer": false
-  },
-  {
-   "title": "Indian central bank curbs to temper corporate rush to hedge against rupee weakness",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRFgtUVBuX2VnM2otaHZHc08xZEFBRmtZZHV0QWNzTU5qSUhIcHJGWTZTNmpReXBQLS1SdlRBS3hpa1Jfb2tsZjV5eFRpeUtoLV9CdHVzUUJaVEw3aURPWEVEbF9ITGdoSVBoSFF6YzllelVWODM2TzkwWEhnTDJEUEpFWnUyaFZtT0lxc01WTHFkX0xLU1BNRFE0RWJwMzZzMnZ0VEtpYlhGTndtUlR5TjlOUFBvdU5OUDVtSkctMFV3Zw?oc=5",
-   "source": "Reuters",
-   "impact": 2.5,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 11 11:37 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "MNKD Stock Rises Premarket As FDA Verdict Nears – Retail Optimism Builds",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ2tiTXdHWnJXcG5DWkRzRWNLVkNZNUpndldlczNfNDNvajRueUk1YmM0OS1vekxXYm1jZUZYZGdVTzB5OTVQQzZzSkoySTJpaFRoUEl4SUVuZExDNFItc1BNZ1F0OFVJQ1V5c3dja2MzT1YzQ2VMa2ItdldDZVpCOVNERG9XSUdpVjg4MXN1Y0lhSTVubktCM280WENNQkRIMjI1UHFFaUo0a3d3ajZLc0o0MnUzcHFwakZVS3BydGxWS0Ntdnkxb1ZKVUR1dHM?oc=5",
-   "source": "Stocktwits",
-   "impact": 2.2,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 11 11:37 PM ET",
-   "consumer": true
   }
  ],
  "high_impact": [],
@@ -1660,7 +1660,7 @@
  "sentiment_validation": {
   "logged": 86,
   "min_sample": 100,
-  "generated_et": "Oct 12 12:36 AM ET",
+  "generated_et": "Oct 12 01:02 AM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
@@ -1688,98 +1688,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 12 12:36 AM ET",
+   "fetched_et": "Oct 12 01:01 AM ET",
    "newest_et": "Oct 12 12:24 AM ET",
    "newest": "2026-10-12T04:24:33+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 12 12:36 AM ET",
+   "fetched_et": "Oct 12 01:01 AM ET",
    "newest_et": "Oct 09 03:18 PM ET",
    "newest": "2026-10-09T19:18:24+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 12 12:36 AM ET",
+   "fetched_et": "Oct 12 01:01 AM ET",
    "newest_et": "Oct 11 01:08 PM ET",
    "newest": "2026-10-11T17:08:30+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 12 12:36 AM ET",
+   "fetched_et": "Oct 12 01:02 AM ET",
    "newest_et": "Oct 11 04:15 PM ET",
    "newest": "2026-10-11T20:15:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 12 12:36 AM ET",
+   "fetched_et": "Oct 12 01:02 AM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 12 12:36 AM ET",
+   "fetched_et": "Oct 12 01:02 AM ET",
    "newest_et": "Oct 12 12:20 AM ET",
    "newest": "2026-10-12T04:20:00+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 39,
-   "fetched_et": "Oct 12 12:36 AM ET",
+   "fetched_et": "Oct 12 01:02 AM ET",
    "newest_et": "Oct 11 07:19 PM ET",
    "newest": "2026-10-11T23:19:49+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 12 12:36 AM ET",
+   "fetched_et": "Oct 12 01:02 AM ET",
    "newest_et": "Oct 11 09:51 PM ET",
    "newest": "2026-10-12T01:51:00+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 12 12:36 AM ET",
-   "newest_et": "Oct 11 08:33 PM ET",
-   "newest": "2026-10-12T00:33:00+00:00"
+   "fetched_et": "Oct 12 01:02 AM ET",
+   "newest_et": "Oct 11 09:45 PM ET",
+   "newest": "2026-10-12T01:45:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 35,
-   "fetched_et": "Oct 12 12:36 AM ET",
-   "newest_et": "Oct 12 12:04 AM ET",
-   "newest": "2026-10-12T04:04:33+00:00"
+   "count": 33,
+   "fetched_et": "Oct 12 01:02 AM ET",
+   "newest_et": "Oct 12 12:03 AM ET",
+   "newest": "2026-10-12T04:03:57+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
-   "count": 52,
-   "fetched_et": "Oct 12 12:36 AM ET",
+   "count": 53,
+   "fetched_et": "Oct 12 01:02 AM ET",
    "newest_et": "Oct 11 10:13 PM ET",
    "newest": "2026-10-12T02:13:00+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 12 12:36 AM ET",
+   "fetched_et": "Oct 12 01:02 AM ET",
    "newest_et": "Oct 09 10:00 AM ET",
    "newest": "2026-10-09T14:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 12 12:36 AM ET",
-   "newest_et": "Oct 11 11:40 PM ET",
-   "newest": "2026-10-12T03:40:00+00:00"
+   "fetched_et": "Oct 12 01:02 AM ET",
+   "newest_et": "Oct 12 12:20 AM ET",
+   "newest": "2026-10-12T04:20:00+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Oct 12 12:36 AM ET"
+   "fetched_et": "Oct 12 01:01 AM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
