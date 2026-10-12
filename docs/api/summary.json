@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 12 04:49 PM ET",
- "generated_at": "2026-10-12T16:49:54.366936-04:00",
+ "generated_et": "Oct 12 05:15 PM ET",
+ "generated_at": "2026-10-12T17:15:13.056062-04:00",
  "session": "after-hours",
  "daily_report": {
   "date": "2026-10-12",
@@ -12,57 +12,65 @@
   {
    "symbol": "ES=F",
    "label": "S&P 500 Fut",
-   "price": 7856.0,
-   "pct": -0.05,
-   "asof_et": "Oct 12 04:35 PM ET",
+   "price": 7857.0,
+   "pct": -0.03,
+   "asof_et": "Oct 12 04:55 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "NQ=F",
    "label": "Nasdaq 100 Fut",
-   "price": 30876.25,
-   "pct": -0.75,
-   "asof_et": "Oct 12 04:35 PM ET",
+   "price": 30877.5,
+   "pct": -0.74,
+   "asof_et": "Oct 12 04:55 PM ET",
+   "freshness": "delayed"
+  },
+  {
+   "symbol": "YM=F",
+   "label": "Dow Fut",
+   "price": 52129.0,
+   "pct": 0.39,
+   "asof_et": "Oct 12 04:55 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "RTY=F",
    "label": "Russell 2000 Fut",
-   "price": 2810.9,
-   "pct": -0.4,
-   "asof_et": "Oct 12 04:35 PM ET",
+   "price": 2812.3,
+   "pct": -0.35,
+   "asof_et": "Oct 12 04:55 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "SPY",
    "label": "SPY",
-   "price": 777.91,
+   "price": 777.98,
    "pct": -0.08,
-   "asof_et": "Oct 12 04:45 PM ET",
+   "asof_et": "Oct 12 05:15 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "QQQ",
    "label": "QQQ",
-   "price": 745.69,
-   "pct": -0.74,
-   "asof_et": "Oct 12 04:45 PM ET",
+   "price": 745.86,
+   "pct": -0.72,
+   "asof_et": "Oct 12 05:10 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "DIA",
    "label": "DIA",
-   "price": 517.91,
-   "pct": 0.35,
-   "asof_et": "Oct 12 04:38 PM ET",
+   "price": 517.81,
+   "pct": 0.33,
+   "asof_et": "Oct 12 05:10 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "IWM",
    "label": "IWM",
-   "price": 277.8,
-   "pct": -0.41,
-   "asof_et": "Oct 12 04:49 PM ET",
+   "price": 278.0,
+   "pct": -0.34,
+   "asof_et": "Oct 12 05:15 PM ET",
    "freshness": "delayed"
   },
   {
@@ -71,30 +79,30 @@
    "price": 15.21,
    "pct": 2.49,
    "asof_et": "Oct 12 04:10 PM ET",
-   "freshness": "delayed"
+   "freshness": "stale"
   },
   {
    "symbol": "CL=F",
    "label": "WTI Crude",
-   "price": 93.17,
-   "pct": 1.44,
-   "asof_et": "Oct 12 04:35 PM ET",
+   "price": 93.16,
+   "pct": 1.43,
+   "asof_et": "Oct 12 04:55 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "GC=F",
    "label": "Gold",
-   "price": 4194.4,
-   "pct": -0.52,
-   "asof_et": "Oct 12 04:35 PM ET",
+   "price": 4195.9,
+   "pct": -0.48,
+   "asof_et": "Oct 12 04:55 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "DX-Y.NYB",
    "label": "Dollar Index",
-   "price": 102.59,
-   "pct": 0.37,
-   "asof_et": "Oct 12 04:35 PM ET",
+   "price": 102.58,
+   "pct": 0.36,
+   "asof_et": "Oct 12 05:05 PM ET",
    "freshness": "delayed"
   },
   {
@@ -108,25 +116,25 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 83017.35,
-   "pct": -0.79,
-   "asof_et": "Oct 12 04:45 PM ET",
+   "price": 82822.09,
+   "pct": -1.02,
+   "asof_et": "Oct 12 05:15 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "XLK",
    "label": "Technology",
-   "price": 196.09,
-   "pct": -1.35,
-   "asof_et": "Oct 12 04:20 PM ET",
+   "price": 196.28,
+   "pct": -1.26,
+   "asof_et": "Oct 12 04:50 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "XLF",
    "label": "Financials",
-   "price": 55.05,
-   "pct": 0.58,
-   "asof_et": "Oct 12 04:45 PM ET",
+   "price": 55.03,
+   "pct": 0.55,
+   "asof_et": "Oct 12 05:15 PM ET",
    "freshness": "delayed"
   },
   {
@@ -134,16 +142,16 @@
    "label": "Energy",
    "price": 66.03,
    "pct": 1.46,
-   "asof_et": "Oct 12 04:20 PM ET",
+   "asof_et": "Oct 12 05:15 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "XLV",
    "label": "Health Care",
-   "price": 172.17,
-   "pct": 0.8,
-   "asof_et": "Oct 12 04:20 PM ET",
-   "freshness": "delayed"
+   "price": 171.99,
+   "pct": 0.69,
+   "asof_et": "Oct 12 04:40 PM ET",
+   "freshness": "stale"
   },
   {
    "symbol": "XLY",
@@ -151,15 +159,15 @@
    "price": 112.32,
    "pct": -0.47,
    "asof_et": "Oct 12 04:20 PM ET",
-   "freshness": "delayed"
+   "freshness": "stale"
   },
   {
    "symbol": "XLP",
    "label": "Cons. Staples",
-   "price": 84.41,
-   "pct": 1.17,
-   "asof_et": "Oct 12 04:00 PM ET",
-   "freshness": "stale"
+   "price": 84.42,
+   "pct": 1.18,
+   "asof_et": "Oct 12 04:45 PM ET",
+   "freshness": "delayed"
   },
   {
    "symbol": "XLI",
@@ -175,14 +183,14 @@
    "price": 49.44,
    "pct": 0.02,
    "asof_et": "Oct 12 04:20 PM ET",
-   "freshness": "delayed"
+   "freshness": "stale"
   },
   {
    "symbol": "XLU",
    "label": "Utilities",
    "price": 41.63,
    "pct": 0.54,
-   "asof_et": "Oct 12 04:48 PM ET",
+   "asof_et": "Oct 12 04:45 PM ET",
    "freshness": "delayed"
   },
   {
@@ -204,9 +212,9 @@
   {
    "symbol": "SMH",
    "label": "Semiconductors",
-   "price": 590.45,
-   "pct": -2.13,
-   "asof_et": "Oct 12 04:40 PM ET",
+   "price": 590.7,
+   "pct": -2.09,
+   "asof_et": "Oct 12 05:10 PM ET",
    "freshness": "delayed"
   }
  ],
@@ -374,6 +382,193 @@
  ],
  "breaking": [
   {
+   "title": "Aurora Cannabis Stock Has Soared 25% Since Curaleaf First Made an Offer to Buy Its Business. Here's Why I Think It Can Go Even Higher",
+   "link": "https://www.fool.com/investing/2026/10/12/aurora-cannabis-stock-has-soared-25-since-curaleaf-first-made-an-offer-to-buy-its-business-here-s-why-i-think-it-can-go-even-higher/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.4,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 12 05:15 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Amazon Delivery On Columbus Day 2026: Does Amazon Deliver Today? Check Amazon Prime Same-Day & Next-Day Delivery, Package Tracking Status, Shipping Delays & Holiday Schedule",
+   "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPUFdfTnFUU2NxVmZudThLTUVsbmVBLTM3YzJfOVFoMG9XRUVnUWVOMHluSzZlTU9IeDRCMm5wN2h0S2MtblMyYW1nWk1tRk1SMlVaWmZnUDh6a2RhQkhqay1mWnI0NFlYSFU3RDhVLXNfMTVrLUhZUkRhdUlaa05NUTEtZ210UDBPbnNlcmtaTC1mYVU3aS15aUpZX01HeG5fbGxXWG02OXR2d2MwRWRoUG0yWEYxX2pHQktETHpNUnJiY2NTZXNzNFRkTjAtOWd3eFlqM1Y3eTlHQ3JoMkVzYWRvak9neF9QUzRSVGdlZVBSMmUxT3oxLVlrWjU2Z3FwQm4wcGJBcUE4TzRMQ293TUdVSUZYUU1hWmF1TlBpa2RvYXRYQlNoMEZPT1NXcUN0NHpoWdIBugJBVV95cUxOOWdRZEtUQjFUYU1MVDJvTVhiT0JNaG1SMVdEV3hfNFhSaURNd19QalZSUVcyUEZNdnlTR2IyU2w4RXFmc0pNZXBtNEhNMkFnenZlQ3I0d0RxWE5taFhvTXNnOHhPVGF3UDVaam5KMkNPRjFqaUpMZS1VNkNkNExtNmdtTW5nck1lRExCOEh5OUx2NVBtTHhkN01WR1Q0cmZQTW9kRXFTVU55MUZtb0tsZHlLa01PSFp4WDRpQXRySzhtaEFUMTVZY2s4RVU5Zk9oemFvNndHZW5lZ05JVnpzLXVQQnpYV0pwblB5UHNfbUxiNDd0Z3dYRGJtdkM3OTZKQlJCTU9kRGdCWFlGN2w3Z180SC1oQ0RzeF9hNUxDd19UMkRma045SExsN3U1bzJGeDhwbjUtc2trUQ?oc=5",
+   "source": "The Sunday Guardian",
+   "impact": 5.0,
+   "tickers": [
+    "AMZN",
+    "GOOGL"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 12 05:15 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Oversold Conditions For Dyne Therapeutics (DYN)",
+   "link": "https://www.nasdaq.com/articles/oversold-conditions-dyne-therapeutics-dyn",
+   "source": "Nasdaq Markets",
+   "impact": 4.2,
+   "tickers": [
+    "DYN"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 12 05:15 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Goodyear Tire & Rubber Enters Oversold Territory (GT)",
+   "link": "https://www.nasdaq.com/articles/goodyear-tire-rubber-enters-oversold-territory-gt",
+   "source": "Nasdaq Markets",
+   "impact": 4.2,
+   "tickers": [
+    "GT"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 12 05:15 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Velo3d Ic Becomes Oversold (VELO)",
+   "link": "https://www.nasdaq.com/articles/velo3d-ic-becomes-oversold-velo",
+   "source": "Nasdaq Markets",
+   "impact": 4.2,
+   "tickers": [
+    "VELO"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 12 05:15 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Booking Holdings Enters Oversold Territory (BKNG)",
+   "link": "https://www.nasdaq.com/articles/booking-holdings-enters-oversold-territory-bkng",
+   "source": "Nasdaq Markets",
+   "impact": 4.2,
+   "tickers": [
+    "BKNG"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 12 05:15 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Navitas shares surge 5% on Nvidia AI infrastructure partnership",
+   "link": "https://finance.yahoo.com/technology/ai/articles/navitas-shares-surge-5-nvidia-205435130.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 5.0,
+   "tickers": [
+    "NVDA",
+    "NVTS",
+    "QQQ"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 12 05:15 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Dow Jones Futures: Micron, Nvidia Lead AI Trade Lower; Apple, Meta Rally Near Buy Points",
+   "link": "https://finance.yahoo.com/m/1b66e790-9e3e-3d5c-a8bf-167703811db3/dow-jones-futures%3A-micron%2C.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 4.1,
+   "tickers": [
+    "AAPL",
+    "DIA",
+    "META",
+    "MU",
+    "NVDA"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 12 05:15 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Is Bank of America's Stock a Buy Ahead of Its Q3 Earnings Report on Oct. 14?",
+   "link": "https://www.fool.com/investing/2026/10/12/is-bank-of-america-s-stock-a-buy-ahead-of-its-q3-earnings-report-on-oct-14/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.3,
+   "tickers": [
+    "BAC"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 12 05:15 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "ASML: A Rule Breaker Test of Lasting Leadership",
+   "link": "https://www.fool.com/investing/2026/10/12/asml-a-rule-breaker-test-of-lasting-leadership/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.2,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 12 05:15 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Chamath Palihapitiya, Elon Musk Highlight Power, Cooling As Real Barriers In The AI Race Where ‘Everyone Competes With Everyone’",
+   "link": "https://stocktwits.com/news-articles/markets/equity/chamath-palihapitiya-elon-musk-highlight-power-cooling-as-real-barriers-in-the-ai-race-where-everyone-competes-with-everyone/cZxINw3RB8F?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.8,
+   "tickers": [
+    "MSFT",
+    "TSLA"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 12 05:15 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Nvidia (NVDA) vs. Broadcom (AVGO): Which AI Stock Is a Better Buy After the OpenAI Scare?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-vs-broadcom-avgo-204108303.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.4,
+   "tickers": [
+    "AVGO",
+    "MSFT",
+    "NVDA",
+    "QQQ"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 12 05:15 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Nasdaq falls ahead of earnings, economic data while oil rallies",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOck00LVRZX0lQNUw5SGlYU09FOWw1dUVTNjZTQ0p6YklVVUlRSms1eVZRcDd6VjRySF9rOEptM3Nrd19mSURMa1dmbTdIOE1VZjJKdThIR0tabGRTdjBiX0JCWkVndjJFNkZrT0w4NzZ2VWVibjlyeVZHRmszeXRraWRfT0p2SDhSQnFTY3QycG05eHpjQVVLYk9yRF9UYzZ0VmZ6Sw?oc=5",
+   "source": "Reuters",
+   "impact": 4.3,
+   "tickers": [
+    "CL=F",
+    "QQQ",
+    "XLE"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 12 05:15 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "FBI issues actor Selma Blair a summons accusing her of assaults aboard a plane, AP source says",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMUc5WE03aG9UWEFvWUo3NHN6YlktMDBySDVUR2JGbkN1ZDA5Z2h2RTdlaUJpbF9qV2JxMHJPRlU1TGo5QzZTeFFjeFRzOWxGZ2FiR3ZEMGYxalJFZzNaMDBZbUcxNDRCOFRBUmY0ektWZlNZUDRJMnEzZUFKZ2hjVFZzMA?oc=5",
+   "source": "AP News",
+   "impact": 2.5,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 12 05:15 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Google Unveils Fitbit Edge With AI Health Coach",
+   "link": "https://www.nasdaq.com/articles/google-unveils-fitbit-edge-ai-health-coach",
+   "source": "Nasdaq Markets",
+   "impact": 2.6,
+   "tickers": [
+    "GOOGL"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 12 05:15 PM ET",
+   "consumer": false
+  },
+  {
    "title": "Why Ciena, Lumentum and other optical stocks were among the market’s biggest losers on Monday",
    "link": "https://www.marketwatch.com/story/why-ciena-lumentum-and-other-optical-stocks-were-among-the-markets-biggest-losers-on-monday-b3e53f6a?mod=mw_rss_topstories",
    "source": "MarketWatch Top",
@@ -425,172 +620,6 @@
    "tickers": [
     "AAPL",
     "QQQ"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 12 04:50 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Bitdeer AI Expands Malaysia Campus with New 60MW A103 Facility, Closing in on Up-to-350MW Global Capacity Target",
-   "link": "https://finance.yahoo.com/technology/ai/articles/bitdeer-ai-expands-malaysia-campus-203000852.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 4.2,
-   "tickers": [
-    "BTDR",
-    "NVDA",
-    "QQQ",
-    "TGT"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 12 04:50 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "American Battery Technology Stock Getting Very Oversold",
-   "link": "https://www.nasdaq.com/articles/american-battery-technology-stock-getting-very-oversold",
-   "source": "Nasdaq Markets",
-   "impact": 1.9,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 12 04:50 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "UL Makes Bullish Cross Above Critical Moving Average",
-   "link": "https://www.nasdaq.com/articles/ul-makes-bullish-cross-above-critical-moving-average-0",
-   "source": "Nasdaq Markets",
-   "impact": 2.1,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 12 04:50 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "LAR Crosses Critical Technical Indicator",
-   "link": "https://www.nasdaq.com/articles/lar-crosses-critical-technical-indicator",
-   "source": "Nasdaq Markets",
-   "impact": 2.1,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 12 04:50 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "UEC Stock Crowded With Sellers",
-   "link": "https://www.nasdaq.com/articles/uec-stock-crowded-sellers",
-   "source": "Nasdaq Markets",
-   "impact": 2.4,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 12 04:50 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Notable Two Hundred Day Moving Average Cross - EVC",
-   "link": "https://www.nasdaq.com/articles/notable-two-hundred-day-moving-average-cross-evc",
-   "source": "Nasdaq Markets",
-   "impact": 1.9,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 12 04:50 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "CTS Crosses Below Key Moving Average Level",
-   "link": "https://www.nasdaq.com/articles/cts-crosses-below-key-moving-average-level",
-   "source": "Nasdaq Markets",
-   "impact": 2.1,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 12 04:50 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Home BancShares Breaks Above 200-Day Moving Average - Bullish for HOMB",
-   "link": "https://www.nasdaq.com/articles/home-bancshares-breaks-above-200-day-moving-average-bullish-homb",
-   "source": "Nasdaq Markets",
-   "impact": 2.3,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 12 04:50 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Bullish Two Hundred Day Moving Average Cross - OGE",
-   "link": "https://www.nasdaq.com/articles/bullish-two-hundred-day-moving-average-cross-oge",
-   "source": "Nasdaq Markets",
-   "impact": 2.5,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 12 04:50 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Noteworthy Monday Option Activity: LPX, HTO, WYNN",
-   "link": "https://www.nasdaq.com/articles/noteworthy-monday-option-activity-lpx-hto-wynn",
-   "source": "Nasdaq Markets",
-   "impact": 2.0,
-   "tickers": [
-    "IWM"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 12 04:50 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "United Airlines is rapidly deploying Elon Musk's Starlink, giving it a 'head start' over other airlines: Analyst",
-   "link": "https://finance.yahoo.com/markets/stocks/article/united-airlines-is-rapidly-deploying-elon-musks-starlink-giving-it-a-head-start-over-other-airlines-analyst-202353285.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.9,
-   "tickers": [
-    "TSLA"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 12 04:50 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "SpaceX turns to debt again to fund a historic order",
-   "link": "https://www.thestreet.com/investing/stocks/spacex-apollo-financing-fund-major-nvidia-chip-order?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.7,
-   "tickers": [
-    "TSLA"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 12 04:50 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Why Lumentum Sank Today",
-   "link": "https://www.fool.com/investing/2026/10/12/why-lumentum-sank-today/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 1.6,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 12 04:50 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Goldman Sachs, Morgan Stanley have earnings momentum and are reporting this week. There are others",
-   "link": "https://www.cnbc.com/2026/10/12/goldman-morgan-stanley-have-earnings-momentum-and-are-reporting-this-week.html",
-   "source": "CNBC Top News",
-   "impact": 3.6,
-   "tickers": [
-    "GS",
-    "MS"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 12 04:50 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Nvidia Falls Back From Record High. Its Stock Chart Offers a Warning.",
-   "link": "https://finance.yahoo.com/m/9887b6a2-ab8d-3eab-aac8-d88e459c7a92/nvidia-falls-back-from-record.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.8,
-   "tickers": [
-    "NVDA"
    ],
    "sentiment_label": "neutral",
    "seen_et": "Oct 12 04:50 PM ET",
@@ -1654,17 +1683,17 @@
   ]
  },
  "sentiment_validation": {
-  "logged": 458,
+  "logged": 479,
   "min_sample": 100,
-  "generated_et": "Oct 12 04:50 PM ET",
+  "generated_et": "Oct 12 05:15 PM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
-    "n_scored": 403,
-    "n_directional": 326,
-    "hit_rate": 45.1,
-    "ci95": 5.4,
-    "corr": -0.034,
+    "n_scored": 418,
+    "n_directional": 339,
+    "hit_rate": 45.4,
+    "ci95": 5.3,
+    "corr": -0.032,
     "status": "NO EDGE (≈ coin flip)"
    },
    "r1d": {
@@ -1680,73 +1709,73 @@
   "status": "UNPROVEN",
   "recent": [
    {
-    "ticker": "AAPL",
-    "sentiment": 0.637,
-    "title": "How Apple Plans to Compete in the Home: Power On",
-    "r1h": 0.053,
-    "r1d": null
-   },
-   {
-    "ticker": "GOOGL",
-    "sentiment": 0.402,
-    "title": "Is The UPS Store Open Today (October 12, 2026)? Columbus Day Hours Explained: Check Store Opening & Closing Times, Shipping Services, Packag",
-    "r1h": -0.074,
-    "r1d": null
-   },
-   {
-    "ticker": "BA",
-    "sentiment": 0.44,
-    "title": "Boeing vs. GE Aerospace: Which U.S. Industrial Giant's Stock Is a Better Buy in 2026?",
-    "r1h": 0.196,
-    "r1d": null
-   },
-   {
-    "ticker": "AAPL",
-    "sentiment": -0.772,
-    "title": "Apple cuts iPhone 18 Pro orders as AI raises the bill",
-    "r1h": 0.31,
-    "r1d": null
-   },
-   {
     "ticker": "SPY",
-    "sentiment": 0.077,
-    "title": "The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be challenging",
-    "r1h": 0.1,
+    "sentiment": 0.44,
+    "title": "What Could Netflix Stock Be Worth In Three Years?",
+    "r1h": 0.026,
     "r1d": null
    },
    {
-    "ticker": "GOOGL",
-    "sentiment": 0.887,
-    "title": "Warren Buffett Bought This Magnificent Artificial Intelligence (AI) Stock a Year Ago. Here's Why It's Still a Buy Today.",
-    "r1h": -0.013,
+    "ticker": "NFLX",
+    "sentiment": 0.44,
+    "title": "What Could Netflix Stock Be Worth In Three Years?",
+    "r1h": -0.147,
     "r1d": null
    },
    {
-    "ticker": "BRK-B",
-    "sentiment": 0.887,
-    "title": "Warren Buffett Bought This Magnificent Artificial Intelligence (AI) Stock a Year Ago. Here's Why It's Still a Buy Today.",
-    "r1h": -0.077,
+    "ticker": "INTC",
+    "sentiment": 0.625,
+    "title": "Intel Is Up 174% in 2026 and AMD Is Up 175%: Take Profits, or Hold On for the Ride?",
+    "r1h": 0.237,
     "r1d": null
    },
    {
-    "ticker": "AI",
-    "sentiment": 0.887,
-    "title": "Warren Buffett Bought This Magnificent Artificial Intelligence (AI) Stock a Year Ago. Here's Why It's Still a Buy Today.",
-    "r1h": -0.939,
+    "ticker": "AMD",
+    "sentiment": 0.625,
+    "title": "Intel Is Up 174% in 2026 and AMD Is Up 175%: Take Profits, or Hold On for the Ride?",
+    "r1h": 0.045,
     "r1d": null
    },
    {
     "ticker": "NVDA",
-    "sentiment": 0.178,
-    "title": "Cisco, Nvidia Tackle AI's Growing Data Center Bottleneck",
-    "r1h": 0.018,
+    "sentiment": 0.262,
+    "title": "What Does NVIDIA Offer That Marvell Does Not?",
+    "r1h": -0.219,
     "r1d": null
    },
    {
-    "ticker": "V",
-    "sentiment": 0.527,
-    "title": "2 Payment Stocks to Buy and Hold That Raised Their Dividends 14% in Their Latest Increases",
-    "r1h": -0.358,
+    "ticker": "MRVL",
+    "sentiment": 0.262,
+    "title": "What Does NVIDIA Offer That Marvell Does Not?",
+    "r1h": -0.351,
+    "r1d": null
+   },
+   {
+    "ticker": "COST",
+    "sentiment": 0.856,
+    "title": "Costco Wholesale Stock Loses to 10-Year U.S. Treasury Notes on Yield. Here's Why It Wins on Everything Else.",
+    "r1h": 0.034,
+    "r1d": null
+   },
+   {
+    "ticker": "SPY",
+    "sentiment": 0.382,
+    "title": "Should You Buy Target Stock At This Price?",
+    "r1h": 0.026,
+    "r1d": null
+   },
+   {
+    "ticker": "NVDA",
+    "sentiment": 0.412,
+    "title": "Nvidia’s Equity Investments Consume Half Its Free Cash Flow. Can the Payout Pace Last?",
+    "r1h": -0.219,
+    "r1d": null
+   },
+   {
+    "ticker": "NVDA",
+    "sentiment": 0.459,
+    "title": "Intel aims to boost AI turnaround with new GPU chips to take on Nvidia",
+    "r1h": -0.219,
     "r1d": null
    }
   ]
@@ -1755,98 +1784,96 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 12 04:49 PM ET",
+   "fetched_et": "Oct 12 05:15 PM ET",
    "newest_et": "Oct 12 04:35 PM ET",
    "newest": "2026-10-12T20:35:51+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 12 04:49 PM ET",
+   "fetched_et": "Oct 12 05:15 PM ET",
    "newest_et": "Oct 12 10:09 AM ET",
    "newest": "2026-10-12T14:09:02+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 12 04:49 PM ET",
+   "fetched_et": "Oct 12 05:15 PM ET",
    "newest_et": "Oct 12 12:50 PM ET",
    "newest": "2026-10-12T16:50:44+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 12 04:49 PM ET",
+   "fetched_et": "Oct 12 05:15 PM ET",
    "newest_et": "Oct 12 04:46 PM ET",
    "newest": "2026-10-12T20:46:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 12 04:49 PM ET",
+   "fetched_et": "Oct 12 05:15 PM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
-   "count": 20,
-   "fetched_et": "Oct 12 04:49 PM ET",
-   "newest_et": "Oct 12 04:35 PM ET",
-   "newest": "2026-10-12T20:35:14+00:00"
+   "count": 19,
+   "fetched_et": "Oct 12 05:15 PM ET",
+   "newest_et": "Oct 12 05:05 PM ET",
+   "newest": "2026-10-12T21:05:01+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 44,
-   "fetched_et": "Oct 12 04:49 PM ET",
+   "fetched_et": "Oct 12 05:15 PM ET",
    "newest_et": "Oct 12 02:31 PM ET",
    "newest": "2026-10-12T18:31:32+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 12 04:49 PM ET",
-   "newest_et": "Oct 12 02:35 PM ET",
-   "newest": "2026-10-12T18:35:31+00:00"
+   "fetched_et": "Oct 12 05:15 PM ET",
+   "newest_et": "Oct 12 04:51 PM ET",
+   "newest": "2026-10-12T20:51:19+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 12 04:49 PM ET",
-   "newest_et": "Oct 12 04:38 PM ET",
-   "newest": "2026-10-12T20:38:00+00:00"
+   "fetched_et": "Oct 12 05:15 PM ET",
+   "newest_et": "Oct 12 04:47 PM ET",
+   "newest": "2026-10-12T20:47:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 45,
-   "fetched_et": "Oct 12 04:49 PM ET",
-   "newest_et": "Oct 12 03:02 PM ET",
-   "newest": "2026-10-12T19:02:07+00:00"
+   "count": 46,
+   "fetched_et": "Oct 12 05:15 PM ET",
+   "newest_et": "Oct 12 04:59 PM ET",
+   "newest": "2026-10-12T20:59:57+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
    "count": 37,
-   "fetched_et": "Oct 12 04:49 PM ET",
+   "fetched_et": "Oct 12 05:15 PM ET",
    "newest_et": "Oct 12 04:37 PM ET",
    "newest": "2026-10-12T20:37:30+00:00"
   },
   "Fed Press Releases": {
-   "ok": true,
-   "count": 20,
-   "fetched_et": "Oct 12 04:49 PM ET",
-   "newest_et": "Oct 09 10:00 AM ET",
-   "newest": "2026-10-09T14:00:00+00:00"
+   "ok": false,
+   "error": "404 Client Error: Not Found for url: https://www.federalreserve.gov/feeds/press_all.xml",
+   "fetched_et": "Oct 12 05:15 PM ET"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 12 04:49 PM ET",
-   "newest_et": "Oct 12 04:30 PM ET",
-   "newest": "2026-10-12T20:30:02+00:00"
+   "fetched_et": "Oct 12 05:15 PM ET",
+   "newest_et": "Oct 12 04:55 PM ET",
+   "newest": "2026-10-12T20:55:19+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
-   "count": 25,
-   "fetched_et": "Oct 12 04:49 PM ET"
+   "count": 26,
+   "fetched_et": "Oct 12 05:15 PM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
