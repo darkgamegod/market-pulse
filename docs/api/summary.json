@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 12 08:59 PM ET",
- "generated_at": "2026-10-12T20:59:46.791715-04:00",
+ "generated_et": "Oct 12 09:24 PM ET",
+ "generated_at": "2026-10-12T21:24:37.945177-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-12",
@@ -12,33 +12,33 @@
   {
    "symbol": "ES=F",
    "label": "S&P 500 Fut",
-   "price": 7843.75,
-   "pct": -0.2,
-   "asof_et": "Oct 12 08:45 PM ET",
+   "price": 7850.0,
+   "pct": -0.12,
+   "asof_et": "Oct 12 09:10 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "NQ=F",
    "label": "Nasdaq 100 Fut",
-   "price": 30740.25,
-   "pct": -1.18,
-   "asof_et": "Oct 12 08:45 PM ET",
+   "price": 30753.5,
+   "pct": -1.14,
+   "asof_et": "Oct 12 09:10 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "YM=F",
    "label": "Dow Fut",
-   "price": 52113.0,
-   "pct": 0.36,
-   "asof_et": "Oct 12 08:45 PM ET",
+   "price": 52172.0,
+   "pct": 0.47,
+   "asof_et": "Oct 12 09:10 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "RTY=F",
    "label": "Russell 2000 Fut",
-   "price": 2808.5,
-   "pct": -0.48,
-   "asof_et": "Oct 12 08:45 PM ET",
+   "price": 2812.2,
+   "pct": -0.35,
+   "asof_et": "Oct 12 09:10 PM ET",
    "freshness": "delayed"
   },
   {
@@ -84,25 +84,25 @@
   {
    "symbol": "CL=F",
    "label": "WTI Crude",
-   "price": 93.2,
-   "pct": 1.47,
-   "asof_et": "Oct 12 08:45 PM ET",
+   "price": 92.8,
+   "pct": 1.03,
+   "asof_et": "Oct 12 09:10 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "GC=F",
    "label": "Gold",
-   "price": 4186.4,
-   "pct": -0.71,
-   "asof_et": "Oct 12 08:45 PM ET",
+   "price": 4189.7,
+   "pct": -0.63,
+   "asof_et": "Oct 12 09:10 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "DX-Y.NYB",
    "label": "Dollar Index",
-   "price": 102.57,
-   "pct": 0.35,
-   "asof_et": "Oct 12 08:45 PM ET",
+   "price": 102.46,
+   "pct": 0.25,
+   "asof_et": "Oct 12 09:10 PM ET",
    "freshness": "delayed"
   },
   {
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 81343.98,
-   "pct": -2.79,
-   "asof_et": "Oct 12 08:55 PM ET",
+   "price": 81957.72,
+   "pct": -2.06,
+   "asof_et": "Oct 12 09:20 PM ET",
    "freshness": "delayed"
   },
   {
@@ -382,6 +382,30 @@
  ],
  "breaking": [
   {
+   "title": "Is Western Digital (WDC) a Good or Bad Investment at Today’s Price?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-wdc-good-bad-005720654.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 4.2,
+   "tickers": [
+    "QQQ",
+    "SPY",
+    "WDC"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 12 09:24 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Dodgers shut down by Brewers in NLCS opener as lineup struggles again",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNXl4YVZ3WHlxU05teVJLZ1hEbmt1U2hsbHRoNkJBSmhqMXh0em54TmI2MXRkeEI5SXNZWnJMQS1YUThhbWxrWDMwSHpFYjF4c2JFcTNFMjU2bVYzdFZWYlRma0xTVmEzZ2ZCZmViVFc0SEhyUkxFRWpnVWllU20xbTI3TXlXOTZTVzM3SWVjdw?oc=5",
+   "source": "AP News",
+   "impact": 1.4,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 12 09:24 PM ET",
+   "consumer": false
+  },
+  {
    "title": "S&P 500 futures are little changed after mixed session; traders await bank earnings: Live updates",
    "link": "https://www.cnbc.com/2026/10/12/stock-market-today-live-updates.html",
    "source": "CNBC Top News",
@@ -602,29 +626,6 @@
    "source": "Yahoo Finance",
    "impact": 3.0,
    "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 12 08:26 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Publicly owned rail is popular. But is it making the trains run on time?",
-   "link": "https://www.bbc.co.uk/news/articles/ck5yn0n14r8do?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "impact": 3.0,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 12 08:26 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "Why Super Micro (SMCI) Stock Is Nosediving",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-super-micro-smci-stock-233503918.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 5.2,
-   "tickers": [
-    "QQQ",
-    "SMCI"
-   ],
    "sentiment_label": "bullish",
    "seen_et": "Oct 12 08:26 PM ET",
    "consumer": false
@@ -1679,9 +1680,9 @@
   ]
  },
  "sentiment_validation": {
-  "logged": 556,
+  "logged": 559,
   "min_sample": 100,
-  "generated_et": "Oct 12 09:00 PM ET",
+  "generated_et": "Oct 12 09:24 PM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
@@ -1780,98 +1781,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 12 08:59 PM ET",
+   "fetched_et": "Oct 12 09:24 PM ET",
    "newest_et": "Oct 12 08:56 PM ET",
    "newest": "2026-10-13T00:56:40+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 12 08:59 PM ET",
+   "fetched_et": "Oct 12 09:24 PM ET",
    "newest_et": "Oct 12 10:09 AM ET",
    "newest": "2026-10-12T14:09:02+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 12 08:59 PM ET",
+   "fetched_et": "Oct 12 09:24 PM ET",
    "newest_et": "Oct 12 12:50 PM ET",
    "newest": "2026-10-12T16:50:44+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 12 08:59 PM ET",
+   "fetched_et": "Oct 12 09:24 PM ET",
    "newest_et": "Oct 12 08:18 PM ET",
    "newest": "2026-10-13T00:18:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 12 08:59 PM ET",
+   "fetched_et": "Oct 12 09:24 PM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 19,
-   "fetched_et": "Oct 12 08:59 PM ET",
-   "newest_et": "Oct 12 08:46 PM ET",
-   "newest": "2026-10-13T00:46:44+00:00"
+   "fetched_et": "Oct 12 09:24 PM ET",
+   "newest_et": "Oct 12 09:11 PM ET",
+   "newest": "2026-10-13T01:11:19+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 47,
-   "fetched_et": "Oct 12 08:59 PM ET",
+   "fetched_et": "Oct 12 09:24 PM ET",
    "newest_et": "Oct 12 07:37 PM ET",
    "newest": "2026-10-12T23:37:00+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 12 08:59 PM ET",
+   "fetched_et": "Oct 12 09:24 PM ET",
    "newest_et": "Oct 12 07:30 PM ET",
    "newest": "2026-10-12T23:30:24+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 12 08:59 PM ET",
+   "fetched_et": "Oct 12 09:24 PM ET",
    "newest_et": "Oct 12 08:01 PM ET",
    "newest": "2026-10-13T00:01:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 38,
-   "fetched_et": "Oct 12 08:59 PM ET",
-   "newest_et": "Oct 12 04:59 PM ET",
-   "newest": "2026-10-12T20:59:59+00:00"
+   "count": 37,
+   "fetched_et": "Oct 12 09:24 PM ET",
+   "newest_et": "Oct 12 06:57 PM ET",
+   "newest": "2026-10-12T22:57:55+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
-   "count": 40,
-   "fetched_et": "Oct 12 08:59 PM ET",
+   "count": 41,
+   "fetched_et": "Oct 12 09:24 PM ET",
    "newest_et": "Oct 12 05:56 PM ET",
    "newest": "2026-10-12T21:56:45+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 12 08:59 PM ET",
+   "fetched_et": "Oct 12 09:24 PM ET",
    "newest_et": "Oct 09 10:00 AM ET",
    "newest": "2026-10-09T14:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 12 08:59 PM ET",
+   "fetched_et": "Oct 12 09:24 PM ET",
    "newest_et": "Oct 12 08:31 PM ET",
    "newest": "2026-10-13T00:31:41+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Oct 12 08:59 PM ET"
+   "fetched_et": "Oct 12 09:24 PM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
