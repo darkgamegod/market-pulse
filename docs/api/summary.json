@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 12 09:24 PM ET",
- "generated_at": "2026-10-12T21:24:37.945177-04:00",
+ "generated_et": "Oct 12 09:50 PM ET",
+ "generated_at": "2026-10-12T21:50:23.040120-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-12",
@@ -12,33 +12,33 @@
   {
    "symbol": "ES=F",
    "label": "S&P 500 Fut",
-   "price": 7850.0,
-   "pct": -0.12,
-   "asof_et": "Oct 12 09:10 PM ET",
+   "price": 7845.25,
+   "pct": -0.18,
+   "asof_et": "Oct 12 09:40 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "NQ=F",
    "label": "Nasdaq 100 Fut",
-   "price": 30753.5,
-   "pct": -1.14,
-   "asof_et": "Oct 12 09:10 PM ET",
+   "price": 30697.0,
+   "pct": -1.32,
+   "asof_et": "Oct 12 09:40 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "YM=F",
    "label": "Dow Fut",
-   "price": 52172.0,
-   "pct": 0.47,
-   "asof_et": "Oct 12 09:10 PM ET",
+   "price": 52182.0,
+   "pct": 0.49,
+   "asof_et": "Oct 12 09:40 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "RTY=F",
    "label": "Russell 2000 Fut",
-   "price": 2812.2,
-   "pct": -0.35,
-   "asof_et": "Oct 12 09:10 PM ET",
+   "price": 2811.0,
+   "pct": -0.39,
+   "asof_et": "Oct 12 09:40 PM ET",
    "freshness": "delayed"
   },
   {
@@ -84,25 +84,25 @@
   {
    "symbol": "CL=F",
    "label": "WTI Crude",
-   "price": 92.8,
-   "pct": 1.03,
-   "asof_et": "Oct 12 09:10 PM ET",
+   "price": 92.82,
+   "pct": 1.06,
+   "asof_et": "Oct 12 09:40 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "GC=F",
    "label": "Gold",
-   "price": 4189.7,
-   "pct": -0.63,
-   "asof_et": "Oct 12 09:10 PM ET",
+   "price": 4180.4,
+   "pct": -0.85,
+   "asof_et": "Oct 12 09:40 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "DX-Y.NYB",
    "label": "Dollar Index",
-   "price": 102.46,
-   "pct": 0.25,
-   "asof_et": "Oct 12 09:10 PM ET",
+   "price": 102.49,
+   "pct": 0.27,
+   "asof_et": "Oct 12 09:40 PM ET",
    "freshness": "delayed"
   },
   {
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 81957.72,
-   "pct": -2.06,
-   "asof_et": "Oct 12 09:20 PM ET",
+   "price": 82259.51,
+   "pct": -1.7,
+   "asof_et": "Oct 12 09:50 PM ET",
    "freshness": "delayed"
   },
   {
@@ -382,6 +382,128 @@
  ],
  "breaking": [
   {
+   "title": "S&P 500 futures are flat ahead of bank earnings; South Korea's Kospi falls below 6,000: Live updates",
+   "link": "https://www.cnbc.com/2026/10/12/stock-market-today-live-updates.html",
+   "source": "CNBC Top News",
+   "impact": 4.7,
+   "tickers": [
+    "C",
+    "GS",
+    "JPM",
+    "SPY",
+    "WFC"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 12 09:50 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Bumble shares soar after report dating firm in $1bn takeover talks",
+   "link": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "impact": 3.2,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 12 09:50 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Why Palo Alto Networks (PANW) Stock Is Falling Today",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-palo-alto-networks-panw-013503091.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 4.6,
+   "tickers": [
+    "PANW",
+    "QQQ",
+    "TGT"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 12 09:50 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "'Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a haven amid global turmoil",
+   "link": "https://www.cnbc.com/2026/10/13/singapore-war-geopolitics-dbs-bank-ceo.html",
+   "source": "CNBC Top News",
+   "impact": 1.7,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 12 09:50 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Rally May Stall For Hong Kong Stock Market",
+   "link": "https://www.nasdaq.com/articles/rally-may-stall-hong-kong-stock-market-0",
+   "source": "Nasdaq Markets",
+   "impact": 2.6,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 12 09:50 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Australian Markets Modestly Lower",
+   "link": "https://www.nasdaq.com/articles/australian-markets-modestly-lower-1",
+   "source": "Nasdaq Markets",
+   "impact": 2.2,
+   "tickers": [
+    "SPY"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 12 09:50 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "China Stock Market May Remain Rangebound On Tuesday",
+   "link": "https://www.nasdaq.com/articles/china-stock-market-may-remain-rangebound-tuesday",
+   "source": "Nasdaq Markets",
+   "impact": 1.8,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 12 09:50 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Tech Shares May Weigh On Taiwan Stock Market",
+   "link": "https://www.nasdaq.com/articles/tech-shares-may-weigh-taiwan-stock-market-0",
+   "source": "Nasdaq Markets",
+   "impact": 1.7,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 12 09:50 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "3,156-pound pumpkin grown in Rhode Island is inspected for possible world record",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT2dubExqWXJqaks3MVFieTMwZEpHSTNUcC1mdzNYYjVXY25DbTQyWS1zZmhmQjgwUklGZFpYMGZCSGNZeF81SmRUWFFnbUhqc2MxNHdBa00tdkhKUWNqaFcxVGFWMHZuaVJlUm5oVWFrMkppTVpuN2c5OVluWkJKclZFQjc1TVFtMmFXLVptRlFnUGZud3ZnWHpZWDZJZUxJ?oc=5",
+   "source": "AP News",
+   "impact": 2.7,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 12 09:50 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Selma Blair arrested after alleged assault on flight, charged with kicking officer and nurse after",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMUc5WE03aG9UWEFvWUo3NHN6YlktMDBySDVUR2JGbkN1ZDA5Z2h2RTdlaUJpbF9qV2JxMHJPRlU1TGo5QzZTeFFjeFRzOWxGZ2FiR3ZEMGYxalJFZzNaMDBZbUcxNDRCOFRBUmY0ektWZlNZUDRJMnEzZUFKZ2hjVFZzMA?oc=5",
+   "source": "AP News",
+   "impact": 2.4,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 12 09:50 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Pakistan urges Afghan Taliban to stop militants from carrying out cross-border attacks",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ0o2eXVIUFFseW1tOUJadXJOY0J1QXZmQUJvNkxERk9HQTVUdTJ6VF81OVBPazV1S3VRbjVQcEsxNnllX3ExeVZCOE9tc3hKUWFiQzYzRVFtU0d0LXhTY2dfNnBWU1F1U1J6WXgyZDlhMk51WVdjMThGNlBmczEzN0J3ZVM0TmwxMFpQbWtQZU1MVWRqRG9ycDJfdU9ObUt2OWxzYzA3a3hIbjQ?oc=5",
+   "source": "AP News",
+   "impact": 2.2,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 12 09:50 PM ET",
+   "consumer": false
+  },
+  {
    "title": "Is Western Digital (WDC) a Good or Bad Investment at Today’s Price?",
    "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-wdc-good-bad-005720654.html?.tsrc=rss",
    "source": "Yahoo Finance",
@@ -498,137 +620,6 @@
    "sentiment_label": "neutral",
    "seen_et": "Oct 12 09:00 PM ET",
    "consumer": true
-  },
-  {
-   "title": "Banco Bradesco Executive Purchases $1 Million BBD Shares. Is This a Sign the Brazilian Bank is a Buy in 2026?",
-   "link": "https://www.nasdaq.com/articles/banco-bradesco-executive-purchases-1-million-bbd-shares-sign-brazilian-bank-buy-2026",
-   "source": "Nasdaq Markets",
-   "impact": 2.4,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 12 09:00 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Tuesday's big stock stories: What’s likely to move the market in the next trading session",
-   "link": "https://www.cnbc.com/2026/10/12/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
-   "source": "CNBC Top News",
-   "impact": 3.3,
-   "tickers": [
-    "CL=F",
-    "SPY",
-    "XLE"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 12 09:00 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Edward Waters announces it will build first on-campus dorm since 1982",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMjByRXZSZERyYWN3UmRDZWxPSUd2S1hOVnJEdHloWV9wRXZzVEpBdVk0ZThBX0VwdXpsZVRDRWtGanRZRVBtRDJ4VGJjNzgxaEFxdWxpNmRRc01nWGI4eEdJRWhpbVpjXzg2UnZDU1l6aVhGSFNmWTVIQzlmT1FxTjAxTzNsY1RBTmZnbTJGbjN3dERsdUZVTGI0R3ZlOGZvOEEyRw?oc=5",
-   "source": "AP News",
-   "impact": 2.5,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 12 09:00 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Starbucks (SBUX) vs McDonald’s (MCD) and Yum Brands (YUM): Which Restaurant Stock is a Better Buy?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/starbucks-sbux-vs-mcdonald-mcd-002012417.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.9,
-   "tickers": [
-    "MCD",
-    "QQQ",
-    "SBUX",
-    "SPY",
-    "YUM"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 12 08:26 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "35.16 Billion Reasons Micron Stock Is Headed to $3,000",
-   "link": "https://www.fool.com/investing/2026/10/12/3516-billion-reasons-micron-stock-is-headed-to-300/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.3,
-   "tickers": [
-    "MU"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 12 08:26 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "The SpaceX threat could loom over AT&T’s stock for a prolonged stretch, analyst cautions",
-   "link": "https://www.marketwatch.com/story/the-spacex-threat-could-loom-over-at-ts-stock-for-a-prolonged-stretch-analyst-cautions-71436853?mod=mw_rss_topstories",
-   "source": "MarketWatch Top",
-   "impact": 4.1,
-   "tickers": [
-    "^VIX"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 12 08:26 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Why Shopify Stock Popped by Nearly 5% Today",
-   "link": "https://www.fool.com/investing/2026/10/12/why-shopify-stock-popped-by-nearly-5-today/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.5,
-   "tickers": [
-    "SHOP",
-    "TGT"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 12 08:26 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "Singapore Stock Market May Hand Back Monday's Gains",
-   "link": "https://www.nasdaq.com/articles/singapore-stock-market-may-hand-back-mondays-gains",
-   "source": "Nasdaq Markets",
-   "impact": 3.2,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 12 08:26 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Nvidia’s 'Reflection' move could put customers on edge",
-   "link": "https://www.thestreet.com/investing/nvidias-reflection-move-could-put-customers-on-edge?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.6,
-   "tickers": [
-    "NVDA"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 12 08:26 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "AbbVie vs. Eli Lilly: Which Healthcare Stock Is a Better Buy in 2026?",
-   "link": "https://www.nasdaq.com/articles/abbvie-vs-eli-lilly-which-healthcare-stock-better-buy-2026",
-   "source": "Nasdaq Markets",
-   "impact": 3.0,
-   "tickers": [
-    "LLY"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 12 08:26 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "$2.9 Billion Contract in Hand, Anduril May Already Be America's Second-Biggest Navy Warship Builder",
-   "link": "https://www.fool.com/investing/2026/10/12/anduril-americas-second-biggest-navy-shipbuilder/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.0,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 12 08:26 PM ET",
-   "consumer": false
   }
  ],
  "high_impact": [],
@@ -1171,7 +1162,7 @@
  "economic_calendar": {
   "source": "FairEconomy / ForexFactory weekly calendar (nfs.faireconomy.media)",
   "fallback": false,
-  "fetched_et": "Oct 12 08:26 PM ET",
+  "fetched_et": "Oct 12 09:50 PM ET",
   "events": [
    {
     "when_et": "Oct 12 12:10 PM ET",
@@ -1680,9 +1671,9 @@
   ]
  },
  "sentiment_validation": {
-  "logged": 559,
+  "logged": 566,
   "min_sample": 100,
-  "generated_et": "Oct 12 09:24 PM ET",
+  "generated_et": "Oct 12 09:50 PM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
@@ -1781,98 +1772,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 12 09:24 PM ET",
-   "newest_et": "Oct 12 08:56 PM ET",
-   "newest": "2026-10-13T00:56:40+00:00"
+   "fetched_et": "Oct 12 09:50 PM ET",
+   "newest_et": "Oct 12 09:42 PM ET",
+   "newest": "2026-10-13T01:42:40+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 12 09:24 PM ET",
+   "fetched_et": "Oct 12 09:50 PM ET",
    "newest_et": "Oct 12 10:09 AM ET",
    "newest": "2026-10-12T14:09:02+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 12 09:24 PM ET",
+   "fetched_et": "Oct 12 09:50 PM ET",
    "newest_et": "Oct 12 12:50 PM ET",
    "newest": "2026-10-12T16:50:44+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 12 09:24 PM ET",
+   "fetched_et": "Oct 12 09:50 PM ET",
    "newest_et": "Oct 12 08:18 PM ET",
    "newest": "2026-10-13T00:18:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 12 09:24 PM ET",
+   "fetched_et": "Oct 12 09:50 PM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 19,
-   "fetched_et": "Oct 12 09:24 PM ET",
-   "newest_et": "Oct 12 09:11 PM ET",
-   "newest": "2026-10-13T01:11:19+00:00"
+   "fetched_et": "Oct 12 09:50 PM ET",
+   "newest_et": "Oct 12 09:35 PM ET",
+   "newest": "2026-10-13T01:35:03+00:00"
   },
   "BBC Business": {
    "ok": true,
-   "count": 47,
-   "fetched_et": "Oct 12 09:24 PM ET",
-   "newest_et": "Oct 12 07:37 PM ET",
-   "newest": "2026-10-12T23:37:00+00:00"
+   "count": 48,
+   "fetched_et": "Oct 12 09:50 PM ET",
+   "newest_et": "Oct 12 09:36 PM ET",
+   "newest": "2026-10-13T01:36:36+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 12 09:24 PM ET",
+   "fetched_et": "Oct 12 09:50 PM ET",
    "newest_et": "Oct 12 07:30 PM ET",
    "newest": "2026-10-12T23:30:24+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 12 09:24 PM ET",
-   "newest_et": "Oct 12 08:01 PM ET",
-   "newest": "2026-10-13T00:01:00+00:00"
+   "fetched_et": "Oct 12 09:50 PM ET",
+   "newest_et": "Oct 12 09:30 PM ET",
+   "newest": "2026-10-13T01:30:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
    "count": 37,
-   "fetched_et": "Oct 12 09:24 PM ET",
+   "fetched_et": "Oct 12 09:50 PM ET",
    "newest_et": "Oct 12 06:57 PM ET",
    "newest": "2026-10-12T22:57:55+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
-   "count": 41,
-   "fetched_et": "Oct 12 09:24 PM ET",
+   "count": 40,
+   "fetched_et": "Oct 12 09:50 PM ET",
    "newest_et": "Oct 12 05:56 PM ET",
    "newest": "2026-10-12T21:56:45+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 12 09:24 PM ET",
+   "fetched_et": "Oct 12 09:50 PM ET",
    "newest_et": "Oct 09 10:00 AM ET",
    "newest": "2026-10-09T14:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 12 09:24 PM ET",
-   "newest_et": "Oct 12 08:31 PM ET",
-   "newest": "2026-10-13T00:31:41+00:00"
+   "fetched_et": "Oct 12 09:50 PM ET",
+   "newest_et": "Oct 12 09:18 PM ET",
+   "newest": "2026-10-13T01:18:19+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Oct 12 09:24 PM ET"
+   "fetched_et": "Oct 12 09:50 PM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
@@ -1882,7 +1873,7 @@
   "Economic calendar": {
    "ok": true,
    "count": 33,
-   "fetched_et": "Oct 12 08:26 PM ET",
+   "fetched_et": "Oct 12 09:50 PM ET",
    "note": "FairEconomy / ForexFactory weekly calendar (nfs.faireconomy.media)"
   }
  }
