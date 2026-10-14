@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 14 01:03 AM ET",
- "generated_at": "2026-10-14T01:03:11.555476-04:00",
+ "generated_et": "Oct 14 01:45 AM ET",
+ "generated_at": "2026-10-14T01:45:30.977230-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-14",
@@ -12,33 +12,33 @@
   {
    "symbol": "ES=F",
    "label": "S&P 500 Fut",
-   "price": 7873.25,
-   "pct": 0.22,
-   "asof_et": "Oct 14 12:50 AM ET",
+   "price": 7866.5,
+   "pct": 0.14,
+   "asof_et": "Oct 14 01:35 AM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "NQ=F",
    "label": "Nasdaq 100 Fut",
-   "price": 30864.75,
-   "pct": 0.24,
-   "asof_et": "Oct 14 12:50 AM ET",
+   "price": 30793.0,
+   "pct": 0.0,
+   "asof_et": "Oct 14 01:35 AM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "YM=F",
    "label": "Dow Fut",
-   "price": 52028.0,
-   "pct": 0.18,
-   "asof_et": "Oct 14 12:50 AM ET",
+   "price": 52036.0,
+   "pct": 0.19,
+   "asof_et": "Oct 14 01:35 AM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "RTY=F",
    "label": "Russell 2000 Fut",
-   "price": 2807.7,
-   "pct": 0.27,
-   "asof_et": "Oct 14 12:50 AM ET",
+   "price": 2805.9,
+   "pct": 0.21,
+   "asof_et": "Oct 14 01:30 AM ET",
    "freshness": "delayed"
   },
   {
@@ -84,25 +84,25 @@
   {
    "symbol": "CL=F",
    "label": "WTI Crude",
-   "price": 94.72,
-   "pct": 0.62,
-   "asof_et": "Oct 14 12:50 AM ET",
+   "price": 94.56,
+   "pct": 0.45,
+   "asof_et": "Oct 14 01:35 AM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "GC=F",
    "label": "Gold",
-   "price": 4189.6,
-   "pct": 0.29,
-   "asof_et": "Oct 14 12:50 AM ET",
+   "price": 4184.7,
+   "pct": 0.18,
+   "asof_et": "Oct 14 01:35 AM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "DX-Y.NYB",
    "label": "Dollar Index",
-   "price": 102.09,
-   "pct": -0.08,
-   "asof_et": "Oct 14 12:50 AM ET",
+   "price": 102.11,
+   "pct": -0.06,
+   "asof_et": "Oct 14 01:35 AM ET",
    "freshness": "delayed"
   },
   {
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 83557.29,
-   "pct": 2.2,
-   "asof_et": "Oct 14 01:00 AM ET",
+   "price": 83459.68,
+   "pct": 2.08,
+   "asof_et": "Oct 14 01:45 AM ET",
    "freshness": "delayed"
   },
   {
@@ -382,6 +382,106 @@
  ],
  "breaking": [
   {
+   "title": "ASML says it's getting order interest through 2030 as profit smashes expectations",
+   "link": "https://www.cnbc.com/2026/10/14/asml-3q-earnings-ai-demand-orders-capacity.html",
+   "source": "CNBC Top News",
+   "impact": 2.5,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 14 01:45 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "The S&P 500 Just Hit a Record High. Here's Why History Says It's Still a Smart Time to Invest.",
+   "link": "https://www.fool.com/investing/2026/10/14/the-sp-500-just-hit-a-record-high-heres-why-histor/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.4,
+   "tickers": [
+    "SPY"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 14 01:45 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Heating oil users face fuel or food winter choice'",
+   "link": "https://www.bbc.co.uk/news/articles/cv4g18we232ro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "impact": 2.9,
+   "tickers": [
+    "CL=F",
+    "XLE"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 14 01:45 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Intel Stock Has Nearly Tripled in 2026. A $10,000 Stake From 2016 Still Trails the S&P 500.",
+   "link": "https://www.fool.com/investing/2026/10/14/intel-stock-has-nearly-tripled-in-2026-a-usd10-000-stake-from-2016-still-trails-the-s-and-p-500/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.8,
+   "tickers": [
+    "INTC",
+    "SPY"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 14 01:45 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Not building third runway would be 'huge missed opportunity', warns Heathrow boss",
+   "link": "https://www.bbc.co.uk/news/articles/ckdd8egder5ro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "impact": 3.4,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 14 01:45 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Intel vs. Marvell Technology: What Revenue Trends Tell Investors About These Artificial Intelligence Companies",
+   "link": "https://www.nasdaq.com/articles/intel-vs-marvell-technology-what-revenue-trends-tell-investors-about-these-artificial",
+   "source": "Nasdaq Markets",
+   "impact": 2.5,
+   "tickers": [
+    "INTC"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 14 01:45 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Indian Shares Little Changed After Strong Rally",
+   "link": "https://www.nasdaq.com/articles/indian-shares-little-changed-after-strong-rally",
+   "source": "Nasdaq Markets",
+   "impact": 3.1,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 14 01:45 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "House Democrats plan a first 100-days agenda if they sweep to power in midterm elections",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMF9PdUhBMkM5MkF2Vmh0QzVvNWx5LWdXV3VZaWF1ZllSc2Rjdk5zZm1wN0EyWnRwNkN3R2dIYmdFLUU3Q0NrY2NFQWkxZkk0aUx5blU4RksyNlJpSVRiaWUwUVNnY1FZQTl3NVRwQngtMFYzNm5nOThQWktfYWc4MmZjRE82eFhoSEZyYXVFaUJrZ2xVNkZIWlFmZl80ajRLNl8xOG9SWWpBZFhpNTZFVmRB?oc=5",
+   "source": "AP News",
+   "impact": 1.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 14 01:45 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "India markets regulator panel seeks tighter monitoring of equity fundraises",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVUl0V3Q0eHU4ajl0UkwzZ3pmaW9MbFB3REZjZFJZdU5GMGZHUk9oN01qd2dTUl9YNDlNSU52S05ZbFB6NWJxclUtcjJjdGRsS0hUM0ZGYjdIc2hQODlaZ1NobzRBYXZlVUs0UFRhOGNUUmtMYzBOeXlfNVZDdk8yc0FKUHhKbUtPUGk2ZFU0aE1CZ01rMFU1bk5SeHlSNXRDNFhldVNRMWJLM3VNejZGeTY0T0t2V3lpc3lJS1RMREJiNUk?oc=5",
+   "source": "Reuters",
+   "impact": 1.0,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 14 01:45 AM ET",
+   "consumer": false
+  },
+  {
    "title": "Judge extends block on Trump White House ban of MS NOW, CNN and Politico",
    "link": "https://www.cnbc.com/2026/10/14/trump-white-house-msnow-cnn-politico-media-ban.html",
    "source": "CNBC Top News",
@@ -511,107 +611,6 @@
     "WDAY"
    ],
    "sentiment_label": "bullish",
-   "seen_et": "Oct 14 12:29 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Zeta Global Stock: Buy, Hold, or Sell in October 2026?",
-   "link": "https://www.nasdaq.com/articles/zeta-global-stock-buy-hold-or-sell-october-2026",
-   "source": "Nasdaq Markets",
-   "impact": 2.0,
-   "tickers": [
-    "ZETA"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 14 12:29 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Better Buy: PepsiCo or Coca-Cola?",
-   "link": "https://www.nasdaq.com/articles/better-buy-pepsico-or-coca-cola",
-   "source": "Nasdaq Markets",
-   "impact": 2.0,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 14 12:29 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Massive Update for Texas Instruments Stock Investors",
-   "link": "https://www.nasdaq.com/articles/massive-update-texas-instruments-stock-investors",
-   "source": "Nasdaq Markets",
-   "impact": 2.0,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 14 12:29 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Why Is MongoDB Stock Crashing and is it a Buying Opportunity?",
-   "link": "https://www.nasdaq.com/articles/why-mongodb-stock-crashing-and-it-buying-opportunity",
-   "source": "Nasdaq Markets",
-   "impact": 3.7,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 14 12:29 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Should Investors Buy Planet Labs Stock Instead of Rocket Lab Stock?",
-   "link": "https://www.nasdaq.com/articles/should-investors-buy-planet-labs-stock-instead-rocket-lab-stock",
-   "source": "Nasdaq Markets",
-   "impact": 1.9,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 14 12:29 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "SpaceX Delivers Unfortunate News for Verizon, ATT, T-Mobile, and AST Space Mobile Stock Investors",
-   "link": "https://www.nasdaq.com/articles/spacex-delivers-unfortunate-news-verizon-att-t-mobile-and-ast-space-mobile-stock-investors",
-   "source": "Nasdaq Markets",
-   "impact": 2.5,
-   "tickers": [
-    "TSLA"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 14 12:29 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Revenue Growth is Accelerating at 3M",
-   "link": "https://www.nasdaq.com/articles/revenue-growth-accelerating-3m",
-   "source": "Nasdaq Markets",
-   "impact": 3.9,
-   "tickers": [
-    "MMM"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 14 12:29 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Domino's Analysis: Value Stock or Value Trap?",
-   "link": "https://www.nasdaq.com/articles/dominos-analysis-value-stock-or-value-trap",
-   "source": "Nasdaq Markets",
-   "impact": 3.2,
-   "tickers": [
-    "DPZ",
-    "QQQ"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 14 12:29 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "What's Going on With Nike Stock?",
-   "link": "https://www.nasdaq.com/articles/whats-going-nike-stock",
-   "source": "Nasdaq Markets",
-   "impact": 2.2,
-   "tickers": [
-    "NKE"
-   ],
-   "sentiment_label": "neutral",
    "seen_et": "Oct 14 12:29 AM ET",
    "consumer": false
   }
@@ -1167,16 +1166,8 @@
  "economic_calendar": {
   "source": "FairEconomy / ForexFactory weekly calendar (nfs.faireconomy.media)",
   "fallback": false,
-  "fetched_et": "Oct 14 12:29 AM ET",
+  "fetched_et": "Oct 14 01:45 AM ET",
   "events": [
-   {
-    "when_et": "Oct 13 01:00 PM ET",
-    "date": "2026-10-13",
-    "event": "FOMC Member Barkin Speaks",
-    "importance": "low",
-    "forecast": "",
-    "previous": ""
-   },
    {
     "when_et": "Oct 13 04:00 PM ET",
     "date": "2026-10-13",
@@ -1788,9 +1779,9 @@
   ]
  },
  "sentiment_validation": {
-  "logged": 1166,
+  "logged": 1171,
   "min_sample": 100,
-  "generated_et": "Oct 14 01:03 AM ET",
+  "generated_et": "Oct 14 01:45 AM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
@@ -1889,98 +1880,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 14 01:03 AM ET",
-   "newest_et": "Oct 14 01:02 AM ET",
-   "newest": "2026-10-14T05:02:53+00:00"
+   "fetched_et": "Oct 14 01:45 AM ET",
+   "newest_et": "Oct 14 01:45 AM ET",
+   "newest": "2026-10-14T05:45:15+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 14 01:03 AM ET",
+   "fetched_et": "Oct 14 01:45 AM ET",
    "newest_et": "Oct 14 12:24 AM ET",
    "newest": "2026-10-14T04:24:28+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 14 01:03 AM ET",
+   "fetched_et": "Oct 14 01:45 AM ET",
    "newest_et": "Oct 13 05:02 PM ET",
    "newest": "2026-10-13T21:02:43+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 14 01:03 AM ET",
+   "fetched_et": "Oct 14 01:45 AM ET",
    "newest_et": "Oct 13 09:31 PM ET",
    "newest": "2026-10-14T01:31:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 14 01:03 AM ET",
+   "fetched_et": "Oct 14 01:45 AM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
-   "count": 18,
-   "fetched_et": "Oct 14 01:03 AM ET",
-   "newest_et": "Oct 14 12:55 AM ET",
-   "newest": "2026-10-14T04:55:58+00:00"
+   "count": 19,
+   "fetched_et": "Oct 14 01:45 AM ET",
+   "newest_et": "Oct 14 01:20 AM ET",
+   "newest": "2026-10-14T05:20:00+00:00"
   },
   "BBC Business": {
    "ok": true,
-   "count": 48,
-   "fetched_et": "Oct 14 01:03 AM ET",
-   "newest_et": "Oct 13 10:05 PM ET",
-   "newest": "2026-10-14T02:05:32+00:00"
+   "count": 49,
+   "fetched_et": "Oct 14 01:45 AM ET",
+   "newest_et": "Oct 14 01:18 AM ET",
+   "newest": "2026-10-14T05:18:40+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 14 01:03 AM ET",
+   "fetched_et": "Oct 14 01:45 AM ET",
    "newest_et": "Oct 13 09:53 PM ET",
    "newest": "2026-10-14T01:53:00+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 14 01:03 AM ET",
-   "newest_et": "Oct 13 11:17 PM ET",
-   "newest": "2026-10-14T03:17:00+00:00"
+   "fetched_et": "Oct 14 01:45 AM ET",
+   "newest_et": "Oct 14 12:14 AM ET",
+   "newest": "2026-10-14T04:14:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
    "count": 35,
-   "fetched_et": "Oct 14 01:03 AM ET",
+   "fetched_et": "Oct 14 01:45 AM ET",
    "newest_et": "Oct 13 09:34 PM ET",
    "newest": "2026-10-14T01:34:47+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
-   "count": 44,
-   "fetched_et": "Oct 14 01:03 AM ET",
-   "newest_et": "Oct 13 01:15 PM ET",
-   "newest": "2026-10-13T17:15:00+00:00"
+   "count": 42,
+   "fetched_et": "Oct 14 01:45 AM ET",
+   "newest_et": "Oct 13 07:20 PM ET",
+   "newest": "2026-10-13T23:20:27+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 14 01:03 AM ET",
+   "fetched_et": "Oct 14 01:45 AM ET",
    "newest_et": "Oct 13 02:00 PM ET",
    "newest": "2026-10-13T18:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 14 01:03 AM ET",
-   "newest_et": "Oct 14 12:12 AM ET",
-   "newest": "2026-10-14T04:12:01+00:00"
+   "fetched_et": "Oct 14 01:45 AM ET",
+   "newest_et": "Oct 14 01:03 AM ET",
+   "newest": "2026-10-14T05:03:01+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Oct 14 01:03 AM ET"
+   "fetched_et": "Oct 14 01:45 AM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
@@ -1989,8 +1980,8 @@
   },
   "Economic calendar": {
    "ok": true,
-   "count": 29,
-   "fetched_et": "Oct 14 12:29 AM ET",
+   "count": 28,
+   "fetched_et": "Oct 14 01:45 AM ET",
    "note": "FairEconomy / ForexFactory weekly calendar (nfs.faireconomy.media)"
   }
  }
