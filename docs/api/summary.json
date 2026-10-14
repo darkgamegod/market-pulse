@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 13 08:36 PM ET",
- "generated_at": "2026-10-13T20:36:25.661737-04:00",
+ "generated_et": "Oct 13 09:18 PM ET",
+ "generated_at": "2026-10-13T21:18:54.610199-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-13",
@@ -14,31 +14,31 @@
    "label": "S&P 500 Fut",
    "price": 7857.5,
    "pct": -0.01,
-   "asof_et": "Oct 13 08:25 PM ET",
+   "asof_et": "Oct 13 09:09 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "NQ=F",
    "label": "Nasdaq 100 Fut",
-   "price": 30814.75,
-   "pct": -0.27,
-   "asof_et": "Oct 13 08:25 PM ET",
+   "price": 30804.0,
+   "pct": -0.31,
+   "asof_et": "Oct 13 09:05 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "YM=F",
    "label": "Dow Fut",
-   "price": 51896.0,
-   "pct": -0.41,
-   "asof_et": "Oct 13 08:25 PM ET",
+   "price": 51909.0,
+   "pct": -0.39,
+   "asof_et": "Oct 13 09:05 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "RTY=F",
    "label": "Russell 2000 Fut",
-   "price": 2801.3,
-   "pct": -0.39,
-   "asof_et": "Oct 13 08:25 PM ET",
+   "price": 2802.3,
+   "pct": -0.35,
+   "asof_et": "Oct 13 09:05 PM ET",
    "freshness": "delayed"
   },
   {
@@ -84,17 +84,17 @@
   {
    "symbol": "CL=F",
    "label": "WTI Crude",
-   "price": 94.94,
-   "pct": 1.28,
-   "asof_et": "Oct 13 08:25 PM ET",
+   "price": 95.26,
+   "pct": 1.62,
+   "asof_et": "Oct 13 09:05 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "GC=F",
    "label": "Gold",
-   "price": 4183.4,
-   "pct": -0.17,
-   "asof_et": "Oct 13 08:25 PM ET",
+   "price": 4178.7,
+   "pct": -0.28,
+   "asof_et": "Oct 13 09:05 PM ET",
    "freshness": "delayed"
   },
   {
@@ -102,7 +102,7 @@
    "label": "Dollar Index",
    "price": 102.17,
    "pct": -0.4,
-   "asof_et": "Oct 13 08:25 PM ET",
+   "asof_et": "Oct 13 09:05 PM ET",
    "freshness": "delayed"
   },
   {
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 83480.3,
-   "pct": 2.1,
-   "asof_et": "Oct 13 08:35 PM ET",
+   "price": 83214.15,
+   "pct": 1.78,
+   "asof_et": "Oct 13 09:15 PM ET",
    "freshness": "delayed"
   },
   {
@@ -126,14 +126,6 @@
    "label": "Technology",
    "price": 196.16,
    "pct": -0.1,
-   "asof_et": "Oct 13 07:55 PM ET",
-   "freshness": "closed"
-  },
-  {
-   "symbol": "XLF",
-   "label": "Financials",
-   "price": 54.67,
-   "pct": -0.69,
    "asof_et": "Oct 13 07:55 PM ET",
    "freshness": "closed"
   },
@@ -166,7 +158,7 @@
    "label": "Cons. Staples",
    "price": 84.19,
    "pct": -0.26,
-   "asof_et": "Oct 13 07:57 PM ET",
+   "asof_et": "Oct 13 07:55 PM ET",
    "freshness": "closed"
   },
   {
@@ -382,6 +374,81 @@
  ],
  "breaking": [
   {
+   "title": "China's exports likely grew by double-digits in September",
+   "link": "https://www.cnbc.com/2026/10/14/chinas-exports-likely-grew-by-double-digits-in-september.html",
+   "source": "CNBC Top News",
+   "impact": 1.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 13 09:19 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "His Silicon Valley Pay Will Jump Above $184,500. Social Security Won’t Credit Every Extra Dollar Toward His Future Benefit",
+   "link": "https://247wallst.com/personal-finance/social-security/2026/10/13/his-silicon-valley-pay-will-jump-above-184500-social-security-wont-credit-every-extra-dollar-toward-his-future-benefit/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.7,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 13 09:19 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Harvard's Judgment Professor: The Curse of Optionality and One Habit That Builds Better Judgment",
+   "link": "https://www.fool.com/investing/2026/10/13/harvard-s-judgment-professor-the-curse-of-optionality-and-one-habit-that-builds-better-judgment/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 1.8,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 13 09:19 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "The Current State of the FIRE Movement",
+   "link": "https://www.nasdaq.com/articles/current-state-fire-movement",
+   "source": "Nasdaq Markets",
+   "impact": 2.5,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 13 09:19 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Taiwan Stock Market May Extend Losing Streak",
+   "link": "https://www.nasdaq.com/articles/taiwan-stock-market-may-extend-losing-streak",
+   "source": "Nasdaq Markets",
+   "impact": 1.8,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 13 09:19 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Why Valero Energy Stock Triumphed Today",
+   "link": "https://www.fool.com/investing/2026/10/13/why-valero-energy-stock-triumphed-today/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.7,
+   "tickers": [
+    "TGT"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 13 09:19 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Charles Gasparino Defends Jeff Bezos, Elon Musk — Says America Needs ‘More Bezos’ and a Tax System That Rewards Risk-Taking",
+   "link": "https://finance.yahoo.com/small-business/articles/charles-gasparino-defends-jeff-bezos-233006782.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 4.5,
+   "tickers": [
+    "AMZN",
+    "TSLA"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 13 09:19 PM ET",
+   "consumer": true
+  },
+  {
    "title": "Singapore third-quarter GDP growth softens from four-year high but beats estimates",
    "link": "https://www.cnbc.com/2026/10/14/singapore-gdp-q3.html",
    "source": "CNBC Top News",
@@ -531,85 +598,6 @@
    "impact": 3.6,
    "tickers": [
     "JPM"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 13 08:36 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Leifras (LFS) Q2 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/leifras-lfs-q2-2026-earnings-call-transcript",
-   "source": "Nasdaq Markets",
-   "impact": 3.6,
-   "tickers": [
-    "LFS"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 13 08:36 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Why FB Financial Stock Tumbled on Tuesday",
-   "link": "https://www.fool.com/investing/2026/10/13/why-fb-financial-stock-tumbled-on-tuesday/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.7,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 13 08:36 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "CrowdStrike vs. Palantir Technologies: What Revenue Trends Tell Investors About These High-Growth Tech Companies",
-   "link": "https://www.nasdaq.com/articles/crowdstrike-vs-palantir-technologies-what-revenue-trends-tell-investors-about-these-high",
-   "source": "Nasdaq Markets",
-   "impact": 2.3,
-   "tickers": [
-    "PLTR"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 13 08:36 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Wednesday's big stock stories: What’s likely to move the market in the next trading session",
-   "link": "https://www.cnbc.com/2026/10/13/wednesdays-big-stock-stories-whats-likely-to-move-the-market.html",
-   "source": "CNBC Top News",
-   "impact": 2.8,
-   "tickers": [
-    "GS",
-    "SPY"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 13 08:36 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Win Streak May End For Malaysia Stock Market",
-   "link": "https://www.nasdaq.com/articles/win-streak-may-end-malaysia-stock-market",
-   "source": "Nasdaq Markets",
-   "impact": 2.7,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 13 08:36 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "4 Factors That Drive Share Outperformance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/4-factors-drive-share-outperformance-231000568.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.4,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 13 08:36 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Apple’s $299 HomeView Is The Tech Giant’s Next Bet on the Smart Home",
-   "link": "https://finance.yahoo.com/video/apple-299-homeview-tech-giant-222100009.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.8,
-   "tickers": [
-    "AAPL"
    ],
    "sentiment_label": "bullish",
    "seen_et": "Oct 13 08:36 PM ET",
@@ -1156,16 +1144,8 @@
  "economic_calendar": {
   "source": "FairEconomy / ForexFactory weekly calendar (nfs.faireconomy.media)",
   "fallback": false,
-  "fetched_et": "Oct 13 07:56 PM ET",
+  "fetched_et": "Oct 13 09:19 PM ET",
   "events": [
-   {
-    "when_et": "Oct 13 08:15 AM ET",
-    "date": "2026-10-13",
-    "event": "ADP Weekly Employment Change",
-    "importance": "low",
-    "forecast": "",
-    "previous": "23.8K"
-   },
    {
     "when_et": "Oct 13 10:00 AM ET",
     "date": "2026-10-13",
@@ -1242,6 +1222,14 @@
     "when_et": "Oct 14 02:00 PM ET",
     "date": "2026-10-14",
     "event": "Beige Book",
+    "importance": "low",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "when_et": "Oct 14 03:00 PM ET",
+    "date": "2026-10-14",
+    "event": "FOMC Member Goolsbee Speaks",
     "importance": "low",
     "forecast": "",
     "previous": ""
@@ -1668,9 +1656,9 @@
   ]
  },
  "sentiment_validation": {
-  "logged": 1136,
+  "logged": 1139,
   "min_sample": 100,
-  "generated_et": "Oct 13 08:36 PM ET",
+  "generated_et": "Oct 13 09:19 PM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
@@ -1769,98 +1757,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 13 08:36 PM ET",
-   "newest_et": "Oct 13 08:28 PM ET",
-   "newest": "2026-10-14T00:28:34+00:00"
+   "fetched_et": "Oct 13 09:18 PM ET",
+   "newest_et": "Oct 13 09:16 PM ET",
+   "newest": "2026-10-14T01:16:02+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 13 08:36 PM ET",
+   "fetched_et": "Oct 13 09:18 PM ET",
    "newest_et": "Oct 13 02:05 PM ET",
    "newest": "2026-10-13T18:05:57+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 13 08:36 PM ET",
+   "fetched_et": "Oct 13 09:18 PM ET",
    "newest_et": "Oct 13 05:02 PM ET",
    "newest": "2026-10-13T21:02:43+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 13 08:36 PM ET",
+   "fetched_et": "Oct 13 09:18 PM ET",
    "newest_et": "Oct 13 05:02 PM ET",
    "newest": "2026-10-13T21:02:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 13 08:36 PM ET",
+   "fetched_et": "Oct 13 09:18 PM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 19,
-   "fetched_et": "Oct 13 08:36 PM ET",
-   "newest_et": "Oct 13 08:27 PM ET",
-   "newest": "2026-10-14T00:27:00+00:00"
+   "fetched_et": "Oct 13 09:18 PM ET",
+   "newest_et": "Oct 13 09:16 PM ET",
+   "newest": "2026-10-14T01:16:32+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 47,
-   "fetched_et": "Oct 13 08:36 PM ET",
+   "fetched_et": "Oct 13 09:18 PM ET",
    "newest_et": "Oct 13 07:05 PM ET",
    "newest": "2026-10-13T23:05:29+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 13 08:36 PM ET",
+   "fetched_et": "Oct 13 09:18 PM ET",
    "newest_et": "Oct 13 07:25 PM ET",
    "newest": "2026-10-13T23:25:08+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 13 08:36 PM ET",
-   "newest_et": "Oct 13 07:37 PM ET",
-   "newest": "2026-10-13T23:37:00+00:00"
+   "fetched_et": "Oct 13 09:18 PM ET",
+   "newest_et": "Oct 13 07:55 PM ET",
+   "newest": "2026-10-13T23:55:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 35,
-   "fetched_et": "Oct 13 08:36 PM ET",
-   "newest_et": "Oct 13 06:27 PM ET",
-   "newest": "2026-10-13T22:27:51+00:00"
+   "count": 37,
+   "fetched_et": "Oct 13 09:18 PM ET",
+   "newest_et": "Oct 13 06:47 PM ET",
+   "newest": "2026-10-13T22:47:55+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
-   "count": 44,
-   "fetched_et": "Oct 13 08:36 PM ET",
+   "count": 42,
+   "fetched_et": "Oct 13 09:18 PM ET",
    "newest_et": "Oct 13 01:15 PM ET",
    "newest": "2026-10-13T17:15:00+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 13 08:36 PM ET",
+   "fetched_et": "Oct 13 09:18 PM ET",
    "newest_et": "Oct 13 02:00 PM ET",
    "newest": "2026-10-13T18:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 13 08:36 PM ET",
-   "newest_et": "Oct 13 08:03 PM ET",
-   "newest": "2026-10-14T00:03:13+00:00"
+   "fetched_et": "Oct 13 09:19 PM ET",
+   "newest_et": "Oct 13 08:45 PM ET",
+   "newest": "2026-10-14T00:45:02+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
-   "count": 26,
-   "fetched_et": "Oct 13 08:36 PM ET"
+   "count": 25,
+   "fetched_et": "Oct 13 09:18 PM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
@@ -1870,7 +1858,7 @@
   "Economic calendar": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 13 07:56 PM ET",
+   "fetched_et": "Oct 13 09:19 PM ET",
    "note": "FairEconomy / ForexFactory weekly calendar (nfs.faireconomy.media)"
   }
  }
