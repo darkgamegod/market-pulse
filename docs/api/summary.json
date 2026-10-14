@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 14 12:28 AM ET",
- "generated_at": "2026-10-14T00:28:47.971066-04:00",
+ "generated_et": "Oct 14 01:03 AM ET",
+ "generated_at": "2026-10-14T01:03:11.555476-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-14",
@@ -12,33 +12,33 @@
   {
    "symbol": "ES=F",
    "label": "S&P 500 Fut",
-   "price": 7872.75,
+   "price": 7873.25,
    "pct": 0.22,
-   "asof_et": "Oct 14 12:15 AM ET",
+   "asof_et": "Oct 14 12:50 AM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "NQ=F",
    "label": "Nasdaq 100 Fut",
-   "price": 30870.75,
-   "pct": 0.26,
-   "asof_et": "Oct 14 12:15 AM ET",
+   "price": 30864.75,
+   "pct": 0.24,
+   "asof_et": "Oct 14 12:50 AM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "YM=F",
    "label": "Dow Fut",
-   "price": 52021.0,
-   "pct": 0.17,
-   "asof_et": "Oct 14 12:15 AM ET",
+   "price": 52028.0,
+   "pct": 0.18,
+   "asof_et": "Oct 14 12:50 AM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "RTY=F",
    "label": "Russell 2000 Fut",
-   "price": 2807.5,
-   "pct": 0.26,
-   "asof_et": "Oct 14 12:15 AM ET",
+   "price": 2807.7,
+   "pct": 0.27,
+   "asof_et": "Oct 14 12:50 AM ET",
    "freshness": "delayed"
   },
   {
@@ -84,25 +84,25 @@
   {
    "symbol": "CL=F",
    "label": "WTI Crude",
-   "price": 94.64,
-   "pct": 0.53,
-   "asof_et": "Oct 14 12:15 AM ET",
+   "price": 94.72,
+   "pct": 0.62,
+   "asof_et": "Oct 14 12:50 AM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "GC=F",
    "label": "Gold",
-   "price": 4179.2,
-   "pct": 0.05,
-   "asof_et": "Oct 14 12:15 AM ET",
+   "price": 4189.6,
+   "pct": 0.29,
+   "asof_et": "Oct 14 12:50 AM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "DX-Y.NYB",
    "label": "Dollar Index",
    "price": 102.09,
-   "pct": -0.09,
-   "asof_et": "Oct 14 12:15 AM ET",
+   "pct": -0.08,
+   "asof_et": "Oct 14 12:50 AM ET",
    "freshness": "delayed"
   },
   {
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 83698.13,
-   "pct": 2.37,
-   "asof_et": "Oct 14 12:25 AM ET",
+   "price": 83557.29,
+   "pct": 2.2,
+   "asof_et": "Oct 14 01:00 AM ET",
    "freshness": "delayed"
   },
   {
@@ -382,6 +382,90 @@
  ],
  "breaking": [
   {
+   "title": "Judge extends block on Trump White House ban of MS NOW, CNN and Politico",
+   "link": "https://www.cnbc.com/2026/10/14/trump-white-house-msnow-cnn-politico-media-ban.html",
+   "source": "CNBC Top News",
+   "impact": 2.5,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 14 01:03 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Would You Pay $20 A Month For Apple Siri? Analyst Says It Could Deliver $24B, Sees Smaller Boost From Smart Home Products",
+   "link": "https://stocktwits.com/news-articles/markets/equity/would-you-pay-20-a-month-for-apple-siri-analyst-says-it-could-deliver-24-b-sees-smaller-boost-from-smart-home-products/cZxffsVRBp4?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.9,
+   "tickers": [
+    "AAPL"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 14 01:03 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Forget Selling Netflix: NFLX Is the Streaming Stock I'm Buying More Of",
+   "link": "https://www.fool.com/investing/2026/10/14/forget-selling-netflix-im-buying-nflx-stock/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.1,
+   "tickers": [
+    "NFLX"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 14 01:03 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Crypto bosses, CEOs and F1: Singapore's business events boom gathers pace",
+   "link": "https://www.cnbc.com/2026/10/14/crypto-bosses-ceos-and-f1-singapore-events-boom-gathers-pace-.html",
+   "source": "CNBC Top News",
+   "impact": 3.2,
+   "tickers": [
+    "BTC-USD",
+    "COIN"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 14 01:03 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "NVIDIA Heads 3 Top Growth Stocks To Watch",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-heads-3-top-growth-042950365.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 4.8,
+   "tickers": [
+    "NVDA"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 14 01:03 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Kimbal Musk Says Tesla Cybercab Is ‘Amazing to Use’ as Driverless Fleet Explodes in Austin and Raises Stakes for Elon Musk’s Robotaxi Bet",
+   "link": "https://finance.yahoo.com/technology/ai/articles/kimbal-musk-says-tesla-cybercab-033013115.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.9,
+   "tickers": [
+    "TSLA"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 14 01:03 AM ET",
+   "consumer": true
+  },
+  {
+   "title": "Bank of America hit with $1.2bn fine for money laundering failings",
+   "link": "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "impact": 3.4,
+   "tickers": [
+    "BAC",
+    "^TNX"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 14 01:03 AM ET",
+   "consumer": false
+  },
+  {
    "title": "Judge indefinitely blocks Trump White House ban of three media outlets",
    "link": "https://www.cnbc.com/2026/10/14/trump-white-house-msnow-cnn-politico-media-ban.html",
    "source": "CNBC Top News",
@@ -529,82 +613,6 @@
    ],
    "sentiment_label": "neutral",
    "seen_et": "Oct 14 12:29 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Consumer Sentiment is Falling",
-   "link": "https://www.nasdaq.com/articles/consumer-sentiment-falling",
-   "source": "Nasdaq Markets",
-   "impact": 2.3,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 14 12:29 AM ET",
-   "consumer": true
-  },
-  {
-   "title": "Best Semiconductor Stocks to Buy in October: Marvell vs. Qualcomm",
-   "link": "https://www.nasdaq.com/articles/best-semiconductor-stocks-buy-october-marvell-vs-qualcomm",
-   "source": "Nasdaq Markets",
-   "impact": 3.9,
-   "tickers": [
-    "QCOM"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 14 12:29 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Is Planet Labs an Undervalued Space Stock to Buy Right Now in October?",
-   "link": "https://www.nasdaq.com/articles/planet-labs-undervalued-space-stock-buy-right-now-october",
-   "source": "Nasdaq Markets",
-   "impact": 2.9,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 14 12:29 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Australian Market Extends Early Losses In Mid-market",
-   "link": "https://www.nasdaq.com/articles/australian-market-extends-early-losses-mid-market-3",
-   "source": "Nasdaq Markets",
-   "impact": 3.7,
-   "tickers": [
-    "SPY"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 14 12:29 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Judge extends order blocking Trump from banning CNN, MS NOW and Politico reporters from White House",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTWVXV2QyVkppUjcxckt2dEhUbHBLMnVKbXl1VFJLdFU2Y2Fkd0Y0WGlaY21QNnY0QzRnT1g1VTVoOUhPNkdVWlRQOEh2UDA3SEpmWXVNUG9WOEVsTzRMSXh0bk40YUJfWDFPbkVvYWJkbXIwMHBCQ2pKR3ltSmpJbHJCVEZRMlJzcG9sTnlVcmI0N1RpX1E?oc=5",
-   "source": "AP News",
-   "impact": 2.1,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 14 12:29 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Judge indefinitely blocks Trump White House from banning 3 media outlets",
-   "link": "https://www.cnbc.com/2026/10/14/trump-white-house-msnow-cnn-politico-media-ban.html",
-   "source": "CNBC Top News",
-   "impact": 2.3,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 13 11:48 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Is NVIDIA’s Open‑Weight AI Push via Reflection AI Recasting Its Full‑Stack Narrative (NVDA)?",
-   "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-open-weight-ai-push-031855835.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.1,
-   "tickers": [
-    "NVDA"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 13 11:48 PM ET",
    "consumer": false
   }
  ],
@@ -1780,9 +1788,9 @@
   ]
  },
  "sentiment_validation": {
-  "logged": 1160,
+  "logged": 1166,
   "min_sample": 100,
-  "generated_et": "Oct 14 12:29 AM ET",
+  "generated_et": "Oct 14 01:03 AM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
@@ -1881,98 +1889,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 14 12:28 AM ET",
-   "newest_et": "Oct 14 12:28 AM ET",
-   "newest": "2026-10-14T04:28:38+00:00"
+   "fetched_et": "Oct 14 01:03 AM ET",
+   "newest_et": "Oct 14 01:02 AM ET",
+   "newest": "2026-10-14T05:02:53+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 14 12:28 AM ET",
-   "newest_et": "Oct 13 02:05 PM ET",
-   "newest": "2026-10-13T18:05:57+00:00"
+   "fetched_et": "Oct 14 01:03 AM ET",
+   "newest_et": "Oct 14 12:24 AM ET",
+   "newest": "2026-10-14T04:24:28+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 14 12:28 AM ET",
+   "fetched_et": "Oct 14 01:03 AM ET",
    "newest_et": "Oct 13 05:02 PM ET",
    "newest": "2026-10-13T21:02:43+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 14 12:28 AM ET",
+   "fetched_et": "Oct 14 01:03 AM ET",
    "newest_et": "Oct 13 09:31 PM ET",
    "newest": "2026-10-14T01:31:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 14 12:28 AM ET",
+   "fetched_et": "Oct 14 01:03 AM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 18,
-   "fetched_et": "Oct 14 12:28 AM ET",
-   "newest_et": "Oct 13 11:18 PM ET",
-   "newest": "2026-10-14T03:18:55+00:00"
+   "fetched_et": "Oct 14 01:03 AM ET",
+   "newest_et": "Oct 14 12:55 AM ET",
+   "newest": "2026-10-14T04:55:58+00:00"
   },
   "BBC Business": {
    "ok": true,
-   "count": 47,
-   "fetched_et": "Oct 14 12:28 AM ET",
-   "newest_et": "Oct 13 07:05 PM ET",
-   "newest": "2026-10-13T23:05:29+00:00"
+   "count": 48,
+   "fetched_et": "Oct 14 01:03 AM ET",
+   "newest_et": "Oct 13 10:05 PM ET",
+   "newest": "2026-10-14T02:05:32+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 14 12:28 AM ET",
+   "fetched_et": "Oct 14 01:03 AM ET",
    "newest_et": "Oct 13 09:53 PM ET",
    "newest": "2026-10-14T01:53:00+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 14 12:28 AM ET",
+   "fetched_et": "Oct 14 01:03 AM ET",
    "newest_et": "Oct 13 11:17 PM ET",
    "newest": "2026-10-14T03:17:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 36,
-   "fetched_et": "Oct 14 12:28 AM ET",
+   "count": 35,
+   "fetched_et": "Oct 14 01:03 AM ET",
    "newest_et": "Oct 13 09:34 PM ET",
    "newest": "2026-10-14T01:34:47+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
-   "count": 42,
-   "fetched_et": "Oct 14 12:28 AM ET",
-   "newest_et": "Oct 13 07:20 PM ET",
-   "newest": "2026-10-13T23:20:27+00:00"
+   "count": 44,
+   "fetched_et": "Oct 14 01:03 AM ET",
+   "newest_et": "Oct 13 01:15 PM ET",
+   "newest": "2026-10-13T17:15:00+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 14 12:28 AM ET",
+   "fetched_et": "Oct 14 01:03 AM ET",
    "newest_et": "Oct 13 02:00 PM ET",
    "newest": "2026-10-13T18:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 14 12:28 AM ET",
+   "fetched_et": "Oct 14 01:03 AM ET",
    "newest_et": "Oct 14 12:12 AM ET",
    "newest": "2026-10-14T04:12:01+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Oct 14 12:28 AM ET"
+   "fetched_et": "Oct 14 01:03 AM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
