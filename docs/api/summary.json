@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 15 12:03 AM ET",
- "generated_at": "2026-10-15T00:03:58.529608-04:00",
+ "generated_et": "Oct 15 12:46 AM ET",
+ "generated_at": "2026-10-15T00:46:19.783344-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-15",
@@ -12,33 +12,33 @@
   {
    "symbol": "ES=F",
    "label": "S&P 500 Fut",
-   "price": 7731.25,
-   "pct": -1.58,
-   "asof_et": "Oct 14 11:50 PM ET",
+   "price": 7744.0,
+   "pct": -0.34,
+   "asof_et": "Oct 15 12:35 AM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "NQ=F",
    "label": "Nasdaq 100 Fut",
-   "price": 29840.5,
-   "pct": -3.09,
-   "asof_et": "Oct 14 11:50 PM ET",
+   "price": 29928.5,
+   "pct": -0.84,
+   "asof_et": "Oct 15 12:35 AM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "YM=F",
    "label": "Dow Fut",
-   "price": 51788.0,
-   "pct": -0.28,
-   "asof_et": "Oct 14 11:50 PM ET",
+   "price": 51870.0,
+   "pct": 0.02,
+   "asof_et": "Oct 15 12:35 AM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "RTY=F",
    "label": "Russell 2000 Fut",
-   "price": 2739.6,
-   "pct": -2.16,
-   "asof_et": "Oct 14 11:50 PM ET",
+   "price": 2747.8,
+   "pct": 0.1,
+   "asof_et": "Oct 15 12:35 AM ET",
    "freshness": "delayed"
   },
   {
@@ -84,25 +84,25 @@
   {
    "symbol": "CL=F",
    "label": "WTI Crude",
-   "price": 94.03,
-   "pct": -0.12,
-   "asof_et": "Oct 14 11:50 PM ET",
+   "price": 93.92,
+   "pct": -1.23,
+   "asof_et": "Oct 15 12:35 AM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "GC=F",
    "label": "Gold",
-   "price": 4166.6,
-   "pct": -0.26,
-   "asof_et": "Oct 14 11:50 PM ET",
+   "price": 4167.9,
+   "pct": 1.46,
+   "asof_et": "Oct 15 12:35 AM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "DX-Y.NYB",
    "label": "Dollar Index",
-   "price": 101.94,
-   "pct": -0.23,
-   "asof_et": "Oct 14 11:50 PM ET",
+   "price": 102.05,
+   "pct": -0.49,
+   "asof_et": "Oct 15 12:35 AM ET",
    "freshness": "delayed"
   },
   {
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 80898.22,
-   "pct": -2.64,
-   "asof_et": "Oct 15 12:00 AM ET",
+   "price": 81481.91,
+   "pct": -1.94,
+   "asof_et": "Oct 15 12:45 AM ET",
    "freshness": "delayed"
   },
   {
@@ -206,7 +206,7 @@
    "label": "Communication",
    "price": 110.54,
    "pct": -1.55,
-   "asof_et": "Oct 14 07:35 PM ET",
+   "asof_et": "Oct 14 07:36 PM ET",
    "freshness": "closed"
   },
   {
@@ -382,6 +382,228 @@
  ],
  "breaking": [
   {
+   "title": "Elon Musk Sees ‘Almost All Cars’ Going Electric as Gasoline-Only Vehicles Fall Below Half of Global Sales",
+   "link": "https://www.benzinga.com/markets/prediction-markets/26/10/62372456/elon-musk-gasoline-cars-electric-vehicle-tesla?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.1,
+   "tickers": [
+    "QQQ",
+    "TSLA"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 15 12:46 AM ET",
+   "consumer": true
+  },
+  {
+   "title": "S&P 500 futures fall ahead of more U.S. economic data; South Korea's Kospi slides 7%: Live updates",
+   "link": "https://www.cnbc.com/2026/10/14/stock-market-today-live-updates.html",
+   "source": "CNBC Top News",
+   "impact": 4.4,
+   "tickers": [
+    "SPY"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 15 12:46 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Apple's Annual Revenue Quadrupled From $108 Billion to $416 Billion During Tim Cook's 15 Years as CEO, With iPhone Sales Alone Jumping From $47 Billion to Nearly $210 Billion. What That Growth Says About Betting on Apple's Next Chapter Under John Ternus.",
+   "link": "https://www.fool.com/investing/2026/10/15/apples-annual-revenue-quadrupled-from-108-billion/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.2,
+   "tickers": [
+    "AAPL"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 15 12:46 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Oil falls as investors assess Mideast tensions, International Energy Agency's report",
+   "link": "https://www.cnbc.com/2026/10/15/oil-prices-today-brent-wti.html",
+   "source": "CNBC Top News",
+   "impact": 3.1,
+   "tickers": [
+    "CL=F",
+    "XLE"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 15 12:46 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Meta Reports on Oct. 21. I'd Consider Buying the Stock Before It Does.",
+   "link": "https://www.fool.com/investing/2026/10/14/meta-reports-on-oct-21-i-d-buy-the-stock-before-it-does/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.7,
+   "tickers": [
+    "META"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 15 12:46 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Nike Is Restructuring the Business",
+   "link": "https://www.nasdaq.com/articles/nike-restructuring-business",
+   "source": "Nasdaq Markets",
+   "impact": 2.0,
+   "tickers": [
+    "NKE"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 15 12:46 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Unfortunate News for Micron Stock and Sandisk Stock Investors",
+   "link": "https://www.nasdaq.com/articles/unfortunate-news-micron-stock-and-sandisk-stock-investors",
+   "source": "Nasdaq Markets",
+   "impact": 2.5,
+   "tickers": [
+    "MU"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 15 12:46 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Is Zscaler an Undervalued Cybersecurity Stock to Buy Right Now in October?",
+   "link": "https://www.nasdaq.com/articles/zscaler-undervalued-cybersecurity-stock-buy-right-now-october-0",
+   "source": "Nasdaq Markets",
+   "impact": 2.2,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 15 12:46 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Australian Market Trims Early Losses In Mid-market",
+   "link": "https://www.nasdaq.com/articles/australian-market-trims-early-losses-mid-market-0",
+   "source": "Nasdaq Markets",
+   "impact": 3.0,
+   "tickers": [
+    "SPY"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 15 12:46 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Asian Markets A Sea Of Red",
+   "link": "https://www.nasdaq.com/articles/asian-markets-sea-red-1",
+   "source": "Nasdaq Markets",
+   "impact": 7.2,
+   "tickers": [
+    "SPY",
+    "^TNX"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 15 12:46 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Gold rebounds from one-week low as dollar slips",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGo4bEV3TDlUV2I1Nkg3dzNpODBCZ0hBWXJtWHR2OWwxWGVGZlRVcDZINFJqdmQ5QXJRNk5aUVVtZDhZSUlzUEJNWmpUcm9oSmtrNldYLWZEWTl6NDNueFY4VlQyby1oYnBKcnFSaHBQR1BWZXZ1NVg5LXZReXc5UjlWTXFzd2pDSEpBVTljTjk?oc=5",
+   "source": "Reuters",
+   "impact": 2.5,
+   "tickers": [
+    "GC=F"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 15 12:46 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Trump defends gifted Air Force One from Qatar and makes 2nd Amendment pitch as he campaigns for GOP",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV2F4dUp3U3R3dDBwZ0E1S3RqWUlkc1FYUmJPemY1WWphMkpHNmZnTkxmZDhXMmpJcWNBRU5RU1V6b3owRGVIZ09ZRHdXVDc3Ylk5SGh2dlRlRDBYVGVIdXVja3dVQnFKUjlLczFLVFZBZnpvOENYUnJCbnNoc0djaGYtNFNuTXhMWVdwWHVyX0drbzZielVxQVJtSl9ZZlE?oc=5",
+   "source": "AP News",
+   "impact": 1.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 15 12:46 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Warren Buffett Wrote \"Buy American. I Am.\" 18 Years Ago This Week. Should You Still Follow His Advice?",
+   "link": "https://www.nasdaq.com/articles/warren-buffett-wrote-buy-american-i-am-18-years-ago-week-should-you-still-follow-his",
+   "source": "Nasdaq Markets",
+   "impact": 2.6,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 15 12:46 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Lawyers for New York man shot by ICE say officer fired into car without warning",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPS1ZHdURLRWFvNWtsTE9aMjBHdWxuajYxaHJVTDFmMGNEWnpDMzJmSm1VbUNSeUFvaDZscnktbFdjTENyb20xTVJGRzZndm9zNFp1eGp2bHpIbEZFVXA2NzJ3a2JIZXlNZ0pUZFM3RXR1TnBoSjVnZXR0YUtsUVUtSHozYUZWeWVvNmFqazhmNA?oc=5",
+   "source": "AP News",
+   "impact": 3.3,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 15 12:46 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Dollar retreats from 18-month high despite hot CPI as Fed officials temper hike bets",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbDE0ZWJRMm1PNWhpVzUwaDhHb2o1YkVXVExaeFVQWWFwcnJtemVfakY3WHV0aFFQWHR3dkR4eVN1OTZ3dXVqb0QzQ0ZuNkNhek1IbFRhVEtBXzNKcVpSQ1dHQm16ZGMxZHF1Z0txU2xHVUVsb0txUzhxLVljb0NXWWZzX2ZETk9QbHF1dm5XdmMybWFYRzl4d1VuS3J0NlU4enJvQVFuYTYydDNYUVVHM3pjandDUHdHbHhLT2otUU1HQk1PTVpReHpmTQ?oc=5",
+   "source": "Reuters",
+   "impact": 7.2,
+   "tickers": [
+    "SPY",
+    "^TNX"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 15 12:46 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "UK prosecutor labels Russell Brand a ruthless sexual predator as his sex assault trial begins",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRC11N3ZtMU1YdXpMRzUzRjF0YmZKYlpfQUZZTDRMeHRhUGpYMG9zbTA4Q1hrRFBYekJha1ZhUXF1UVNHMS1oRHZWQmNHeHpIOFBPTDVCUnJkVklUZ2lMeEpYc2ZFSTFpWVloaVR4Vmx2SThtTm04Z1o2V3F2T0NpamV6YkNsY2NYLVNDRlpJTDMwcHZyV3hpVmZBWkkxbXp3MjhDemo2T0Zqa2ctcWVNdzJ3?oc=5",
+   "source": "AP News",
+   "impact": 2.8,
+   "tickers": [
+    "IWM"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 15 12:46 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Better Clean Energy ETF: VanEck's Nuclear-Focused NLR vs. the iShares ICLN Targeting Renewables",
+   "link": "https://www.nasdaq.com/articles/better-clean-energy-etf-vanecks-nuclear-focused-nlr-vs-ishares-icln-targeting-renewables",
+   "source": "Nasdaq Markets",
+   "impact": 2.4,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 15 12:46 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Costa Rica opens a Bukele-style mega-prison. Here’s how it got here",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVGxWeVcyX2RUX2VXTTdrU0c1d1FNYWlyUWxwU185VjJBdGVhYnZrY3pDa291elduQTEwbUdRdzl5MnRJNXV6azVkVFA1OWhsYWZVLThlU3hVMEVZY2thZkNZdnpNRFBORXhwSlZOT1hBdFNGT1cxQ21vVXJWdnRrYzlIZ1pRM04zOE1ZZlV0RlVOMTJFSXpDQkZ3WHQxQ25CNl9lRHZWU3ByZ3RqOVIwZ1RHVFdvUkE?oc=5",
+   "source": "AP News",
+   "impact": 1.4,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 15 12:46 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Breakingviews - COMMENTARY: Why global oil markets will be watching Alibaba",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQXc4YTFIeVNSWTZKaC00eC1NamlIREdqRmhHbXV4VFlxX3N5NS1vMjBJbDhNRE9hVEl1ME5BemZWS2pESEtyVzliSnhrdHo2cVBXYmlIemhteWJ6S1VEOV90ZTZLazgtQm5qcV8tbzVzY3dFdjBfQS05cXpKeF9NLU85SXdzZElmLVAtcmlWUzRNR3lIcFBRelZKODhUYmJhaG03anZtaF9lTVd4?oc=5",
+   "source": "Reuters",
+   "impact": 2.5,
+   "tickers": [
+    "BABA",
+    "CL=F",
+    "XLE"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 15 12:46 AM ET",
+   "consumer": false
+  },
+  {
    "title": "UPS Boosts Service On Over 1,100 Global Trade Lanes With Opening Of New Philippines Hub",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRTdfTnVMNXI0UU5RTmQxSVZ5RlR0TE5RSFZTSGk4RUVhVTFKa1dSYlMxRjZMZnRzcEZGTUpNdndDZXNMbm1MMmZRVXl1WXItUHc3MGRUMUdWZVF2MzNGRGFpMXl4R1V5MUR6TTZtRUU2cndnOFBDNjgxMlRwUF9raGluSWh2RXEwNWRaTHY0VEt0Ti14VkNPWDdlcVVoc1FobkNKand1cmZTbzJUOHlLRVBTUUVVVF93Y2FMcFRZQ0tFYlNsUUR4cGRtRWJTaUI1Q3c?oc=5",
    "source": "UPS",
@@ -392,222 +614,27 @@
    "sentiment_label": "bullish",
    "seen_et": "Oct 15 12:04 AM ET",
    "consumer": true
-  },
-  {
-   "title": "Anthropic's third-quarter revenue is said to hit $16.8 billion ahead of IPO",
-   "link": "https://www.cnbc.com/2026/10/15/anthropics-third-quarter-revenue-hits-16point8-billion-ipo.html",
-   "source": "CNBC Top News",
-   "impact": 1.5,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 15 12:04 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "The Bond Market Just Reached a Dangerous Milestone. Here's What It Means for Stock Investors.",
-   "link": "https://www.fool.com/investing/2026/10/14/bond-market-dangerous-milestone-stock-invest/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.9,
-   "tickers": [
-    "^TNX"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 15 12:04 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "How Laptops Brought EVs Back From The Dead",
-   "link": "https://thehustle.videonest.co/videos/1786774/how-laptops-brought-evs-back-from-the-dead-8zSEMHMYOX?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.5,
-   "tickers": [
-    "TSLA"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 15 12:04 AM ET",
-   "consumer": true
-  },
-  {
-   "title": "Dow, S&P 500, Nasdaq Decline Amid Hot Inflation Data, AI Selloff: CRWV, NBIS, NVDA, IBRX Stocks In Focus",
-   "link": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-decline-amid-hot-inflation-data-ai-selloff-crwv-nbis-nvda-ibrx-stocks-in-focus/cZxWKOLRBqU?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 7.3,
-   "tickers": [
-    "DIA",
-    "QQQ",
-    "SPY"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 15 12:04 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Bond trading weakens for US banks as interest rate volatility affects investors",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMWFUTlN0UFNuSDRsZWdHaEF5d21ybF9yWS1GWDUwV3J2VWxheFRtRGcyOTlaOXgxcW95M3Q5OV83cUdsWGpOdWxCN0xISlMtX1FZS2tpOWh2NW5qczVYMkREYXRNdGNxTXhfckFYQmx2NzJtTFllMW9jSnlqQ3ZUcEpueVZwX0x6ak5nVlZxLU1NemstczJCdElDV0dTV21HQ1p1c1ptNFBrVUpSajJwbnNuQ0J3VkdrV3NhYlRsaDJaTEE?oc=5",
-   "source": "Reuters",
-   "impact": 4.2,
-   "tickers": [
-    "^TNX",
-    "^VIX"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 15 12:04 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Elon Musk says Trump is 'ultimately' responsible for any curbs on Ukraine's Starshield systems",
-   "link": "https://www.cnbc.com/2026/10/15/elon-musk-starlink-ukraine-trump-energy-ceasefire.html",
-   "source": "CNBC Top News",
-   "impact": 2.4,
-   "tickers": [
-    "TSLA"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 14 11:26 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Dow Jones Futures: Techs Fall On Anthropic News After Dell, AMD, CoreWeave Lead AI-Led Sell-Off",
-   "link": "https://finance.yahoo.com/m/aa652aec-f2fc-3be9-a055-a0a4183cba67/dow-jones-futures%3A-techs-fall.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 5.6,
-   "tickers": [
-    "AMD",
-    "DIA"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 14 11:26 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Anthropic tells investors Q3 revenue jumped 45% to nearly $17 bln, FT reports",
-   "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-tells-investors-q3-revenue-030140226.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.1,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 14 11:26 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Global chip sell-off deepens as South Korean market plunges",
-   "link": "https://finance.yahoo.com/markets/stocks/article/global-chip-sell-off-deepens-as-south-korean-market-plunges-024927049.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 4.9,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 14 11:26 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Elon Musk takes a direct swipe at Broadcom CEO and AI investors",
-   "link": "https://www.thestreet.com/latest-news/elon-musk-swipe-broadcom-ceo-hock-tan-and-ai-investors?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.4,
-   "tickers": [
-    "AVGO",
-    "TSLA"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 14 11:26 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Two-wheeler stocks: Can the onset of festive demand offset weak monsoon?",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcmJLV1Y1Y1BIWTdzTkZSNXdZVlByS2w0bDhGTlcta2NVVlFmeWpqeG1abmR4Z0lRb0EtUmdDeWFIYUJEdDAweW4xa1RzTl9ESUN1Zm5UZ1BNandLLWpTaEVLa3NsU0FVZUlWenZoSHdxQTI1eUU0bnZtamxsWjdvMGx1d2d1R2dkZUxydnllYXNLdEpNa3F5WWs2ZzRWNWdxckk5Z2F5R1laSzFVZ2dmZzBjSl90RmRMcWpuN0pEc201QTB6TG4wMWZaSXIxTXhETk530gHYAUFVX3lxTE40S2JsOGNnM21LRWRDOWlGLV9MNE1NdHRLd0Z6aWNhYjVWT1ptcUJTSzF3RmUxZ01YeWEzVWdjeXZqQi1oQWZFMDBrWGVIVjU1bHZCZXBSNFhZVDdRUmhybGRReUlMZ3oyTk1NbGRrbDd2WEoyOWxjaUF0UmZYR09oVDR2eHV6N244QWlWczFfRjdMRVdMclQ5ZnVNWWVaRFNIVkIxb1ZiS1Z4M2RWSG8yLUNvOUtzTG9ENnBReThOWjFzaUs5S1VCQzlsUFRMS3lDWVl4YzFPcg?oc=5",
-   "source": "Business Standard",
-   "impact": 2.1,
-   "tickers": [
-    "GOOGL"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 14 11:26 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "China opens a joint airfield in Laos with construction ongoing and eyes on its military role",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLUVXckprT0gyaGNXYWgwSmdpRkxzODZ5S0twS2hoRGZUejBQbm80bzJFaG5Xc25FaFc2YzFWNTg5X3UwWC1fT3dLR0N2T2s2WmlYemdwNkxFNWQxOFlLQmJaWjBkTVEwQWRBS3lNTUpKRUJUUTZmVkRKQ1VjeXpDVWd1cE5wUUNWNzdfLTU5SENaTkRzYXg1S01lMEVxaE5XeERHYmdn?oc=5",
-   "source": "AP News",
-   "impact": 1.5,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 14 11:26 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Brazil’s Senate approves a shorter workweek in major win for Lula ahead of runoff",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObnVEWElSRXpOUmlXck11bDFCalZydGhnSFNSSFVBV3FjZlhmTDl4RXNPbWlLSnBNNF9XQndRVzVnRDZrWmZid0xLSldiTDRFRTdqeWdObTNkTXlkYjNxZk14YVhkcHgySlQ1SFh4ekFPeGxZWDQ3MjN6cXZjTHlER3FKTGVoLUp2VTlGYzF3OFdlV2laczBSQzVFd2M3Vlk5Tk12eWJLYw?oc=5",
-   "source": "AP News",
-   "impact": 2.5,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 14 11:26 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Small Business Lending Looks Beyond Credit Scores to Everyday Business Data",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSzJSX2wtUjZjX1BVaHdIU1ExcWl4eFF5NDNzeVVncnFPME1rUEtrblg0ZWVRT2FkSnNQUDgwbTNWWHBFanoya015bFozVUJsWEVWMGMzVWxNWXJ3RUN4dEIwV0JSY0VlV3dSTS1lRk1aRHBSWXFpR2JQWFdIR0E1ODdfU3hlUjRUT3U3eG1ZXzB4a09fQWxQSFFjbm1zMUc1NXlWUXZNdDN6OHo4RHc?oc=5",
-   "source": "PYMNTS.com",
-   "impact": 2.2,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 14 11:26 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Rays and Guardians to play ALCS Game 3 in afternoon to beat rain. NLCS game also moved up",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeENobWUtYXd4OGVpVWFXbWdBNlZGbXRRTXZOd3luQllYcFV5WnRsbUZHMlBLcktTQ3lSX2F6VDFPTS0xZUZENVBoRC10cUw1Tm1SUTRxLTk5Y1BKd0UyeXhWNXJnM1dUNHpOZl9jZVlyM0NwcHQ5YjlDUjJmM1RUelY3aUVtbjZMek9iOEZtbw?oc=5",
-   "source": "AP News",
-   "impact": 2.3,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 14 11:26 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Vietnam buries remains of 731 war dead nearly 6 decades after the Tet Offensive",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeWZGY3BENl9hRC1URVpOQ1lMQ0Y5WVdZUFVSMzNWMVRyLUlRUzB2RnZSOE1sT21QYm9raDdJXzVRRTg5YmFmcWFNQ3BPSG1xLVhDcEIxUWVMYnFJcDNrVGh4U3dTazQyd2RJRU1BRTZaZWwxNnhBVU50TTRmNFQ2RDFVTlBwR1JZUWg3c3lkTUs1SjJhMXc1VXZjQWJpbDNVampF?oc=5",
-   "source": "AP News",
-   "impact": 3.1,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 14 11:26 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "ProShares Online Retail ETF (ONLN) Stock Price, News, Quote & History",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtTVhsSVpRYW1yWFE5MGRKVk41MEZLUjJ4THQxaktZR0duX2Z0bHhnNi1FTWVtVnB4ZkVtbXdQVGRnSEtDRVRrWFVEaUJhT1JUYUE?oc=5",
-   "source": "Yahoo! Finance Canada",
-   "impact": 0.9,
-   "tickers": [
-    "ONLN"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 14 11:26 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "Indian Shares Seen Flat To Lower At Open",
-   "link": "https://www.nasdaq.com/articles/indian-shares-seen-flat-lower-open",
-   "source": "Nasdaq Markets",
-   "impact": 1.7,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 14 10:47 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "CRWV, NBIS, IREN Stocks Extend Slide Overnight: Retail Eyes The Dip As CoreWeave CEO Says Market Acting ‘Irrationally’",
-   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPLUpHdDBYRUxYMTlXUlFuTGh4cllYd09rU0d2NlB6VVdyZ2dvMUp0VXJJVlNOcW9GODM0SmQ2U21yR2toSF9LY3F5a214djNkY1BhY2xYMlg1d0JGZkk4YjBLNnpod3I3SUEwby1QMnJPVDBJRUdSMC1FSzVKc1VDMUdZVXo4YzcxX0gzWGxVX0FUQUVDNzlwZUVwWDJvaVp4Qm42VExIZzRiN3lTb1JOa2FYcDVrVlFBVXg1d2lNYWgwQ002a1NwOGVKTlBtdHg0bkFvZTEwQnpqVEZTSVpaRDZlTEhxNnl6OHphS1BRckRSd21kcHhmY3hydDBFRUV1enJnZw?oc=5",
-   "source": "TradingView",
-   "impact": 1.9,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 14 10:47 PM ET",
-   "consumer": true
   }
  ],
  "high_impact": [
+  {
+   "title": "Asian Markets A Sea Of Red",
+   "link": "https://www.nasdaq.com/articles/asian-markets-sea-red-1",
+   "impact": 7.2,
+   "tickers": [
+    "SPY",
+    "^TNX"
+   ]
+  },
+  {
+   "title": "Dollar retreats from 18-month high despite hot CPI as Fed officials temper hike bets",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbDE0ZWJRMm1PNWhpVzUwaDhHb2o1YkVXVExaeFVQWWFwcnJtemVfakY3WHV0aFFQWHR3dkR4eVN1OTZ3dXVqb0QzQ0ZuNkNhek1IbFRhVEtBXzNKcVpSQ1dHQm16ZGMxZHF1Z0txU2xHVUVsb0txUzhxLVljb0NXWWZzX2ZETk9QbHF1dm5XdmMybWFYRzl4d1VuS3J0NlU4enJvQVFuYTYydDNYUVVHM3pjandDUHdHbHhLT2otUU1HQk1PTVpReHpmTQ?oc=5",
+   "impact": 7.2,
+   "tickers": [
+    "SPY",
+    "^TNX"
+   ]
+  },
   {
    "title": "Dow, S&P 500, Nasdaq Decline Amid Hot Inflation Data, AI Selloff: CRWV, NBIS, NVDA, IBRX Stocks In Focus",
    "link": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-decline-amid-hot-inflation-data-ai-selloff-crwv-nbis-nvda-ibrx-stocks-in-focus/cZxWKOLRBqU?.tsrc=rss",
@@ -632,17 +659,6 @@
    "link": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
    "impact": 8.1,
    "tickers": [
-    "SPY",
-    "^TNX"
-   ]
-  },
-  {
-   "title": "Dow Jones Futures: Dell, AMD, CoreWeave Dive In AI-Led Sell-Off; Anthropic Revenue Jumps, Taiwan Semiconductor Due",
-   "link": "https://finance.yahoo.com/m/aa652aec-f2fc-3be9-a055-a0a4183cba67/dow-jones-futures%3A-dell%2C-amd%2C.html?.tsrc=rss",
-   "impact": 8.4,
-   "tickers": [
-    "AMD",
-    "DIA",
     "SPY",
     "^TNX"
    ]
@@ -1896,9 +1912,9 @@
   ]
  },
  "sentiment_validation": {
-  "logged": 1632,
+  "logged": 1643,
   "min_sample": 100,
-  "generated_et": "Oct 15 12:05 AM ET",
+  "generated_et": "Oct 15 12:46 AM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
@@ -1997,98 +2013,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 15 12:03 AM ET",
-   "newest_et": "Oct 14 11:55 PM ET",
-   "newest": "2026-10-15T03:55:35+00:00"
+   "fetched_et": "Oct 15 12:46 AM ET",
+   "newest_et": "Oct 15 12:25 AM ET",
+   "newest": "2026-10-15T04:25:10+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 15 12:03 AM ET",
+   "fetched_et": "Oct 15 12:46 AM ET",
    "newest_et": "Oct 14 01:20 PM ET",
    "newest": "2026-10-14T17:20:23+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 15 12:03 AM ET",
+   "fetched_et": "Oct 15 12:46 AM ET",
    "newest_et": "Oct 14 04:22 PM ET",
    "newest": "2026-10-14T20:22:09+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 15 12:03 AM ET",
+   "fetched_et": "Oct 15 12:46 AM ET",
    "newest_et": "Oct 14 09:07 PM ET",
    "newest": "2026-10-15T01:07:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 15 12:03 AM ET",
+   "fetched_et": "Oct 15 12:46 AM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 19,
-   "fetched_et": "Oct 15 12:03 AM ET",
-   "newest_et": "Oct 14 11:35 PM ET",
-   "newest": "2026-10-15T03:35:00+00:00"
+   "fetched_et": "Oct 15 12:46 AM ET",
+   "newest_et": "Oct 15 12:38 AM ET",
+   "newest": "2026-10-15T04:38:28+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 40,
-   "fetched_et": "Oct 15 12:04 AM ET",
-   "newest_et": "Oct 14 11:33 PM ET",
-   "newest": "2026-10-15T03:33:08+00:00"
+   "fetched_et": "Oct 15 12:46 AM ET",
+   "newest_et": "Oct 15 12:19 AM ET",
+   "newest": "2026-10-15T04:19:17+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 15 12:04 AM ET",
-   "newest_et": "Oct 14 08:51 PM ET",
-   "newest": "2026-10-15T00:51:00+00:00"
+   "fetched_et": "Oct 15 12:46 AM ET",
+   "newest_et": "Oct 14 11:18 PM ET",
+   "newest": "2026-10-15T03:18:00+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 15 12:04 AM ET",
-   "newest_et": "Oct 14 10:13 PM ET",
-   "newest": "2026-10-15T02:13:00+00:00"
+   "fetched_et": "Oct 15 12:46 AM ET",
+   "newest_et": "Oct 14 11:15 PM ET",
+   "newest": "2026-10-15T03:15:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
    "count": 40,
-   "fetched_et": "Oct 15 12:04 AM ET",
+   "fetched_et": "Oct 15 12:46 AM ET",
    "newest_et": "Oct 15 12:00 AM ET",
    "newest": "2026-10-15T04:00:54+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
-   "count": 46,
-   "fetched_et": "Oct 15 12:04 AM ET",
+   "count": 47,
+   "fetched_et": "Oct 15 12:46 AM ET",
    "newest_et": "Oct 14 10:37 PM ET",
    "newest": "2026-10-15T02:37:20+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 15 12:04 AM ET",
+   "fetched_et": "Oct 15 12:46 AM ET",
    "newest_et": "Oct 13 02:00 PM ET",
    "newest": "2026-10-13T18:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 15 12:04 AM ET",
-   "newest_et": "Oct 14 10:36 PM ET",
-   "newest": "2026-10-15T02:36:35+00:00"
+   "fetched_et": "Oct 15 12:46 AM ET",
+   "newest_et": "Oct 15 12:20 AM ET",
+   "newest": "2026-10-15T04:20:00+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Oct 15 12:03 AM ET"
+   "fetched_et": "Oct 15 12:46 AM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
