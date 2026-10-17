@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 17 06:08 AM ET",
- "generated_at": "2026-10-17T06:08:10.556182-04:00",
+ "generated_et": "Oct 17 06:42 AM ET",
+ "generated_at": "2026-10-17T06:42:40.102893-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-17",
@@ -84,16 +84,16 @@
   {
    "symbol": "CL=F",
    "label": "WTI Crude",
-   "price": 99.04,
-   "pct": 1.09,
+   "price": 99.02,
+   "pct": 1.07,
    "asof_et": "Oct 16 04:55 PM ET",
    "freshness": "closed"
   },
   {
    "symbol": "GC=F",
    "label": "Gold",
-   "price": 4186.7,
-   "pct": 0.4,
+   "price": 4181.1,
+   "pct": 0.26,
    "asof_et": "Oct 16 04:55 PM ET",
    "freshness": "closed"
   },
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 81481.79,
-   "pct": -0.02,
-   "asof_et": "Oct 17 06:05 AM ET",
+   "price": 81550.31,
+   "pct": 0.06,
+   "asof_et": "Oct 17 06:40 AM ET",
    "freshness": "delayed"
   },
   {
@@ -381,6 +381,115 @@
  ],
  "breaking": [
   {
+   "title": "Could Buying Plug Power Today Transform $1,000 Into Life-Changing Wealth?",
+   "link": "https://www.fool.com/investing/2026/10/17/could-buying-plug-power-today-transform-1000-into/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.1,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 17 06:42 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Oil Prices Are Back Above $100. History Says the Biggest Stock Market Loser May Now Offer the Biggest Upside.",
+   "link": "https://www.fool.com/investing/2026/10/17/oil-prices-above-100-history-says-biggest-losers/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.6,
+   "tickers": [
+    "CL=F",
+    "XLE"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 17 06:42 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Trump waives broad new Russia sanctions and tariffs under Graham Act, citing national interest",
+   "link": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
+   "source": "CNBC Top News",
+   "impact": 4.9,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 17 06:42 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "XRP Could Hit $3 by 2030. Here Is What Investors Need to Know.",
+   "link": "https://www.fool.com/investing/2026/10/17/xrp-could-hit-3-by-2030-here-is-what-investors-nee/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 1.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 17 06:42 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "SCHD Is Crushing the Vanguard High Dividend Yield ETF (VYM) This Year. I Predict That Advantage Is About to Fade.",
+   "link": "https://www.fool.com/investing/2026/10/17/schd-is-crushing-the-vanguard-high-dividend-yield/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.0,
+   "tickers": [
+    "VYM"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 17 06:42 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Meet Warren Buffett Successor Greg Abel's Newest Investment: Bending Spoons. Should Investors Follow Suit and Buy the Stock?",
+   "link": "https://www.fool.com/investing/2026/10/17/warren-buffett-greg-abel-bending-spoons-buy/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.7,
+   "tickers": [
+    "BRK-B"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 17 06:42 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "This 401(k) Move Could Come At a Huge Cost After Age 63",
+   "link": "https://www.nasdaq.com/articles/401k-move-could-come-huge-cost-after-age-63",
+   "source": "Nasdaq Markets",
+   "impact": 2.1,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 17 06:42 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "5 midterm money takeaways: Democrats have candidate cash. Republicans have Elon Musk",
+   "link": "https://www.cnbc.com/2026/10/16/midterm-election-fundraising-elon-musk.html",
+   "source": "CNBC Top News",
+   "impact": 1.4,
+   "tickers": [
+    "TSLA"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 17 06:42 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Saudi diplomat says Iran encourages Houthi escalation of attacks on the kingdom",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNGpETlVZV2FSN1RFcWNqam9vZUhLV0hsMGRwT05DUDl1OXA0aUtIdUFnX0ZjdXE0OEpHLTF1ZV9VSHdmdW8wRlk3UmhIVERHbkpUQjRtVF8tWTl0Nm13SlE4YnlNOWtDbndsZkh0VThIVWpxcmNzeC1HRHRMS1RQaHdLbURxaXBkRmkzaXA3UnEzR0JoaWJJREJCSnFiSWplX0FpbHhR?oc=5",
+   "source": "AP News",
+   "impact": 0.0,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 17 06:42 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Dutch Bros Stock Slides 36% YTD: Should Investors Buy, Sell or Hold?",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVk1WTkpzNURDR0o1aGNRdjJaVTdLT0U1QlFFZ1luRTgzYXdacE9UQTdnTy1YZTVTLTNfVlFYYW5BQS0ybXhnaXhZNmVfcVVILUlGUHNpUWpoN0hBVlZiZktYOWhVQ2lfejNsZlU1VUZ2Z0xXOGUzYmZ0TUNYNF9lUUctNTV5dlZ0dkFhcU8wbk01cG15TnBid0toQ3pVMW1RNFV3TzhJM19DYnFqd1JtcUdFOV8zVy03ZGlZUg?oc=5",
+   "source": "TradingView",
+   "impact": 0.8,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 17 06:42 AM ET",
+   "consumer": false
+  },
+  {
    "title": "Missing the S&P 500's 10 Best Days in 20 Years Cut a $10,000 Investment's Ending Value by More Than Half",
    "link": "https://www.nasdaq.com/articles/missing-sp-500s-10-best-days-20-years-cut-10000-investments-ending-value-more-half",
    "source": "Nasdaq Markets",
@@ -491,110 +600,6 @@
    "tickers": [],
    "sentiment_label": "bullish",
    "seen_et": "Oct 17 05:43 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "IMF members call for more support amid war shocks, 'advanced intelligence' risks",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbXNKelJOV3BhOFlRUmVnYWwyV0FXSkNpa0VNS2g0ek01V1BhaUNxX3FBclJXUUNKRENoU2d5cHNNazZIMWZ2TXB4aVZIcHNXaWNFbDkxYXpvdlhwakgxekdDd0ZWRDlJMW9zeE9FU3kwcWRPMjJFVmVfNnJ3OGNxV3JaSU5xTHVVQnRTaEdfUGpzVVY0a216eGlrZFBsYmxSQThnSlM5alJvd3hKMU1vY2N0dDFUNGdoTTdBd25kUllEMG45RFhZ?oc=5",
-   "source": "Reuters",
-   "impact": 3.0,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 17 05:43 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Meta denies accusation of anti-Lula political bias in Brazil after electoral court ruling",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQX2RjMjRqN1VWOFNNQjh6MlY2anRqZ2gyZjBxOVNOd1FMOXd0aUxiUTA0OWwyYXRNX1JrYjBoVXRWN2RlTnU3TV83NDFvNGNuN0QtMXpndTkzN1REUlpDYVgyQzJ3TG4zdWplU3FicTV4QXpta0N3UGRoVS11MFJSVTk4MEhKY084aWpyVDhFZlA4UFF6SkFIeXJ3NE9kS0pjdy1xMUpiOEF0T3ct?oc=5",
-   "source": "AP News",
-   "impact": 2.5,
-   "tickers": [
-    "META"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 17 05:43 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "GME Stock Heads For Third Week Of Gains: Retail Says GameStop Is 'Primed And Ready' As Jim Cramer Turns Bullish",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNaFZNZ3NjNWpTb0dSUURDd0hnQzllcnhURUpESFJfS3RjWkxKX09ieFU1cmhGNjNmSnBQUmQ0TlhQVUFYLVA5Z3M2M1Bscm4yS2VhekpNbFdVc1gyNE9pVW5NZnpQRXhtbEpKTkNlSUJYSkNkNjVRY3U5cTJhckJNVHd1YVVjRGZqY1RtYVBuZTl0dV9fZTQyQTFJVlJtYUo3X2ZPdm9Da3l5ZFFRNkpiSWFvVm4wNkxJbzlUeUMtV1F5bnp2b3N2NGZrN09iRlhjNG9McXd0aDZjNTRZQ3J6cXlJTkRiMW12RDdLUFJXUEZwVWMzdDZLN1BqVVdia1NIbzZB?oc=5",
-   "source": "Stocktwits",
-   "impact": 1.7,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 17 05:43 AM ET",
-   "consumer": true
-  },
-  {
-   "title": "India's frequent FX rule changes raise concerns over policy predictability, Allianz exec says",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ3pRSUNyRFBDYVN0b0tJSVppZm1Pb1lFSi1Xc3pmWWhOeTJTZnM0RWVVUk1MamRGbFQ0VjVCbG9ralRXRE9kc0ZlQkY2U1REX3NpNWFmYjlNbWlGME9DS3hqNC03X0NBV3B1Z2Q0M3BBbm83MW9Kd1BUYVh0NDhqbTlaTjJMWTBOV2IyVFhnclo5eG9DWWtPSUFITnAxUnRjdkZwbHNsY200dUg5alR3dEUxSUg2UHpzWWM2Zy1B?oc=5",
-   "source": "Reuters",
-   "impact": 0.5,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 17 05:43 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "EXCLUSIVE: PetroChina set for record trading profit as war upends market, sources say",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQW5fbkZTYm9qdzQzT19nUjIyTVZDN1hhOEhkRmI5Rm9PQ3RKUk10Z00wUWZ3a0JFZlVyQV9NQlFSVF9jZU5MTXBPQXBwbFE4UlJEa3lGTVpELVktUWJVRHB5MHRFMWNHVEJHMWc3LXFaYXd3LVNtbW9ycDJydGN2Q3pOWWk1bTRsaWV5c0RvLTZDM3JhdUVSWHc5U01CLU9GTHlObjNqRXNibU5MbUxndFFBWV9jR0tyU0E?oc=5",
-   "source": "Reuters",
-   "impact": 2.9,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 17 05:43 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "More roller coasters shut down as authorities investigate fatal fall at Georgia amusement park",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUTRtZU92Wl9VQVV1elM1UUxySmd4SF9UNGVjV29MSk5tdVFFQWd6eDRKOUJPZGxCaUlpVE5oazh3V18tZjR6aURqRWVrWC1ITGU5ekw4UnFhVDhISm1YQTNTam5lM2JJMnVMOE5aa0djRkN3c1dXN2w5R0ZuazI4SnZzMFFWUDA?oc=5",
-   "source": "AP News",
-   "impact": 0.7,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 17 05:43 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Retirement Reality Check, Southwest Shakeup and More of Today’s Top Money News",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY3Rkekp5X3ZZajR5T3EyODhIeDJnU2JFZVFMZHY2VkdxcGJTaVU4TUFhdEJjdUVtM0ROaU1pV2pnWXVrZHp2cDhCa21TeHpUMlNzUFVBT0k0R3dRZnRCWmxnTUNRREJTT0JvUFI2S0oydlNBNjNLUzRnRXdaZ3h3UGFmQ0dnWVkzREN3Ynl0VnU5V0djTndBM3RaN0k1QWtDZ0E?oc=5",
-   "source": "Yahoo Finance",
-   "impact": 0.3,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 17 05:43 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "History Says Tesla Stock Swings Hard on Earnings. It Has Moved 8% or More After 10 of Its Last 15 Reports.",
-   "link": "https://www.fool.com/investing/2026/10/17/history-says-tesla-stock-swings-hard-on-earnings-it-has-moved-8-or-more-after-10-of-its-last-15-reports/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.3,
-   "tickers": [
-    "TSLA"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 17 05:07 AM ET",
-   "consumer": true
-  },
-  {
-   "title": "Cathie Wood-Led Ark Invest's Biggest Q3 Winners and Losers — PLTR, NVDA, TXG Led While TSLA, RKLB Dragged",
-   "link": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-ark-invest-biggest-q3-winners-losers-pltr-nvda-txg-tsla-rklb/cZxkcykRBtO?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 1.7,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 17 05:07 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Houthi strikes on Saudi Arabia show the Yemeni rebels’ growing strength",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVE5nRDF3WG9JZEEtTWpyWVUyaVR6MlVfbTRxNVZpNGJFdmdXVHlXZzh6WXBZazVCcDdfSTNjaFpkMmhlZjhObHJRVUk5RkYxdFhicXhmblhpWkVBc2ZfX1FRSWthVnBDUUxPenVjSUxsTWJMS3pNX3RWS3BZZmJ0LUxnTllfaTVZYnpRVmt0SWI3YXZyUHZWQ2dMcDZ4V1VrYXlpbWZPMjM?oc=5",
-   "source": "AP News",
-   "impact": 2.1,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 17 05:07 AM ET",
    "consumer": false
   }
  ],
@@ -1848,9 +1853,9 @@
   ]
  },
  "sentiment_validation": {
-  "logged": 2643,
+  "logged": 2645,
   "min_sample": 100,
-  "generated_et": "Oct 17 06:08 AM ET",
+  "generated_et": "Oct 17 06:43 AM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
@@ -1949,98 +1954,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 17 06:08 AM ET",
-   "newest_et": "Oct 17 01:46 AM ET",
-   "newest": "2026-10-17T05:46:20+00:00"
+   "fetched_et": "Oct 17 06:42 AM ET",
+   "newest_et": "Oct 17 06:28 AM ET",
+   "newest": "2026-10-17T10:28:10+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 17 06:08 AM ET",
+   "fetched_et": "Oct 17 06:42 AM ET",
    "newest_et": "Oct 16 06:34 PM ET",
    "newest": "2026-10-16T22:34:29+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 17 06:08 AM ET",
+   "fetched_et": "Oct 17 06:42 AM ET",
    "newest_et": "Oct 16 03:40 PM ET",
    "newest": "2026-10-16T19:40:00+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 17 06:08 AM ET",
+   "fetched_et": "Oct 17 06:42 AM ET",
    "newest_et": "Oct 16 05:59 PM ET",
    "newest": "2026-10-16T21:59:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 17 06:08 AM ET",
+   "fetched_et": "Oct 17 06:42 AM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
-   "count": 20,
-   "fetched_et": "Oct 17 06:08 AM ET",
-   "newest_et": "Oct 17 05:29 AM ET",
-   "newest": "2026-10-17T09:29:00+00:00"
+   "count": 19,
+   "fetched_et": "Oct 17 06:42 AM ET",
+   "newest_et": "Oct 17 06:30 AM ET",
+   "newest": "2026-10-17T10:30:00+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 49,
-   "fetched_et": "Oct 17 06:08 AM ET",
+   "fetched_et": "Oct 17 06:42 AM ET",
    "newest_et": "Oct 17 02:18 AM ET",
    "newest": "2026-10-17T06:18:16+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 17 06:08 AM ET",
+   "fetched_et": "Oct 17 06:42 AM ET",
    "newest_et": "Oct 17 02:19 AM ET",
    "newest": "2026-10-17T06:19:00+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 17 06:08 AM ET",
+   "fetched_et": "Oct 17 06:42 AM ET",
    "newest_et": "Oct 17 03:19 AM ET",
    "newest": "2026-10-17T07:19:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 49,
-   "fetched_et": "Oct 17 06:08 AM ET",
+   "count": 50,
+   "fetched_et": "Oct 17 06:42 AM ET",
    "newest_et": "Oct 17 05:34 AM ET",
    "newest": "2026-10-17T09:34:31+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
-   "count": 59,
-   "fetched_et": "Oct 17 06:08 AM ET",
+   "count": 58,
+   "fetched_et": "Oct 17 06:42 AM ET",
    "newest_et": "Oct 17 03:31 AM ET",
    "newest": "2026-10-17T07:31:37+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 17 06:08 AM ET",
+   "fetched_et": "Oct 17 06:42 AM ET",
    "newest_et": "Oct 16 11:00 AM ET",
    "newest": "2026-10-16T15:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 17 06:08 AM ET",
-   "newest_et": "Oct 17 05:43 AM ET",
-   "newest": "2026-10-17T09:43:02+00:00"
+   "fetched_et": "Oct 17 06:42 AM ET",
+   "newest_et": "Oct 17 06:05 AM ET",
+   "newest": "2026-10-17T10:05:00+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Oct 17 06:08 AM ET"
+   "fetched_et": "Oct 17 06:42 AM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
