@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 17 04:55 PM ET",
- "generated_at": "2026-10-17T16:55:22.044493-04:00",
+ "generated_et": "Oct 17 05:21 PM ET",
+ "generated_at": "2026-10-17T17:21:24.141912-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-17",
@@ -84,16 +84,16 @@
   {
    "symbol": "CL=F",
    "label": "WTI Crude",
-   "price": 99.02,
-   "pct": 1.07,
+   "price": 99.04,
+   "pct": 1.09,
    "asof_et": "Oct 16 04:55 PM ET",
    "freshness": "closed"
   },
   {
    "symbol": "GC=F",
    "label": "Gold",
-   "price": 4181.1,
-   "pct": 0.26,
+   "price": 4186.7,
+   "pct": 0.4,
    "asof_et": "Oct 16 04:55 PM ET",
    "freshness": "closed"
   },
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 81547.42,
-   "pct": 0.06,
-   "asof_et": "Oct 17 04:50 PM ET",
+   "price": 81515.36,
+   "pct": 0.02,
+   "asof_et": "Oct 17 05:20 PM ET",
    "freshness": "delayed"
   },
   {
@@ -381,6 +381,32 @@
  ],
  "breaking": [
   {
+   "title": "Gold set for a weekly drop as traders assess Fed signals",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUFdTSHVlWTdpZG0xRlc1U3Rka1I3Q3FLdVhKUVJjRWdlb040SXdMZktTT3k1WEgxSnB0QzdaQ2FSY05KTVVOSFg4aVpSRm01Z1hfdGNxY0JnYzJqeXBCcm1SU1FaVzlPUWljNFBxWDlYZmJxYU5ycmxyb1FNUEpTcVpoc3AwS25VUUgxMkFIOXZpQU5TZlVOTEVmVQ?oc=5",
+   "source": "Reuters",
+   "impact": 4.1,
+   "tickers": [
+    "GC=F",
+    "SPY",
+    "^TNX"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 17 05:21 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "UK competition regulator targets Microsoft's business software grip",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbmFGbmFMbzg4cDVFbFJUN1E3bUlGb0VBaGxBMVFMRG11eE13dlM0Y2lhZmJiSjg4NGg3cHY2REV4MnM5ZkZKNWJjQmJ2RnZhSzk3MEhXbVhRSDRNWWlabU1IV3Z2OXJNYjZ2dWd0emNIbi02ejBiR25iWEs5UkJmcTh5WnlaNEMwaU9GWGdWN2Vrcm1aMmMtVUJ4NTJ6RE80MG1DazZJQ0RtbzdWT2htQVhKbHFydlhxQm1Z?oc=5",
+   "source": "Reuters",
+   "impact": 1.9,
+   "tickers": [
+    "MSFT"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 17 05:21 PM ET",
+   "consumer": false
+  },
+  {
    "title": "4 Turnaround Stocks to Buy Before 2026 Is Over and Hold for a Decade",
    "link": "https://www.fool.com/investing/2026/10/17/4-turnaround-stocks-to-buy-before-2026-is-over/?.tsrc=rss",
    "source": "Yahoo Finance",
@@ -567,32 +593,6 @@
    "sentiment_label": "neutral",
    "seen_et": "Oct 17 03:51 PM ET",
    "consumer": true
-  },
-  {
-   "title": "Microsoft (MSFT) Is Facing Fresh Regulatory Pressure",
-   "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-facing-fresh-regulatory-191124990.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 5.1,
-   "tickers": [
-    "AAPL",
-    "MSFT",
-    "PLTR"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 17 03:24 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "UnitedHealth: 3 Key Takeaways for Long-Term Investors",
-   "link": "https://www.nasdaq.com/articles/unitedhealth-3-key-takeaways-long-term-investors",
-   "source": "Nasdaq Markets",
-   "impact": 2.1,
-   "tickers": [
-    "UNH"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 17 03:24 PM ET",
-   "consumer": false
   }
  ],
  "high_impact": [],
@@ -1845,9 +1845,9 @@
   ]
  },
  "sentiment_validation": {
-  "logged": 2727,
+  "logged": 2728,
   "min_sample": 100,
-  "generated_et": "Oct 17 04:56 PM ET",
+  "generated_et": "Oct 17 05:21 PM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
@@ -1946,98 +1946,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 17 04:55 PM ET",
+   "fetched_et": "Oct 17 05:21 PM ET",
    "newest_et": "Oct 17 03:54 PM ET",
    "newest": "2026-10-17T19:54:13+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 17 04:55 PM ET",
+   "fetched_et": "Oct 17 05:21 PM ET",
    "newest_et": "Oct 16 06:34 PM ET",
    "newest": "2026-10-16T22:34:29+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 17 04:55 PM ET",
+   "fetched_et": "Oct 17 05:21 PM ET",
    "newest_et": "Oct 16 03:40 PM ET",
    "newest": "2026-10-16T19:40:00+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 17 04:55 PM ET",
-   "newest_et": "Oct 17 04:33 PM ET",
-   "newest": "2026-10-17T20:33:00+00:00"
+   "fetched_et": "Oct 17 05:21 PM ET",
+   "newest_et": "Oct 17 04:43 PM ET",
+   "newest": "2026-10-17T20:43:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 17 04:55 PM ET",
+   "fetched_et": "Oct 17 05:21 PM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 19,
-   "fetched_et": "Oct 17 04:55 PM ET",
+   "fetched_et": "Oct 17 05:21 PM ET",
    "newest_et": "Oct 17 04:43 PM ET",
    "newest": "2026-10-17T20:43:00+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 49,
-   "fetched_et": "Oct 17 04:55 PM ET",
+   "fetched_et": "Oct 17 05:21 PM ET",
    "newest_et": "Oct 17 10:12 AM ET",
    "newest": "2026-10-17T14:12:02+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 17 04:55 PM ET",
+   "fetched_et": "Oct 17 05:21 PM ET",
    "newest_et": "Oct 17 02:19 AM ET",
    "newest": "2026-10-17T06:19:00+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 17 04:55 PM ET",
-   "newest_et": "Oct 17 03:47 PM ET",
-   "newest": "2026-10-17T19:47:48+00:00"
+   "fetched_et": "Oct 17 05:21 PM ET",
+   "newest_et": "Oct 17 03:44 PM ET",
+   "newest": "2026-10-17T19:44:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 44,
-   "fetched_et": "Oct 17 04:55 PM ET",
+   "count": 42,
+   "fetched_et": "Oct 17 05:21 PM ET",
    "newest_et": "Oct 17 02:31 PM ET",
    "newest": "2026-10-17T18:31:34+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
-   "count": 60,
-   "fetched_et": "Oct 17 04:55 PM ET",
+   "count": 59,
+   "fetched_et": "Oct 17 05:21 PM ET",
    "newest_et": "Oct 17 02:25 PM ET",
    "newest": "2026-10-17T18:25:29+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 17 04:55 PM ET",
+   "fetched_et": "Oct 17 05:21 PM ET",
    "newest_et": "Oct 16 11:00 AM ET",
    "newest": "2026-10-16T15:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 17 04:55 PM ET",
-   "newest_et": "Oct 17 04:30 PM ET",
-   "newest": "2026-10-17T20:30:37+00:00"
+   "fetched_et": "Oct 17 05:21 PM ET",
+   "newest_et": "Oct 17 04:43 PM ET",
+   "newest": "2026-10-17T20:43:00+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Oct 17 04:55 PM ET"
+   "fetched_et": "Oct 17 05:21 PM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
