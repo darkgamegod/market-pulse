@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 17 10:24 AM ET",
- "generated_at": "2026-10-17T10:24:32.835353-04:00",
+ "generated_et": "Oct 17 10:54 AM ET",
+ "generated_at": "2026-10-17T10:54:10.040769-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-17",
@@ -84,16 +84,16 @@
   {
    "symbol": "CL=F",
    "label": "WTI Crude",
-   "price": 99.02,
-   "pct": 1.07,
+   "price": 99.04,
+   "pct": 1.09,
    "asof_et": "Oct 16 04:55 PM ET",
    "freshness": "closed"
   },
   {
    "symbol": "GC=F",
    "label": "Gold",
-   "price": 4181.1,
-   "pct": 0.26,
+   "price": 4186.7,
+   "pct": 0.4,
    "asof_et": "Oct 16 04:55 PM ET",
    "freshness": "closed"
   },
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 81414.99,
-   "pct": -0.11,
-   "asof_et": "Oct 17 10:20 AM ET",
+   "price": 81462.03,
+   "pct": -0.05,
+   "asof_et": "Oct 17 10:50 AM ET",
    "freshness": "delayed"
   },
   {
@@ -381,6 +381,183 @@
  ],
  "breaking": [
   {
+   "title": "UBS resets Microsoft stock price target for investors",
+   "link": "https://www.thestreet.com/investing/stocks/ubs-raises-microsoft-msft-stock-price-target-for-investors?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.4,
+   "tickers": [
+    "MSFT",
+    "TGT"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 17 10:54 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Here's How Microsoft's $175 Billion in Capital Expenditures Is Hurting Its Business",
+   "link": "https://www.fool.com/investing/2026/10/17/heres-how-microsofts-175-billion-in-capital-expend/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.7,
+   "tickers": [
+    "MSFT"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 17 10:54 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Ring founder Jamie Siminoff: 'I still have my email on every box' — here's why",
+   "link": "https://finance.yahoo.com/markets/article/ring-founder-jamie-siminoff-i-still-have-my-email-on-every-box--heres-why-143138725.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 1.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 17 10:54 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Treasury Yields Hit a 24-Year High This Month. Is Vanguard's High-Dividend ETF Still Worth Buying?",
+   "link": "https://www.fool.com/investing/2026/10/17/treasury-yields-hit-a-24-year-high-this-month-is-vanguard-s-high-dividend-etf-still-worth-buying/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 4.3,
+   "tickers": [
+    "^TNX"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 17 10:54 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "The Iran war has cost the average U.S. household the equivalent of almost $2,000, top economist says",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX3FaOUhvc3NETDNHNTJ1TS1STUVOT09LeGFtdFh0eG5IUG05blVqTHJnMjdVTk1tV3puRUYtcTZqLS1GQzBIX3psdnZSOG9aOVIxMGpNdGZsbnRYbVMxdjdEcFhxaWpMM0VweVlUSWJCRGx2TXZhd3JBcGZ0RjZuQ2NLNDhCUGZHWHBRVU9RTFg5Sm01Zzd3TzVxSjJCTTdEcE1xeXBaVUljY2RleHBv?oc=5",
+   "source": "Fortune",
+   "impact": 3.6,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 17 10:54 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Intuitive Surgical (ISRG) Stock Is Down 25% Year to Date. History Says Patient Investors Get Rewarded.",
+   "link": "https://www.fool.com/investing/2026/10/17/intuitive-surgical-isrg-stock-is-down-25-year-to/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.4,
+   "tickers": [
+    "ISRG"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 17 10:54 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Is Nebius a Buy? Its 22-Month Payback Offers a Clue",
+   "link": "https://www.nasdaq.com/articles/nebius-buy-its-22-month-payback-offers-clue",
+   "source": "Nasdaq Markets",
+   "impact": 2.7,
+   "tickers": [
+    "NBIS",
+    "QQQ"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 17 10:54 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "MP Materials vs. USA Rare Earth: Which Rare Earth Stock Is the Better Buy?",
+   "link": "https://www.nasdaq.com/articles/mp-materials-vs-usa-rare-earth-which-rare-earth-stock-better-buy",
+   "source": "Nasdaq Markets",
+   "impact": 1.6,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 17 10:54 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Advance Auto Parts vs. Uber Technologies: Fix the Car or Ride in It? Which Stock Is a Better Buy in 2026?",
+   "link": "https://www.nasdaq.com/articles/advance-auto-parts-vs-uber-technologies-fix-car-or-ride-it-which-stock-better-buy-2026",
+   "source": "Nasdaq Markets",
+   "impact": 2.5,
+   "tickers": [
+    "UBER"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 17 10:54 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "ServiceNow Has a $30 Billion-Plus 2030 Target. Can It Get There?",
+   "link": "https://www.nasdaq.com/articles/servicenow-has-30-billion-plus-2030-target-can-it-get-there",
+   "source": "Nasdaq Markets",
+   "impact": 2.8,
+   "tickers": [
+    "NOW",
+    "TGT"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 17 10:54 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "A bitter Michigan Senate race rattles Jewish and Muslim voters already on edge over the war in Gaza",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdDc3TmplVHhQU05mQkZtU2d0QnhQWjhWMWcyNDY2Q0U3T2dlY3Z1cnR1eTA0Z0VhRVp2MDBkUVJfcW1Db1YzUTdpanBRVnFaYU96ZFVwMzJMQ1daYXRVbUVsYzJQblFwYUk2UVlXVzI0NmowcmdUQkhYby03RWhzaWlXV2JsUzZaVzM3OEY2aTFubWNLdzI5ckM3bWV2bzVFWXR2VUJB?oc=5",
+   "source": "AP News",
+   "impact": 3.7,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 17 10:54 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "General American Investors Financial Chief Purchases $71,040 Preferred Stock. Is This Closed-End Fund a Bargain?",
+   "link": "https://www.nasdaq.com/articles/general-american-investors-financial-chief-purchases-71040-preferred-stock-closed-end-fund",
+   "source": "Nasdaq Markets",
+   "impact": 2.4,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 17 10:54 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "A fire guts a Bangladeshi beach resort, killing 10 people",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQa0dxMExCdGM0MnlDcldab3pQYWswVHZaTExDMEo2cXY2cVNnQWMwYXB1UHM5R2RpbEVwZGk2dlN4cDN4V2RRUER1MzZ5dmF3UDJwaGI2WHdRSnZhQndxUm4tOXNrX0dqcmJZY29qa3EzcWZIZVgtNFE5RUhkYmZhQ2NtaWFyVU1oZEtZd1p5al9wdw?oc=5",
+   "source": "AP News",
+   "impact": 2.4,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 17 10:54 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "IBRX Stock At 3-Month High: Retail Bulls Eye July Catalysts Around Anktiva Saudi Expansion, Q2 Sales",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVXluaWo1TlVUVDFyY0huYjU5cEtnT2U3UEExNHZuaS1hT1FMamFBbUxmWFdpak5GOGN2NUxvakM1T3N2YUpfZmF5ZlJ6aTc5czRZNkhoYTQ5ZlVEdklkU0dnUG52Ujk5YmFfeWt3R0FscVdKRHR5UGVFeXdONTZWY1hFNWl4WUJ6RTlsQ3d5ZlhrZlNFaDNqSnR3SjlKRXNCZkRHNnVOOHE1eF80RmtYQms3WVVJeUVad1dv?oc=5",
+   "source": "Stocktwits",
+   "impact": 0.7,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 17 10:54 AM ET",
+   "consumer": true
+  },
+  {
+   "title": "Birmingham USPS gives inside look during peak holiday shipping season",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZW9oRXZfc3RoZ2pjajBQemxrXzBDNjFoMS1iaDJ2UXVNc01uN1lVRDIzR2V5YmhwQkQ4UVN0QURKUlB5MERQSHNUNG11dTUtMFJMbE1IWk5tQk9MSUtCUnhib1lXVWtkZ0tIYi1oV1M2VGdiOE5fMGNsOVViT0Nmb3B2VmIzLTQzLTg4cTMyMm1NZGZLZnUtMDYwTE44SDM5dXVXc2JvR0x0VHk4ZlhESUlR?oc=5",
+   "source": "alabamas42.com",
+   "impact": 2.5,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 17 10:54 AM ET",
+   "consumer": true
+  },
+  {
+   "title": "Novartis hikes sales and profit guidance for the year",
+   "link": "https://www.marketwatch.com/story/novartis-hikes-sales-and-profit-guidance-for-the-year-eed24ebf?mod=mw_rss_marketpulse",
+   "source": "MarketWatch Pulse",
+   "impact": 1.7,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 17 10:54 AM ET",
+   "consumer": false
+  },
+  {
    "title": "Low-cost clinic helps pet owners with vet bills",
    "link": "https://www.bbc.co.uk/news/articles/c6kgl39rnnvzo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
@@ -423,175 +600,6 @@
    "sentiment_label": "neutral",
    "seen_et": "Oct 17 10:25 AM ET",
    "consumer": false
-  },
-  {
-   "title": "Online forum controlled by Nevada GOP House candidate contains slurs and Nazi talk, AP review finds",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORVhUaXp1NVpDUWgwd2ZJb3JQSWVxNGZsTGJxNU8xQ09xZkQ4bVBWM05SbVZUUTFFWUVocXJNUDgwNDRBTm9zMnF5cUc4MnNnSmtPTkY5SDExN1gzR0s5RVlJcy1FRWIzMVRZejJTRzNYVGpIUm11SllXYlBxVVAwQU9YQ29MWVpXR2Q2aW1CVm9TMG1WSHI2SmNadGdwc2V6blNFWUI1cmpkQlVOVkJLQjkxcm1oaTQ?oc=5",
-   "source": "AP News",
-   "impact": 1.5,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 17 10:25 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Korea stock slump traps household funds, curbs spending and demand - CHOSUNBIZ",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQa2FQX0RlbkN1T0JEWTBWU29Qc2hnVloxTDQ5cGNXRnBleG1IcFFHYWZVMjRJRlNmZXJ2czF0dmJsNWpTajNLTmh4RDlFbXNwRmt5a0psNmRjSm1obmVfNXctd2Z3UC0xenItcGE0Nmt0UDUycFhIRF8xaEVCRnJIY9IBlAFBVV95cUxOQUJBVUdwd0k1RFZPT010VXRQemhCWXFXaEpubl9nM3g0NG4wV18xY0FjWW1VUUYtYVJkeTY2QUkyUEhqR0pTX1hpTkZETm1HMXROUm9JNlMyV2JuUHA3em9OZGdUYnBhNEJFcWtYWVZzWW5NUVJVTHJ4OGlja1BMbDVILUczTjloQmhFWkpWX0RtV0ZG?oc=5",
-   "source": "Chosunbiz",
-   "impact": 1.8,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 17 10:25 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "NIO Stock Slides Premarket: Europe Expansion Stalls As Inventory Dries Up And Sales Collapse",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZmEzRFpTODdTcDlKQzNxcFNOUUZhT2N0QXVLZmxLbmJPaHJNeWMwNU1tdTJpTmt1eVBzdmpZaTRLS1dKUFc3dHNiZERmRERFaTYwZ2dicmg4LWF6cTAzSWhhOEw5dC1kRF8tZmc2TDRwQzVKVDdscEkwcWQzUVEyUkpTblJJZGMxX2JuWHcwQ0oxYTlwd2pvR0VyMFdIR3BjVXhiVlNHSDFKdGR3SVE?oc=5",
-   "source": "Stocktwits",
-   "impact": 1.7,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 17 10:25 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "MSCI, its classifications and what they mean",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTldOMkFBUHRNVG9Fc25yWjRhU3NwZjdZWGtTNVMwdXo5azk2S3EyT1VONW9nS1I0M3JNTmVKblIwOHhIbXVpSVFybUVNOXBPMlJnaGt2YWs1b3A1T082cjlFZVk5TGJMYnZQX0RsMy1ubWZpdVd1UnBXUEV4TzZKMUtIR3NsaERlaHNFWjZmeVdwOHIwbllNSm9B?oc=5",
-   "source": "Reuters",
-   "impact": 0.2,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 17 10:25 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "22nd Century Group stock jumps 64% after hours on 161% sales growth",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObVZwX1RrOHV6QWJEVHUxWkt3MTFHaGhSZm9LV2t3bGRYdnpsNHpMTmVFTnczTFhuRUlDeTl2ZGFDdUhDelVyTXNscDR6OFQtdjZjLWhmU1BNRm41X0w5OU16VUgwUTVFR2h0VXNsTHQtRENsU2lsVTRHNmVTbjlaVVc0MWI2V1Zwak9wSEtpXzVNNklFSzROdjJpSWhaZDNrZE5XeE1CNmRmRnJ5NWlGVA?oc=5",
-   "source": "scanx.trade",
-   "impact": 1.0,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 17 10:25 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Morning Bid: CoreWeave at the heart of wipeout as AI rout deepens",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rbk90WGc1UEtvTDRhdVRZbWRHaExMOENRdE1ScVZ2MkRodXRSQUdpNjAyVERVelNGVzZZd1djLVk0c2tZMng1Ti1Qeks3UTV6R2tNWERzNlp1cnBLUDR0UUlmZndCY0FaZXRiYmFKbG8zYWRPa3I2WXUwQXJOVTg?oc=5",
-   "source": "Reuters",
-   "impact": 1.0,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 17 10:25 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Investors are buying up vast tracts of timberland across U.S. in one of market's longest-term bets",
-   "link": "https://www.cnbc.com/2026/10/17/timberland-investing-returns-risk.html",
-   "source": "CNBC Top News",
-   "impact": 1.8,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 17 09:57 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Which company has the world’s highest earnings? The answer may surprise you",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/company-world-highest-earnings-answer-134206242.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.6,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 17 09:57 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Apple's New Home Collection Gives Investors Another Reason to Remain Bullish",
-   "link": "https://www.fool.com/investing/2026/10/17/apple-new-home-collection-investors-reason-bull/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.4,
-   "tickers": [
-    "AAPL"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 17 09:57 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Trump's student loan overhaul could lead to more bankruptcy filings, former judge says",
-   "link": "https://www.cnbc.com/2026/10/17/trump-student-loans-bankruptcy.html",
-   "source": "CNBC Top News",
-   "impact": 4.1,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 17 09:57 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "USAF Doesn't Want Northrop Grumman's Stealth Drone",
-   "link": "https://www.fool.com/investing/2026/10/17/usaf-doesnt-want-northrop-grummans-stealth-drone/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.2,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 17 09:57 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Former Fed Chair Jerome Powell's 6-Word Warning Echoes Louder Than Ever -- and It Should Rightly Terrify Wall Street",
-   "link": "https://www.fool.com/investing/2026/10/17/fed-chair-jerome-powell-6-word-warning-echoes-loud-should-rightly-terrify-wall-street/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 7.6,
-   "tickers": [
-    "SPY",
-    "^TNX"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 17 09:57 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Should You Buy Ford Stock Under $15 in October? Here's Why Investors Should Pump the Brakes.",
-   "link": "https://www.fool.com/investing/2026/10/17/should-you-buy-ford-stock-under-15-in-october/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.3,
-   "tickers": [
-    "F"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 17 09:57 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Advance Auto Parts vs. Airbnb: Which Consumer Stock Is a Better Buy in 2026?",
-   "link": "https://www.nasdaq.com/articles/advance-auto-parts-vs-airbnb-which-consumer-stock-better-buy-2026",
-   "source": "Nasdaq Markets",
-   "impact": 2.5,
-   "tickers": [
-    "ABNB"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 17 09:57 AM ET",
-   "consumer": true
-  },
-  {
-   "title": "What High Diesel Prices Mean for These 5 Energy Stocks",
-   "link": "https://www.nasdaq.com/articles/what-high-diesel-prices-mean-these-5-energy-stocks",
-   "source": "Nasdaq Markets",
-   "impact": 2.3,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 17 09:57 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "3 Things All Social Security Beneficiaries Should Do Now That the 2027 COLA Has Been Announced",
-   "link": "https://www.nasdaq.com/articles/3-things-all-social-security-beneficiaries-should-do-now-2027-cola-has-been-announced",
-   "source": "Nasdaq Markets",
-   "impact": 2.2,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 17 09:57 AM ET",
-   "consumer": false
   }
  ],
  "high_impact": [
@@ -612,15 +620,6 @@
     "CL=F",
     "NVDA",
     "XLE",
-    "^TNX"
-   ]
-  },
-  {
-   "title": "Fed interest-rate decision this month is a closer call than markets think",
-   "link": "https://www.marketwatch.com/story/fed-interest-rate-decision-this-month-is-a-closer-call-than-markets-think-f96ccf95?mod=mw_rss_topstories",
-   "impact": 7.2,
-   "tickers": [
-    "SPY",
     "^TNX"
    ]
   }
@@ -1874,9 +1873,9 @@
   ]
  },
  "sentiment_validation": {
-  "logged": 2678,
+  "logged": 2685,
   "min_sample": 100,
-  "generated_et": "Oct 17 10:25 AM ET",
+  "generated_et": "Oct 17 10:54 AM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
@@ -1975,98 +1974,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 17 10:24 AM ET",
+   "fetched_et": "Oct 17 10:54 AM ET",
    "newest_et": "Oct 17 09:47 AM ET",
    "newest": "2026-10-17T13:47:59+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 17 10:24 AM ET",
+   "fetched_et": "Oct 17 10:54 AM ET",
    "newest_et": "Oct 16 06:34 PM ET",
    "newest": "2026-10-16T22:34:29+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 17 10:24 AM ET",
+   "fetched_et": "Oct 17 10:54 AM ET",
    "newest_et": "Oct 16 03:40 PM ET",
    "newest": "2026-10-16T19:40:00+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 17 10:24 AM ET",
+   "fetched_et": "Oct 17 10:54 AM ET",
    "newest_et": "Oct 17 09:00 AM ET",
    "newest": "2026-10-17T13:00:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 17 10:24 AM ET",
+   "fetched_et": "Oct 17 10:54 AM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 17 10:24 AM ET",
-   "newest_et": "Oct 17 10:05 AM ET",
-   "newest": "2026-10-17T14:05:00+00:00"
+   "fetched_et": "Oct 17 10:54 AM ET",
+   "newest_et": "Oct 17 10:37 AM ET",
+   "newest": "2026-10-17T14:37:00+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 49,
-   "fetched_et": "Oct 17 10:24 AM ET",
+   "fetched_et": "Oct 17 10:54 AM ET",
    "newest_et": "Oct 17 10:12 AM ET",
    "newest": "2026-10-17T14:12:02+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 17 10:24 AM ET",
+   "fetched_et": "Oct 17 10:54 AM ET",
    "newest_et": "Oct 17 02:19 AM ET",
    "newest": "2026-10-17T06:19:00+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 17 10:24 AM ET",
-   "newest_et": "Oct 17 08:56 AM ET",
-   "newest": "2026-10-17T12:56:00+00:00"
+   "fetched_et": "Oct 17 10:54 AM ET",
+   "newest_et": "Oct 17 09:31 AM ET",
+   "newest": "2026-10-17T13:31:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 48,
-   "fetched_et": "Oct 17 10:24 AM ET",
-   "newest_et": "Oct 17 08:11 AM ET",
-   "newest": "2026-10-17T12:11:15+00:00"
+   "count": 47,
+   "fetched_et": "Oct 17 10:54 AM ET",
+   "newest_et": "Oct 17 10:22 AM ET",
+   "newest": "2026-10-17T14:22:00+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 17 10:24 AM ET",
+   "fetched_et": "Oct 17 10:54 AM ET",
    "newest_et": "Oct 16 10:55 PM ET",
    "newest": "2026-10-17T02:55:13+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 17 10:24 AM ET",
+   "fetched_et": "Oct 17 10:54 AM ET",
    "newest_et": "Oct 16 11:00 AM ET",
    "newest": "2026-10-16T15:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 17 10:24 AM ET",
-   "newest_et": "Oct 17 10:02 AM ET",
-   "newest": "2026-10-17T14:02:08+00:00"
+   "fetched_et": "Oct 17 10:54 AM ET",
+   "newest_et": "Oct 17 10:36 AM ET",
+   "newest": "2026-10-17T14:36:00+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Oct 17 10:24 AM ET"
+   "fetched_et": "Oct 17 10:54 AM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
