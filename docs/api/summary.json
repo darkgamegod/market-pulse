@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 17 06:19 PM ET",
- "generated_at": "2026-10-17T18:19:38.950574-04:00",
+ "generated_et": "Oct 17 06:52 PM ET",
+ "generated_at": "2026-10-17T18:52:16.220354-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-17",
@@ -84,16 +84,16 @@
   {
    "symbol": "CL=F",
    "label": "WTI Crude",
-   "price": 99.04,
-   "pct": 1.09,
+   "price": 99.02,
+   "pct": 1.07,
    "asof_et": "Oct 16 04:55 PM ET",
    "freshness": "closed"
   },
   {
    "symbol": "GC=F",
    "label": "Gold",
-   "price": 4186.7,
-   "pct": 0.4,
+   "price": 4181.1,
+   "pct": 0.26,
    "asof_et": "Oct 16 04:55 PM ET",
    "freshness": "closed"
   },
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 81114.96,
-   "pct": -0.47,
-   "asof_et": "Oct 17 06:15 PM ET",
+   "price": 81313.11,
+   "pct": -0.23,
+   "asof_et": "Oct 17 06:50 PM ET",
    "freshness": "delayed"
   },
   {
@@ -381,6 +381,128 @@
  ],
  "breaking": [
   {
+   "title": "Mass protests in France spiral into worst riots in years",
+   "link": "https://www.cnbc.com/2026/10/17/french-protesters-take-to-streets-over-rising-prices-and-social-strain.html",
+   "source": "CNBC Top News",
+   "impact": 2.6,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 17 06:52 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Should You Buy NuScale at $6 After the Google Rally? Here's the Next Catalyst That Could Send It Higher.",
+   "link": "https://www.fool.com/investing/2026/10/17/should-you-buy-nuscale-at-6-after-the-google-rally/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 6.4,
+   "tickers": [
+    "GOOGL"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 17 06:52 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Nvidia vs. AMD: Which AI Business Has More Room for Margins to Fall?",
+   "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-vs-amd-ai-business-221105605.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 4.5,
+   "tickers": [
+    "AMD",
+    "NVDA",
+    "QQQ"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 17 06:52 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Nvidia vs. AMD: Which Business Is More Exposed to a Data-Center Slowdown?",
+   "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-vs-amd-business-more-221027025.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.0,
+   "tickers": [
+    "AMD",
+    "NVDA",
+    "QQQ"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 17 06:52 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Texas goes from No. 1 to two-game skid and coach says ‘Everything needs to be evaluated’",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSy1EZXZsbE5PRzIzd2JjN1UzQnJqOGZtRUJCS2FadFlSV1h2M2xFMmZXWXk2ZVl2S0VPMkV3di1LSVlpdDBrLTBjSzBpaTk4M0d0TFZBY0RoVmtPZlhrTHZCdnFfeEpHYVhMRGNWLUx3a19yTzZOS0syUXB2MFhVS2dpWUM?oc=5",
+   "source": "AP News",
+   "impact": 1.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 17 06:52 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Search continues after boat capsizes off Baja California coast. 16 rescued, but others missing",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRkxiYlZMRXBYMXAxWUx5X1BUdGstSWpBQUdjN2RBVU1LU0dSRU9ZakE1Sk5TZHpwemVPNk02R1hock9mMGZnOTNFT1h4Wkp2ZXltRGdUSFlvSWhSLUlQZlA1T09qWjhjNlBOU2JkLUZySnZLaF9rUExLR2hrNmhXWllUWE9UR1VTaVM0cDFnUmIxOE43T2lWU1ln?oc=5",
+   "source": "AP News",
+   "impact": 1.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 17 06:52 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "No. 4 Ohio State holds off No. 5 Indiana for 19-15 victory but loses QB Julian Sayin to injury",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObEtQdWs4NGNHd1NWWk5ZOFExd3Z3bXB3MjUwV1RPbEdwbkduR1FHeUZTdTFIcDdZSDNvZHRHQ3RacjJiVk93WWpKVm0wM1pqM3RlVWY0d3E2ZFFJWm9naEwtVXJneEZZMEh2RGliTzJ0RGdUdGgtYmZqbG9vMXBWQmxPZmt3SEVRZkpaZA?oc=5",
+   "source": "AP News",
+   "impact": 2.5,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 17 06:52 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "‘How many canaries have we killed in the coal mine?’ — Wall Street debates if the latest AI bubble warnings are another head fake or the real thing",
+   "link": "https://finance.yahoo.com/technology/ai/articles/many-canaries-killed-coal-mine-194324541.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 4.7,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 17 06:52 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWnVFMW96eXJBdzlXeFpkSFl6dzlsUFpCcWtRaEZDaW12UXNmWHVfS1JDWk5QWUkyRzNMNGdDNzd2UXVqWjJlOUhPT2tYSDNCNHhESFoyWm9qR0FNZ1VNYXlXMnpHOXJQV29TanRCYjdWRTF1RXV3U0xIQ29GNDQ5Tmc4LUl5NmxnSnUzMVFnaDdUa1JaT3hzV0ctSVpTUjk3WWRaVV9BLUpFZw?oc=5",
+   "source": "TradingView",
+   "impact": 0.5,
+   "tickers": [
+    "SPY"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 17 06:52 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Rupee hedging turmoil exposes strain in India's FX market",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbEZncTRaQmtoSzVKNGpFTnB2TGNJRGlQa2Z4OWNDMms5cHMxWk1KSl9naU5WOFdieWlUb0tRbmRpVGhOc3p4dkZvWll3SUVVYW1mLWV4RWZhVXRZOWN0NHh3WHdNNFB4VnZYTDFhMmlxamw1WThGclgybG5qOVhFQm9nZVZTekwybDJrMnhwVkhRRVJxdjhEcjhubXdOck9DbmUxYzlPNHNjeXFy?oc=5",
+   "source": "Reuters",
+   "impact": 0.9,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 17 06:52 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration",
+   "link": "https://www.cnbc.com/2026/10/15/china-rare-earth-exports-europe.html",
+   "source": "CNBC Markets",
+   "impact": 0.6,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 17 06:52 PM ET",
+   "consumer": false
+  },
+  {
    "title": "CoreWeave Is Projected to Have a 6.3x Gross Leverage Ratio by Year End. The Market Is Worried About the Neocloud's Balance Sheet.",
    "link": "https://www.fool.com/investing/2026/10/17/coreweave-is-projected-to-have-a-63x-gross-leverag/?.tsrc=rss",
    "source": "Yahoo Finance",
@@ -470,126 +592,6 @@
    "tickers": [],
    "sentiment_label": "bullish",
    "seen_et": "Oct 17 05:53 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "USPS Holiday 2026: Schedule, Closures, Deadlines & Delivery",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pcHc0TUJ2THJNdmZfU1BScl90Qmx5TkZGbzJ0UjdVSDl5UEdoc2NTaU9DQ19yUndIQThpaDFHX1dkV3ZlVVR0d25ySTBUQ2pPVGVhMVBmVVJMSTdhR01DQ3dEY0dMQ1Bj?oc=5",
-   "source": "ClickPost",
-   "impact": 0.8,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 17 05:53 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "Gold set for a weekly drop as traders assess Fed signals",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUFdTSHVlWTdpZG0xRlc1U3Rka1I3Q3FLdVhKUVJjRWdlb040SXdMZktTT3k1WEgxSnB0QzdaQ2FSY05KTVVOSFg4aVpSRm01Z1hfdGNxY0JnYzJqeXBCcm1SU1FaVzlPUWljNFBxWDlYZmJxYU5ycmxyb1FNUEpTcVpoc3AwS25VUUgxMkFIOXZpQU5TZlVOTEVmVQ?oc=5",
-   "source": "Reuters",
-   "impact": 4.1,
-   "tickers": [
-    "GC=F",
-    "SPY",
-    "^TNX"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 17 05:21 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "UK competition regulator targets Microsoft's business software grip",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbmFGbmFMbzg4cDVFbFJUN1E3bUlGb0VBaGxBMVFMRG11eE13dlM0Y2lhZmJiSjg4NGg3cHY2REV4MnM5ZkZKNWJjQmJ2RnZhSzk3MEhXbVhRSDRNWWlabU1IV3Z2OXJNYjZ2dWd0emNIbi02ejBiR25iWEs5UkJmcTh5WnlaNEMwaU9GWGdWN2Vrcm1aMmMtVUJ4NTJ6RE80MG1DazZJQ0RtbzdWT2htQVhKbHFydlhxQm1Z?oc=5",
-   "source": "Reuters",
-   "impact": 1.9,
-   "tickers": [
-    "MSFT"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 17 05:21 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "4 Turnaround Stocks to Buy Before 2026 Is Over and Hold for a Decade",
-   "link": "https://www.fool.com/investing/2026/10/17/4-turnaround-stocks-to-buy-before-2026-is-over/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 1.9,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 17 04:56 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Regions Financial: 3 Key Takeaways for Long-Term Investors",
-   "link": "https://www.nasdaq.com/articles/regions-financial-3-key-takeaways-long-term-investors",
-   "source": "Nasdaq Markets",
-   "impact": 2.7,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 17 04:56 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "4 Charts That Explain the Copper Supply Crunch Investors Should Watch",
-   "link": "https://www.fool.com/investing/2026/10/17/4-charts-that-explain-the-copper-supply-crunch-inv/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 1.9,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 17 04:56 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "3 Reasons the Vanguard S&P 500 ETF Could Be Worth Holding for the Next 20 Years",
-   "link": "https://www.fool.com/investing/2026/10/17/3-reasons-vanguard-sp-500-etf-worth-holding-years/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.2,
-   "tickers": [
-    "SPY"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 17 04:56 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "NBIS Stock Tumbles 5% After Q4 Revenue Miss, But Retail Says Company Is ‘Going In Right Direction’",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZWp6Z2hZUkY3bHZPZ0JKSE1yNDJ3a3VXN0k1YkFuVTZPcVd3V0RNOXFCTnFzUjBKM2k2RDZvREFIejJjS3JCVVRqNG5MaUpHaTU3VTZoa09ET1ZoTUZ1Y1lobWJYUGxiOURrdTFpZ2IzSFYzRWNEQlpxSjdLQjJRSmNMNHd4c25JNHNYZHJlQ0E2RWo5VmxUQUN1NURiOTNJcHRlSTZDQV8xQko3UVROODRURW9DVVJHXzRJQzhiRV9FRXMwUlRVZVZlRC1Cc1YzWDVuRUVxTGVVUmJDbE1oMlVCcVp6cDdEX3ZyTg?oc=5",
-   "source": "Stocktwits",
-   "impact": 3.0,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 17 04:56 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "Apple's Market Value Grew From $350 Billion to $5 Trillion During Tim Cook's 15 Years as CEO. Here's What That Growth Curve Means for Apple's Next Chapter Under John Ternus.",
-   "link": "https://www.fool.com/investing/2026/10/17/apple-market-value-from-350-billion-to-5-trillion/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.7,
-   "tickers": [
-    "AAPL"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 17 04:21 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Trump touts his power at Kentucky rally to energize voters ahead of midterm elections",
-   "link": "https://www.cnbc.com/2026/10/17/trump-touts-his-power-at-kentucky-rally-ahead-of-midterms.html",
-   "source": "CNBC Top News",
-   "impact": 2.8,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 17 04:21 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Why Serve Robotics Stock Plunged This Week",
-   "link": "https://www.nasdaq.com/articles/why-serve-robotics-stock-plunged-week",
-   "source": "Nasdaq Markets",
-   "impact": 3.3,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 17 04:21 PM ET",
    "consumer": false
   }
  ],
@@ -1843,9 +1845,9 @@
   ]
  },
  "sentiment_validation": {
-  "logged": 2729,
+  "logged": 2736,
   "min_sample": 100,
-  "generated_et": "Oct 17 06:20 PM ET",
+  "generated_et": "Oct 17 06:52 PM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
@@ -1944,98 +1946,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 17 06:19 PM ET",
-   "newest_et": "Oct 17 05:54 PM ET",
-   "newest": "2026-10-17T21:54:47+00:00"
+   "fetched_et": "Oct 17 06:52 PM ET",
+   "newest_et": "Oct 17 06:27 PM ET",
+   "newest": "2026-10-17T22:27:51+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 17 06:19 PM ET",
+   "fetched_et": "Oct 17 06:52 PM ET",
    "newest_et": "Oct 16 06:34 PM ET",
    "newest": "2026-10-16T22:34:29+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 17 06:19 PM ET",
+   "fetched_et": "Oct 17 06:52 PM ET",
    "newest_et": "Oct 16 03:40 PM ET",
    "newest": "2026-10-16T19:40:00+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 17 06:19 PM ET",
+   "fetched_et": "Oct 17 06:52 PM ET",
    "newest_et": "Oct 17 04:53 PM ET",
    "newest": "2026-10-17T20:53:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 17 06:19 PM ET",
+   "fetched_et": "Oct 17 06:52 PM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
-   "count": 18,
-   "fetched_et": "Oct 17 06:19 PM ET",
-   "newest_et": "Oct 17 05:50 PM ET",
-   "newest": "2026-10-17T21:50:00+00:00"
+   "count": 19,
+   "fetched_et": "Oct 17 06:52 PM ET",
+   "newest_et": "Oct 17 06:25 PM ET",
+   "newest": "2026-10-17T22:25:00+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 49,
-   "fetched_et": "Oct 17 06:19 PM ET",
+   "fetched_et": "Oct 17 06:52 PM ET",
    "newest_et": "Oct 17 05:33 PM ET",
    "newest": "2026-10-17T21:33:17+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 17 06:19 PM ET",
-   "newest_et": "Oct 17 02:19 AM ET",
-   "newest": "2026-10-17T06:19:00+00:00"
+   "fetched_et": "Oct 17 06:52 PM ET",
+   "newest_et": "Oct 16 05:31 PM ET",
+   "newest": "2026-10-16T21:31:20+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 17 06:19 PM ET",
-   "newest_et": "Oct 17 05:42 PM ET",
-   "newest": "2026-10-17T21:42:00+00:00"
+   "fetched_et": "Oct 17 06:52 PM ET",
+   "newest_et": "Oct 17 05:55 PM ET",
+   "newest": "2026-10-17T21:55:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 42,
-   "fetched_et": "Oct 17 06:19 PM ET",
+   "count": 43,
+   "fetched_et": "Oct 17 06:52 PM ET",
    "newest_et": "Oct 17 02:31 PM ET",
    "newest": "2026-10-17T18:31:34+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
-   "count": 59,
-   "fetched_et": "Oct 17 06:19 PM ET",
-   "newest_et": "Oct 17 02:25 PM ET",
-   "newest": "2026-10-17T18:25:29+00:00"
+   "count": 60,
+   "fetched_et": "Oct 17 06:52 PM ET",
+   "newest_et": "Oct 17 03:14 PM ET",
+   "newest": "2026-10-17T19:14:44+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 17 06:19 PM ET",
+   "fetched_et": "Oct 17 06:52 PM ET",
    "newest_et": "Oct 16 11:00 AM ET",
    "newest": "2026-10-16T15:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 17 06:19 PM ET",
+   "fetched_et": "Oct 17 06:52 PM ET",
    "newest_et": "Oct 17 05:50 PM ET",
    "newest": "2026-10-17T21:50:00+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Oct 17 06:19 PM ET"
+   "fetched_et": "Oct 17 06:52 PM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
