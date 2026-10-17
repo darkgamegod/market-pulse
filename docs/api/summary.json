@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 17 03:29 AM ET",
- "generated_at": "2026-10-17T03:29:36.793969-04:00",
+ "generated_et": "Oct 17 03:59 AM ET",
+ "generated_at": "2026-10-17T03:59:35.186702-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-17",
@@ -12,15 +12,15 @@
   {
    "symbol": "ES=F",
    "label": "S&P 500 Fut",
-   "price": 7704.25,
-   "pct": -1.11,
+   "price": 7703.0,
+   "pct": -1.13,
    "asof_et": "Oct 16 04:55 PM ET",
    "freshness": "closed"
   },
   {
    "symbol": "NQ=F",
    "label": "Nasdaq 100 Fut",
-   "price": 29391.5,
+   "price": 29391.25,
    "pct": -2.5,
    "asof_et": "Oct 16 04:55 PM ET",
    "freshness": "closed"
@@ -28,16 +28,16 @@
   {
    "symbol": "YM=F",
    "label": "Dow Fut",
-   "price": 52214.0,
-   "pct": -0.41,
+   "price": 52200.0,
+   "pct": -0.44,
    "asof_et": "Oct 16 04:55 PM ET",
    "freshness": "closed"
   },
   {
    "symbol": "RTY=F",
    "label": "Russell 2000 Fut",
-   "price": 2735.5,
-   "pct": -1.66,
+   "price": 2737.0,
+   "pct": -1.61,
    "asof_et": "Oct 16 04:55 PM ET",
    "freshness": "closed"
   },
@@ -92,8 +92,8 @@
   {
    "symbol": "GC=F",
    "label": "Gold",
-   "price": 4186.7,
-   "pct": 0.4,
+   "price": 4181.1,
+   "pct": 0.26,
    "asof_et": "Oct 16 04:55 PM ET",
    "freshness": "closed"
   },
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 81539.35,
-   "pct": 0.05,
-   "asof_et": "Oct 17 03:25 AM ET",
+   "price": 81610.1,
+   "pct": 0.13,
+   "asof_et": "Oct 17 03:55 AM ET",
    "freshness": "delayed"
   },
   {
@@ -381,6 +381,61 @@
  ],
  "breaking": [
   {
+   "title": "Retail price impacts from the Iran war are uneven but add up for US households before midterms",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMmQ4cmJIN0pleFJUeXliVk1KOHFMSnQzNk9rdUtRU3UtZWd2OHNOQ3BETjZHT2pNZ0pSN1VlTXRJdDJNa2hrQUJGODMxdGNsQ0hzU2t2VFd0SDdfa2ptN2hic2dYUU41T3hZRHBWNHNiY2MwaWtlZW5qUk80RGU1ZmhLa1dkZUNlQ1hLMWZFWUF4Y1J2cW1yS1ZYN3I2RHYxRkRpSGJnVkhpM2JUTUs0bDNTUlBXdHpv?oc=5",
+   "source": "The Edwardsville Intelligencer",
+   "impact": 3.5,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 17 04:00 AM ET",
+   "consumer": true
+  },
+  {
+   "title": "5 Retail Stocks to Watch After Q2 FY27: Which Companies Delivered the Strongest Performance?",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdDZrTnBSaVRzNzAxS0Fnd0p1enFNZ1lkM0xsRnpOdW5sZENBeFJRdU5zZHl5VV9oN2hJbGJCWExDbzkyN2ZMSTdnN0NubVZ0SXRiTEI5eF9KRHBiV1hZQW8yTE45T254eDZkSzRweEEtbmIyQWNQWFVrWXFLdFdZaE5adWVsZXdXbVVNRWJfRlUwbHp4TV9Obm1VdV9ONm1qdUczbldGVFNvSzdpWE4zTnVkR2dldlZRMEJ5Y0NoVnFoVENuVFYyQ3dUVUp1bTRBMUFZ?oc=5",
+   "source": "Trade Brains",
+   "impact": 2.4,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 17 04:00 AM ET",
+   "consumer": true
+  },
+  {
+   "title": "What Akamai Technologies (AKAM)'s Cloud Customer Wins Mean For Shareholders",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/akamai-technologies-akam-cloud-customer-071642887.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 4.2,
+   "tickers": [
+    "AKAM",
+    "NVDA"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 17 04:00 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Should Clark Hub Expansion Require Action From UPS Stock Investors?",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOV1VlLVRoc0s1RGJDT21VYnJoUzBnazB1dElvSnY2TlFFN0FzV2tjN0VLeWFBVWFXNmRtNWU5WDQySklPSTBGWXlsbzJDZVgxQkRRZmJYV3lDaDV0VDVfTXg1dmE4d0M5akUtUFVSSmhMdU1ucDVhZWtDRDVpVGc5a2MyZFhKM3VZRlRj?oc=5",
+   "source": "Yahoo Finance Singapore",
+   "impact": 1.5,
+   "tickers": [
+    "UPS"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 17 04:00 AM ET",
+   "consumer": true
+  },
+  {
+   "title": "FCA publishes good and poor practice for CFD firms",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdzdDOXJ6Um4yYXVubFFkZ0Y5djJkMWtkcmExTUJtUXItb015LVVFT3V1d0NDN21ZY241SjVLQVlqMm9ZZkhMaVVoVUxXRE5nSXRqMzZHTVdxaE0zTjNnT19xdG5KWVRHVU5nRXIzNWc2ZFItcnZTdmJnN09yTkl0amR6V2lMeHVRZDVmN1ZvbkEwY001SmFCY25B?oc=5",
+   "source": "Global Regulation Tomorrow",
+   "impact": 0.1,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 17 04:00 AM ET",
+   "consumer": false
+  },
+  {
    "title": "BYD or Tesla: Which Is a Better Stock?",
    "link": "https://www.fool.com/investing/2026/10/17/byd-or-tesla-which-is-a-better-stock/?.tsrc=rss",
    "source": "Yahoo Finance",
@@ -546,61 +601,6 @@
    "sentiment_label": "bearish",
    "seen_et": "Oct 17 01:43 AM ET",
    "consumer": true
-  },
-  {
-   "title": "CoreWeave Stock Faces A Debt Funding Test",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/coreweave-stock-faces-debt-funding-051856331.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 5.6,
-   "tickers": [
-    "NVDA"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 17 01:43 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Could Shopify Stock Repeat Amazon's Run Since 2007?",
-   "link": "https://www.fool.com/investing/2026/10/17/could-shopify-stock-repeat-amazon-s-run-since-2007/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.7,
-   "tickers": [
-    "AMZN",
-    "SHOP"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 17 01:43 AM ET",
-   "consumer": true
-  },
-  {
-   "title": "What would superintelligence look and feel like?",
-   "link": "https://finance.yahoo.com/technology/ai/articles/superintelligence-look-feel-050934162.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 1.9,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 17 01:43 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "An American pope brings American-style governance to the Vatican, even in a health crisis",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVjVQc2taSy0tVTBpSmpDc21PaHVKeVlpblNrT2lVNloyTnFseURkVC05c1MxQnNmYVlLRF9tcG9mZkJabElCbmE0RlQ1NzItSDJSRjlZMEMxX3VxWWRueDYyTk1td05UV1dVcElnWU9ocTNMRGVlNWZTcG9GUjhJTEY1RlFLRVMxV3JuMTh3WkQyWTlnSHN6eHFn?oc=5",
-   "source": "AP News",
-   "impact": 2.4,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 17 01:43 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "How a driver, a dad and a teacher tried to stop the Oregon school shooter",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNm04WEhBY2d5Z3RvUnh6X0V1U2FBTzJfT2lZR21FLWtHWjZpSWNTR0R2QUJibHFidzhMcjVVZUFyd3RJX2h4NTNFTkNJM0pwb25iUERMSk1XVlo4cWlVY2pxd3QydUVZNTVVbE9LWlN3ZDBvUG9EeFZCdjExenZFcUZyWHpXUEdteUdEQVUtVi1wVlo2TFQ2R2xqanRTdC13T0gwWE53bjduaUVvRnRz?oc=5",
-   "source": "AP News",
-   "impact": 2.1,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 17 01:43 AM ET",
-   "consumer": false
   }
  ],
  "high_impact": [],
@@ -804,7 +804,7 @@
  "movers": {
   "mode": "last session (market not in pre-market)",
   "basis": "opening gap (open vs prior close) of the last session; RVOL = session volume / 20-day avg",
-  "fetched_et": "Oct 17 12:30 AM ET",
+  "fetched_et": "Oct 17 03:59 AM ET",
   "gappers": [
    {
     "symbol": "NFLX",
@@ -1141,17 +1141,33 @@
   ]
  },
  "economic_calendar": {
-  "source": "FairEconomy / ForexFactory weekly calendar (nfs.faireconomy.media)",
-  "fallback": false,
-  "fetched_et": "Oct 17 02:54 AM ET",
+  "source": "RULE-BASED FALLBACK (approximate; live calendar unavailable)",
+  "fallback": true,
+  "fetched_et": "Oct 17 04:00 AM ET",
   "events": [
    {
-    "when_et": "Oct 16 04:00 PM ET",
-    "date": "2026-10-16",
-    "event": "TIC Long-Term Purchases",
-    "importance": "low",
-    "forecast": "75.2B",
-    "previous": "-27.9B"
+    "date": "2026-10-21",
+    "event": "EIA crude oil inventories, 10:30am ET",
+    "importance": "medium",
+    "when_et": "2026-10-21",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "date": "2026-10-22",
+    "event": "Weekly initial jobless claims, 8:30am ET",
+    "importance": "medium",
+    "when_et": "2026-10-22",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "date": "2026-10-28",
+    "event": "FOMC decision (meeting 2026-10-27–2026-10-28), 2:00pm ET + Powell presser",
+    "importance": "high",
+    "when_et": "2026-10-28",
+    "forecast": "",
+    "previous": ""
    }
   ]
  },
@@ -1837,9 +1853,9 @@
   ]
  },
  "sentiment_validation": {
-  "logged": 2634,
+  "logged": 2636,
   "min_sample": 100,
-  "generated_et": "Oct 17 03:29 AM ET",
+  "generated_et": "Oct 17 04:00 AM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
@@ -1938,98 +1954,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 17 03:29 AM ET",
+   "fetched_et": "Oct 17 03:59 AM ET",
    "newest_et": "Oct 17 01:46 AM ET",
    "newest": "2026-10-17T05:46:20+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 17 03:29 AM ET",
+   "fetched_et": "Oct 17 03:59 AM ET",
    "newest_et": "Oct 16 06:34 PM ET",
    "newest": "2026-10-16T22:34:29+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 17 03:29 AM ET",
+   "fetched_et": "Oct 17 03:59 AM ET",
    "newest_et": "Oct 16 03:40 PM ET",
    "newest": "2026-10-16T19:40:00+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 17 03:29 AM ET",
+   "fetched_et": "Oct 17 03:59 AM ET",
    "newest_et": "Oct 16 05:59 PM ET",
    "newest": "2026-10-16T21:59:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 17 03:29 AM ET",
+   "fetched_et": "Oct 17 03:59 AM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 17 03:29 AM ET",
-   "newest_et": "Oct 17 02:50 AM ET",
-   "newest": "2026-10-17T06:50:00+00:00"
+   "fetched_et": "Oct 17 03:59 AM ET",
+   "newest_et": "Oct 17 03:16 AM ET",
+   "newest": "2026-10-17T07:16:42+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 49,
-   "fetched_et": "Oct 17 03:29 AM ET",
+   "fetched_et": "Oct 17 03:59 AM ET",
    "newest_et": "Oct 17 02:18 AM ET",
    "newest": "2026-10-17T06:18:16+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 17 03:29 AM ET",
+   "fetched_et": "Oct 17 03:59 AM ET",
    "newest_et": "Oct 16 05:31 PM ET",
    "newest": "2026-10-16T21:31:20+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 17 03:29 AM ET",
-   "newest_et": "Oct 17 01:36 AM ET",
-   "newest": "2026-10-17T05:36:00+00:00"
+   "fetched_et": "Oct 17 03:59 AM ET",
+   "newest_et": "Oct 17 03:03 AM ET",
+   "newest": "2026-10-17T07:03:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 49,
-   "fetched_et": "Oct 17 03:29 AM ET",
-   "newest_et": "Oct 17 12:47 AM ET",
-   "newest": "2026-10-17T04:47:42+00:00"
+   "count": 52,
+   "fetched_et": "Oct 17 03:59 AM ET",
+   "newest_et": "Oct 17 03:46 AM ET",
+   "newest": "2026-10-17T07:46:48+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
    "count": 56,
-   "fetched_et": "Oct 17 03:29 AM ET",
-   "newest_et": "Oct 16 10:55 PM ET",
-   "newest": "2026-10-17T02:55:13+00:00"
+   "fetched_et": "Oct 17 03:59 AM ET",
+   "newest_et": "Oct 17 03:31 AM ET",
+   "newest": "2026-10-17T07:31:37+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 17 03:29 AM ET",
+   "fetched_et": "Oct 17 03:59 AM ET",
    "newest_et": "Oct 16 11:00 AM ET",
    "newest": "2026-10-16T15:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 17 03:29 AM ET",
-   "newest_et": "Oct 17 02:25 AM ET",
-   "newest": "2026-10-17T06:25:00+00:00"
+   "fetched_et": "Oct 17 03:59 AM ET",
+   "newest_et": "Oct 17 02:50 AM ET",
+   "newest": "2026-10-17T06:50:00+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Oct 17 03:29 AM ET"
+   "fetched_et": "Oct 17 03:59 AM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
@@ -2037,10 +2053,10 @@
    "fetched_et": "Oct 17 12:31 AM ET"
   },
   "Economic calendar": {
-   "ok": true,
-   "count": 1,
-   "fetched_et": "Oct 17 02:54 AM ET",
-   "note": "FairEconomy / ForexFactory weekly calendar (nfs.faireconomy.media)"
+   "ok": false,
+   "count": 3,
+   "fetched_et": "Oct 17 04:00 AM ET",
+   "note": "RULE-BASED FALLBACK (approximate; live calendar unavailable)"
   }
  }
 }
