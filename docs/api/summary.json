@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 17 06:52 PM ET",
- "generated_at": "2026-10-17T18:52:16.220354-04:00",
+ "generated_et": "Oct 17 07:17 PM ET",
+ "generated_at": "2026-10-17T19:17:34.529565-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-17",
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 81313.11,
-   "pct": -0.23,
-   "asof_et": "Oct 17 06:50 PM ET",
+   "price": 81286.4,
+   "pct": -0.26,
+   "asof_et": "Oct 17 07:15 PM ET",
    "freshness": "delayed"
   },
   {
@@ -381,6 +381,91 @@
  ],
  "breaking": [
   {
+   "title": "AI rapidly improving, could vastly boost U.S. GDP, Anthropic's Clark tells policymakers",
+   "link": "https://www.cnbc.com/2026/10/17/ai-us-gdp-anthropics-clark.html",
+   "source": "CNBC Top News",
+   "impact": 4.0,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 17 07:17 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Greg Abel Made Major Additions to Alphabet and Delta Last Quarter While Berkshire Bought Back $4.4 Billion of Its Own Stock. Is This a Buying Signal Investors Should Watch?",
+   "link": "https://www.fool.com/investing/2026/10/17/greg-abel-made-major-additions-to-alphabet-and-del/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.4,
+   "tickers": [
+    "BRK-B",
+    "GOOGL"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 17 07:17 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Loop: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/loop-3-key-takeaways-long-term-investors",
+   "source": "Nasdaq Markets",
+   "impact": 1.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 17 07:17 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Fisherman, 71, killed by 12-foot alligator alongside Florida lake",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYWs0Y0xMUzZxN3Z1anpnTDJOMDNUVDR2eFpIV0NrVjlzem9XUFhXTjZ0MnFVbUNvUkgzV280T0hTSkVlR21TRHBJR3RqdjhCMUc3NTNqakVfNVgxZ2tENFhnbkVUSXZENDJKZFdOeWo0dU5Vb0FnRjFSVUlMVVdqaTF1dkcybFdnelhWSllfOXlyWjZuWWV6N2xCLXVmek9nOUJV?oc=5",
+   "source": "AP News",
+   "impact": 2.5,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 17 07:17 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Photos show wildfire fueled by high winds engulfing coastal homes in Southern California",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNR0JxRUN3d05UODMtcGNHdHBXNDZ4bVBwVTFFa0ZvTDhqQzJYNUc2cWN6NFBfMnJONlFlNVktcFNobXVEUVlHUEFNZF9VbEhnWFZYWGdnWnhXYWZtMzdhODV4UUJGQ01sdXJhY2w2N0pSdHpnOWQ0dFJxaWhLVVJXRklaTVkxODcwcWxHWXBVbG5FM003dmY2N3VWWVNaZzhvTzBTUEdwSlExUjBNV0U2T1hzQzlCZm04TmpEa2RqTmFBblJSRy1ZYlREU2JIT1NXTU9aTExyVjd6amFtN1pRTmNB?oc=5",
+   "source": "AP News",
+   "impact": 1.4,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 17 07:17 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Desperate civilians risk their lives along mined roads to escape from a Russian-held city",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUzRPOHN5Q0hpYldodW1lc21sazBqVnhNdHVtdlZrbHJrdWhLWUtFbkJxc0pLeHMtTmFHV2R4QVdnVW1QMXZQTHpkYkM2cG9hMUd2bWFzSS10b1pCcXNVVXZTLUdFYnRZaTE4bUk3SkstSmtwRWVieUJJMnBzSlRoU2l4T1pmR2JYSThzU0Zzb2pYX1AyWUFkTkJSWGh3dU55OXNv?oc=5",
+   "source": "AP News",
+   "impact": 2.1,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 17 07:17 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "What Happens When You Return Kitchen Appliances To Home Depot?",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTEpzeU5nczFmMVhjTU5LVGhLY3lHektDWDRUUFB4M1d4bUZZdUdZbFJxc1B6Qnpmd1RoU3ZrSkdnbHkyWG1jYkpRMmNSSm1meXlKZGNMaGV1aDFaclZfRzZ5Q3V2dXhxb0RzcG5RNHAxRW14YWw3bW5sYWY4eXczQ3J2SkI3TnRyY0E?oc=5",
+   "source": "AOL.com",
+   "impact": 1.8,
+   "tickers": [
+    "HD"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 17 07:17 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Atlanta Dream and Golden State Valkyries are top defensive teams in WNBA, now facing off in finals",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbUV5Rk9wTUhoWVg1eGRuQUxHVkd2b1UyWXNuenRHYjFURXlDWFRPblQtN1dnOFFkZEhKUXE5T0Y3akM1LWUwYVlYSEhiMVJkeGFaTzloS2ZpMnRSc21pRjZmZDNiempDNjZUM0NNeWF1anpCZlJLT1cxeXkxMXdWWmI1UXdqYVNTWjR6NmxDSjhUcWFvSW15ajNJcw?oc=5",
+   "source": "AP News",
+   "impact": 1.3,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 17 07:17 PM ET",
+   "consumer": false
+  },
+  {
    "title": "Mass protests in France spiral into worst riots in years",
    "link": "https://www.cnbc.com/2026/10/17/french-protesters-take-to-streets-over-rising-prices-and-social-strain.html",
    "source": "CNBC Top News",
@@ -510,88 +595,6 @@
    "tickers": [],
    "sentiment_label": "neutral",
    "seen_et": "Oct 17 06:19 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "CTW: 3 Key Takeaways for Long-Term Investors",
-   "link": "https://www.nasdaq.com/articles/ctw-3-key-takeaways-long-term-investors",
-   "source": "Nasdaq Markets",
-   "impact": 1.5,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 17 06:19 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Indiana’s 22-game win streak ends against Ohio State in one of six Top 25 showdowns",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUTF2UlFIOWVHOTloUEc0MVVLeC1VTWctWFhjRWdxaE9INDU0d3VoTElSdk5kNjZ4ak43bFJaeE1rSndiSjBOZHkyeWg1U01hZ3g1ckEyR21CTDNxa0RiREJIREJ4SmlxMk4wUmpJMHlSd01LUDBzcFI2TTFiYjV5MHJR?oc=5",
-   "source": "AP News",
-   "impact": 2.5,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 17 06:19 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "AI credit worries send default insurance to record high",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa21Bbk9kN3JUMWZXLWNLVWFlRkQ1dDFSYnRQQzBRNDVudTYtaDhjcjcyenBQM0prdHlYY2ZxY25fZzdYQk9FYkh1N043NW83amxZbHVvZUxYUXk5YnVtR3NtaXdPMFFNa3Z4UUpYdWlXQzhmbjV2bF96TktQQ3VNOFFhLWMtcUE2NllOMzNsN3I?oc=5",
-   "source": "Reuters",
-   "impact": 2.8,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 17 06:19 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Hurricane Trudy strengthens to Category 2 as it approaches Mexico coast",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSlJRdElHVjVoLTVtTE01UWdmVjRrNkh4TnllLXNhNXZ1Y1c1RDRyWXVQUlBPQTJLZmVkM0RlNkhHdk1KMXRsZ2pnY05RZ19EdTVrNWZVbVJBNThZVmxPSkRlaGJ3T1RtMk0zY3lxQ3ItVHNWOTFndnpQLWRJTEVLX2VFRmtjekpRZkxfMmx0dzlhb2xkZlVWY0lPczFwVC1OX2poZw?oc=5",
-   "source": "AP News",
-   "impact": 2.4,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 17 05:53 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "How day of protests unfolded as disorder breaks out across France",
-   "link": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "impact": 2.5,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 17 05:53 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Costco Will Pay a $1.47 Dividend on Nov. 13 -- Here's Whether It Makes More Sense to Use a Dividend Reinvestment Program or Keep the Income",
-   "link": "https://www.fool.com/investing/2026/10/17/costco-will-pay-a-147-dividend-on-nov-13-heres-whe/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.3,
-   "tickers": [
-    "COST"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 17 05:53 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Some Workers Just Got Bad News on Social Security",
-   "link": "https://www.nasdaq.com/articles/some-workers-just-got-bad-news-social-security",
-   "source": "Nasdaq Markets",
-   "impact": 1.6,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 17 05:53 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Fundraising to protect oceans, forests and other key nature sites falling short ahead of UN summit",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ3BWOEhVWV9YUEVTaDNjeDI5RnNzaHJpbXVKeXlSTXRLQ3RXaWhuVG5OcENsR01aZklVa21WVm1zb2cwYUVPa3ZNbjVqX29TYTJNZmpkQ2JvUTVaTElfUGZCR05vMS1ZTmoyN1JlbER3eTNpLXhVTTIwaVdOb3lRanlWZUhLTFVsNHZVVmxReUZST2VmQjNBQU1nS0NSYTA3WXV4aklMZlRFRXZESXc?oc=5",
-   "source": "AP News",
-   "impact": 0.7,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 17 05:53 PM ET",
    "consumer": false
   }
  ],
@@ -1847,7 +1850,7 @@
  "sentiment_validation": {
   "logged": 2736,
   "min_sample": 100,
-  "generated_et": "Oct 17 06:52 PM ET",
+  "generated_et": "Oct 17 07:17 PM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
@@ -1946,98 +1949,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 17 06:52 PM ET",
-   "newest_et": "Oct 17 06:27 PM ET",
-   "newest": "2026-10-17T22:27:51+00:00"
+   "fetched_et": "Oct 17 07:17 PM ET",
+   "newest_et": "Oct 17 07:04 PM ET",
+   "newest": "2026-10-17T23:04:00+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 17 06:52 PM ET",
+   "fetched_et": "Oct 17 07:17 PM ET",
    "newest_et": "Oct 16 06:34 PM ET",
    "newest": "2026-10-16T22:34:29+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 17 06:52 PM ET",
+   "fetched_et": "Oct 17 07:17 PM ET",
    "newest_et": "Oct 16 03:40 PM ET",
    "newest": "2026-10-16T19:40:00+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 17 06:52 PM ET",
+   "fetched_et": "Oct 17 07:17 PM ET",
    "newest_et": "Oct 17 04:53 PM ET",
    "newest": "2026-10-17T20:53:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 17 06:52 PM ET",
+   "fetched_et": "Oct 17 07:17 PM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 19,
-   "fetched_et": "Oct 17 06:52 PM ET",
-   "newest_et": "Oct 17 06:25 PM ET",
-   "newest": "2026-10-17T22:25:00+00:00"
+   "fetched_et": "Oct 17 07:17 PM ET",
+   "newest_et": "Oct 17 06:50 PM ET",
+   "newest": "2026-10-17T22:50:00+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 49,
-   "fetched_et": "Oct 17 06:52 PM ET",
+   "fetched_et": "Oct 17 07:17 PM ET",
    "newest_et": "Oct 17 05:33 PM ET",
    "newest": "2026-10-17T21:33:17+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 17 06:52 PM ET",
-   "newest_et": "Oct 16 05:31 PM ET",
-   "newest": "2026-10-16T21:31:20+00:00"
+   "fetched_et": "Oct 17 07:17 PM ET",
+   "newest_et": "Oct 17 02:19 AM ET",
+   "newest": "2026-10-17T06:19:00+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 17 06:52 PM ET",
+   "fetched_et": "Oct 17 07:17 PM ET",
    "newest_et": "Oct 17 05:55 PM ET",
    "newest": "2026-10-17T21:55:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 43,
-   "fetched_et": "Oct 17 06:52 PM ET",
-   "newest_et": "Oct 17 02:31 PM ET",
-   "newest": "2026-10-17T18:31:34+00:00"
+   "count": 45,
+   "fetched_et": "Oct 17 07:17 PM ET",
+   "newest_et": "Oct 17 02:39 PM ET",
+   "newest": "2026-10-17T18:39:00+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 17 06:52 PM ET",
+   "fetched_et": "Oct 17 07:17 PM ET",
    "newest_et": "Oct 17 03:14 PM ET",
    "newest": "2026-10-17T19:14:44+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 17 06:52 PM ET",
+   "fetched_et": "Oct 17 07:17 PM ET",
    "newest_et": "Oct 16 11:00 AM ET",
    "newest": "2026-10-16T15:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 17 06:52 PM ET",
-   "newest_et": "Oct 17 05:50 PM ET",
-   "newest": "2026-10-17T21:50:00+00:00"
+   "fetched_et": "Oct 17 07:17 PM ET",
+   "newest_et": "Oct 17 06:33 PM ET",
+   "newest": "2026-10-17T22:33:48+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Oct 17 06:52 PM ET"
+   "fetched_et": "Oct 17 07:17 PM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
