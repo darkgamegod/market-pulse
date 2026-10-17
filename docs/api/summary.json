@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 16 08:57 PM ET",
- "generated_at": "2026-10-16T20:57:03.042593-04:00",
+ "generated_et": "Oct 16 09:30 PM ET",
+ "generated_at": "2026-10-16T21:30:34.536970-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-16",
@@ -82,14 +82,6 @@
    "freshness": "closed"
   },
   {
-   "symbol": "CL=F",
-   "label": "WTI Crude",
-   "price": 99.04,
-   "pct": 1.09,
-   "asof_et": "Oct 16 04:55 PM ET",
-   "freshness": "closed"
-  },
-  {
    "symbol": "GC=F",
    "label": "Gold",
    "price": 4186.7,
@@ -116,9 +108,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 81463.64,
-   "pct": -0.83,
-   "asof_et": "Oct 16 08:55 PM ET",
+   "price": 81414.66,
+   "pct": -0.88,
+   "asof_et": "Oct 16 09:30 PM ET",
    "freshness": "delayed"
   },
   {
@@ -382,6 +374,54 @@
  ],
  "breaking": [
   {
+   "title": "Tesla’s Flying Roadster Has Wall Street Talking About SpaceX, Not Cars",
+   "link": "https://www.fool.com/investing/2026/10/16/teslas-flying-roadster-has-wall-street-talking-about-spacex-not-cars/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.2,
+   "tickers": [
+    "TSLA"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 16 09:30 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Battery X Metals Highlights Participation at X Takeover 2026, an Electric Vehicle and Emerging Technology Event Held at Tesla's Gigafactory Texas, Providing Exposure to Industry Perspectives and Technology Developments",
+   "link": "https://finance.yahoo.com/technology/articles/battery-x-metals-highlights-participation-012000266.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.4,
+   "tickers": [
+    "TSLA"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 16 09:30 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Bristol-Myers Squibb vs. Johnson & Johnson: Which Healthcare Stock Is a Better Buy in 2026?",
+   "link": "https://www.nasdaq.com/articles/bristol-myers-squibb-vs-johnson-johnson-which-healthcare-stock-better-buy-2026",
+   "source": "Nasdaq Markets",
+   "impact": 2.4,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 16 09:30 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Will Starlink Mobile matter for Apple?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/starlink-mobile-matter-apple-010939746.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 4.2,
+   "tickers": [
+    "AAPL",
+    "BAC",
+    "QQQ"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 16 09:30 PM ET",
+   "consumer": false
+  },
+  {
    "title": "Stocktwits Zero To Sixty — Tesla’s Roadster Flies With SpaceX Thrusters, Rivian Opens Cars To AI Agents, And Lucid Eyes France",
    "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-zero-to-sixty-tesla-s-roadster-flies-with-space-x-thrusters-rivian-opens-cars-to-ai-agents-and-lucid-eyes-france/cZxjA7KRBt5?.tsrc=rss",
    "source": "Yahoo Finance",
@@ -557,54 +597,6 @@
    "tickers": [],
    "sentiment_label": "bearish",
    "seen_et": "Oct 16 08:01 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Larger UPS air hub in Philippines boosts Asia service levels",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV3FDMUVOcS1HR19mYm41bV92aEd6UDBiVmJfOGVPUTg3YzRuSU52U212a3RzT0hQVHE0bmw1dTZPYy04XzBVZjFYbUZ4VnROWTJ1QkozQ0gyQks4X2h0cmdJLWJQcEItZF95ZHZzNUV4WUZpcU1VQ21VaHhjaF9ET0NEY043Sm5qVzIxZTQ0MVFUdw?oc=5",
-   "source": "Yahoo Finance",
-   "impact": 4.0,
-   "tickers": [
-    "UPS"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 16 08:01 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "Mapping the Market: Bulls beware — CrowdStrike shares could be in for more losses",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVzhyTExkaER4WEJ3VXV5MnMyVjNxMW16aVE3YXFlRDkwSGtseDVfUzJOVkZLci04NG1KTFlfWTB4RlFmZmFxdUs3blpoOVJDTjJ2VTFRMXJDZjY4OWFSQ0hEbUN0UnZGUGh4TDZfbFF4Ui1qZGhLbWxOdjd6OHZ5MnktMA?oc=5",
-   "source": "Reuters",
-   "impact": 4.3,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 16 08:01 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Did Temp Controlled Shipping Portal Just Shift FedEx (FDX) Investment Narrative?",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOW1qX0FYME1LNTdncXVackhJTTc3dERsTHBrVDAxVkx4UEZ2RElEemRmWW5BakJnN0tLS1hnQ0JNT09iRkZHSkdTSnFZbGN3Vmh0R3lEeWxELVI4VEhHY01vYk9xOEpLN1I0NUFGU2RMXzNuLUxBVGpwMWhqWWpMWDNUaXhkZF81cjdscmR3UnVCcGM1Q3F2LVY2UG5qQlZycFRxUE0xMXp4QXdYS2MtTmhBYlBfZVpIT1B6Qk9xeUtCa09pc1HSAcsBQVVfeXFMTjA5Z2hiWWE0R3hmVjliV3I0WkZSSFduXzdzemhoOGZSQUJRQnpnN3ZvWjd3OWE4YlduaHRDZVVJc0ZRdDhnM2xoUzFrN2UxWjdjVk9fLVJmMXVKbndoRTYwM205LTFJN3hlOEw2a2dUeWtDS1ZXTF9nSUZuNUt1dTJVUF9hNTlmWDdSTm8yNVJ5T2p3Q0xTWkVDd2FBLW9OZkdFdlJEVkdNb3hVWjBibHZVdHBmWjFCMTZ4RG1QNjJiSGlfMHZlWEdmNG8?oc=5",
-   "source": "Simply Wall Street",
-   "impact": 5.9,
-   "tickers": [
-    "FDX",
-    "GOOGL"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 16 07:39 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "CoreWeave's not-so-secret weapons: Price hikes and an Nvidia trump card",
-   "link": "https://pitchbook.com/news/articles/coreweaves-not-so-secret-weapons-price-hikes-and-an-nvidia-trump-card?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 4.6,
-   "tickers": [
-    "NVDA",
-    "^TNX"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 16 07:39 PM ET",
    "consumer": false
   }
  ],
@@ -1199,7 +1191,7 @@
  },
  "earnings": {
   "source": "Nasdaq earnings calendar API (api.nasdaq.com), filtered to S&P 500 + watchlist",
-  "fetched_et": "Oct 16 05:30 PM ET",
+  "fetched_et": "Oct 16 09:30 PM ET",
   "events": [
    {
     "date": "2026-10-16",
@@ -1906,9 +1898,9 @@
   ]
  },
  "sentiment_validation": {
-  "logged": 2610,
+  "logged": 2615,
   "min_sample": 100,
-  "generated_et": "Oct 16 08:57 PM ET",
+  "generated_et": "Oct 16 09:31 PM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
@@ -2007,103 +1999,103 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 16 08:57 PM ET",
+   "fetched_et": "Oct 16 09:30 PM ET",
    "newest_et": "Oct 16 06:33 PM ET",
    "newest": "2026-10-16T22:33:05+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 16 08:57 PM ET",
+   "fetched_et": "Oct 16 09:30 PM ET",
    "newest_et": "Oct 16 06:34 PM ET",
    "newest": "2026-10-16T22:34:29+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 16 08:57 PM ET",
+   "fetched_et": "Oct 16 09:30 PM ET",
    "newest_et": "Oct 16 03:40 PM ET",
    "newest": "2026-10-16T19:40:00+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 16 08:57 PM ET",
+   "fetched_et": "Oct 16 09:30 PM ET",
    "newest_et": "Oct 16 05:59 PM ET",
    "newest": "2026-10-16T21:59:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 16 08:57 PM ET",
+   "fetched_et": "Oct 16 09:30 PM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 16 08:57 PM ET",
-   "newest_et": "Oct 16 08:33 PM ET",
-   "newest": "2026-10-17T00:33:21+00:00"
+   "fetched_et": "Oct 16 09:30 PM ET",
+   "newest_et": "Oct 16 09:25 PM ET",
+   "newest": "2026-10-17T01:25:01+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 49,
-   "fetched_et": "Oct 16 08:57 PM ET",
+   "fetched_et": "Oct 16 09:30 PM ET",
    "newest_et": "Oct 16 08:32 AM ET",
    "newest": "2026-10-16T12:32:31+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 16 08:57 PM ET",
-   "newest_et": "Oct 16 05:45 PM ET",
-   "newest": "2026-10-16T21:45:22+00:00"
+   "fetched_et": "Oct 16 09:30 PM ET",
+   "newest_et": "Oct 16 05:23 PM ET",
+   "newest": "2026-10-16T21:23:05+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 16 08:57 PM ET",
+   "fetched_et": "Oct 16 09:30 PM ET",
    "newest_et": "Oct 16 07:44 PM ET",
    "newest": "2026-10-16T23:44:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
    "count": 50,
-   "fetched_et": "Oct 16 08:57 PM ET",
+   "fetched_et": "Oct 16 09:30 PM ET",
    "newest_et": "Oct 16 07:34 PM ET",
-   "newest": "2026-10-16T23:34:36+00:00"
+   "newest": "2026-10-16T23:34:38+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
-   "count": 55,
-   "fetched_et": "Oct 16 08:57 PM ET",
+   "count": 56,
+   "fetched_et": "Oct 16 09:30 PM ET",
    "newest_et": "Oct 16 05:54 PM ET",
    "newest": "2026-10-16T21:54:19+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 16 08:57 PM ET",
+   "fetched_et": "Oct 16 09:30 PM ET",
    "newest_et": "Oct 16 11:00 AM ET",
    "newest": "2026-10-16T15:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 16 08:57 PM ET",
-   "newest_et": "Oct 16 07:58 PM ET",
-   "newest": "2026-10-16T23:58:01+00:00"
+   "fetched_et": "Oct 16 09:30 PM ET",
+   "newest_et": "Oct 16 09:10 PM ET",
+   "newest": "2026-10-17T01:10:02+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
-   "count": 26,
-   "fetched_et": "Oct 16 08:57 PM ET"
+   "count": 25,
+   "fetched_et": "Oct 16 09:30 PM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
    "count": 78,
-   "fetched_et": "Oct 16 05:30 PM ET"
+   "fetched_et": "Oct 16 09:30 PM ET"
   },
   "Economic calendar": {
    "ok": true,
