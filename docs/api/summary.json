@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 17 02:57 PM ET",
- "generated_at": "2026-10-17T14:57:44.570725-04:00",
+ "generated_et": "Oct 17 03:24 PM ET",
+ "generated_at": "2026-10-17T15:24:11.881621-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-17",
@@ -84,16 +84,16 @@
   {
    "symbol": "CL=F",
    "label": "WTI Crude",
-   "price": 99.02,
-   "pct": 1.07,
+   "price": 99.04,
+   "pct": 1.09,
    "asof_et": "Oct 16 04:55 PM ET",
    "freshness": "closed"
   },
   {
    "symbol": "GC=F",
    "label": "Gold",
-   "price": 4181.1,
-   "pct": 0.26,
+   "price": 4186.7,
+   "pct": 0.4,
    "asof_et": "Oct 16 04:55 PM ET",
    "freshness": "closed"
   },
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 81439.41,
-   "pct": -0.08,
-   "asof_et": "Oct 17 02:55 PM ET",
+   "price": 81424.08,
+   "pct": -0.09,
+   "asof_et": "Oct 17 03:20 PM ET",
    "freshness": "delayed"
   },
   {
@@ -381,6 +381,74 @@
  ],
  "breaking": [
   {
+   "title": "Microsoft (MSFT) Is Facing Fresh Regulatory Pressure",
+   "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-facing-fresh-regulatory-191124990.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 5.1,
+   "tickers": [
+    "AAPL",
+    "MSFT",
+    "PLTR"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 17 03:24 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "UnitedHealth: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/unitedhealth-3-key-takeaways-long-term-investors",
+   "source": "Nasdaq Markets",
+   "impact": 2.1,
+   "tickers": [
+    "UNH"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 17 03:24 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "As Chip Stocks Sell Off, This Is the Flight-to-Safety Play I Would Choose",
+   "link": "https://www.fool.com/investing/2026/10/17/as-chip-stocks-sell-off-this-is-the-flight-to-safe/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.7,
+   "tickers": [
+    "TSM"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 17 03:24 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Should You Buy Vistra After an 11% 1-Day Jump on a $4.2 Billion DOE Loan? The Catch Most Investors Are Missing.",
+   "link": "https://www.fool.com/investing/2026/10/17/should-you-buy-vistra-after-an-11-1-day-jump-on-a/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.3,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 17 03:24 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Buying masks or haze-related items on the secondary market? Be careful, says CASE",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdHUxXzVkWDNEUzJ4Rzdsd2dNSGVNRXBHS0xUMTluWFJfQVZJZ2VsOXIzVEdjUXhDZDliWWdCcDlmMmhwMlB1ejdCa29TSWVMNEo0bnpCTmhLVXNYMGU4NEZqaERxdlN2aDhhb1psOUdhZXpZZy14Z18xOVdhcGdtYW1HTnNaeHh0cVBqTE1Ea3AycGZ0cVkzeE1FeVdzOEVjLXVkMUpsaWRtc1NzMGZvYzdPZlFidGY0TkE?oc=5",
+   "source": "The Straits Times",
+   "impact": 1.6,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 17 03:24 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Grimoldi launches 500-square-meter Mango store: what it means for Grimoldi stock",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQS3FFcXRJa1k0M1RxSTJHdVBRNE9OSnpCVkZYaG4wTGJ1akRmdGpqa2hVYjBfdGNRb2t5bF9lMV9oWDBkd1FuUDZtMmtEcTZ2b2pJUTcxcHpkOS03aGY1QU9lMDktQVhIbG5NZ2FYbXJBQ3I5WmttMnV1cGtVNFh2ZFp4TWNKcS1MUmwtQURrX19zSE94MWhyekJrWVZObG5XRkNhWVBDNDdGeDNIMEZhc2FVM3JGMDZWN3oxQVJGNkVKUG9GVG5QeHpOVzk?oc=5",
+   "source": "ad-hoc-news.de",
+   "impact": 0.0,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 17 03:24 PM ET",
+   "consumer": false
+  },
+  {
    "title": "Should you Buy Amazon Stock Before October 29? History Has a Clear Answer.",
    "link": "https://www.fool.com/investing/2026/10/17/should-you-buy-amazon-stock-before-october-29/?.tsrc=rss",
    "source": "Yahoo Finance",
@@ -533,70 +601,6 @@
    ],
    "sentiment_label": "bullish",
    "seen_et": "Oct 17 02:57 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "A look at mass killings in the U.S.",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1acHVwQnRZaDBCelR2V2JwSGh2allFU2Yyb0NSeVFqSFBZTXluU3RZek1mY3NRbldkSDVTczBxR3JFMTQ0VkNCbExaa1FaeU1ESE9kNk1UOVc4TW5abkJNOUtFc3EzcUp1Z21qRnpIMGJRS2Jk?oc=5",
-   "source": "AP News",
-   "impact": 1.0,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 17 02:57 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "CoreWeave’s Founders Have Sold $3.3 Billion of Stock Since Its IPO",
-   "link": "https://247wallst.com/investing/2026/10/17/coreweaves-founders-have-sold-3-3-billion-of-stock-since-its-ipo/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.4,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 17 02:23 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Ethereum Dramatically Outperformed the S&P 500 in Q3. Is It Finally Time to Load Up on Ethereum?",
-   "link": "https://www.fool.com/investing/2026/10/17/ethereum-dramatically-outperformed-the-sp-500-in-q/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.3,
-   "tickers": [
-    "SPY"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 17 02:23 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Discount grocery chain closing all stores as bargain grocers struggle",
-   "link": "https://www.thestreet.com/retail/54-year-old-discount-grocery-chain-closing-all-stores-as-bargain-grocers-struggle?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.4,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 17 02:23 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Citigroup: 3 Key Takeaways for Long-Term Investors",
-   "link": "https://www.nasdaq.com/articles/citigroup-3-key-takeaways-long-term-investors",
-   "source": "Nasdaq Markets",
-   "impact": 2.0,
-   "tickers": [
-    "C"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 17 02:23 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "You Could Owe Social Security Benefit Taxes in 2026, and a Looming Change Makes This Even More Likely in 2027",
-   "link": "https://www.nasdaq.com/articles/you-could-owe-social-security-benefit-taxes-2026-and-looming-change-makes-even-more-likely",
-   "source": "Nasdaq Markets",
-   "impact": 2.5,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 17 02:23 PM ET",
    "consumer": false
   }
  ],
@@ -1140,7 +1144,7 @@
  "economic_calendar": {
   "source": "RULE-BASED FALLBACK (approximate; live calendar unavailable)",
   "fallback": true,
-  "fetched_et": "Oct 17 02:23 PM ET",
+  "fetched_et": "Oct 17 03:24 PM ET",
   "events": [
    {
     "date": "2026-10-21",
@@ -1850,9 +1854,9 @@
   ]
  },
  "sentiment_validation": {
-  "logged": 2719,
+  "logged": 2724,
   "min_sample": 100,
-  "generated_et": "Oct 17 02:58 PM ET",
+  "generated_et": "Oct 17 03:24 PM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
@@ -1951,98 +1955,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 17 02:57 PM ET",
+   "fetched_et": "Oct 17 03:24 PM ET",
    "newest_et": "Oct 17 01:16 PM ET",
    "newest": "2026-10-17T17:16:58+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 17 02:57 PM ET",
+   "fetched_et": "Oct 17 03:24 PM ET",
    "newest_et": "Oct 16 06:34 PM ET",
    "newest": "2026-10-16T22:34:29+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 17 02:57 PM ET",
+   "fetched_et": "Oct 17 03:24 PM ET",
    "newest_et": "Oct 16 03:40 PM ET",
    "newest": "2026-10-16T19:40:00+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 17 02:57 PM ET",
+   "fetched_et": "Oct 17 03:24 PM ET",
    "newest_et": "Oct 17 02:52 PM ET",
    "newest": "2026-10-17T18:52:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 17 02:57 PM ET",
+   "fetched_et": "Oct 17 03:24 PM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 19,
-   "fetched_et": "Oct 17 02:57 PM ET",
-   "newest_et": "Oct 17 02:47 PM ET",
-   "newest": "2026-10-17T18:47:00+00:00"
+   "fetched_et": "Oct 17 03:24 PM ET",
+   "newest_et": "Oct 17 03:11 PM ET",
+   "newest": "2026-10-17T19:11:24+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 49,
-   "fetched_et": "Oct 17 02:57 PM ET",
+   "fetched_et": "Oct 17 03:24 PM ET",
    "newest_et": "Oct 17 10:12 AM ET",
    "newest": "2026-10-17T14:12:02+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 17 02:57 PM ET",
+   "fetched_et": "Oct 17 03:24 PM ET",
    "newest_et": "Oct 17 02:19 AM ET",
    "newest": "2026-10-17T06:19:00+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 17 02:57 PM ET",
+   "fetched_et": "Oct 17 03:24 PM ET",
    "newest_et": "Oct 17 02:17 PM ET",
    "newest": "2026-10-17T18:17:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 44,
-   "fetched_et": "Oct 17 02:57 PM ET",
+   "count": 43,
+   "fetched_et": "Oct 17 03:24 PM ET",
    "newest_et": "Oct 17 02:31 PM ET",
    "newest": "2026-10-17T18:31:34+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 17 02:57 PM ET",
+   "fetched_et": "Oct 17 03:24 PM ET",
    "newest_et": "Oct 17 02:25 PM ET",
    "newest": "2026-10-17T18:25:29+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 17 02:57 PM ET",
+   "fetched_et": "Oct 17 03:24 PM ET",
    "newest_et": "Oct 16 11:00 AM ET",
    "newest": "2026-10-16T15:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 17 02:57 PM ET",
-   "newest_et": "Oct 17 02:28 PM ET",
-   "newest": "2026-10-17T18:28:01+00:00"
+   "fetched_et": "Oct 17 03:24 PM ET",
+   "newest_et": "Oct 17 03:07 PM ET",
+   "newest": "2026-10-17T19:07:01+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Oct 17 02:57 PM ET"
+   "fetched_et": "Oct 17 03:24 PM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
@@ -2052,7 +2056,7 @@
   "Economic calendar": {
    "ok": false,
    "count": 3,
-   "fetched_et": "Oct 17 02:23 PM ET",
+   "fetched_et": "Oct 17 03:24 PM ET",
    "note": "RULE-BASED FALLBACK (approximate; live calendar unavailable)"
   }
  }
