@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 17 01:20 PM ET",
- "generated_at": "2026-10-17T13:20:49.790048-04:00",
+ "generated_et": "Oct 17 01:52 PM ET",
+ "generated_at": "2026-10-17T13:52:15.866653-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-17",
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 81154.68,
-   "pct": -0.42,
-   "asof_et": "Oct 17 01:20 PM ET",
+   "price": 81226.52,
+   "pct": -0.34,
+   "asof_et": "Oct 17 01:50 PM ET",
    "freshness": "delayed"
   },
   {
@@ -381,6 +381,94 @@
  ],
  "breaking": [
   {
+   "title": "Nvidia (NVDA) Trades Far Below Its Usual Multiple, Is Customer Debt the Real Risk?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-trades-far-below-173513926.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 5.0,
+   "tickers": [
+    "NVDA",
+    "QQQ",
+    "^TNX"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 17 01:53 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "If a Stock Market Crash Is Coming, History Says This Strategy Can Cut Your Portfolio's Recovery Time in Half",
+   "link": "https://www.fool.com/investing/2026/10/17/if-stock-market-crash-is-coming-history-says-this/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 17 01:53 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Zelenskyy urges support for new US sanctions on Russia put on hold by Trump",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUGNSbDZNbm5wY2VNaTRTRDZiMHFqMW9rbnpvNk1tU0JBdjlTQng0YXhGQTN4bWtRaUNPUUdxY0dHVEhOajRFem5jUFdSVm5QYnkyU1QtcGZuM3BBQnBqTnFYdlBrTHYyampsUEtDMDB5RUdIYVpJZVY5eHBlank0T1BhLW1OSWo5bnNNVUdCR0FJQjRRLVEtNVFqeHlZQjc2Mm1n?oc=5",
+   "source": "AP News",
+   "impact": 3.4,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 17 01:53 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Is Palantir Stock a Buy Right Now?",
+   "link": "https://www.fool.com/investing/2026/10/17/is-palantir-stock-a-buy-right-now/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.3,
+   "tickers": [
+    "PLTR"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 17 01:53 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Twenty Hours a Week at an Amazon Warehouse for Health Insurance at 60? Here Is the Math a Retired Paralegal Will Run",
+   "link": "https://247wallst.com/personal-finance/2026/10/17/twenty-hours-a-week-at-an-amazon-warehouse-for-health-insurance-at-60-here-is-the-math-a-retired-paralegal-will-run/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.8,
+   "tickers": [
+    "AMZN"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 17 01:53 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Prediction: This Will Be the Best Pure-Play Quantum Computing Stock Over the Next 5 Years",
+   "link": "https://www.fool.com/investing/2026/10/17/prediction-this-will-be-the-best-pure-play-quantum/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.3,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 17 01:53 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "US senator accuses Turkey of ‘thuggish behavior’ toward Greece and Cyprus",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOblNWMmFlaV9UTF9rQl90TUlrSEJPYjNoaVBDSjNDMm9wenI1NUd4LWtHMFlVUDIzdXBpNi12SnNjTWF1OV9EOEhrWG9xd1FMOWlXb3RNdkJ3SVJuTVdRTUUwejBuMmFFUWNjeVBzSmhuUUpGMlNZcy1kMHFzRUctOUc4UEtJV2NpcDBMSFplYklCMnV0Ykp1dHFn?oc=5",
+   "source": "AP News",
+   "impact": 3.3,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 17 01:53 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Scotiabank sees TSX earnings growth slowing but resource stocks poised to lead",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMEJ3dngwU1RHemE3OThzRHRweTE3LVE2OXVySzlfdGRNM1dIaHNTd09DenpZSEU5T1JNSUdHTURvVm9odU9ubTQ2a3NYLTlrWnlzVWhZQzAtMUxhS0xrV0tta0Jlc0laWTBBNlJyMElQUWxsaWUxSG5wM21vWG9aampTNEZIdHZWNnozZ0NlTGsydWZ4T29WLTVYTzY2OVo3RDJCQUNqVU1jUzhfczRXR0Y3azhWb2Y0RGprZXVjZEUzSEoxTUxiZ1VhWG5xZXRq?oc=5",
+   "source": "StreetInsider",
+   "impact": 2.7,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 17 01:53 PM ET",
+   "consumer": false
+  },
+  {
    "title": "Hurricane Trudy approaches Mexico coast as Typhoon Champi threatens Guam",
    "link": "https://www.cnbc.com/2026/10/17/hurricane-trudy-mexico-typhoon-champi-guam.html",
    "source": "CNBC Top News",
@@ -506,88 +594,6 @@
    "impact": 2.4,
    "tickers": [],
    "sentiment_label": "bullish",
-   "seen_et": "Oct 17 12:55 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Semiconductor market to remain solid ‘at least through next year,’ South Korea finance minister says",
-   "link": "https://www.cnbc.com/2026/10/17/south-korea-semiconductor-outlook-lee-hyoung-il.html",
-   "source": "CNBC Top News",
-   "impact": 2.8,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 17 12:55 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Move Aside, Moderna: This mRNA Stock Is Sitting on a Cash Pile and a Deep Cancer Pipeline",
-   "link": "https://www.fool.com/investing/2026/10/17/move-aside-moderna-this-mrna-stock-is-sitting-on-a/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.3,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 17 12:55 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Tech Stock Sell-Off: 1 Unstoppable ETF to Buy on the Dip in 2026",
-   "link": "https://www.fool.com/investing/2026/10/17/tech-stock-sell-off-1-unstoppable-etf-to-buy-on-th/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.0,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 17 12:55 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Billionaire David Tepper's Appaloosa Management Returned 32% Through the First Half of the Year. Here Are His Top 3 Stocks.",
-   "link": "https://www.fool.com/investing/2026/10/17/billionaire-david-tepper-returned-32-percent-top-3/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 1.8,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 17 12:55 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "‘No clinical reason’ pope can’t travel to Latin America, Vatican media cites surgeon",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOFA3aml3ZXJlRXJ4MkFBeHNZYkZvNGJGempQWkJpZDJxQTlnbFFPb1Nkb3RvNUZCR2JCNWZPT2tqNFQ1Y3NJWHNqWm5WcEtHWkJrMzN3cTdjQVV2ZmhnSUF6Y2tjWXZ0TVp1bnJrVURyYzdTU0psdXpDNFRTQjgwQUNybXphRW93NFYwa3JVdUJHRjYzUE8xTUphLVdLZDg?oc=5",
-   "source": "AP News",
-   "impact": 2.7,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 17 12:55 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "If a Stock Market Crash Is Coming, These 5 Stocks Have a History of Holding Up",
-   "link": "https://www.fool.com/investing/2026/10/17/if-a-stock-market-crash-is-coming-these-5-stocks/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.8,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 17 12:55 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Chip Stocks Just Fell 8 Days in a Row, Their Longest Losing Streak Since 2008",
-   "link": "https://247wallst.com/investing/2026/10/17/chip-stocks-just-fell-8-days-in-a-row-their-longest-losing-streak-since-2008/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.7,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 17 12:55 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "Nvidia Stock Is Up 13% This Year. Where Does the Stock Stand Now?",
-   "link": "https://www.tikr.com/blog/nvidia-stock-is-up-13-this-year-where-does-the-stock-stand-now?ref=yahoofinance&.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.0,
-   "tickers": [
-    "NVDA"
-   ],
-   "sentiment_label": "neutral",
    "seen_et": "Oct 17 12:55 PM ET",
    "consumer": false
   }
@@ -803,7 +809,7 @@
  "movers": {
   "mode": "last session (market not in pre-market)",
   "basis": "opening gap (open vs prior close) of the last session; RVOL = session volume / 20-day avg",
-  "fetched_et": "Oct 17 10:24 AM ET",
+  "fetched_et": "Oct 17 01:52 PM ET",
   "gappers": [
    {
     "symbol": "NFLX",
@@ -1172,7 +1178,7 @@
  },
  "earnings": {
   "source": "Nasdaq earnings calendar API (api.nasdaq.com), filtered to S&P 500 + watchlist",
-  "fetched_et": "Oct 17 09:26 AM ET",
+  "fetched_et": "Oct 17 01:53 PM ET",
   "events": [
    {
     "date": "2026-10-19",
@@ -1852,9 +1858,9 @@
   ]
  },
  "sentiment_validation": {
-  "logged": 2709,
+  "logged": 2713,
   "min_sample": 100,
-  "generated_et": "Oct 17 01:21 PM ET",
+  "generated_et": "Oct 17 01:53 PM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
@@ -1953,103 +1959,103 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 17 01:20 PM ET",
+   "fetched_et": "Oct 17 01:52 PM ET",
    "newest_et": "Oct 17 01:16 PM ET",
    "newest": "2026-10-17T17:16:58+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 17 01:20 PM ET",
+   "fetched_et": "Oct 17 01:52 PM ET",
    "newest_et": "Oct 16 06:34 PM ET",
    "newest": "2026-10-16T22:34:29+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 17 01:20 PM ET",
+   "fetched_et": "Oct 17 01:52 PM ET",
    "newest_et": "Oct 16 03:40 PM ET",
    "newest": "2026-10-16T19:40:00+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 17 01:20 PM ET",
+   "fetched_et": "Oct 17 01:52 PM ET",
    "newest_et": "Oct 17 12:47 PM ET",
    "newest": "2026-10-17T16:47:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 17 01:20 PM ET",
+   "fetched_et": "Oct 17 01:52 PM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 19,
-   "fetched_et": "Oct 17 01:20 PM ET",
-   "newest_et": "Oct 17 01:05 PM ET",
-   "newest": "2026-10-17T17:05:00+00:00"
+   "fetched_et": "Oct 17 01:52 PM ET",
+   "newest_et": "Oct 17 01:35 PM ET",
+   "newest": "2026-10-17T17:35:13+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 49,
-   "fetched_et": "Oct 17 01:20 PM ET",
+   "fetched_et": "Oct 17 01:52 PM ET",
    "newest_et": "Oct 17 10:12 AM ET",
    "newest": "2026-10-17T14:12:02+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 17 01:20 PM ET",
+   "fetched_et": "Oct 17 01:52 PM ET",
    "newest_et": "Oct 17 02:19 AM ET",
    "newest": "2026-10-17T06:19:00+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 17 01:20 PM ET",
-   "newest_et": "Oct 17 12:21 PM ET",
-   "newest": "2026-10-17T16:21:00+00:00"
+   "fetched_et": "Oct 17 01:52 PM ET",
+   "newest_et": "Oct 17 01:33 PM ET",
+   "newest": "2026-10-17T17:33:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 43,
-   "fetched_et": "Oct 17 01:20 PM ET",
+   "count": 44,
+   "fetched_et": "Oct 17 01:52 PM ET",
    "newest_et": "Oct 17 11:14 AM ET",
    "newest": "2026-10-17T15:14:08+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 17 01:20 PM ET",
+   "fetched_et": "Oct 17 01:52 PM ET",
    "newest_et": "Oct 17 08:59 AM ET",
    "newest": "2026-10-17T12:59:12+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 17 01:20 PM ET",
+   "fetched_et": "Oct 17 01:52 PM ET",
    "newest_et": "Oct 16 11:00 AM ET",
    "newest": "2026-10-16T15:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 17 01:20 PM ET",
+   "fetched_et": "Oct 17 01:52 PM ET",
    "newest_et": "Oct 17 12:37 PM ET",
    "newest": "2026-10-17T16:37:00+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Oct 17 01:20 PM ET"
+   "fetched_et": "Oct 17 01:52 PM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
    "count": 75,
-   "fetched_et": "Oct 17 09:26 AM ET"
+   "fetched_et": "Oct 17 01:53 PM ET"
   },
   "Economic calendar": {
    "ok": false,
