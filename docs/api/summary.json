@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 17 02:54 AM ET",
- "generated_at": "2026-10-17T02:54:31.195401-04:00",
+ "generated_et": "Oct 17 03:29 AM ET",
+ "generated_at": "2026-10-17T03:29:36.793969-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-17",
@@ -12,15 +12,15 @@
   {
    "symbol": "ES=F",
    "label": "S&P 500 Fut",
-   "price": 7703.0,
-   "pct": -1.13,
+   "price": 7704.25,
+   "pct": -1.11,
    "asof_et": "Oct 16 04:55 PM ET",
    "freshness": "closed"
   },
   {
    "symbol": "NQ=F",
    "label": "Nasdaq 100 Fut",
-   "price": 29391.25,
+   "price": 29391.5,
    "pct": -2.5,
    "asof_et": "Oct 16 04:55 PM ET",
    "freshness": "closed"
@@ -28,16 +28,16 @@
   {
    "symbol": "YM=F",
    "label": "Dow Fut",
-   "price": 52200.0,
-   "pct": -0.44,
+   "price": 52214.0,
+   "pct": -0.41,
    "asof_et": "Oct 16 04:55 PM ET",
    "freshness": "closed"
   },
   {
    "symbol": "RTY=F",
    "label": "Russell 2000 Fut",
-   "price": 2737.0,
-   "pct": -1.61,
+   "price": 2735.5,
+   "pct": -1.66,
    "asof_et": "Oct 16 04:55 PM ET",
    "freshness": "closed"
   },
@@ -92,8 +92,8 @@
   {
    "symbol": "GC=F",
    "label": "Gold",
-   "price": 4181.1,
-   "pct": 0.26,
+   "price": 4186.7,
+   "pct": 0.4,
    "asof_et": "Oct 16 04:55 PM ET",
    "freshness": "closed"
   },
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 81499.76,
-   "pct": -0.78,
-   "asof_et": "Oct 17 02:50 AM ET",
+   "price": 81539.35,
+   "pct": 0.05,
+   "asof_et": "Oct 17 03:25 AM ET",
    "freshness": "delayed"
   },
   {
@@ -381,6 +381,52 @@
  ],
  "breaking": [
   {
+   "title": "BYD or Tesla: Which Is a Better Stock?",
+   "link": "https://www.fool.com/investing/2026/10/17/byd-or-tesla-which-is-a-better-stock/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.5,
+   "tickers": [
+    "TSLA"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 17 03:29 AM ET",
+   "consumer": true
+  },
+  {
+   "title": "United Parcel Service (UPS) Opens Philippines Air Hub With 170 Weekly Flight Segments",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS2I5eFlQM1pWME81UlJvOFV6RUtIelBCMV82S2VrTTA3c0MwSXNSOVhfN3NfNFlvTVUtS0V4MEFzUFFlelVyaEh5anVXVkM5LXhKRWtmSkFmWTBPMm1INEM4WFk4UmNNZzdLVUhtN3dKVm9YSl9hak1HNWtJOUxBcGttRzBqbG5SVUlVY24tdTZ0WkdTVkRlQWhvQWNQWE9RQ0E?oc=5",
+   "source": "Yahoo Finance",
+   "impact": 3.9,
+   "tickers": [
+    "UPS"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 17 03:29 AM ET",
+   "consumer": true
+  },
+  {
+   "title": "Crowds throng New Delhi and wave Indian flags amid escalating protests",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZGJpUmg0QVZEV1FXVWNIbVBPdUVSZFhscDJWRWJhVWJpQ1RfclliNERiaXRxdkI0LUhJaW1sN1A1V1UwMUwxNlhTcWZwNEpldnJTajBjdENtRmwwekhRZ2tnTmF6WjBiZHhVLXRrSkN3WmVNLXRDQk45bTNkU2VGSkRsOEVKUjZjQ3RyU1FYUTlXN01XbVV0T0JXdThrWDMySjNr?oc=5",
+   "source": "AP News",
+   "impact": 1.3,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 17 03:29 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "FedEx digitizes booking process for European cold-chain pharma shipments",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTEZMU3B2d1p5VTd5VWxIMmZwcWg0TVNiTHJUZ0U3eHJmTXVCbEhvT2sxcFN0RW9uQVhZLUNkMS1zYjFIX253TkpRc1NTdlMyX2doV1dmTm4zVlh2TlF0TzlVaVMtUGo3dlUxcHRJLXNFS2NzM3AxcW9fUmJRamUtTUhldzIybG9Mcm4tcDJGY1dnUVBTWFVMUXNsTFN2b0MzdzdqcjVlUXVnZw?oc=5",
+   "source": "FreightWaves",
+   "impact": 2.2,
+   "tickers": [
+    "FDX"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 17 03:29 AM ET",
+   "consumer": true
+  },
+  {
    "title": "Social Security's 2027 Cost-of-Living Adjustment (COLA) Is 3.6%. Here's How That Compares With Today's Best High-Yield Savings Rates.",
    "link": "https://www.fool.com/investing/2026/10/17/social-securitys-2027-cost-of-living-adjustment-co/?.tsrc=rss",
    "source": "Yahoo Finance",
@@ -553,46 +599,6 @@
    "impact": 2.1,
    "tickers": [],
    "sentiment_label": "bearish",
-   "seen_et": "Oct 17 01:43 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Schwab: 3 Key Takeaways for Long-Term Investors",
-   "link": "https://www.nasdaq.com/articles/schwab-3-key-takeaways-long-term-investors",
-   "source": "Nasdaq Markets",
-   "impact": 1.8,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 17 01:43 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "AI Is Now the Top Reason for Layoffs. For Some Workers, It’s Also a Path to Starting a Business.",
-   "link": "https://www.entrepreneur.com/building-a-business/ai-is-now-the-top-reason-for-layoffs-for-some-workers-its-also-a-path-to-starting-a-business?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 1.8,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 17 01:43 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Morning Brief: Warsh Boosts Odds of October Hold; China Moves to Prop Up Stocks; Eurozone Trade Balance Turned Negative Again",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOYW95Y1cxN292c0xxRmNsZlI0b1hFaUp1WERKOEphU0NWaDZTMEI4SThVTV9iTEdfSmlTRmFpdXR5ODdnUV9VblZWWkxFT2duTE00dmpNdG9RVnJGbXduejNJYlE3ODZldHAtQjhnNjByQTRJSjB4bnJtdl9lbVl6X3JYN0xWS0VRM2JzdF9qZk50X1F0Q1dvWFRmaWRuaGg0dFEwbmo5aXFvU1dpb0tqZlRBMlNzY2dTNF8xR2F6TGNfVHRSdkZ2M3AtOUxxdWhxN0ozVVZzajNoZlI5TUZWc21MMVBBVE9xZzZ0RlVYWQ?oc=5",
-   "source": "www.christophe-barraud.com",
-   "impact": 2.6,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 17 01:43 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "5 Things to Know Before the Stock Market Opens on Thursday",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd0RmeGlsQjA2QVNwSTliaC1BZTJMa0ZFT2pyV2F4OGFoRFBVOGhBTjlGT1JYRVgwbzVzbkg5U01rTDNCSER6bjBjMDdUUy12c0M2eHlvMV83cUcxdVRUVU5PRGoyVHFINjRTR3c0SzlKVUl3Sk9rUkhSb1lPM3p2MFJEWVRmVVBRbzdmVXlKSG1KMHI5RzdwNmZvY3ZQNEl0U3VMcmJrR29NY3VrWlEtcEJB?oc=5",
-   "source": "Investopedia",
-   "impact": 0.0,
-   "tickers": [],
-   "sentiment_label": "neutral",
    "seen_et": "Oct 17 01:43 AM ET",
    "consumer": false
   }
@@ -1831,9 +1837,9 @@
   ]
  },
  "sentiment_validation": {
-  "logged": 2632,
+  "logged": 2634,
   "min_sample": 100,
-  "generated_et": "Oct 17 02:54 AM ET",
+  "generated_et": "Oct 17 03:29 AM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
@@ -1932,98 +1938,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 17 02:54 AM ET",
+   "fetched_et": "Oct 17 03:29 AM ET",
    "newest_et": "Oct 17 01:46 AM ET",
    "newest": "2026-10-17T05:46:20+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 17 02:54 AM ET",
+   "fetched_et": "Oct 17 03:29 AM ET",
    "newest_et": "Oct 16 06:34 PM ET",
    "newest": "2026-10-16T22:34:29+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 17 02:54 AM ET",
+   "fetched_et": "Oct 17 03:29 AM ET",
    "newest_et": "Oct 16 03:40 PM ET",
    "newest": "2026-10-16T19:40:00+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 17 02:54 AM ET",
+   "fetched_et": "Oct 17 03:29 AM ET",
    "newest_et": "Oct 16 05:59 PM ET",
    "newest": "2026-10-16T21:59:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 17 02:54 AM ET",
+   "fetched_et": "Oct 17 03:29 AM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 17 02:54 AM ET",
-   "newest_et": "Oct 17 02:25 AM ET",
-   "newest": "2026-10-17T06:25:00+00:00"
+   "fetched_et": "Oct 17 03:29 AM ET",
+   "newest_et": "Oct 17 02:50 AM ET",
+   "newest": "2026-10-17T06:50:00+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 49,
-   "fetched_et": "Oct 17 02:54 AM ET",
+   "fetched_et": "Oct 17 03:29 AM ET",
    "newest_et": "Oct 17 02:18 AM ET",
    "newest": "2026-10-17T06:18:16+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 17 02:54 AM ET",
+   "fetched_et": "Oct 17 03:29 AM ET",
    "newest_et": "Oct 16 05:31 PM ET",
    "newest": "2026-10-16T21:31:20+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 17 02:54 AM ET",
+   "fetched_et": "Oct 17 03:29 AM ET",
    "newest_et": "Oct 17 01:36 AM ET",
    "newest": "2026-10-17T05:36:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
    "count": 49,
-   "fetched_et": "Oct 17 02:54 AM ET",
+   "fetched_et": "Oct 17 03:29 AM ET",
    "newest_et": "Oct 17 12:47 AM ET",
    "newest": "2026-10-17T04:47:42+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
-   "count": 55,
-   "fetched_et": "Oct 17 02:54 AM ET",
-   "newest_et": "Oct 16 09:34 PM ET",
-   "newest": "2026-10-17T01:34:16+00:00"
+   "count": 56,
+   "fetched_et": "Oct 17 03:29 AM ET",
+   "newest_et": "Oct 16 10:55 PM ET",
+   "newest": "2026-10-17T02:55:13+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 17 02:54 AM ET",
+   "fetched_et": "Oct 17 03:29 AM ET",
    "newest_et": "Oct 16 11:00 AM ET",
    "newest": "2026-10-16T15:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 17 02:54 AM ET",
+   "fetched_et": "Oct 17 03:29 AM ET",
    "newest_et": "Oct 17 02:25 AM ET",
    "newest": "2026-10-17T06:25:00+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Oct 17 02:54 AM ET"
+   "fetched_et": "Oct 17 03:29 AM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
