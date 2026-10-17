@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 17 05:43 AM ET",
- "generated_at": "2026-10-17T05:43:33.215511-04:00",
+ "generated_et": "Oct 17 06:08 AM ET",
+ "generated_at": "2026-10-17T06:08:10.556182-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-17",
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 81558.83,
-   "pct": 0.07,
-   "asof_et": "Oct 17 05:40 AM ET",
+   "price": 81481.79,
+   "pct": -0.02,
+   "asof_et": "Oct 17 06:05 AM ET",
    "freshness": "delayed"
   },
   {
@@ -381,6 +381,55 @@
  ],
  "breaking": [
   {
+   "title": "Missing the S&P 500's 10 Best Days in 20 Years Cut a $10,000 Investment's Ending Value by More Than Half",
+   "link": "https://www.nasdaq.com/articles/missing-sp-500s-10-best-days-20-years-cut-10000-investments-ending-value-more-half",
+   "source": "Nasdaq Markets",
+   "impact": 2.6,
+   "tickers": [
+    "SPY"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 17 06:08 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Revised Customs Tariff Rates on Gold, Silver, and Crude Oil Notified by Finance Ministry",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNejR6M2tfOUlVWEJNVmp3YzdWaXE2S2hlRW91R0MtOXd2eFBhVjN3ck9rMWM3bG5oSDAxUDhROEpvNVNzbEpnbm9FRVdzSW9qVmRubEtORHJZS3I4U2pDcWdiVlJoNDJBM2hjMU53MHhuNlE0cjRrR0E2ZnBJOFgyczJaTUpKYk9PUXdZZzVBUWlrVlFhODV1elJxWDJidDlORFBwRG9PdUVTS0RPa0hzeTlpY2tfOUpMTFE4RGJIWDdLdw?oc=5",
+   "source": "Taxscan",
+   "impact": 5.6,
+   "tickers": [
+    "CL=F",
+    "GC=F",
+    "XLE"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 17 06:08 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Apple Is Ready to Fight Britain Over iPhone Tap-to-Pay. The Fee Is What Matters",
+   "link": "https://www.tikr.com/blog/apple-is-ready-to-fight-britain-over-iphone-tap-to-pay-the-fee-is-what-matters?ref=yahoofinance&.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.7,
+   "tickers": [
+    "AAPL",
+    "CMA"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 17 06:08 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Federal Reserve Board announces approval of application by BancFirst Corporation",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm",
+   "source": "Fed Press Releases",
+   "impact": 4.1,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 17 06:08 AM ET",
+   "consumer": false
+  },
+  {
    "title": "If I Only Had $1,000 to Invest, I'd Buy This 1 ETF and Wouldn't Touch It for 20 Years",
    "link": "https://www.fool.com/investing/2026/10/17/1000-invest-buy-1-etf-and-hold-20-years/?.tsrc=rss",
    "source": "Yahoo Finance",
@@ -545,46 +594,6 @@
    "impact": 2.1,
    "tickers": [],
    "sentiment_label": "bullish",
-   "seen_et": "Oct 17 05:07 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Major development banks step up support for critical minerals value chains",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPc3h2ZF9YVG81ZVh6OXlpVnhDWEdKMVJGMDZjZGkzM2ZGRml0bHZHdjN3UkFQRGRzWWp0SlA1eks2TnR0LUw4SEpDTE1TR180Z0EwVDhYb0N0U1pBSWpUNHdEVDlYc05LNDF3Rk9OeVBXTDJOMmNmcnpyTUhyeHZ2QXFJZHQwbk9xVlNUMnlxUkV4Q2ZNRnNrRmd0V1JHQU9jOGJTZWlXY1did0d3TUZKMTRlNEhjOGY0WVFpSmpBeHhjNHM?oc=5",
-   "source": "Reuters",
-   "impact": 2.1,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 17 05:07 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Hurricane Trudy strengthens slightly as it moves towards Mexico’s Pacific coast",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQTJwQVFSckQyTG8welFNdElXZkNVRVc5VFI5VnY0OHlLekpPNklCczhobEVMTDNaRDI2TGlPTGNma2U2cXg2YXRWMVpPczV5eS1HdHBIN3I5bE1oSGVZZXRYVWlidmdldVlaQVRRU1JGNDNGSEJKSTdkY0NkeGtiNFVuclZ1NFJiZmVnWkZNbHNNMkpaWFN2WjdjU0g5aEt3WGN0Vg?oc=5",
-   "source": "AP News",
-   "impact": 3.3,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 17 05:07 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "China sentences 6 for lead-tainted kindergarten food that sickened over 200 children",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSDU3R01CcFBJLVRjNGRfOHJ4ZG80cTFVWUVPcC1ITnFfS2lHRWROa2JpU05wSTlHMU5mVGxLWkM4eDRqTVRxTkk4S2FkU0czN0dmaWNyLWthME9GNnVPSzFfZkNRc3Y3d0hSRFRmWDgyb2dKbUpLdmJUdVFDd1UwNWg5YzR0T2hsbU05eERDc3ctVkRrS1d4TUJoOA?oc=5",
-   "source": "AP News",
-   "impact": 1.6,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 17 05:07 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Investors bought stocks and bonds, shed cash in past week, say BofA",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQazJRNXM2d0xERjdpSEtZbExxU3R3M3ZkdEtEb2NGVkxoMEw3VlIzN3JGaXFoSUdWbEpTMWRsTkUyTDlJRHR0aVBaZDJmTG9DQkRfWG5nVENmazN6dFM4VmlXNE5Ed3dqUkF2S1R6Mll2TGhyd0V1TkFHRGduUEZHQWNrbw?oc=5",
-   "source": "Reuters",
-   "impact": 0.5,
-   "tickers": [],
-   "sentiment_label": "neutral",
    "seen_et": "Oct 17 05:07 AM ET",
    "consumer": false
   }
@@ -1129,7 +1138,7 @@
  "economic_calendar": {
   "source": "RULE-BASED FALLBACK (approximate; live calendar unavailable)",
   "fallback": true,
-  "fetched_et": "Oct 17 05:07 AM ET",
+  "fetched_et": "Oct 17 06:08 AM ET",
   "events": [
    {
     "date": "2026-10-21",
@@ -1839,9 +1848,9 @@
   ]
  },
  "sentiment_validation": {
-  "logged": 2639,
+  "logged": 2643,
   "min_sample": 100,
-  "generated_et": "Oct 17 05:43 AM ET",
+  "generated_et": "Oct 17 06:08 AM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
@@ -1940,98 +1949,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 17 05:43 AM ET",
+   "fetched_et": "Oct 17 06:08 AM ET",
    "newest_et": "Oct 17 01:46 AM ET",
    "newest": "2026-10-17T05:46:20+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 17 05:43 AM ET",
+   "fetched_et": "Oct 17 06:08 AM ET",
    "newest_et": "Oct 16 06:34 PM ET",
    "newest": "2026-10-16T22:34:29+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 17 05:43 AM ET",
+   "fetched_et": "Oct 17 06:08 AM ET",
    "newest_et": "Oct 16 03:40 PM ET",
    "newest": "2026-10-16T19:40:00+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 17 05:43 AM ET",
+   "fetched_et": "Oct 17 06:08 AM ET",
    "newest_et": "Oct 16 05:59 PM ET",
    "newest": "2026-10-16T21:59:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 17 05:43 AM ET",
+   "fetched_et": "Oct 17 06:08 AM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 17 05:43 AM ET",
+   "fetched_et": "Oct 17 06:08 AM ET",
    "newest_et": "Oct 17 05:29 AM ET",
    "newest": "2026-10-17T09:29:00+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 49,
-   "fetched_et": "Oct 17 05:43 AM ET",
+   "fetched_et": "Oct 17 06:08 AM ET",
    "newest_et": "Oct 17 02:18 AM ET",
    "newest": "2026-10-17T06:18:16+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 17 05:43 AM ET",
+   "fetched_et": "Oct 17 06:08 AM ET",
    "newest_et": "Oct 17 02:19 AM ET",
    "newest": "2026-10-17T06:19:00+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 17 05:43 AM ET",
+   "fetched_et": "Oct 17 06:08 AM ET",
    "newest_et": "Oct 17 03:19 AM ET",
    "newest": "2026-10-17T07:19:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 50,
-   "fetched_et": "Oct 17 05:43 AM ET",
-   "newest_et": "Oct 17 03:46 AM ET",
-   "newest": "2026-10-17T07:46:48+00:00"
+   "count": 49,
+   "fetched_et": "Oct 17 06:08 AM ET",
+   "newest_et": "Oct 17 05:34 AM ET",
+   "newest": "2026-10-17T09:34:31+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
-   "count": 58,
-   "fetched_et": "Oct 17 05:43 AM ET",
+   "count": 59,
+   "fetched_et": "Oct 17 06:08 AM ET",
    "newest_et": "Oct 17 03:31 AM ET",
    "newest": "2026-10-17T07:31:37+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 17 05:43 AM ET",
+   "fetched_et": "Oct 17 06:08 AM ET",
    "newest_et": "Oct 16 11:00 AM ET",
    "newest": "2026-10-16T15:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 17 05:43 AM ET",
-   "newest_et": "Oct 17 05:04 AM ET",
-   "newest": "2026-10-17T09:04:00+00:00"
+   "fetched_et": "Oct 17 06:08 AM ET",
+   "newest_et": "Oct 17 05:43 AM ET",
+   "newest": "2026-10-17T09:43:02+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Oct 17 05:43 AM ET"
+   "fetched_et": "Oct 17 06:08 AM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
@@ -2041,7 +2050,7 @@
   "Economic calendar": {
    "ok": false,
    "count": 3,
-   "fetched_et": "Oct 17 05:07 AM ET",
+   "fetched_et": "Oct 17 06:08 AM ET",
    "note": "RULE-BASED FALLBACK (approximate; live calendar unavailable)"
   }
  }
