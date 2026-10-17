@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 16 10:09 PM ET",
- "generated_at": "2026-10-16T22:09:44.027190-04:00",
+ "generated_et": "Oct 16 10:45 PM ET",
+ "generated_at": "2026-10-16T22:45:21.856421-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-16",
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 81499.2,
-   "pct": -0.78,
-   "asof_et": "Oct 16 10:05 PM ET",
+   "price": 81350.52,
+   "pct": -0.96,
+   "asof_et": "Oct 16 10:45 PM ET",
    "freshness": "delayed"
   },
   {
@@ -382,6 +382,29 @@
  ],
  "breaking": [
   {
+   "title": "Can Trade Desk Stock Bounce Off Its Old Support Again?",
+   "link": "https://www.trefis.com/articles/618992/can-trade-desk-stock-bounce-off-its-old-support-again/2026-10-16?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.1,
+   "tickers": [
+    "SPY",
+    "TTD"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 16 10:45 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Selma Blair's representatives say she didn't intend to hurt anyone on flight that led to her arrest",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVXhJMWN0WnFpWGZmYVYtMGdqbVlXcExnaXRyUjVRUnU5Y1dQRzFNMF9YTzBUY2hpdFJVNl8tYUZSVnNNdXZPanN2dDQ3Wkh2eUtOdEFsMURMclhPM2tzTEZySDlVU2ZGcXdQUHZNY252NExocU9rSlZqWTM3Mm9hQ1dFa2dlR0k5dE5UY0E2WQ?oc=5",
+   "source": "AP News",
+   "impact": 1.6,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 16 10:45 PM ET",
+   "consumer": false
+  },
+  {
    "title": "Coastal homes burn as hot winds fuel Southern California fires",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONmJmSmdlU0NrdkN0LTJXMGYtbHdsTTk1dTFhY2tGbHVtRENWSUtGWVFHbk02ZVJsWnZwZDJQTGdVbm5xOUpCanFtMXhOUlh1VVdXWVFkQjVkQ29OeFRqWExBdXgzQWFGSXNsWjA1V3lHdjdHNGhfNFpINGlpenlpVHlIRHhvTTdoclNZOUlORk5BakdtMXJXLVNlQkI?oc=5",
    "source": "AP News",
@@ -583,26 +606,6 @@
    "tickers": [
     "IBKR"
    ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 16 08:01 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Fastenal: 3 Key Takeaways for Long-Term Investors",
-   "link": "https://www.nasdaq.com/articles/fastenal-3-key-takeaways-long-term-investors",
-   "source": "Nasdaq Markets",
-   "impact": 1.5,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 16 08:01 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Taiwan Semiconductor Posts Record Q3 Results: Time to Buy the Dip?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-posts-record-q3-223600229.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 4.3,
-   "tickers": [],
    "sentiment_label": "bullish",
    "seen_et": "Oct 16 08:01 PM ET",
    "consumer": false
@@ -1890,9 +1893,9 @@
   ]
  },
  "sentiment_validation": {
-  "logged": 2615,
+  "logged": 2617,
   "min_sample": 100,
-  "generated_et": "Oct 16 10:10 PM ET",
+  "generated_et": "Oct 16 10:45 PM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
@@ -1991,98 +1994,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 16 10:09 PM ET",
+   "fetched_et": "Oct 16 10:45 PM ET",
    "newest_et": "Oct 16 06:33 PM ET",
    "newest": "2026-10-16T22:33:05+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 16 10:09 PM ET",
+   "fetched_et": "Oct 16 10:45 PM ET",
    "newest_et": "Oct 16 06:34 PM ET",
    "newest": "2026-10-16T22:34:29+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 16 10:09 PM ET",
+   "fetched_et": "Oct 16 10:45 PM ET",
    "newest_et": "Oct 16 03:40 PM ET",
    "newest": "2026-10-16T19:40:00+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 16 10:09 PM ET",
+   "fetched_et": "Oct 16 10:45 PM ET",
    "newest_et": "Oct 16 05:59 PM ET",
    "newest": "2026-10-16T21:59:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 16 10:09 PM ET",
+   "fetched_et": "Oct 16 10:45 PM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 16 10:09 PM ET",
-   "newest_et": "Oct 16 09:25 PM ET",
-   "newest": "2026-10-17T01:25:01+00:00"
+   "fetched_et": "Oct 16 10:45 PM ET",
+   "newest_et": "Oct 16 10:19 PM ET",
+   "newest": "2026-10-17T02:19:48+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 49,
-   "fetched_et": "Oct 16 10:09 PM ET",
+   "fetched_et": "Oct 16 10:45 PM ET",
    "newest_et": "Oct 16 08:32 AM ET",
    "newest": "2026-10-16T12:32:31+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 16 10:09 PM ET",
+   "fetched_et": "Oct 16 10:45 PM ET",
    "newest_et": "Oct 16 05:23 PM ET",
    "newest": "2026-10-16T21:23:05+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 16 10:09 PM ET",
-   "newest_et": "Oct 16 09:52 PM ET",
-   "newest": "2026-10-17T01:52:30+00:00"
+   "fetched_et": "Oct 16 10:45 PM ET",
+   "newest_et": "Oct 16 10:23 PM ET",
+   "newest": "2026-10-17T02:23:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
    "count": 49,
-   "fetched_et": "Oct 16 10:09 PM ET",
+   "fetched_et": "Oct 16 10:45 PM ET",
    "newest_et": "Oct 16 08:59 PM ET",
    "newest": "2026-10-17T00:59:17+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
-   "count": 55,
-   "fetched_et": "Oct 16 10:09 PM ET",
+   "count": 54,
+   "fetched_et": "Oct 16 10:45 PM ET",
    "newest_et": "Oct 16 05:11 PM ET",
    "newest": "2026-10-16T21:11:16+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 16 10:09 PM ET",
+   "fetched_et": "Oct 16 10:45 PM ET",
    "newest_et": "Oct 16 11:00 AM ET",
    "newest": "2026-10-16T15:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 16 10:09 PM ET",
+   "fetched_et": "Oct 16 10:45 PM ET",
    "newest_et": "Oct 16 09:25 PM ET",
    "newest": "2026-10-17T01:25:01+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Oct 16 10:09 PM ET"
+   "fetched_et": "Oct 16 10:45 PM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
