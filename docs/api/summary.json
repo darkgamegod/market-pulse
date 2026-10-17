@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 17 09:26 AM ET",
- "generated_at": "2026-10-17T09:26:30.510247-04:00",
+ "generated_et": "Oct 17 09:56 AM ET",
+ "generated_at": "2026-10-17T09:56:51.725100-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-17",
@@ -84,16 +84,16 @@
   {
    "symbol": "CL=F",
    "label": "WTI Crude",
-   "price": 99.04,
-   "pct": 1.09,
+   "price": 99.02,
+   "pct": 1.07,
    "asof_et": "Oct 16 04:55 PM ET",
    "freshness": "closed"
   },
   {
    "symbol": "GC=F",
    "label": "Gold",
-   "price": 4186.7,
-   "pct": 0.4,
+   "price": 4181.1,
+   "pct": 0.26,
    "asof_et": "Oct 16 04:55 PM ET",
    "freshness": "closed"
   },
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 81394.38,
-   "pct": -0.13,
-   "asof_et": "Oct 17 09:25 AM ET",
+   "price": 81402.16,
+   "pct": -0.12,
+   "asof_et": "Oct 17 09:55 AM ET",
    "freshness": "delayed"
   },
   {
@@ -381,6 +381,189 @@
  ],
  "breaking": [
   {
+   "title": "Investors are buying up vast tracts of timberland across U.S. in one of market's longest-term bets",
+   "link": "https://www.cnbc.com/2026/10/17/timberland-investing-returns-risk.html",
+   "source": "CNBC Top News",
+   "impact": 1.8,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 17 09:57 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Which company has the world’s highest earnings? The answer may surprise you",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/company-world-highest-earnings-answer-134206242.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.6,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 17 09:57 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Apple's New Home Collection Gives Investors Another Reason to Remain Bullish",
+   "link": "https://www.fool.com/investing/2026/10/17/apple-new-home-collection-investors-reason-bull/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.4,
+   "tickers": [
+    "AAPL"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 17 09:57 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Trump's student loan overhaul could lead to more bankruptcy filings, former judge says",
+   "link": "https://www.cnbc.com/2026/10/17/trump-student-loans-bankruptcy.html",
+   "source": "CNBC Top News",
+   "impact": 4.1,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 17 09:57 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "USAF Doesn't Want Northrop Grumman's Stealth Drone",
+   "link": "https://www.fool.com/investing/2026/10/17/usaf-doesnt-want-northrop-grummans-stealth-drone/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.2,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 17 09:57 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Former Fed Chair Jerome Powell's 6-Word Warning Echoes Louder Than Ever -- and It Should Rightly Terrify Wall Street",
+   "link": "https://www.fool.com/investing/2026/10/17/fed-chair-jerome-powell-6-word-warning-echoes-loud-should-rightly-terrify-wall-street/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 7.6,
+   "tickers": [
+    "SPY",
+    "^TNX"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 17 09:57 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Should You Buy Ford Stock Under $15 in October? Here's Why Investors Should Pump the Brakes.",
+   "link": "https://www.fool.com/investing/2026/10/17/should-you-buy-ford-stock-under-15-in-october/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.3,
+   "tickers": [
+    "F"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 17 09:57 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Advance Auto Parts vs. Airbnb: Which Consumer Stock Is a Better Buy in 2026?",
+   "link": "https://www.nasdaq.com/articles/advance-auto-parts-vs-airbnb-which-consumer-stock-better-buy-2026",
+   "source": "Nasdaq Markets",
+   "impact": 2.5,
+   "tickers": [
+    "ABNB"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 17 09:57 AM ET",
+   "consumer": true
+  },
+  {
+   "title": "What High Diesel Prices Mean for These 5 Energy Stocks",
+   "link": "https://www.nasdaq.com/articles/what-high-diesel-prices-mean-these-5-energy-stocks",
+   "source": "Nasdaq Markets",
+   "impact": 2.3,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 17 09:57 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "3 Things All Social Security Beneficiaries Should Do Now That the 2027 COLA Has Been Announced",
+   "link": "https://www.nasdaq.com/articles/3-things-all-social-security-beneficiaries-should-do-now-2027-cola-has-been-announced",
+   "source": "Nasdaq Markets",
+   "impact": 2.2,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 17 09:57 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Shohei Ohtani's health and a possible lockout loom over an uncertain offseason for the Dodgers",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTVY3SUhYMzBiX25pNWM3SXRvOHhIRGJBcTd3bXZydllrak5rS2RZYU9rRW9kYldrRE1HTDFPR0dQdEMxZ2hxMlBnYTIyV2VKODU2c18waVdjRW5veG9WR0lBeGVXVjBqMTNUVGFHRmMwNnVRT01LY2ZQcS1OaGp2Q0puSVBKc0JR?oc=5",
+   "source": "AP News",
+   "impact": 1.7,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 17 09:57 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Apple Stock Climbs as Its New Foldable iPhone Faces a Three-Month Wait",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZkpOLTU5aXp5eTY4eFgwOVhoNl93MGtpckw2dlB4ZHpPa2txNVR0cTVkeEoxRFBHeVI4RXZEOWw0em5NdUo0Z2VoaDJJOXp5N0xQZnlpNkhOWjRLWnQ0OEdYbnRKWm5KbmlTZGJXV19pVmFrU3BBZjNPaFQ3MWNacjg1bFlDTUxDbi03bUEwMHhfem9hbnltci1lTDc0bzlEdVZjUW1iX2h1REtWZnZjRFh6WTgzc1pCemNlemhXcUVSbVRGemxZMVN3?oc=5",
+   "source": "TradingView",
+   "impact": 1.3,
+   "tickers": [
+    "AAPL"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 17 09:57 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Vix Stock Rises as Producer Prices Jump 6.3% in September",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9OZ0ZxZ1hrMVQxYXlpZ0JJcXVJOV9kOENkeWlNcWhzMUxVZUE5RXBlbUFLYzY1MlZyVDQ1RzNFYm41azU3Q3l1ejFPWXdpUVJqSUMw?oc=5",
+   "source": "شبكة تواصل الإخبارية",
+   "impact": 1.3,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 17 09:57 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Wayfair shares climb as investors react to Way Day launch and holiday sales setup",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWDQwa0h2VHRuRHl3X19HZHdWUWtIazJxRGJERHF6dTNOQk14YUl6T0tPMXVYVkd0QUxKVnowZmhCbFN6THRCekpHNGRGcy16X0RSX1BIN09WNk1RM1hMQXd3eEkxQ1ZGOS04TUx1aW1DaVdQeGk5TDV1bXloWnRoQXFMb3ZtUnhacHNPT2ZjbEVudFRPdmJBZU1fUnlDemwzRmdTeFlTRk9HUmJCOTZCZFBlNWg?oc=5",
+   "source": "Quiver Quantitative",
+   "impact": 1.4,
+   "tickers": [
+    "W"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 17 09:57 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Pantry-loading: Investors push into consumer staples stocks amid market anxiety",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQamw5NVBUMVAwazJIckhjSzZoVEZoaFBZR25BZjI0VlVydFBGN2s4UWUtQmZVSkVHNTRHZ2xibWJObWZLNkZldVhlTHE1Wm54WlQyLWlZUkV2REZnU3dfLWZqeFI4akZWVWpnMTR0SGduME5seUE5bHZhYlZOeXl1RDVuSE5YNnctT2ZBdTVVQi1hdXFIVDNuYWJ1UmcyNGc0QUM3WlhQeG9FOTl2WkdpeVVlYzRZM2FqNDBneGVfQms2cFVWZWFPTTk3aThwZTR6YWZ1SGJsdkk?oc=5",
+   "source": "TradingView",
+   "impact": 0.4,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 17 09:57 AM ET",
+   "consumer": true
+  },
+  {
+   "title": "Hot PPI and Retail Sales Signal Persistent Inflation",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRF9hYy10a1o2aTRYdlE4emxWTWdsTm5QZGZrVjIyeGQyd1Flc2ctNnJUY3oxQmI4MVNoVXk4R0JWR21zTmJBZ3QyTUtuRTcybXlZV1V4UlJucXg3VXQ4S2RTa0tLd0ozUkNDWEpJdkRYT0daeHhjcjZ5cmlBNmM3aDZ2aTFkank0a1hYR291QTg1MVRyRDEwdWpxSlZEOFo1RjhLT2Z2a0Q0RDVO?oc=5",
+   "source": "TradingView",
+   "impact": 3.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 17 09:57 AM ET",
+   "consumer": true
+  },
+  {
+   "title": "Associated Press News: Breaking News | Latest News Today",
+   "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
+   "source": "AP News",
+   "impact": 1.2,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 17 09:57 AM ET",
+   "consumer": false
+  },
+  {
    "title": "Tear gas, clashes hit French cities in cost-of-living protests",
    "link": "https://www.cnbc.com/2026/10/17/french-protesters-take-to-streets-over-rising-prices-and-social-strain.html",
    "source": "CNBC Top News",
@@ -417,192 +600,18 @@
    "sentiment_label": "bullish",
    "seen_et": "Oct 17 09:26 AM ET",
    "consumer": true
-  },
-  {
-   "title": "'Everyone laughed' when he started a pumpkin farm—now it brings in $2 million a year",
-   "link": "https://www.cnbc.com/make-it/2026/10/17/great-pumpkin-farm-new-york-2-million-revenue.html",
-   "source": "CNBC Top News",
-   "impact": 2.3,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 17 09:26 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Meet the home buyers totally unfazed by 7% mortgage rates",
-   "link": "https://www.marketwatch.com/story/meet-the-home-buyers-totally-unfazed-by-7-mortgage-rates-7a9b1cc7?mod=mw_rss_topstories",
-   "source": "MarketWatch Top",
-   "impact": 1.9,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 17 09:26 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "By The Way: Headlines You May Have Missed",
-   "link": "https://finance.yahoo.com/video/way-headlines-may-missed-125525599.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.5,
-   "tickers": [
-    "TSLA"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 17 09:26 AM ET",
-   "consumer": true
-  },
-  {
-   "title": "These tech stocks are a buy ahead of their earnings reports, Bank of America says",
-   "link": "https://www.cnbc.com/2026/10/17/tech-stocks-to-buy-going-into-their-earnings-reports.html",
-   "source": "CNBC Top News",
-   "impact": 3.1,
-   "tickers": [
-    "BAC"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 17 09:26 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Anthropic Wants an IPO. New York City Wants It to Slow Down",
-   "link": "https://app.moby.co/home/news/news-anthropic-wants-an-ipo-new-york-city-wants-it-to-slow-down?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.0,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 17 09:26 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Apple, Salesforce Lead Five Stocks Near Buy Points As Market Struggles",
-   "link": "https://finance.yahoo.com/m/2ea92b1d-49c9-3825-bb7f-1768711b7070/apple%2C-salesforce-lead-five.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.5,
-   "tickers": [
-    "AAPL",
-    "CRM"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 17 09:26 AM ET",
-   "consumer": true
-  },
-  {
-   "title": "COMMENTARY: Strong dollar, weak hand for Trump before midterms",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbHhCQTRkREZKSk45aHZsYUNiQUt3R1lMb1d1NTBxU2M0c3FOemhDZE5MOGNhTWtZbEY2bm1YZlNRNUZCekJNMXhQR09pRzNDWDNmaFpBNHFKNkFUbXZ1YXFUb1lBRVRfcGZtMTdMWjZES3pBTnllaTJQN25mblNKdHpaY1YtcWEybERGM2ZDeGU4YzhJaDF2UFlNYnA5MXVpNk1SV19qa3NhV2c5MC1jVl81c25qckV5WkRJQlp0S2k?oc=5",
-   "source": "Reuters",
-   "impact": 2.1,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 17 09:26 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "RKLB Stock Comes Back To Earth This Week: CEO Peter Beck’s Trust Sells $286M In Shares, Retail Turns Bearish",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSm1lX3o5dTNOOXY3UVAwNHF3Sl9JZ2JVaWVMY3NIWmdXSDhhSjg3b2VlQktuQXJ5NUhINlNWOVhNZ2NfRWw3U1RkcTUxWVJzd0M1ek1CMlZ5Mi1ZbVl6ZHN1Nmd3M29SRHA2REp2THVFOVZNaHNieWxRYkZ6NW5RSHVmQ09JU0pMbFpEaURVT3hrN2dfdUtCenpiYkU0d1NsRWZiTDRQLUFEbjJyMFlsZg?oc=5",
-   "source": "Stocktwits",
-   "impact": 2.0,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 17 09:26 AM ET",
-   "consumer": true
-  },
-  {
-   "title": "UK watchdog moves to protect energy market from wholesale price swings",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPenRiT0NLdHdEVVlBVUVzNmpCemctNi1rSGl2VjNvaE91ZnZLSFZBUlJZY2ljVkw3LTY0S0pWZmxiRlNxbHVyQmV4T0hSV044dWNPT2Nyckk2Njg5UklOTTRLVXh4V3praHZQU1lTWk5Nb2pSaklDU01BQTg1NDlUTzgxTHV6Z1d5RkdTaDIzcEtQRnB2QURnNmFFanQ0Y3JsNk8ybDhucVl6NUtWMmcwazQzWEk?oc=5",
-   "source": "Reuters",
-   "impact": 1.5,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 17 09:26 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Watch: Did Tesla really just unveil a flying car?",
-   "link": "https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "impact": 0.9,
-   "tickers": [
-    "TSLA"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 17 09:26 AM ET",
-   "consumer": true
-  },
-  {
-   "title": "Beef prices in midterm campaigns, teen shooter kills 4 at Oregon elementary school, drone strikes in the Black Sea",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QUHhCRHVDSTYzaXlfOEx1ejNXU1d2elNHTi05U1dSUC1iWjdoLW8zTUNCVC1XNHc4MDFOR3dLRFh0QXBGM0pwZVZBeEJqNnpOX3VXZFRyNnFIM2ZnV2NwT0dsUTdFc3JYY0E?oc=5",
-   "source": "AP News",
-   "impact": 1.5,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 17 09:26 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Chinese automakers make tech-led pitch for Europe's premium car market",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWThYSzgwSG5kZ3ZmUEJMamwyN3NJOVJJaVRTMXV5UVM4YkwzTkFSdkxFcENtTU52cGVSY2JmRFpJSUxjQ1hGQTk5akZVdHJ6Z2l2dl9pc0dJV092dGxxa3NFX3BZQmxSQUF6SnUzOG9XM2czTE5OUGEwYUlYblpWdW50MkNWZG5qZ191ZXZXVjlBelExMWRHMDY3cXhmWTNxbnlmS2p4X1duX1NZaVF4aHRYQ1hRcXNVWDVwYlZVbmFVTk1TdWlqbkNqUQ?oc=5",
-   "source": "Reuters",
-   "impact": 0.3,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 17 09:26 AM ET",
-   "consumer": true
-  },
-  {
-   "title": "Global markets rally as tech stocks gain despite hotter-than-expected US producer inflation",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVDYzWXB5MDdETjFxZW8td2RjTUlqTjFtYkhiOHFiaFFGRThObTBySzRFQUNhcy1fczNicFlmQjRrZlBpNW1fekVSLUN0bUxCOThmRzBXbVIzT1pRQ19DSTZHb2F2QXhRMS11ZlR6bXRZdFBEMUlUazFQaTZYUHZRenJMOGtoMzFvZzRIXzdiWGREV3MwUEpCRXFiTmxhRTdncmw1RG1yYVhpRGgyV2kxai1DbTgyU0NfWW93WFlRM3lNOW5uekRFcWpLNkY?oc=5",
-   "source": "Anadolu Ajansı",
-   "impact": 3.7,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 17 09:26 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Berkshire shares buck market sell-off, rally to highest since Buffett said he would step down as CEO",
-   "link": "https://www.cnbc.com/2026/10/17/berkshire-rally-to-highest-since-buffett-announcement.html",
-   "source": "CNBC Top News",
-   "impact": 5.4,
-   "tickers": [
-    "BRK-B"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 17 08:50 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "If I Had to Pick 1 Tech Stock to Hold Through the Next Recession, It Would Be This One",
-   "link": "https://www.fool.com/investing/2026/10/17/if-pick-tech-stock-hold-recession-micron/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 4.2,
-   "tickers": [
-    "MU"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 17 08:50 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Silver’s recent 50% drop from a record high hints that an economic slowdown looms",
-   "link": "https://www.marketwatch.com/story/silvers-recent-50-drop-from-a-record-high-hints-that-an-economic-slowdown-looms-e9fdfaf1?mod=mw_rss_topstories",
-   "source": "MarketWatch Top",
-   "impact": 2.4,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 17 08:50 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "French protesters take to streets over rising prices and social strain",
-   "link": "https://www.cnbc.com/2026/10/17/french-protesters-take-to-streets-over-rising-prices-and-social-strain.html",
-   "source": "CNBC Top News",
-   "impact": 2.5,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 17 08:50 AM ET",
-   "consumer": false
   }
  ],
  "high_impact": [
+  {
+   "title": "Former Fed Chair Jerome Powell's 6-Word Warning Echoes Louder Than Ever -- and It Should Rightly Terrify Wall Street",
+   "link": "https://www.fool.com/investing/2026/10/17/fed-chair-jerome-powell-6-word-warning-echoes-loud-should-rightly-terrify-wall-street/?.tsrc=rss",
+   "impact": 7.6,
+   "tickers": [
+    "SPY",
+    "^TNX"
+   ]
+  },
   {
    "title": "Nvidia’s CEO Says “All of This Is Going to Pass” After Tech Lost $1 Trillion in a Day",
    "link": "https://247wallst.com/investing/2026/10/17/nvidias-ceo-says-all-of-this-is-going-to-pass-after-tech-lost-1-trillion-in-a-day/?.tsrc=rss",
@@ -1163,7 +1172,7 @@
  "economic_calendar": {
   "source": "RULE-BASED FALLBACK (approximate; live calendar unavailable)",
   "fallback": true,
-  "fetched_et": "Oct 17 08:50 AM ET",
+  "fetched_et": "Oct 17 09:57 AM ET",
   "events": [
    {
     "date": "2026-10-21",
@@ -1873,9 +1882,9 @@
   ]
  },
  "sentiment_validation": {
-  "logged": 2672,
+  "logged": 2677,
   "min_sample": 100,
-  "generated_et": "Oct 17 09:26 AM ET",
+  "generated_et": "Oct 17 09:57 AM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
@@ -1974,98 +1983,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 17 09:26 AM ET",
-   "newest_et": "Oct 17 09:21 AM ET",
-   "newest": "2026-10-17T13:21:37+00:00"
+   "fetched_et": "Oct 17 09:56 AM ET",
+   "newest_et": "Oct 17 09:47 AM ET",
+   "newest": "2026-10-17T13:47:59+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 17 09:26 AM ET",
+   "fetched_et": "Oct 17 09:56 AM ET",
    "newest_et": "Oct 16 06:34 PM ET",
    "newest": "2026-10-16T22:34:29+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 17 09:26 AM ET",
+   "fetched_et": "Oct 17 09:56 AM ET",
    "newest_et": "Oct 16 03:40 PM ET",
    "newest": "2026-10-16T19:40:00+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 17 09:26 AM ET",
+   "fetched_et": "Oct 17 09:56 AM ET",
    "newest_et": "Oct 17 09:00 AM ET",
    "newest": "2026-10-17T13:00:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 17 09:26 AM ET",
+   "fetched_et": "Oct 17 09:56 AM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 17 09:26 AM ET",
-   "newest_et": "Oct 17 09:05 AM ET",
-   "newest": "2026-10-17T13:05:00+00:00"
+   "fetched_et": "Oct 17 09:56 AM ET",
+   "newest_et": "Oct 17 09:42 AM ET",
+   "newest": "2026-10-17T13:42:06+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 49,
-   "fetched_et": "Oct 17 09:26 AM ET",
+   "fetched_et": "Oct 17 09:56 AM ET",
    "newest_et": "Oct 17 02:18 AM ET",
    "newest": "2026-10-17T06:18:16+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 17 09:26 AM ET",
+   "fetched_et": "Oct 17 09:56 AM ET",
    "newest_et": "Oct 17 02:19 AM ET",
    "newest": "2026-10-17T06:19:00+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 17 09:26 AM ET",
-   "newest_et": "Oct 17 07:17 AM ET",
-   "newest": "2026-10-17T11:17:00+00:00"
+   "fetched_et": "Oct 17 09:56 AM ET",
+   "newest_et": "Oct 17 08:56 AM ET",
+   "newest": "2026-10-17T12:56:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
    "count": 49,
-   "fetched_et": "Oct 17 09:26 AM ET",
+   "fetched_et": "Oct 17 09:56 AM ET",
    "newest_et": "Oct 17 08:11 AM ET",
    "newest": "2026-10-17T12:11:15+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
-   "count": 59,
-   "fetched_et": "Oct 17 09:26 AM ET",
-   "newest_et": "Oct 17 03:31 AM ET",
-   "newest": "2026-10-17T07:31:37+00:00"
+   "count": 60,
+   "fetched_et": "Oct 17 09:56 AM ET",
+   "newest_et": "Oct 16 10:55 PM ET",
+   "newest": "2026-10-17T02:55:13+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 17 09:26 AM ET",
+   "fetched_et": "Oct 17 09:56 AM ET",
    "newest_et": "Oct 16 11:00 AM ET",
    "newest": "2026-10-16T15:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 17 09:26 AM ET",
-   "newest_et": "Oct 17 07:54 AM ET",
-   "newest": "2026-10-17T11:54:29+00:00"
+   "fetched_et": "Oct 17 09:56 AM ET",
+   "newest_et": "Oct 17 09:05 AM ET",
+   "newest": "2026-10-17T13:05:00+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Oct 17 09:26 AM ET"
+   "fetched_et": "Oct 17 09:56 AM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
@@ -2075,7 +2084,7 @@
   "Economic calendar": {
    "ok": false,
    "count": 3,
-   "fetched_et": "Oct 17 08:50 AM ET",
+   "fetched_et": "Oct 17 09:57 AM ET",
    "note": "RULE-BASED FALLBACK (approximate; live calendar unavailable)"
   }
  }
