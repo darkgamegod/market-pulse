@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 18 11:21 AM ET",
- "generated_at": "2026-10-18T11:21:32.465292-04:00",
+ "generated_et": "Oct 18 11:54 AM ET",
+ "generated_at": "2026-10-18T11:54:47.725198-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-18",
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 81077.62,
-   "pct": -0.37,
-   "asof_et": "Oct 18 11:20 AM ET",
+   "price": 81027.87,
+   "pct": -0.44,
+   "asof_et": "Oct 18 11:50 AM ET",
    "freshness": "delayed"
   },
   {
@@ -382,6 +382,94 @@
  ],
  "breaking": [
   {
+   "title": "Warren Buffett's Market Warning Is Hard to Ignore. But I'd Buy These 3 Stocks Anyway.",
+   "link": "https://www.fool.com/investing/2026/10/18/warren-buffetts-market-warning-is-hard-to-ignore/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.4,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 18 11:54 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "St Petersburg oil facilities ablaze as Ukraine launches more than 1,000 drones at Russia",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb0JsZHhVNVNkaUhpSndSUTRqNjBFN2dpaktfTUZ4dWxBTkxzQ3I1LW5CRlBQNnR3UmJ5R0JzWGFaenZ5TDg3Qkt2bC05cmpYTlAwZkRSRjBoYlN1elkwelNDNmhPbkhhV1BDT05fWm96V3oxbk5YN09nUkQ2VzlvbTR1YV81Zl9wdzU5WEU1UXN3STc0ZHJlUnhiWUc2dUk?oc=5",
+   "source": "AP News",
+   "impact": 2.4,
+   "tickers": [
+    "CL=F",
+    "XLE"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 18 11:54 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Here are the 3 big things we're watching in the stock market this week",
+   "link": "https://www.cnbc.com/investingclub/2026/10/18/here-are-the-3-big-things-were-watching-in-the-stock-market-this-week.html",
+   "source": "CNBC Top News",
+   "impact": 3.4,
+   "tickers": [
+    "META"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 18 11:54 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Intel (INTC) Lands A Major Customer For Its 14A Foundry Process",
+   "link": "https://finance.yahoo.com/technology/articles/intel-intc-lands-major-customer-151209880.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.7,
+   "tickers": [
+    "INTC",
+    "TSLA"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 18 11:54 AM ET",
+   "consumer": true
+  },
+  {
+   "title": "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ001MUlHYUhFLTdzTlZPTWdsOG12UXhpTFdKOFQ1REFaUFVhWGZJTXk1V0Y3cGNhTTR3d1hnclJVamdMRFJlZ213WjVsblNIODZ6cUstbVp6U1o1STRyUVNMUXRPUkVFUlZJWWppUWo3VWpZOXB2WDlTck4yUXFQXy0wQktGczRPbkVkZ1dheURZcGp1dFA2WXVlaXpLeTNLVzAyVnhGWlRrUVNH?oc=5",
+   "source": "AP News",
+   "impact": 2.2,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 18 11:54 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Nellis Air Force Base: Service member dies after rappelling fall at a UT San Antonio game",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSENrWmpZclZ3MTdpUkhZNmRULTFQN2VjS3lvVThlYzJvWW0zUTA5eVR5OTFxUjRqYjJ6aGdINW9QbkstNXB5dWczYXZONGFoLXliMVBMV1NOVXFqZlBjaHV2aHc3RlVzZWRBblBneWszWnMzamVteE0tQm9mQmhZZTJfNnE2UDQ3UHAtVm1qZGZqdFM1OHNXRnVaRjc4S2tsTXZaOUs5RDF2Zw?oc=5",
+   "source": "AP News",
+   "impact": 1.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 18 11:54 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Bachmeier leads winning drive, No. 8 BYU outlasts No. 2 Notre Dame 28-24 but Big 12 admits mistake",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdTNMNzhmdWZzQm1iZmVKTFVfNVlzRUtaRVhILTFOR3RFTjBSeUtKbHg0cXoza29NczFQcU5PYVJ6dkQ3bDc4SU4za21udG5EWFVmb1ZjWVNvNjUyVjFRdFNQSjZSQ0xNMENBb3l6ZEVwX3hGUE0wLTdhWU9ONkJxS3pBaE9FRWNwbUdIQVlnVy1wcHc?oc=5",
+   "source": "AP News",
+   "impact": 2.2,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 18 11:54 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "China proposes export controls on solar-manufacturing technologies",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaGtBN1ctcU1NbGFxLXVKb01UVVdDUklxa3Z6Tk1ac05vT2lkd0d2THJqR1Q4VDBDTjJFSUlJYXNCdF83Tko2S0hrbDZSX3NrWWRrWFljNFNHOWhVUnpib3JpdjY3TWZJUEpEQzJKdnFpckZhZTM4X3RXTnhuMzVJWXRxemxoUTdlcDcwckxSUlROQ1pqbHZWdFplOEZUTHh1dDVxb3pfTlN3X2dURk1ETnJzTXJmUFluU0dfck1OSFl4YVlqZHE1NA?oc=5",
+   "source": "Reuters",
+   "impact": 1.1,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 18 11:54 AM ET",
+   "consumer": false
+  },
+  {
    "title": "I’m 64 with two sons, but only one works in the family business. Is it ethical to leave him 70% of the company?",
    "link": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
    "source": "MarketWatch Top",
@@ -530,109 +618,6 @@
    "sentiment_label": "neutral",
    "seen_et": "Oct 18 11:21 AM ET",
    "consumer": false
-  },
-  {
-   "title": "Tesla's flying Roadster requires a $50,000 deposit — but even Musk isn't sure it's street-legal",
-   "link": "https://finance.yahoo.com/technology/articles/teslas-flying-roadster-requires-50-145000551.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.1,
-   "tickers": [
-    "TSLA"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 18 10:55 AM ET",
-   "consumer": true
-  },
-  {
-   "title": "Bessent warns Zelenskyy to 'be very careful' about claims U.S. is throttling Starlink",
-   "link": "https://www.cnbc.com/2026/10/18/bessent-zelenskyy-starlink-ukarine-war.html",
-   "source": "CNBC Top News",
-   "impact": 3.2,
-   "tickers": [
-    "TSLA"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 18 10:55 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Can Eli Lilly’s (LLY) Growth Machine Keep Delivering?",
-   "link": "https://finance.yahoo.com/healthcare/articles/eli-lilly-lly-growth-machine-144425648.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.9,
-   "tickers": [
-    "LLY",
-    "SPY"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 18 10:55 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "SpaceX Is Buying Airwaves to Take On the Wireless Carriers. Is the Stock a Buy?",
-   "link": "https://www.fool.com/investing/2026/10/18/spacex-is-buying-airwaves-to-take-on-the-wireless-carriers-is-the-stock-a-buy/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.1,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 18 10:55 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Costco (COST) vs. Walmart (WMT): Which Retailing Giant Has a Wider Moat?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/costco-cost-vs-walmart-wmt-144230823.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.8,
-   "tickers": [
-    "COST",
-    "QQQ",
-    "SPY",
-    "WMT"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 18 10:55 AM ET",
-   "consumer": true
-  },
-  {
-   "title": "TSMC’s (TSM) Record AI Demand Comes With a Growing Cost",
-   "link": "https://finance.yahoo.com/technology/ai/articles/tsmc-tsm-record-ai-demand-144104490.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 4.6,
-   "tickers": [
-    "SPY",
-    "TSM"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 18 10:55 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Alphabet’s (GOOGL) Low P/E Is Misleading, but the AI Opportunity Is Real",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-low-p-e-143908109.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 4.4,
-   "tickers": [
-    "GOOGL",
-    "QQQ",
-    "SPY"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 18 10:55 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Amazon (AMZN) Is A Proven Capital Allocator. But Can it Pass Its $220 Billion Test?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-amzn-proven-capital-allocator-143821169.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.0,
-   "tickers": [
-    "AMZN",
-    "QQQ",
-    "SPY"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 18 10:55 AM ET",
-   "consumer": true
   }
  ],
  "high_impact": [],
@@ -1973,9 +1958,9 @@
   ]
  },
  "sentiment_validation": {
-  "logged": 2851,
+  "logged": 2854,
   "min_sample": 100,
-  "generated_et": "Oct 18 11:21 AM ET",
+  "generated_et": "Oct 18 11:55 AM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
@@ -2074,98 +2059,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 18 11:21 AM ET",
-   "newest_et": "Oct 18 10:48 AM ET",
-   "newest": "2026-10-18T14:48:33+00:00"
+   "fetched_et": "Oct 18 11:54 AM ET",
+   "newest_et": "Oct 18 11:44 AM ET",
+   "newest": "2026-10-18T15:44:41+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 18 11:21 AM ET",
+   "fetched_et": "Oct 18 11:54 AM ET",
    "newest_et": "Oct 16 06:34 PM ET",
    "newest": "2026-10-16T22:34:29+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 18 11:21 AM ET",
+   "fetched_et": "Oct 18 11:54 AM ET",
    "newest_et": "Oct 16 03:40 PM ET",
    "newest": "2026-10-16T19:40:00+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 18 11:21 AM ET",
+   "fetched_et": "Oct 18 11:54 AM ET",
    "newest_et": "Oct 18 11:15 AM ET",
    "newest": "2026-10-18T15:15:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 18 11:21 AM ET",
+   "fetched_et": "Oct 18 11:54 AM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 18 11:21 AM ET",
-   "newest_et": "Oct 18 11:07 AM ET",
-   "newest": "2026-10-18T15:07:00+00:00"
+   "fetched_et": "Oct 18 11:54 AM ET",
+   "newest_et": "Oct 18 11:37 AM ET",
+   "newest": "2026-10-18T15:37:00+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 53,
-   "fetched_et": "Oct 18 11:21 AM ET",
+   "fetched_et": "Oct 18 11:54 AM ET",
    "newest_et": "Oct 18 07:03 AM ET",
    "newest": "2026-10-18T11:03:04+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 18 11:21 AM ET",
+   "fetched_et": "Oct 18 11:54 AM ET",
    "newest_et": "Oct 18 06:47 AM ET",
    "newest": "2026-10-18T10:47:40+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 18 11:21 AM ET",
-   "newest_et": "Oct 18 10:43 AM ET",
-   "newest": "2026-10-18T14:43:00+00:00"
+   "fetched_et": "Oct 18 11:54 AM ET",
+   "newest_et": "Oct 18 11:33 AM ET",
+   "newest": "2026-10-18T15:33:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 24,
-   "fetched_et": "Oct 18 11:21 AM ET",
+   "count": 23,
+   "fetched_et": "Oct 18 11:54 AM ET",
    "newest_et": "Oct 17 11:07 PM ET",
    "newest": "2026-10-18T03:07:00+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
-   "count": 59,
-   "fetched_et": "Oct 18 11:21 AM ET",
+   "count": 58,
+   "fetched_et": "Oct 18 11:54 AM ET",
    "newest_et": "Oct 18 08:41 AM ET",
    "newest": "2026-10-18T12:41:39+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 18 11:21 AM ET",
+   "fetched_et": "Oct 18 11:54 AM ET",
    "newest_et": "Oct 16 11:00 AM ET",
    "newest": "2026-10-16T15:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 18 11:21 AM ET",
+   "fetched_et": "Oct 18 11:54 AM ET",
    "newest_et": "Oct 18 10:53 AM ET",
    "newest": "2026-10-18T14:53:00+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Oct 18 11:21 AM ET"
+   "fetched_et": "Oct 18 11:54 AM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
