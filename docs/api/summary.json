@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 17 07:49 PM ET",
- "generated_at": "2026-10-17T19:49:31.209730-04:00",
+ "generated_et": "Oct 17 08:31 PM ET",
+ "generated_at": "2026-10-17T20:31:57.016698-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-17",
@@ -84,16 +84,16 @@
   {
    "symbol": "CL=F",
    "label": "WTI Crude",
-   "price": 99.02,
-   "pct": 1.07,
+   "price": 99.04,
+   "pct": 1.09,
    "asof_et": "Oct 16 04:55 PM ET",
    "freshness": "closed"
   },
   {
    "symbol": "GC=F",
    "label": "Gold",
-   "price": 4181.1,
-   "pct": 0.26,
+   "price": 4186.7,
+   "pct": 0.4,
    "asof_et": "Oct 16 04:55 PM ET",
    "freshness": "closed"
   },
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 81265.83,
-   "pct": -0.29,
-   "asof_et": "Oct 17 07:45 PM ET",
+   "price": 81342.27,
+   "pct": -0.19,
+   "asof_et": "Oct 17 08:30 PM ET",
    "freshness": "delayed"
   },
   {
@@ -381,6 +381,101 @@
  ],
  "breaking": [
   {
+   "title": "How Nvidia Could Make $150 Billion Look Small",
+   "link": "https://www.fool.com/investing/2026/10/17/how-nvidia-could-make-usd150-billion-look-small/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.3,
+   "tickers": [
+    "NVDA"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 17 08:32 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "$3,000 Split Across Nvidia, Broadcom, and TSMC Could Be Worth This Much by 2030",
+   "link": "https://www.fool.com/investing/2026/10/17/3000-split-across-nvidia-broadcom-and-tsmc-could-b/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.2,
+   "tickers": [
+    "AVGO",
+    "NVDA",
+    "TSM"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 17 08:32 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Prediction: Oracle Stock Trails the S&P 500 Through 2030",
+   "link": "https://www.fool.com/investing/2026/10/17/prediction-oracle-stock-trails-the-s-and-p-500-through-2030/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 4.0,
+   "tickers": [
+    "ORCL",
+    "SPY"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 17 08:32 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Costco Wholesale Has Fallen More Than 10% From Its Peak Before. Here's What History Says Happens Next.",
+   "link": "https://www.fool.com/investing/2026/10/17/costco-wholesale-has-fallen-more-than-10-from-its/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.8,
+   "tickers": [
+    "COST"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 17 08:32 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Seven analysts keep JPY 1,646 target for Sugi stock",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORnZ4TVNuT0d4RFlZcHBobGZvM0Q3aURyT1pXLVktTS04bmx4cHBjdV9qRVlYcnRYZ2pEb2l6eVRmWVgxYXhsNHk4alJxYjlMYmV4TENITE4yNVVPVUsyWm8xWEJRbWJCYzVGemNWRVJ5bkVXUW5GcEdZc3kxek1hR2VKTk5OMjlyUmp1SnNhUkk1Qkl6QjE1VDQxN1dxTzMxazFsR2pqR3Z5SFpiU3Q4?oc=5",
+   "source": "ad-hoc-news.de",
+   "impact": 1.7,
+   "tickers": [
+    "TGT"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 17 08:32 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Jaguars eye a full 2028 home slate in Jacksonville in shift that could end Wembley run",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTy1STElWRExGZXVjcV9UWkVrcWZBemEwdU04SmtmejRtSjhUazFLYjBaQ0s3OEFXZmlYRm00RVNZTjhaWDA2REpOdlNYclRYQy14V0xoZFJGb2xtMkwyWEcxVDJnc3BITlAySG1rdTdwenVPQW9nbEZ1OFJEU0JXdU9XdTEwbjlWbGRXUkcyWk1xMUE?oc=5",
+   "source": "AP News",
+   "impact": 1.1,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 17 08:32 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "JD, BABA Stocks In Focus: Michael Burry Sees Hong Kong Market Benefiting From Korea's AI-Memory Unwind",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNZE9hRFd4dS1uV1VYOURLckpNVW1Ic1ZPMWt5eDVBbUV4bnQxeXRLYUFuMGQtai1Bd24zd3FpNmR5LWtzMkdQYjd0Y014ZUxKaGpaUUFpMzR0RExVVEJwQzBuSmg1Q29zNVZ4cHBvVTlMT1hvR1pnRDZFcEt0UnpNMy1POUE0V3FfQjVFZjdldVdnM0s4SWQxcW9YbDY0U0g2UlFFY0tuWVpMRF9HVGRTVmViV0g1QVFudnp6RGR6YkpTaC01aVpUUS1mS0xWQXVOa2Nra0wzNHV2UkJnZEJpNnd6NHJzTFJndlh6WVM3M2ozYmZ0TGtB?oc=5",
+   "source": "Stocktwits",
+   "impact": 0.7,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 17 08:32 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Korea stocks rebound as yields drop; foreigners and corporates drive gains - CHOSUNBIZ",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPd1pRXzEwYUhObzczNU81YU9ZY2M5LXcxclNNWG1CTG9vYjZuTzBPaDI4SWRKaDh5TDdHRTY0YUdFRjE2eXU2eTcxN1FNS28tSUh5RGg3OXVDallWUkRMbDNwcXgxWnBoNW4zaHIzWmxsUVVRbXhJUGZhQnQ0QlhXTtIBlAFBVV95cUxOQmg0eng1NDhxRHlxYmE1UmpfSlh6MW1JYi03bHo1ZGkyVXpCdmdCc0oxVlpQbGFCLUkxck9HVHBHa1Y0dGV1SkYydm1XWUp2ckp1RkVvNnlEUHVsTkRNUjN0ci1CMkRUM1VBejZMckZMUWZWUWhhUVoyamh2VDJlZUxlZVZFNjllMkJiNmcwbnJPN1lU?oc=5",
+   "source": "Chosunbiz",
+   "impact": 1.8,
+   "tickers": [
+    "^TNX"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 17 08:32 PM ET",
+   "consumer": false
+  },
+  {
    "title": "Citi Just Downgraded Bill Ackman's Pershing Square Stock to Sell, Citing a $45 Price Target Versus Its $60 Peak. Is PS Stock Overvalued After Its April IPO Rally?",
    "link": "https://www.fool.com/investing/2026/10/17/citi-just-downgraded-bill-ackmans-pershing-square/?.tsrc=rss",
    "source": "Yahoo Finance",
@@ -510,98 +605,6 @@
    "tickers": [],
    "sentiment_label": "bearish",
    "seen_et": "Oct 17 07:17 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Photos show wildfire fueled by high winds engulfing coastal homes in Southern California",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNR0JxRUN3d05UODMtcGNHdHBXNDZ4bVBwVTFFa0ZvTDhqQzJYNUc2cWN6NFBfMnJONlFlNVktcFNobXVEUVlHUEFNZF9VbEhnWFZYWGdnWnhXYWZtMzdhODV4UUJGQ01sdXJhY2w2N0pSdHpnOWQ0dFJxaWhLVVJXRklaTVkxODcwcWxHWXBVbG5FM003dmY2N3VWWVNaZzhvTzBTUEdwSlExUjBNV0U2T1hzQzlCZm04TmpEa2RqTmFBblJSRy1ZYlREU2JIT1NXTU9aTExyVjd6amFtN1pRTmNB?oc=5",
-   "source": "AP News",
-   "impact": 1.4,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 17 07:17 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Desperate civilians risk their lives along mined roads to escape from a Russian-held city",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUzRPOHN5Q0hpYldodW1lc21sazBqVnhNdHVtdlZrbHJrdWhLWUtFbkJxc0pLeHMtTmFHV2R4QVdnVW1QMXZQTHpkYkM2cG9hMUd2bWFzSS10b1pCcXNVVXZTLUdFYnRZaTE4bUk3SkstSmtwRWVieUJJMnBzSlRoU2l4T1pmR2JYSThzU0Zzb2pYX1AyWUFkTkJSWGh3dU55OXNv?oc=5",
-   "source": "AP News",
-   "impact": 2.1,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 17 07:17 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "What Happens When You Return Kitchen Appliances To Home Depot?",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTEpzeU5nczFmMVhjTU5LVGhLY3lHektDWDRUUFB4M1d4bUZZdUdZbFJxc1B6Qnpmd1RoU3ZrSkdnbHkyWG1jYkpRMmNSSm1meXlKZGNMaGV1aDFaclZfRzZ5Q3V2dXhxb0RzcG5RNHAxRW14YWw3bW5sYWY4eXczQ3J2SkI3TnRyY0E?oc=5",
-   "source": "AOL.com",
-   "impact": 1.8,
-   "tickers": [
-    "HD"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 17 07:17 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Atlanta Dream and Golden State Valkyries are top defensive teams in WNBA, now facing off in finals",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbUV5Rk9wTUhoWVg1eGRuQUxHVkd2b1UyWXNuenRHYjFURXlDWFRPblQtN1dnOFFkZEhKUXE5T0Y3akM1LWUwYVlYSEhiMVJkeGFaTzloS2ZpMnRSc21pRjZmZDNiempDNjZUM0NNeWF1anpCZlJLT1cxeXkxMXdWWmI1UXdqYVNTWjR6NmxDSjhUcWFvSW15ajNJcw?oc=5",
-   "source": "AP News",
-   "impact": 1.3,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 17 07:17 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Mass protests in France spiral into worst riots in years",
-   "link": "https://www.cnbc.com/2026/10/17/french-protesters-take-to-streets-over-rising-prices-and-social-strain.html",
-   "source": "CNBC Top News",
-   "impact": 2.6,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 17 06:52 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Should You Buy NuScale at $6 After the Google Rally? Here's the Next Catalyst That Could Send It Higher.",
-   "link": "https://www.fool.com/investing/2026/10/17/should-you-buy-nuscale-at-6-after-the-google-rally/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 6.4,
-   "tickers": [
-    "GOOGL"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 17 06:52 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Nvidia vs. AMD: Which AI Business Has More Room for Margins to Fall?",
-   "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-vs-amd-ai-business-221105605.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 4.5,
-   "tickers": [
-    "AMD",
-    "NVDA",
-    "QQQ"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 17 06:52 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Nvidia vs. AMD: Which Business Is More Exposed to a Data-Center Slowdown?",
-   "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-vs-amd-business-more-221027025.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.0,
-   "tickers": [
-    "AMD",
-    "NVDA",
-    "QQQ"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 17 06:52 PM ET",
    "consumer": false
   }
  ],
@@ -806,7 +809,7 @@
  "movers": {
   "mode": "last session (market not in pre-market)",
   "basis": "opening gap (open vs prior close) of the last session; RVOL = session volume / 20-day avg",
-  "fetched_et": "Oct 17 04:55 PM ET",
+  "fetched_et": "Oct 17 08:32 PM ET",
   "gappers": [
    {
     "symbol": "NFLX",
@@ -1855,9 +1858,9 @@
   ]
  },
  "sentiment_validation": {
-  "logged": 2740,
+  "logged": 2747,
   "min_sample": 100,
-  "generated_et": "Oct 17 07:49 PM ET",
+  "generated_et": "Oct 17 08:32 PM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
@@ -1956,98 +1959,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 17 07:49 PM ET",
+   "fetched_et": "Oct 17 08:31 PM ET",
    "newest_et": "Oct 17 07:04 PM ET",
    "newest": "2026-10-17T23:04:00+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 17 07:49 PM ET",
+   "fetched_et": "Oct 17 08:31 PM ET",
    "newest_et": "Oct 16 06:34 PM ET",
    "newest": "2026-10-16T22:34:29+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 17 07:49 PM ET",
+   "fetched_et": "Oct 17 08:31 PM ET",
    "newest_et": "Oct 16 03:40 PM ET",
    "newest": "2026-10-16T19:40:00+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 17 07:49 PM ET",
+   "fetched_et": "Oct 17 08:31 PM ET",
    "newest_et": "Oct 17 04:53 PM ET",
    "newest": "2026-10-17T20:53:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 17 07:49 PM ET",
+   "fetched_et": "Oct 17 08:31 PM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
-   "count": 19,
-   "fetched_et": "Oct 17 07:49 PM ET",
-   "newest_et": "Oct 17 07:25 PM ET",
-   "newest": "2026-10-17T23:25:00+00:00"
+   "count": 20,
+   "fetched_et": "Oct 17 08:31 PM ET",
+   "newest_et": "Oct 17 08:21 PM ET",
+   "newest": "2026-10-18T00:21:01+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 49,
-   "fetched_et": "Oct 17 07:49 PM ET",
+   "fetched_et": "Oct 17 08:31 PM ET",
    "newest_et": "Oct 17 05:33 PM ET",
    "newest": "2026-10-17T21:33:17+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 17 07:49 PM ET",
+   "fetched_et": "Oct 17 08:31 PM ET",
    "newest_et": "Oct 17 02:19 AM ET",
    "newest": "2026-10-17T06:19:00+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 17 07:49 PM ET",
-   "newest_et": "Oct 17 05:55 PM ET",
-   "newest": "2026-10-17T21:55:00+00:00"
+   "fetched_et": "Oct 17 08:31 PM ET",
+   "newest_et": "Oct 17 08:06 PM ET",
+   "newest": "2026-10-18T00:06:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 45,
-   "fetched_et": "Oct 17 07:49 PM ET",
+   "count": 43,
+   "fetched_et": "Oct 17 08:31 PM ET",
    "newest_et": "Oct 17 02:39 PM ET",
    "newest": "2026-10-17T18:39:00+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
    "count": 59,
-   "fetched_et": "Oct 17 07:49 PM ET",
+   "fetched_et": "Oct 17 08:31 PM ET",
    "newest_et": "Oct 17 03:14 PM ET",
    "newest": "2026-10-17T19:14:44+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 17 07:49 PM ET",
+   "fetched_et": "Oct 17 08:31 PM ET",
    "newest_et": "Oct 16 11:00 AM ET",
    "newest": "2026-10-16T15:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 17 07:49 PM ET",
+   "fetched_et": "Oct 17 08:32 PM ET",
    "newest_et": "Oct 17 06:33 PM ET",
    "newest": "2026-10-17T22:33:48+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Oct 17 07:49 PM ET"
+   "fetched_et": "Oct 17 08:31 PM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
