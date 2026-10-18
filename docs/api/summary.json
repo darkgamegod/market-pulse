@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 17 09:17 PM ET",
- "generated_at": "2026-10-17T21:17:38.406286-04:00",
+ "generated_et": "Oct 17 10:00 PM ET",
+ "generated_at": "2026-10-17T22:00:16.404502-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-17",
@@ -84,16 +84,16 @@
   {
    "symbol": "CL=F",
    "label": "WTI Crude",
-   "price": 99.04,
-   "pct": 1.09,
+   "price": 99.02,
+   "pct": 1.07,
    "asof_et": "Oct 16 04:55 PM ET",
    "freshness": "closed"
   },
   {
    "symbol": "GC=F",
    "label": "Gold",
-   "price": 4186.7,
-   "pct": 0.4,
+   "price": 4181.1,
+   "pct": 0.26,
    "asof_et": "Oct 16 04:55 PM ET",
    "freshness": "closed"
   },
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 81484.13,
-   "pct": -0.02,
-   "asof_et": "Oct 17 09:15 PM ET",
+   "price": 81552.97,
+   "pct": 0.06,
+   "asof_et": "Oct 17 10:00 PM ET",
    "freshness": "delayed"
   },
   {
@@ -381,6 +381,81 @@
  ],
  "breaking": [
   {
+   "title": "Heavier mail-in ballots raise postage questions in Tarrant County",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPYXZqb1RMZUQ0NkFISzVfRzBObEo4U3NSQld4WHBCVkhncmNQUEZhZ2czS1hybmUzWWFmd2pWa0tDYjRuYVNaVVZLcnRrNjhFdzZ0NEJkd25sbzBnUEZLSi1Rbll1VGMtdkhsc3VFZ1FoX3U4ZHducjg3WmU4ZE9aR3pSdC1yV1duV1hWSGRMeF9nSk5OSzg1ZlR6TWN1LWlOaFQ1TWxhSndSMFdod3FQaTFja3JaOUV5UlVSX3BpTEJPNy1qb3Z5M0dKMXc3TDc2MEJ4WGNoQ2tJa2FzSWMzby14Z3UzRk1lRndLdg?oc=5",
+   "source": "WFAA",
+   "impact": 1.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 17 10:00 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Cathie Wood Keeps Buying Beam Therapeutics on the Dip. Should You Follow Her Lead?",
+   "link": "https://www.fool.com/investing/2026/10/17/cathie-wood-keeps-buying-beam-therapeutics-on-the/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 1.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 17 10:00 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Elon Musk Says Jensen Huang 'Rocks' as SpaceX, Nvidia Team Up on AI Data Centers in Space: ‘Far Better Than Almost Anyone Expects’",
+   "link": "https://finance.yahoo.com/technology/ai/articles/elon-musk-says-jensen-huang-003013948.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.4,
+   "tickers": [
+    "NVDA",
+    "TSLA"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 17 10:00 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Fire crews battle Southern California blaze that burned 6 homes, led to the evacuation of 16,000",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVWhWT0UwUHNGVjlnc3Z5Rnhzd2JqOE45R25UQkE2Ti1vcHBWNHc4RnJhNXhGVDN6SzFqUkFQb01KT0tiTFpsUXBuTGtoZHpUSVFfM01PUWhaRnlWM1ZwbS1jVVdfd25VZ015OWdtUnhJalhWUGVHMzNzVTJWN1FtR2hWc3JiY2xYTmpvZlpoNDVuVkhGVTdV?oc=5",
+   "source": "AP News",
+   "impact": 2.4,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 17 10:00 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Daily life around the world, in photos",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY2UyZHkyUzYxbS1IdlBMVVhJdTUySVVGbUtkVTc2ak4yTWEzX21GX3FOUWtmMS1GRXlhaGJsVkdSME8ydGxHTEFTLW9jQXJhLTdHTE5IU210MjM2Y0tkLWMxM3h1ZjJGX2RVemxRLVRnUTZ1eW9nTmFSZ2tscC15VDlKSGY3TTBEU2pQSWNDYklDc2M4b2tUUGRlTmY?oc=5",
+   "source": "AP News",
+   "impact": 1.4,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 17 10:00 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Amplify Online Retail ETF (IBUY) Stock Price, News, Quote & History",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43aTFNanJsVEdJRDk2RWdnb3NKdzAydXUwWlJlWG1seENuWThNWnRHemNoUVRuUDZyM05ic2tNNnhoaFpWLWItN0xMRjQ5TGhRUlE?oc=5",
+   "source": "Yahoo! Finance Canada",
+   "impact": 0.9,
+   "tickers": [
+    "IBUY"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 17 10:00 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Largest Christmas market serving danke dips is looking for someone to 'capture the magic' for $500",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOelpjeUprZ2V0NFBTY182RmhGcmVOX3lhcFhVWTV0T0RnWkdHMTRPRFptd3FTcHJhZFdpdm9aRjAtNlJwekM5ZVhsbUFVRzJUSG1lTzluVUxSQjVhUjFsZGFORFdmX1lpOFlaNnlfU3lCYmtTZ19hUGo3OUxpQWc1c0JScEEyMkpTSkotZEs2LXo?oc=5",
+   "source": "The Sun",
+   "impact": 0.3,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 17 10:00 PM ET",
+   "consumer": false
+  },
+  {
    "title": "35 Analysts Cover SpaceX. Here's Why Their Price Targets Have Almost Nothing to Do With Rockets.",
    "link": "https://www.fool.com/investing/2026/10/17/35-analysts-cover-spacex-heres-why-their-price-tar/?.tsrc=rss",
    "source": "Yahoo Finance",
@@ -523,85 +598,6 @@
    "tickers": [],
    "sentiment_label": "neutral",
    "seen_et": "Oct 17 08:32 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "JD, BABA Stocks In Focus: Michael Burry Sees Hong Kong Market Benefiting From Korea's AI-Memory Unwind",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNZE9hRFd4dS1uV1VYOURLckpNVW1Ic1ZPMWt5eDVBbUV4bnQxeXRLYUFuMGQtai1Bd24zd3FpNmR5LWtzMkdQYjd0Y014ZUxKaGpaUUFpMzR0RExVVEJwQzBuSmg1Q29zNVZ4cHBvVTlMT1hvR1pnRDZFcEt0UnpNMy1POUE0V3FfQjVFZjdldVdnM0s4SWQxcW9YbDY0U0g2UlFFY0tuWVpMRF9HVGRTVmViV0g1QVFudnp6RGR6YkpTaC01aVpUUS1mS0xWQXVOa2Nra0wzNHV2UkJnZEJpNnd6NHJzTFJndlh6WVM3M2ozYmZ0TGtB?oc=5",
-   "source": "Stocktwits",
-   "impact": 0.7,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 17 08:32 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Korea stocks rebound as yields drop; foreigners and corporates drive gains - CHOSUNBIZ",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPd1pRXzEwYUhObzczNU81YU9ZY2M5LXcxclNNWG1CTG9vYjZuTzBPaDI4SWRKaDh5TDdHRTY0YUdFRjE2eXU2eTcxN1FNS28tSUh5RGg3OXVDallWUkRMbDNwcXgxWnBoNW4zaHIzWmxsUVVRbXhJUGZhQnQ0QlhXTtIBlAFBVV95cUxOQmg0eng1NDhxRHlxYmE1UmpfSlh6MW1JYi03bHo1ZGkyVXpCdmdCc0oxVlpQbGFCLUkxck9HVHBHa1Y0dGV1SkYydm1XWUp2ckp1RkVvNnlEUHVsTkRNUjN0ci1CMkRUM1VBejZMckZMUWZWUWhhUVoyamh2VDJlZUxlZVZFNjllMkJiNmcwbnJPN1lU?oc=5",
-   "source": "Chosunbiz",
-   "impact": 1.8,
-   "tickers": [
-    "^TNX"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 17 08:32 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Citi Just Downgraded Bill Ackman's Pershing Square Stock to Sell, Citing a $45 Price Target Versus Its $60 Peak. Is PS Stock Overvalued After Its April IPO Rally?",
-   "link": "https://www.fool.com/investing/2026/10/17/citi-just-downgraded-bill-ackmans-pershing-square/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 4.7,
-   "tickers": [
-    "C",
-    "TGT"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 17 07:49 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Tesla (TSLA) Gets A Lift From China’s $37 Billion Subsidies And EV Tipping Point",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-gets-lift-china-231619635.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 4.5,
-   "tickers": [
-    "TSLA"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 17 07:49 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "Amazon.com (AMZN) Received An FDA Warning Over Unapproved STI Drug Listings",
-   "link": "https://finance.yahoo.com/healthcare/articles/amazon-com-amzn-received-fda-231339693.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 4.1,
-   "tickers": [
-    "AMZN"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 17 07:49 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "'Handshake agreement' with ESPN brings college football closer to a 24-team playoff, AP source says",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeUpBTnNhcVh0VXhpOTJOb2NxNlQ0NGlJYkljRkVNMjBRQk1fV3lwb2NDZXZvVnJCNnFDamtWNHB4b1I2RF9pWXF3dGdqU1dsRXUwRV9YLUNTWDE1cEk3WXRYNlJpVVdMUHJmUDJOMjVSNlcza0hoUXRaYVJTUEc3SHJVa1BzSE9teV9vTmppME8yV3hCOXZHN0VR?oc=5",
-   "source": "AP News",
-   "impact": 1.4,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 17 07:49 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "South Korean Household Funds Locked in Stock Market as Crash Threatens Domestic Demand Recovery",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NV29CcjRpSzZIREtaOTBuQTEyS1g4TW9qbGVZNHY1NDRQUVoyR1RPV29hdmZfcmM3SGxCcGd5WWR6bXVQWXB1dUNtbklJWUZqQVpqY2lwcWpPZzNrZFVyRVNYTTZ5YjVhUFg3bUo0RVkweUJCQ1E?oc=5",
-   "source": "BigGo Finance",
-   "impact": 3.2,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 17 07:49 PM ET",
    "consumer": false
   }
  ],
@@ -1175,7 +1171,7 @@
  },
  "earnings": {
   "source": "Nasdaq earnings calendar API (api.nasdaq.com), filtered to S&P 500 + watchlist",
-  "fetched_et": "Oct 17 05:53 PM ET",
+  "fetched_et": "Oct 17 10:00 PM ET",
   "events": [
    {
     "date": "2026-10-19",
@@ -1855,9 +1851,9 @@
   ]
  },
  "sentiment_validation": {
-  "logged": 2747,
+  "logged": 2749,
   "min_sample": 100,
-  "generated_et": "Oct 17 09:18 PM ET",
+  "generated_et": "Oct 17 10:00 PM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
@@ -1956,103 +1952,103 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 17 09:17 PM ET",
+   "fetched_et": "Oct 17 10:00 PM ET",
    "newest_et": "Oct 17 07:04 PM ET",
    "newest": "2026-10-17T23:04:00+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 17 09:17 PM ET",
+   "fetched_et": "Oct 17 10:00 PM ET",
    "newest_et": "Oct 16 06:34 PM ET",
    "newest": "2026-10-16T22:34:29+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 17 09:17 PM ET",
+   "fetched_et": "Oct 17 10:00 PM ET",
    "newest_et": "Oct 16 03:40 PM ET",
    "newest": "2026-10-16T19:40:00+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 17 09:17 PM ET",
+   "fetched_et": "Oct 17 10:00 PM ET",
    "newest_et": "Oct 17 04:53 PM ET",
    "newest": "2026-10-17T20:53:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 17 09:17 PM ET",
+   "fetched_et": "Oct 17 10:00 PM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 17 09:17 PM ET",
-   "newest_et": "Oct 17 08:50 PM ET",
-   "newest": "2026-10-18T00:50:00+00:00"
+   "fetched_et": "Oct 17 10:00 PM ET",
+   "newest_et": "Oct 17 09:20 PM ET",
+   "newest": "2026-10-18T01:20:00+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 49,
-   "fetched_et": "Oct 17 09:17 PM ET",
+   "fetched_et": "Oct 17 10:00 PM ET",
    "newest_et": "Oct 17 05:33 PM ET",
    "newest": "2026-10-17T21:33:17+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 17 09:17 PM ET",
+   "fetched_et": "Oct 17 10:00 PM ET",
    "newest_et": "Oct 17 02:19 AM ET",
    "newest": "2026-10-17T06:19:00+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 17 09:17 PM ET",
-   "newest_et": "Oct 17 08:16 PM ET",
-   "newest": "2026-10-18T00:16:00+00:00"
+   "fetched_et": "Oct 17 10:00 PM ET",
+   "newest_et": "Oct 17 09:22 PM ET",
+   "newest": "2026-10-18T01:22:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
    "count": 45,
-   "fetched_et": "Oct 17 09:17 PM ET",
-   "newest_et": "Oct 17 02:39 PM ET",
-   "newest": "2026-10-17T18:39:00+00:00"
+   "fetched_et": "Oct 17 10:00 PM ET",
+   "newest_et": "Oct 17 09:44 PM ET",
+   "newest": "2026-10-18T01:44:00+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
-   "count": 59,
-   "fetched_et": "Oct 17 09:17 PM ET",
+   "count": 58,
+   "fetched_et": "Oct 17 10:00 PM ET",
    "newest_et": "Oct 17 03:14 PM ET",
    "newest": "2026-10-17T19:14:44+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 17 09:17 PM ET",
+   "fetched_et": "Oct 17 10:00 PM ET",
    "newest_et": "Oct 16 11:00 AM ET",
    "newest": "2026-10-16T15:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 17 09:17 PM ET",
-   "newest_et": "Oct 17 06:33 PM ET",
-   "newest": "2026-10-17T22:33:48+00:00"
+   "fetched_et": "Oct 17 10:00 PM ET",
+   "newest_et": "Oct 17 08:38 PM ET",
+   "newest": "2026-10-18T00:38:05+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Oct 17 09:17 PM ET"
+   "fetched_et": "Oct 17 10:00 PM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
    "count": 75,
-   "fetched_et": "Oct 17 05:53 PM ET"
+   "fetched_et": "Oct 17 10:00 PM ET"
   },
   "Economic calendar": {
    "ok": false,
