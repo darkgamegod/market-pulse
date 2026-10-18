@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 18 07:40 AM ET",
- "generated_at": "2026-10-18T07:40:50.256285-04:00",
+ "generated_et": "Oct 18 08:04 AM ET",
+ "generated_at": "2026-10-18T08:04:23.567415-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-18",
@@ -14,6 +14,14 @@
    "label": "S&P 500 Fut",
    "price": 7704.25,
    "pct": -1.11,
+   "asof_et": "Oct 16 04:55 PM ET",
+   "freshness": "closed"
+  },
+  {
+   "symbol": "NQ=F",
+   "label": "Nasdaq 100 Fut",
+   "price": 29391.5,
+   "pct": -2.5,
    "asof_et": "Oct 16 04:55 PM ET",
    "freshness": "closed"
   },
@@ -108,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 81945.39,
-   "pct": 0.69,
-   "asof_et": "Oct 18 07:40 AM ET",
+   "price": 81972.93,
+   "pct": 0.73,
+   "asof_et": "Oct 18 08:00 AM ET",
    "freshness": "delayed"
   },
   {
@@ -374,6 +382,70 @@
  ],
  "breaking": [
   {
+   "title": "Hurricane Trudy brings heavy rain and strong winds to Mexico’s Pacific coast",
+   "link": "https://www.cnbc.com/2026/10/18/hurricane-trudy-brings-heavy-rain-winds-to-mexicos-pacific-coast.html",
+   "source": "CNBC Top News",
+   "impact": 2.1,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 18 08:04 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "There is a silent market rotation inside the S&P 500 that’s warning of more weakness ahead",
+   "link": "https://www.marketwatch.com/story/there-is-a-silent-market-rotation-inside-the-s-p-500-thats-warning-of-more-weakness-ahead-549e7650?mod=mw_rss_topstories",
+   "source": "MarketWatch Top",
+   "impact": 3.9,
+   "tickers": [
+    "SPY"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 18 08:04 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Warren Buffett Says He Has \"Never Felt Better\" About Berkshire Hathaway's Future as He Steps Down as Chairman at 96",
+   "link": "https://www.fool.com/investing/2026/10/18/warren-buffett-better-berkshire-hathaway-chair/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.2,
+   "tickers": [
+    "BRK-B"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 18 08:04 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Breakfast News: The Sunday Edition",
+   "link": "https://www.fool.com/investing/breakfast-news/2026/10/18/breakfast-news/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 1.8,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 18 08:04 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Deaths confirmed after 'serious incident,' fire at Canada military base in Alberta",
+   "link": "https://www.cnbc.com/2026/10/18/deaths-confirmed-after-fire-at-canada-military-base-in-alberta.html",
+   "source": "CNBC Top News",
+   "impact": 2.5,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 18 08:04 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "IREN Stock Heads For Ninth Straight Loss: $50M-A-Year NBA Spends, $788M Co-Founder Pay Packet Leave Retail Unimpressed",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQXzRnYmh6dmkwSi1RWkJueE9RdHB0VXZKVXA5eUJveXNfYWZPN0Rnc25Bem1LR0xXdzhxRkU2RXFfcmlpemVKbXlGMURENGdwUm83aXpWQkR1UGNLdTUzTWlpV1NMVlhkM21CVDZQYTlzclNTTW45VzV3TmxQdEx1R2xrZ0J0dUpEN1ZtM0FxVjF2SHI5RE5mRm5fbkJnYkZxZnZ3RkZTOWc?oc=5",
+   "source": "Stocktwits",
+   "impact": 1.6,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 18 08:04 AM ET",
+   "consumer": true
+  },
+  {
    "title": "NASA to Buy a New Space Station. Price Tag: $34.1 Billion",
    "link": "https://www.fool.com/investing/2026/10/18/nasa-to-buy-a-new-space-station-price-tag-341-bill/?.tsrc=rss",
    "source": "Yahoo Finance",
@@ -510,73 +582,6 @@
    "impact": 1.8,
    "tickers": [],
    "sentiment_label": "neutral",
-   "seen_et": "Oct 18 06:43 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "What is the Budget and what could be in it?",
-   "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "impact": 1.5,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 18 06:43 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "As Bitcoin Matures, Altcoins Face a Reckoning. Here's Which Ones Have a Real Use.",
-   "link": "https://www.fool.com/investing/2026/10/18/as-bitcoin-matures-altcoins-face-a-reckoning-heres/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.4,
-   "tickers": [
-    "BTC-USD",
-    "COIN"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 18 06:43 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "TSLA, CSIQ Stocks In Focus As China Tightens Solar Manufacturing Technology Exports",
-   "link": "https://stocktwits.com/news-articles/markets/equity/tsla-csiq-stocks-focus-china-tightens-solar-technology-exports/cZxNQy6RBtV?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 1.5,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 18 06:43 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "3 Cash Flow Stocks To Watch In October 2026",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/3-cash-flow-stocks-watch-101147480.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.8,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 18 06:43 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "3 UK Grid Stocks Retail Investors Are Watching for AI Data Centre Power",
-   "link": "https://finance.yahoo.com/energy/articles/3-uk-grid-stocks-retail-101125732.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.6,
-   "tickers": [
-    "MSFT"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 18 06:43 AM ET",
-   "consumer": true
-  },
-  {
-   "title": "Micron Technology (MU) Stock Is Down 24% From Its Peak. History Says $10,000 Invested Right Now Could Be Worth This Much by 2030",
-   "link": "https://www.fool.com/investing/2026/10/18/micron-technology-mu-stock-is-down-24-from-its-pea/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.8,
-   "tickers": [
-    "MU"
-   ],
-   "sentiment_label": "bullish",
    "seen_et": "Oct 18 06:43 AM ET",
    "consumer": false
   }
@@ -1121,7 +1126,7 @@
  "economic_calendar": {
   "source": "FairEconomy / ForexFactory weekly calendar (nfs.faireconomy.media)",
   "fallback": false,
-  "fetched_et": "Oct 18 06:43 AM ET",
+  "fetched_et": "Oct 18 08:04 AM ET",
   "events": [
    {
     "when_et": "Oct 19 10:00 AM ET",
@@ -1919,9 +1924,9 @@
   ]
  },
  "sentiment_validation": {
-  "logged": 2784,
+  "logged": 2785,
   "min_sample": 100,
-  "generated_et": "Oct 18 07:41 AM ET",
+  "generated_et": "Oct 18 08:04 AM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
@@ -2020,98 +2025,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 18 07:40 AM ET",
-   "newest_et": "Oct 18 07:11 AM ET",
-   "newest": "2026-10-18T11:11:22+00:00"
+   "fetched_et": "Oct 18 08:04 AM ET",
+   "newest_et": "Oct 18 08:00 AM ET",
+   "newest": "2026-10-18T12:00:56+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 18 07:40 AM ET",
+   "fetched_et": "Oct 18 08:04 AM ET",
    "newest_et": "Oct 16 06:34 PM ET",
    "newest": "2026-10-16T22:34:29+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 18 07:40 AM ET",
+   "fetched_et": "Oct 18 08:04 AM ET",
    "newest_et": "Oct 16 03:40 PM ET",
    "newest": "2026-10-16T19:40:00+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 18 07:40 AM ET",
-   "newest_et": "Oct 17 04:53 PM ET",
-   "newest": "2026-10-17T20:53:00+00:00"
+   "fetched_et": "Oct 18 08:04 AM ET",
+   "newest_et": "Oct 18 08:00 AM ET",
+   "newest": "2026-10-18T12:00:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 18 07:40 AM ET",
+   "fetched_et": "Oct 18 08:04 AM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 18 07:40 AM ET",
-   "newest_et": "Oct 18 07:27 AM ET",
-   "newest": "2026-10-18T11:27:00+00:00"
+   "fetched_et": "Oct 18 08:04 AM ET",
+   "newest_et": "Oct 18 07:50 AM ET",
+   "newest": "2026-10-18T11:50:00+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 53,
-   "fetched_et": "Oct 18 07:40 AM ET",
+   "fetched_et": "Oct 18 08:04 AM ET",
    "newest_et": "Oct 18 07:03 AM ET",
    "newest": "2026-10-18T11:03:04+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 18 07:40 AM ET",
+   "fetched_et": "Oct 18 08:04 AM ET",
    "newest_et": "Oct 17 02:19 AM ET",
    "newest": "2026-10-17T06:19:00+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 18 07:40 AM ET",
+   "fetched_et": "Oct 18 08:04 AM ET",
    "newest_et": "Oct 18 06:10 AM ET",
    "newest": "2026-10-18T10:10:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 34,
-   "fetched_et": "Oct 18 07:40 AM ET",
+   "count": 33,
+   "fetched_et": "Oct 18 08:04 AM ET",
    "newest_et": "Oct 17 11:07 PM ET",
    "newest": "2026-10-18T03:07:00+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
-   "count": 60,
-   "fetched_et": "Oct 18 07:40 AM ET",
+   "count": 59,
+   "fetched_et": "Oct 18 08:04 AM ET",
    "newest_et": "Oct 18 07:00 AM ET",
    "newest": "2026-10-18T11:00:00+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 18 07:40 AM ET",
+   "fetched_et": "Oct 18 08:04 AM ET",
    "newest_et": "Oct 16 11:00 AM ET",
    "newest": "2026-10-16T15:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 18 07:40 AM ET",
+   "fetched_et": "Oct 18 08:04 AM ET",
    "newest_et": "Oct 18 06:56 AM ET",
    "newest": "2026-10-18T10:56:02+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
-   "count": 25,
-   "fetched_et": "Oct 18 07:40 AM ET"
+   "count": 26,
+   "fetched_et": "Oct 18 08:04 AM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
@@ -2121,7 +2126,7 @@
   "Economic calendar": {
    "ok": true,
    "count": 14,
-   "fetched_et": "Oct 18 06:43 AM ET",
+   "fetched_et": "Oct 18 08:04 AM ET",
    "note": "FairEconomy / ForexFactory weekly calendar (nfs.faireconomy.media)"
   }
  }
