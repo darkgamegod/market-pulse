@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 18 10:55 AM ET",
- "generated_at": "2026-10-18T10:55:23.686574-04:00",
+ "generated_et": "Oct 18 11:21 AM ET",
+ "generated_at": "2026-10-18T11:21:32.465292-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-18",
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 80984.44,
-   "pct": -0.49,
-   "asof_et": "Oct 18 10:55 AM ET",
+   "price": 81077.62,
+   "pct": -0.37,
+   "asof_et": "Oct 18 11:20 AM ET",
    "freshness": "delayed"
   },
   {
@@ -382,6 +382,156 @@
  ],
  "breaking": [
   {
+   "title": "I’m 64 with two sons, but only one works in the family business. Is it ethical to leave him 70% of the company?",
+   "link": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
+   "source": "MarketWatch Top",
+   "impact": 2.3,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 18 11:21 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "The 10-Year Treasury Is Above 5% for the First Time in Almost 20 Years. History Says This Is How the S&P 500 Index Will Perform Over the Next 12 Months.",
+   "link": "https://www.fool.com/investing/2026/10/18/10-year-treasury-5-20-years-history-says-sp500/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.5,
+   "tickers": [
+    "SPY",
+    "^TNX"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 18 11:21 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Dow Jones Futures Loom After S&P 500, Nasdaq Sell-Off; Will Meta Save AI?",
+   "link": "https://finance.yahoo.com/m/4342d021-69d3-3aa1-9753-76f72c9ba95d/dow-jones-futures-loom-after.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 5.8,
+   "tickers": [
+    "DIA",
+    "META",
+    "QQQ",
+    "SPY",
+    "TSLA"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 18 11:21 AM ET",
+   "consumer": true
+  },
+  {
+   "title": "TSMC Is Spending up to $64 Billion This Year. Here's Why That's Great News for Investors.",
+   "link": "https://www.fool.com/investing/2026/10/18/tsmc-spending-64-billion-this-year-great-news/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.9,
+   "tickers": [
+    "TSM"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 18 11:21 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "NextEra Energy (NEE) Has Bigger Growth Ambitions. Is Duke Energy (DUK) the Better Buy?",
+   "link": "https://finance.yahoo.com/energy/articles/nextera-energy-nee-bigger-growth-145158391.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 4.0,
+   "tickers": [
+    "DUK",
+    "NEE",
+    "SPY"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 18 11:21 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Here's What $10,000 in Each of These 5 High-Yield Dividend Stocks Could Pay You in a Year",
+   "link": "https://www.nasdaq.com/articles/heres-what-10000-each-these-5-high-yield-dividend-stocks-could-pay-you-year",
+   "source": "Nasdaq Markets",
+   "impact": 2.3,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 18 11:21 AM ET",
+   "consumer": true
+  },
+  {
+   "title": "Roper Technologies (ROP) vs. Danaher (DHR): Which Is the Better Long-Term Capital Allocator?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/roper-technologies-rop-vs-danaher-144852795.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 4.1,
+   "tickers": [
+    "DHR",
+    "QQQ",
+    "ROP",
+    "SPY"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 18 11:21 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Waste Management (WM) Has a Long Runway. Is the Stock Worth Buying?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/waste-management-wm-long-runway-144741086.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.1,
+   "tickers": [
+    "SPY",
+    "WM"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 18 11:21 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Berkshire Hathaway (BRK.B) After Buffett: Can Its Capital Allocation Machine Keep Compounding?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-brk-b-buffett-144450448.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.6,
+   "tickers": [
+    "BRK-B",
+    "SPY"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 18 11:21 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Microsoft pulls out of UK data center deal with Nscale, Telegraph reports",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMmVDUVQyZjhnbFN2MHQ1MHVPMHVpLVVsUFE1aU44Y2QzMUx2a25MRXR5OWtkTGd5RkViaG9fM3lZcnFHblYyT2xMeGZ3MHI3NkFjQ0FhdWFVRWlmdHlPRDRFRVRsclFpbUExakpiN3Z4aGMtODdDb09Mb0xXbnIxdU04ZmQ3UTEyTkhQd2EyMFhDNzQzYVgzZG9FeDlNYTJTanNOOThVSGRTb2RnRWdCajBVXzFMcDB4MWZpbXR1STMzZ1JaOXRr?oc=5",
+   "source": "Reuters",
+   "impact": 2.4,
+   "tickers": [
+    "MSFT"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 18 11:21 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Apple Stock Rises as New Foldable iPhone Faces Delivery Delays",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWWJyRjdCOW4xbDBKbFpUWDRFaTlTdU1XWVhteFVGNmJkV0pvZlBNd1dXUjIxckViTEZTZFhZanF5dXMyMDV3Qm1Xa0tKRTEyUW1CREdET2JJb1d6Rk1mNUF6T3ZoQ0c1aUduR3I5VDVTS1FBMnhEWDVEbHZVbzd2NVNlRWt0bm5iNGI5WUpqcWNUc1ozeUJsR1J2NXVwZFBQLWRFOWJ3Yw?oc=5",
+   "source": "India News Network",
+   "impact": 1.2,
+   "tickers": [
+    "AAPL"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 18 11:21 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "COMMENTARY: Morning Bid: Tipping Point",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcmQ1VmY0di1vdFVoNjVMMDZtQWFZRjZfS0R0VXZMOGpFazkxc0lKcVB4U043ZWVDQnh6ZDJvQUZBS09KY3JJaVVYeUFHU01fNmtUcjI0Nks4NkNLbm1TbHN0ZllsZDduQmU5cWpVQjlUQUxRMnNvRXZnZUNFQjhMMmFRVjFieHAzaFZFbkMzNzdfQmdrUjg0?oc=5",
+   "source": "Reuters",
+   "impact": 1.7,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 18 11:21 AM ET",
+   "consumer": false
+  },
+  {
    "title": "Tesla's flying Roadster requires a $50,000 deposit — but even Musk isn't sure it's street-legal",
    "link": "https://finance.yahoo.com/technology/articles/teslas-flying-roadster-requires-50-145000551.html?.tsrc=rss",
    "source": "Yahoo Finance",
@@ -483,164 +633,6 @@
    "sentiment_label": "neutral",
    "seen_et": "Oct 18 10:55 AM ET",
    "consumer": true
-  },
-  {
-   "title": "Broadcom (AVGO) Went Nowhere for a Year. Analysts Think It Is Worth 50% More",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-went-nowhere-analysts-143448009.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.2,
-   "tickers": [
-    "AVGO",
-    "QQQ",
-    "SPY"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 18 10:55 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Taiwan Semiconductor’s (TSM) Profit Rose 69% Last Quarter. Is the Stock Still Cheap?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-tsm-profit-rose-143421492.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.7,
-   "tickers": [
-    "SPY",
-    "TSM"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 18 10:55 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Why Did NVIDIA (NVDA) Rise Only 19% While Its Suppliers Did Far Better?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-nvidia-nvda-rise-143400902.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.4,
-   "tickers": [
-    "NVDA",
-    "QQQ",
-    "SPY"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 18 10:55 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "What Do the 8% of Analysts Who Will Not Buy Marvell (MRVL) See?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/8-analysts-not-buy-marvell-143318310.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.9,
-   "tickers": [
-    "MRVL",
-    "QQQ",
-    "SPY"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 18 10:55 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "SanDisk (SNDK) Is Now Worth More Than the Company That Spun It Off",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-sndk-now-worth-more-143253971.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.2,
-   "tickers": [
-    "QQQ",
-    "SNDK",
-    "SPY"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 18 10:55 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "How Did Seagate (STX) Triple Selling a Technology Everyone Buried?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/did-seagate-stx-triple-selling-143319066.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.9,
-   "tickers": [
-    "QQQ",
-    "SPY",
-    "STX"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 18 10:55 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Does Micron (MU) Have an Economic Moat at All?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/does-micron-mu-economic-moat-143157310.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.9,
-   "tickers": [
-    "MU",
-    "QQQ",
-    "SPY"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 18 10:55 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "ASML (ASML) Says It Cannot Meet Demand Until 2028. Is the Stock Priced for That?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/asml-asml-says-cannot-meet-143140648.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.0,
-   "tickers": [
-    "ASML",
-    "QQQ",
-    "SPY"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 18 10:55 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "What Is Applied Materials’ (AMAT) Economic Moat, and Is It Widening or Narrowing?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-amat-economic-moat-143123014.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.9,
-   "tickers": [
-    "AMAT",
-    "QQQ",
-    "SPY"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 18 10:55 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Oracle (ORCL) Has Fallen 54% and 80% of Analysts Still Say Buy. Why?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-orcl-fallen-54-80-143038953.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 4.0,
-   "tickers": [
-    "ORCL",
-    "SPY"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 18 10:55 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Novo Trades at Less Than 12 Times Earnings. Is This the Buying Opportunity of the Decade?",
-   "link": "https://www.fool.com/investing/2026/10/18/novo-trades-at-less-than-12-times-earnings-is-this/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.9,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 18 10:55 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Airstrike kills at least 9 in rebel-held Yemen, and other Mideast news",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZTVQOXY5eWJtZXExSXpLYk9CMWUycWRQTEREeEtlUUtlQkRTR3laVnZQTEFIVjN6S1BpbXVkU3N1Nm1Vb09POV8xVGRncFFBMlp6RUR6QVJTTXBwcnZ4M2kzcmVXYVJVM3FaWkZyVlRsNGs2aml5UWdBM0Nuc3oyblpMS1hrdnVjcFZnNkx4bjJTVGJ3OEM0S1piZnFtbHZ1VnlUdEZvMjVHcGtZaGNSVg?oc=5",
-   "source": "AP News",
-   "impact": 2.2,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 18 10:55 AM ET",
-   "consumer": false
   }
  ],
  "high_impact": [],
@@ -1981,9 +1973,9 @@
   ]
  },
  "sentiment_validation": {
-  "logged": 2837,
+  "logged": 2851,
   "min_sample": 100,
-  "generated_et": "Oct 18 10:55 AM ET",
+  "generated_et": "Oct 18 11:21 AM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
@@ -2082,98 +2074,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 18 10:55 AM ET",
+   "fetched_et": "Oct 18 11:21 AM ET",
    "newest_et": "Oct 18 10:48 AM ET",
    "newest": "2026-10-18T14:48:33+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 18 10:55 AM ET",
+   "fetched_et": "Oct 18 11:21 AM ET",
    "newest_et": "Oct 16 06:34 PM ET",
    "newest": "2026-10-16T22:34:29+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 18 10:55 AM ET",
+   "fetched_et": "Oct 18 11:21 AM ET",
    "newest_et": "Oct 16 03:40 PM ET",
    "newest": "2026-10-16T19:40:00+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 18 10:55 AM ET",
-   "newest_et": "Oct 18 10:00 AM ET",
-   "newest": "2026-10-18T14:00:00+00:00"
+   "fetched_et": "Oct 18 11:21 AM ET",
+   "newest_et": "Oct 18 11:15 AM ET",
+   "newest": "2026-10-18T15:15:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 18 10:55 AM ET",
+   "fetched_et": "Oct 18 11:21 AM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 18 10:55 AM ET",
-   "newest_et": "Oct 18 10:50 AM ET",
-   "newest": "2026-10-18T14:50:00+00:00"
+   "fetched_et": "Oct 18 11:21 AM ET",
+   "newest_et": "Oct 18 11:07 AM ET",
+   "newest": "2026-10-18T15:07:00+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 53,
-   "fetched_et": "Oct 18 10:55 AM ET",
+   "fetched_et": "Oct 18 11:21 AM ET",
    "newest_et": "Oct 18 07:03 AM ET",
    "newest": "2026-10-18T11:03:04+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 18 10:55 AM ET",
-   "newest_et": "Oct 17 02:19 AM ET",
-   "newest": "2026-10-17T06:19:00+00:00"
+   "fetched_et": "Oct 18 11:21 AM ET",
+   "newest_et": "Oct 18 06:47 AM ET",
+   "newest": "2026-10-18T10:47:40+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 18 10:55 AM ET",
-   "newest_et": "Oct 18 10:20 AM ET",
-   "newest": "2026-10-18T14:20:00+00:00"
+   "fetched_et": "Oct 18 11:21 AM ET",
+   "newest_et": "Oct 18 10:43 AM ET",
+   "newest": "2026-10-18T14:43:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 27,
-   "fetched_et": "Oct 18 10:55 AM ET",
+   "count": 24,
+   "fetched_et": "Oct 18 11:21 AM ET",
    "newest_et": "Oct 17 11:07 PM ET",
    "newest": "2026-10-18T03:07:00+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
    "count": 59,
-   "fetched_et": "Oct 18 10:55 AM ET",
+   "fetched_et": "Oct 18 11:21 AM ET",
    "newest_et": "Oct 18 08:41 AM ET",
    "newest": "2026-10-18T12:41:39+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 18 10:55 AM ET",
+   "fetched_et": "Oct 18 11:21 AM ET",
    "newest_et": "Oct 16 11:00 AM ET",
    "newest": "2026-10-16T15:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 18 10:55 AM ET",
-   "newest_et": "Oct 18 10:05 AM ET",
-   "newest": "2026-10-18T14:05:00+00:00"
+   "fetched_et": "Oct 18 11:21 AM ET",
+   "newest_et": "Oct 18 10:53 AM ET",
+   "newest": "2026-10-18T14:53:00+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Oct 18 10:55 AM ET"
+   "fetched_et": "Oct 18 11:21 AM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
