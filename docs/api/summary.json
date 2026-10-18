@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 18 04:54 PM ET",
- "generated_at": "2026-10-18T16:54:42.186192-04:00",
+ "generated_et": "Oct 18 05:20 PM ET",
+ "generated_at": "2026-10-18T17:20:50.663143-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-18",
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 80848.43,
-   "pct": -0.66,
-   "asof_et": "Oct 18 04:50 PM ET",
+   "price": 80956.99,
+   "pct": -0.52,
+   "asof_et": "Oct 18 05:20 PM ET",
    "freshness": "delayed"
   },
   {
@@ -159,14 +159,6 @@
    "price": 112.57,
    "pct": -0.74,
    "asof_et": "Oct 16 07:45 PM ET",
-   "freshness": "closed"
-  },
-  {
-   "symbol": "XLP",
-   "label": "Cons. Staples",
-   "price": 87.65,
-   "pct": 1.12,
-   "asof_et": "Oct 16 07:05 PM ET",
    "freshness": "closed"
   },
   {
@@ -382,6 +374,40 @@
  ],
  "breaking": [
   {
+   "title": "Some Investors Are Questioning the AI Trade. Microsoft Is Bucking the Trend",
+   "link": "https://www.fool.com/investing/2026/10/18/some-investors-are-questioning-the-ai-trade-micros/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.8,
+   "tickers": [
+    "MSFT"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 18 05:21 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Is Citigroup Stock a Buy 13% Below Its 52-Week High?",
+   "link": "https://www.fool.com/investing/2026/10/18/is-citigroup-stock-a-buy-x-below-its-52-week-high/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.8,
+   "tickers": [
+    "C"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 18 05:21 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Associated Press News: Breaking News | Latest News Today",
+   "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
+   "source": "AP News",
+   "impact": 1.2,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 18 05:21 PM ET",
+   "consumer": false
+  },
+  {
    "title": "Hurricane Trudy lashes Mexico’s Pacific coast with heavy rain and strong winds",
    "link": "https://www.cnbc.com/2026/10/18/hurricane-trudy-brings-heavy-rain-winds-to-mexicos-pacific-coast.html",
    "source": "CNBC Top News",
@@ -571,38 +597,6 @@
    "tickers": [
     "TSLA"
    ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 18 03:51 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Should You Buy These 4 Video Game Stocks Before GTA 6 Arrives?",
-   "link": "https://www.fool.com/investing/2026/10/18/should-you-buy-these-game-stocks-before-gta-6/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.9,
-   "tickers": [
-    "BBY"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 18 03:51 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Another BioNTech Cancer Vaccine Just Hit a Major Setback. Is BNTX Stock Still a Buy?",
-   "link": "https://www.nasdaq.com/articles/another-biontech-cancer-vaccine-just-hit-major-setback-bntx-stock-still-buy",
-   "source": "Nasdaq Markets",
-   "impact": 3.1,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 18 03:51 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Egypt’s top security body agrees to help Saudi Arabia defend itself against Houthi attacks",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS1hsZ1ZMdXFsZmM1WHRVeFRpV0dzUEpwcFlNVjAyUnBfUjVGb0JjVFFmY1dZeVd1ekw0MGhsSWNtNE9pQ1hCangwSFpaOG9Ec1JJWWtwS0pXbTJBT0tkVm5qS2FPTVdleUlZVWNmNjZiVi14NzAwc2JHOFh6TXU0WGsxNVBpajdHaEhYSmhoWWV0dnNXdlpn?oc=5",
-   "source": "AP News",
-   "impact": 2.4,
-   "tickers": [],
    "sentiment_label": "bullish",
    "seen_et": "Oct 18 03:51 PM ET",
    "consumer": false
@@ -1148,7 +1142,7 @@
  "economic_calendar": {
   "source": "FairEconomy / ForexFactory weekly calendar (nfs.faireconomy.media)",
   "fallback": false,
-  "fetched_et": "Oct 18 04:19 PM ET",
+  "fetched_et": "Oct 18 05:20 PM ET",
   "events": [
    {
     "when_et": "Oct 19 10:00 AM ET",
@@ -1266,7 +1260,7 @@
  },
  "earnings": {
   "source": "Nasdaq earnings calendar API (api.nasdaq.com), filtered to S&P 500 + watchlist",
-  "fetched_et": "Oct 18 12:56 PM ET",
+  "fetched_et": "Oct 18 05:21 PM ET",
   "events": [
    {
     "date": "2026-10-19",
@@ -1946,9 +1940,9 @@
   ]
  },
  "sentiment_validation": {
-  "logged": 2892,
+  "logged": 2894,
   "min_sample": 100,
-  "generated_et": "Oct 18 04:55 PM ET",
+  "generated_et": "Oct 18 05:21 PM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
@@ -2047,108 +2041,108 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 18 04:54 PM ET",
+   "fetched_et": "Oct 18 05:20 PM ET",
    "newest_et": "Oct 18 04:52 PM ET",
    "newest": "2026-10-18T20:52:41+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 18 04:54 PM ET",
+   "fetched_et": "Oct 18 05:20 PM ET",
    "newest_et": "Oct 16 06:34 PM ET",
    "newest": "2026-10-16T22:34:29+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 18 04:54 PM ET",
+   "fetched_et": "Oct 18 05:20 PM ET",
    "newest_et": "Oct 16 03:40 PM ET",
    "newest": "2026-10-16T19:40:00+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 18 04:54 PM ET",
+   "fetched_et": "Oct 18 05:20 PM ET",
    "newest_et": "Oct 18 01:00 PM ET",
    "newest": "2026-10-18T17:00:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 18 04:54 PM ET",
+   "fetched_et": "Oct 18 05:20 PM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
-   "count": 19,
-   "fetched_et": "Oct 18 04:54 PM ET",
-   "newest_et": "Oct 18 04:23 PM ET",
-   "newest": "2026-10-18T20:23:00+00:00"
+   "count": 20,
+   "fetched_et": "Oct 18 05:20 PM ET",
+   "newest_et": "Oct 18 05:05 PM ET",
+   "newest": "2026-10-18T21:05:00+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 53,
-   "fetched_et": "Oct 18 04:54 PM ET",
+   "fetched_et": "Oct 18 05:20 PM ET",
    "newest_et": "Oct 18 07:03 AM ET",
    "newest": "2026-10-18T11:03:04+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 18 04:54 PM ET",
+   "fetched_et": "Oct 18 05:20 PM ET",
    "newest_et": "Oct 18 01:19 PM ET",
    "newest": "2026-10-18T17:19:48+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 18 04:54 PM ET",
+   "fetched_et": "Oct 18 05:20 PM ET",
    "newest_et": "Oct 18 03:50 PM ET",
    "newest": "2026-10-18T19:50:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 25,
-   "fetched_et": "Oct 18 04:54 PM ET",
+   "count": 20,
+   "fetched_et": "Oct 18 05:20 PM ET",
    "newest_et": "Oct 18 03:39 PM ET",
    "newest": "2026-10-18T19:39:53+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
-   "count": 55,
-   "fetched_et": "Oct 18 04:54 PM ET",
+   "count": 56,
+   "fetched_et": "Oct 18 05:20 PM ET",
    "newest_et": "Oct 18 02:12 PM ET",
    "newest": "2026-10-18T18:12:40+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 18 04:54 PM ET",
+   "fetched_et": "Oct 18 05:20 PM ET",
    "newest_et": "Oct 16 11:00 AM ET",
    "newest": "2026-10-16T15:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 18 04:54 PM ET",
+   "fetched_et": "Oct 18 05:20 PM ET",
    "newest_et": "Oct 18 04:05 PM ET",
    "newest": "2026-10-18T20:05:00+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
-   "count": 26,
-   "fetched_et": "Oct 18 04:54 PM ET"
+   "count": 25,
+   "fetched_et": "Oct 18 05:20 PM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
    "count": 75,
-   "fetched_et": "Oct 18 12:56 PM ET"
+   "fetched_et": "Oct 18 05:21 PM ET"
   },
   "Economic calendar": {
    "ok": true,
    "count": 14,
-   "fetched_et": "Oct 18 04:19 PM ET",
+   "fetched_et": "Oct 18 05:20 PM ET",
    "note": "FairEconomy / ForexFactory weekly calendar (nfs.faireconomy.media)"
   }
  }
