@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 18 07:07 AM ET",
- "generated_at": "2026-10-18T07:07:29.638708-04:00",
+ "generated_et": "Oct 18 07:40 AM ET",
+ "generated_at": "2026-10-18T07:40:50.256285-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-18",
@@ -14,14 +14,6 @@
    "label": "S&P 500 Fut",
    "price": 7704.25,
    "pct": -1.11,
-   "asof_et": "Oct 16 04:55 PM ET",
-   "freshness": "closed"
-  },
-  {
-   "symbol": "NQ=F",
-   "label": "Nasdaq 100 Fut",
-   "price": 29391.5,
-   "pct": -2.5,
    "asof_et": "Oct 16 04:55 PM ET",
    "freshness": "closed"
   },
@@ -116,9 +108,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 82011.97,
-   "pct": 0.77,
-   "asof_et": "Oct 18 07:05 AM ET",
+   "price": 81945.39,
+   "pct": 0.69,
+   "asof_et": "Oct 18 07:40 AM ET",
    "freshness": "delayed"
   },
   {
@@ -382,6 +374,96 @@
  ],
  "breaking": [
   {
+   "title": "NASA to Buy a New Space Station. Price Tag: $34.1 Billion",
+   "link": "https://www.fool.com/investing/2026/10/18/nasa-to-buy-a-new-space-station-price-tag-341-bill/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 1.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 18 07:40 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Cathie Wood Bought More CRISPR Therapeutics Stock 2 Days in a Row. Here's What She Sees in the Biotech Stock.",
+   "link": "https://www.fool.com/investing/2026/10/18/cathie-wood-more-crispr-therapeutics-stock-biotech/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 1.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 18 07:40 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "CoreWeave Heads These 3 High Growth Insider Stocks To Watch",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/coreweave-heads-3-high-growth-110937687.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.7,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 18 07:40 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Richard Branson's Virgin Galactic Reopened Ticket Sales at $750,000 a Seat in 2026, Up From the $600,000 It Charged for 700 Previously Sold Seats. Is SPCE Stock's Pricing Power Finally Catching Up to Its Cash Burn?",
+   "link": "https://www.fool.com/investing/2026/10/18/richard-bransons-virgin-galactic-reopened-ticket-s/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.0,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 18 07:40 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Credit Card Rates Hit 22% But Investors May Own The Wrong Stocks",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcnRrbE1qbUdiNkZoS3R6MzVhZEhhNEhKRy12RG1heDdpcDFOWGxXYVpoOUhOVnJyRXRpQkNRb19USkF6WTFNbkdIYnZrRmJMckRZamdHTzlhQmVGVXhLbDFVQlVOT2FvOGlFTEJRQm1xZTB3UDRIQlFLSjkyM19ONEdvYmJsdzB3MlAyWTEyZHlzbmRGTERzSm16RzU1MDJJVndFb3Vha0Z1RW5nSGdrM3BQaw?oc=5",
+   "source": "Forbes",
+   "impact": 2.2,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 18 07:40 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "We Just Witnessed a Unique Stock Market Measure Do Something for Only the 4th Time Since 1997, and It Offers a Chilling Outlook for Wall Street",
+   "link": "https://www.fool.com/investing/2026/10/18/just-witnessed-unique-stock-market-measure-do-something-4th-time-since-1997-chilling-outlook-for-wall-street/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 1.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 18 07:40 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Trump's \"No Tax on Social Security\" May Not Be What You Think It Is",
+   "link": "https://www.nasdaq.com/articles/trumps-no-tax-social-security-may-not-be-what-you-think-it",
+   "source": "Nasdaq Markets",
+   "impact": 1.9,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 18 07:40 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Hurricane warning: Miami poised for No. 1 after 5 of the top 7 teams lose in historic Top 25 day",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ2F4WENEbFdBV05OTUZmY1ZTVklTbmx6eE1RUVRRemFHVGpmNVdieHN3cmZSNlF6d1J3b3Q5dkN4ZlpBblN5T0tuVmxvNm55M2x1QlN1MXV6MlAyMlExYk1zalE2NldGWEU0MkptSDBYZE5FQVFRdTgzYUVaWFhQN0labnVfTXlpamdtbC1B?oc=5",
+   "source": "AP News",
+   "impact": 2.9,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 18 07:40 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Ty Dieffenbach’s stunning rise: UCLA’s former 3rd-string QB leads unbeaten Bruins",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWW44elgzdXczQlRHTHZWeDQxdGtIRVRQaF90LS1FcUEzb3FIOGNLSW1KZ3UwdjZuUml4cWxZUXYxU1VEcGhSSWNOblJsOEswVlFWWVFHb0NqOHZjY2RpUXF2Slh2ZDhRNkxqREZFZUZqczVxWE1jYlRFSllfVWdGLUt5MnlMUQ?oc=5",
+   "source": "AP News",
+   "impact": 2.3,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 18 07:40 AM ET",
+   "consumer": false
+  },
+  {
    "title": "Gleaning group gives £1m of produce to food banks",
    "link": "https://www.bbc.co.uk/news/articles/c6n49w1r2zxjo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
@@ -496,111 +578,6 @@
    ],
    "sentiment_label": "bullish",
    "seen_et": "Oct 18 06:43 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Netflix Stock Has Gained in the Fourth Quarter in 17 of the Last 24 Years",
-   "link": "https://www.fool.com/investing/2026/10/18/netflix-stock-has-gained-in-the-fourth-quarter-in-17-of-the-last-24-years/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.4,
-   "tickers": [
-    "NFLX"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 18 06:43 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Blaze at St Petersburg oil sites as Kyiv launches more than 1,000 drones at Russia",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb0JsZHhVNVNkaUhpSndSUTRqNjBFN2dpaktfTUZ4dWxBTkxzQ3I1LW5CRlBQNnR3UmJ5R0JzWGFaenZ5TDg3Qkt2bC05cmpYTlAwZkRSRjBoYlN1elkwelNDNmhPbkhhV1BDT05fWm96V3oxbk5YN09nUkQ2VzlvbTR1YV81Zl9wdzU5WEU1UXN3STc0ZHJlUnhiWUc2dUk?oc=5",
-   "source": "AP News",
-   "impact": 2.4,
-   "tickers": [
-    "CL=F",
-    "XLE"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 18 06:43 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "What to Expect in Markets This Week: Meta, Tesla Report; Airlines, Streaming Giants’ Results Due",
-   "link": "https://www.investopedia.com/what-to-expect-in-markets-this-week-meta-tesla-report-airlines-streaming-giants-results-also-due-earnings-12173877?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 4.2,
-   "tickers": [
-    "META",
-    "TSLA"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 18 06:43 AM ET",
-   "consumer": true
-  },
-  {
-   "title": "US ambassador to Israel condemns settler attack on US journalist, and other Mideast news",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZTVQOXY5eWJtZXExSXpLYk9CMWUycWRQTEREeEtlUUtlQkRTR3laVnZQTEFIVjN6S1BpbXVkU3N1Nm1Vb09POV8xVGRncFFBMlp6RUR6QVJTTXBwcnZ4M2kzcmVXYVJVM3FaWkZyVlRsNGs2aml5UWdBM0Nuc3oyblpMS1hrdnVjcFZnNkx4bjJTVGJ3OEM0S1piZnFtbHZ1VnlUdEZvMjVHcGtZaGNSVg?oc=5",
-   "source": "AP News",
-   "impact": 2.5,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 18 06:43 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Microsoft pulls out of UK data centre deal with Nscale, Telegraph reports",
-   "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-pulls-uk-data-centre-095253878.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.9,
-   "tickers": [
-    "MSFT",
-    "QQQ"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 18 06:08 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Can Alphabet Stock Double By 2030?",
-   "link": "https://www.fool.com/investing/2026/10/18/can-alphabet-stock-double-by-2030/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.0,
-   "tickers": [
-    "GOOGL"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 18 06:08 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Is Centrus Energy Stock a Millionaire Maker?",
-   "link": "https://www.fool.com/investing/2026/10/18/is-centrus-energy-stock-a-millionaire-maker/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 1.9,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 18 06:08 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "A Record Number of S&P 500 Companies Issued Upbeat Guidance Before Earnings Season. Should You Buy an Index Fund Now?",
-   "link": "https://www.fool.com/investing/2026/10/18/a-record-number-of-s-and-p-500-companies-issued-upbeat-guidance-before-earnings-season-should-you-buy-an-index-fund-now/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 5.1,
-   "tickers": [
-    "SPY"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 18 06:08 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "US stocks close mixed",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qM0Riak12b1NHMTdUakVYSmFHMzU1dDM5ekllcXBDaVZYa1dBYmxRREp6T1EzTnZvTXRtLTVlZU5JVEE4ZGpEdDZDY01hZXBtUFZRbHVUVmFOR3VJWlpWdVg2SjFiMmdo?oc=5",
-   "source": "investingLive",
-   "impact": 0.8,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 18 06:08 AM ET",
    "consumer": false
   }
  ],
@@ -1944,7 +1921,7 @@
  "sentiment_validation": {
   "logged": 2784,
   "min_sample": 100,
-  "generated_et": "Oct 18 07:08 AM ET",
+  "generated_et": "Oct 18 07:41 AM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
@@ -2043,98 +2020,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 18 07:07 AM ET",
-   "newest_et": "Oct 18 03:22 AM ET",
-   "newest": "2026-10-18T07:22:07+00:00"
+   "fetched_et": "Oct 18 07:40 AM ET",
+   "newest_et": "Oct 18 07:11 AM ET",
+   "newest": "2026-10-18T11:11:22+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 18 07:07 AM ET",
+   "fetched_et": "Oct 18 07:40 AM ET",
    "newest_et": "Oct 16 06:34 PM ET",
    "newest": "2026-10-16T22:34:29+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 18 07:07 AM ET",
+   "fetched_et": "Oct 18 07:40 AM ET",
    "newest_et": "Oct 16 03:40 PM ET",
    "newest": "2026-10-16T19:40:00+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 18 07:07 AM ET",
+   "fetched_et": "Oct 18 07:40 AM ET",
    "newest_et": "Oct 17 04:53 PM ET",
    "newest": "2026-10-17T20:53:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 18 07:07 AM ET",
+   "fetched_et": "Oct 18 07:40 AM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 18 07:07 AM ET",
-   "newest_et": "Oct 18 06:39 AM ET",
-   "newest": "2026-10-18T10:39:01+00:00"
+   "fetched_et": "Oct 18 07:40 AM ET",
+   "newest_et": "Oct 18 07:27 AM ET",
+   "newest": "2026-10-18T11:27:00+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 53,
-   "fetched_et": "Oct 18 07:07 AM ET",
+   "fetched_et": "Oct 18 07:40 AM ET",
    "newest_et": "Oct 18 07:03 AM ET",
    "newest": "2026-10-18T11:03:04+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 18 07:07 AM ET",
-   "newest_et": "Oct 17 02:00 AM ET",
-   "newest": "2026-10-17T06:00:00+00:00"
+   "fetched_et": "Oct 18 07:40 AM ET",
+   "newest_et": "Oct 17 02:19 AM ET",
+   "newest": "2026-10-17T06:19:00+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 18 07:07 AM ET",
-   "newest_et": "Oct 18 05:49 AM ET",
-   "newest": "2026-10-18T09:49:00+00:00"
+   "fetched_et": "Oct 18 07:40 AM ET",
+   "newest_et": "Oct 18 06:10 AM ET",
+   "newest": "2026-10-18T10:10:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
    "count": 34,
-   "fetched_et": "Oct 18 07:07 AM ET",
+   "fetched_et": "Oct 18 07:40 AM ET",
    "newest_et": "Oct 17 11:07 PM ET",
    "newest": "2026-10-18T03:07:00+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
-   "count": 58,
-   "fetched_et": "Oct 18 07:07 AM ET",
-   "newest_et": "Oct 18 06:39 AM ET",
-   "newest": "2026-10-18T10:39:30+00:00"
+   "count": 60,
+   "fetched_et": "Oct 18 07:40 AM ET",
+   "newest_et": "Oct 18 07:00 AM ET",
+   "newest": "2026-10-18T11:00:00+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 18 07:07 AM ET",
+   "fetched_et": "Oct 18 07:40 AM ET",
    "newest_et": "Oct 16 11:00 AM ET",
    "newest": "2026-10-16T15:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 18 07:07 AM ET",
-   "newest_et": "Oct 18 03:35 AM ET",
-   "newest": "2026-10-18T07:35:00+00:00"
+   "fetched_et": "Oct 18 07:40 AM ET",
+   "newest_et": "Oct 18 06:56 AM ET",
+   "newest": "2026-10-18T10:56:02+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
-   "count": 26,
-   "fetched_et": "Oct 18 07:07 AM ET"
+   "count": 25,
+   "fetched_et": "Oct 18 07:40 AM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
