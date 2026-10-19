@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 18 08:32 PM ET",
- "generated_at": "2026-10-18T20:32:11.884511-04:00",
+ "generated_et": "Oct 18 09:20 PM ET",
+ "generated_at": "2026-10-18T21:20:36.261552-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-18",
@@ -12,33 +12,33 @@
   {
    "symbol": "ES=F",
    "label": "S&P 500 Fut",
-   "price": 7740.25,
-   "pct": 0.47,
-   "asof_et": "Oct 18 08:20 PM ET",
+   "price": 7741.0,
+   "pct": 0.48,
+   "asof_et": "Oct 18 09:10 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "NQ=F",
    "label": "Nasdaq 100 Fut",
-   "price": 29637.25,
-   "pct": 0.84,
-   "asof_et": "Oct 18 08:20 PM ET",
+   "price": 29664.25,
+   "pct": 0.93,
+   "asof_et": "Oct 18 09:10 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "YM=F",
    "label": "Dow Fut",
-   "price": 52324.0,
-   "pct": 0.21,
-   "asof_et": "Oct 18 08:20 PM ET",
+   "price": 52274.0,
+   "pct": 0.11,
+   "asof_et": "Oct 18 09:10 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "RTY=F",
    "label": "Russell 2000 Fut",
-   "price": 2749.8,
-   "pct": 0.52,
-   "asof_et": "Oct 18 08:20 PM ET",
+   "price": 2750.0,
+   "pct": 0.53,
+   "asof_et": "Oct 18 09:10 PM ET",
    "freshness": "delayed"
   },
   {
@@ -84,17 +84,17 @@
   {
    "symbol": "CL=F",
    "label": "WTI Crude",
-   "price": 97.56,
-   "pct": -3.8,
-   "asof_et": "Oct 18 08:20 PM ET",
+   "price": 97.82,
+   "pct": -3.54,
+   "asof_et": "Oct 18 09:10 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "GC=F",
    "label": "Gold",
-   "price": 4200.3,
-   "pct": 0.46,
-   "asof_et": "Oct 18 08:20 PM ET",
+   "price": 4187.1,
+   "pct": 0.14,
+   "asof_et": "Oct 18 09:10 PM ET",
    "freshness": "delayed"
   },
   {
@@ -102,7 +102,7 @@
    "label": "Dollar Index",
    "price": 101.82,
    "pct": -0.02,
-   "asof_et": "Oct 18 08:20 PM ET",
+   "asof_et": "Oct 18 09:10 PM ET",
    "freshness": "delayed"
   },
   {
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 82064.86,
-   "pct": 0.84,
-   "asof_et": "Oct 18 08:30 PM ET",
+   "price": 82368.76,
+   "pct": 1.21,
+   "asof_et": "Oct 18 09:20 PM ET",
    "freshness": "delayed"
   },
   {
@@ -382,6 +382,156 @@
  ],
  "breaking": [
   {
+   "title": "How much Amazon stock does CEO Andy Jassy actually own?",
+   "link": "https://www.thestreet.com/personalities/how-much-amazon-stock-does-ceo-andy-jassy-own?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.6,
+   "tickers": [
+    "AMZN"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 18 09:20 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Here’s What a $10,000 Investment in Nvidia Stock Will Be Worth by 2030",
+   "link": "https://www.fool.com/investing/2026/10/18/here-s-what-a-usd10-000-investment-in-nvidia-stock-will-be-worth-by-2030/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.8,
+   "tickers": [
+    "NVDA"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 18 09:20 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "FedEx sets holiday shipping deadlines for Australasia",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON3NtbW5wQVlDeGdON1dZWWZoVGtNYXlSTERHYzVkTk9fUVFZOV9Dcm50STR1bU54MXFtMWZMOTlXZWgzSUthQlFNLUo4Y1FYODZnSXlUb3Y0elpTaWZaVm5RTm9CSWVyY3lMVHg4N25TVlRCN1doSXZ1QTM0SHFVdjFMT1lXOWpyWWJaNWFwRm1UZw?oc=5",
+   "source": "Australia",
+   "impact": 6.2,
+   "tickers": [
+    "FDX"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 18 09:20 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "How can PH address its logistics issues? UPS officials weigh in",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPS2JmeHpEWFVCdzBaSWkyU1dETEc4TVJ3QmFYdUFDX0JsNXB4QnpPX0RRbUxlS0J0OTVRajdGWGNpUUQyRzZmV3JoajJHYy1SSVFScjlZR0U3TUV6bUFZUzhEV1RJcVA4aG5TMnZyVHYwNWRzb1V5dzcybGdJdmVjczhRamdYTGVDSldtOXprTkREOTE1WVFMREh1TkdSbWMxbjlTMl9XcV9Zc1d5RTRnR3M2dDdhU2M?oc=5",
+   "source": "ABS-CBN",
+   "impact": 2.0,
+   "tickers": [
+    "UPS"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 18 09:20 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Independent Bank: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/independent-bank-3-key-takeaways-long-term-investors",
+   "source": "Nasdaq Markets",
+   "impact": 1.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 18 09:20 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Interactive Brokers: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/interactive-brokers-3-key-takeaways-long-term-investors",
+   "source": "Nasdaq Markets",
+   "impact": 2.1,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 18 09:20 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Taiwan Stock Market May Open Under Water On Monday",
+   "link": "https://www.nasdaq.com/articles/taiwan-stock-market-may-open-under-water-monday",
+   "source": "Nasdaq Markets",
+   "impact": 1.9,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 18 09:20 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Singapore Stock Market May Test Support At 5,400 Points",
+   "link": "https://www.nasdaq.com/articles/singapore-stock-market-may-test-support-5400-points",
+   "source": "Nasdaq Markets",
+   "impact": 1.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 18 09:20 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "UK housing market showing signs of mortgage rates impact, Rightmove says",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaWFjYmdlWlpxc2JxSGc1YnZhM3ptTFp2bHdQbUUwVS1XTnoyeFpMVXh5TjNINy0tWm5hMmViQ2xpdzRFZWRHZjRyMHF4TkhDY0l0ZXhjS2FUTWpaNlpGRjl0ZEFUTm9qR1B2bUpYTnpWQjVNWXhwZDR0OFo0V2RheDdobm5jMGFCNWZuXzQ5WUdzM20xQ2dkd3JkUW9PWFh3Z1JrREVxcnJyNG1UR0M5ZXM0SQ?oc=5",
+   "source": "Reuters",
+   "impact": 1.4,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 18 09:20 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Truck overturns in Kansas City, killing dozens of cows and causing dozens more to roam streets",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQXzFDVENQZ1c2RjJpLUFyTjBRbkM4a191S2FwcFNaMVZybzNPR01qUWlwTXNPekFKUlc2a2lqTTBNdVEyUXVVbU1uSzZUSEphLVVsUHFfczZHNUc0MGkxampzbWk3WmJzamF0Xy1EUGgzdFo1WjVXNURTamR5eW9oTWdnejNBeUJQQ19rR19wMjk?oc=5",
+   "source": "AP News",
+   "impact": 2.3,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 18 09:20 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Violent protests in France as police battle demonstrators, in photos",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMlplc0tOejE1Q0dfRVlSRG9HWmg5TVdmVGp2cThMeXBfNE5JdU5Oc29KOEtlVk82Z21qRS1maUZaQTI1bmR0TS1kMzBMMUpia1NwUEJXenU3MmY0SlUzS3M4ZUcyQU9UV1VTM2xDOWNCakhqamlnaUxMMl84UlMtTjBadjhWTDdIdjRkVUVrUk5KWFJXcTAxcmhycUhTS3BtUlo4MGNfWVpKRktQOHctWGhvYldZZGtjbmVuQWk1UVYxZw?oc=5",
+   "source": "AP News",
+   "impact": 2.3,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 18 09:20 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Etsy, Inc. (ETSY) Stock Price, News, Quote & History",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XaThkcDl2bU9zRjNETF9ZLVpRXzltOG5lNy1TUWFab3dKaGNMdzlUR19US3NONkRXS0RDd2FKcmtvZnpqck8wa0R4MFlnZkVOUEE?oc=5",
+   "source": "Yahoo! Finance Canada",
+   "impact": 0.9,
+   "tickers": [
+    "ETSY"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 18 09:20 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Presidential adviser says Ukraine is in talks to lift speed limit on military satellite network",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNG1DTnVsQzVWSFp3dVB6NXZaVEEzeWVyUXlyc3hCS0NFR3JVTG5icnAxR1BmWkEwc2dqTF9iWUZiTEtkTEU3c19PU2Z5cU5pN0xUZzJlMGtEM2c5dmpTLVFCTWlXcGF5YVZDZV9Ec2pDRk1CYU5ScVl3YTIyTnhES3VTOThDLXRtQ05oNFZLNFJfMkpSVVJiQ1BQN3RMOW1pUGV5dmxma0lUblJwd1FrVkZtckJpT1ZYa3dsRFFn?oc=5",
+   "source": "AP News",
+   "impact": 0.0,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 18 09:20 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "European majors set for Q3 earnings growth despite darkening view on consumer cyclicals",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWGxWLW1iZXhfWTNWVGhDNXlEd21tVndMS3J4UW9SeHNCTEJab0FNMVh5Q19vYXhQV3N6QmNyVi1ucUJCSjJ1TUJ6ZVpIUjlhZ1hVeGtGS2JnNGVBZEFtSExvWHNCWWF6dWZWNTg2dnVySVJTUVVySEZSOElCRGJXa1d0eVFLWDZ0X3liVENxVUVnVlhXLXNsYXZaRmRQMFA2dFJPbnB0bHR6eDlybkNnWjUwbXNhM096eXBYYUNUUHlqUkFYb1J1dTg4QW9TZw?oc=5",
+   "source": "Reuters",
+   "impact": 1.9,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 18 09:20 PM ET",
+   "consumer": true
+  },
+  {
    "title": "People playing loud music on buses could face £100 fine",
    "link": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
@@ -451,165 +601,6 @@
    "sentiment_label": "bearish",
    "seen_et": "Oct 18 08:33 PM ET",
    "consumer": false
-  },
-  {
-   "title": "The next AI race will be won at the credit desk",
-   "link": "https://finance.yahoo.com/technology/ai/articles/next-ai-race-won-credit-210000006.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.7,
-   "tickers": [
-    "NVDA"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 18 08:33 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Flag? Possession? Extra second? Late-game officiating drama was talk of college football yet again",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSW1QZlloY3NpSHVFVkZyX0VGellRZFl1TXE2MF9TeW5sUXdkdE1lN2NfNUd6YVRUQ0hIRkpwc1kxSmd6YTJFZS1DOHdvNWhUUVAwVTkzVVh2dlVnbWRmbHExVExKX0lqQUNmZ1N1LTRHZHF5SVVCa0NKT2VZOUNySEp3WHhqamwtZWVFYTJTUlZOSVFYYnN6QkVaYmRLd1Uya1E?oc=5",
-   "source": "AP News",
-   "impact": 1.2,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 18 08:33 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Wayfair (W) Could Be 13% Undervalued After £4.8 Million UK Fine",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbHpIVFY0dHdpS3dNTERfZG93eUFzU0RwZzZvVzd2NW5KQ3ZCSHhldkZFdVNmNFV0bXpJWXRvZjN0WV9lcVNaYzJMT1YzMzhsc2IzaW1OSmRjVDJLZmNVdC1tM1dTYjY3N08wczFNdFZrcFVmdThDbWhRbjQyakZwZDBTMFE1cm13bFlVQTdLZGdEUjlLX0RTWWR2STMwdFR6VlJsUm53UHY1dDRuakhjQlN5UTBaeTh10gG-AUFVX3lxTE5reVczeXk2ZHBTbTFVOU0wUUhUc2Z5ZW8ycmVTWVJMSzZfbVpZLUQ1dDI4Y0VwRkIzYWpncU1yV3pvS055eU9vMlpKcVVyRmRxckhSU2J3X1pBeXM4TW92RkhpOVIyaUFjMUhaOXFjOTJQQ0Z6OFR3R3prTHZXZGs4Rk9zUnlOellvaVlQWmpFcG9KUHhPLUJTU1FKOGhVYkZydXJOTUZ3SFVZT2dwYlJPeVFvWVp2Mlk2MEJ2eFE?oc=5",
-   "source": "Simply Wall Street",
-   "impact": 1.7,
-   "tickers": [
-    "W"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 18 08:33 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Amazon may be close to launching a massive FedEx, UPS, USPS competitor",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1fVG5QWkx0ZUVhTUZubHp1NlVWS3JoYlp1OW1XT3ZuSnNjeFJ2cDB5X0Z3Q1FsRTZDT0JoLVFXdzdUbmw1anBfTldzSTN6ZUtzdHFXRkpPLXVsaXY0ZU0xTXlFUFlyWGMyanRtOFZMblpyR2ZfSlJF?oc=5",
-   "source": "Mashable",
-   "impact": 4.4,
-   "tickers": [
-    "AMZN",
-    "FDX",
-    "UPS"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 18 08:33 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "Why Are Nasdaq, S&P 500 Futures Falling Premarket? NVDA, BABA, PSKY, SLS, AAOI, SPCX, RKLB Stocks In Focus",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMlBpWWRLWFdDN2JkTzlkdXQ0SDZrYzNjUFc4aWtka05RTTdKcVdTMDJKVUZmRzc0WUV3Y3VDeTR0Z0VEcldTTlBSb3hPMkhRLV9EdzY3UkdKdXFwdVg4cjg5TkhsbVNqQzJEdmEyN1UyQlZGZ3hkN2QzZXpBNjlTcE0xeWgzeW9KWUZ1OTBPNk1wVVRnaFM5OUJPQkM0QTJoVkJJeWUwbzBWZDVjYjVDVE1DT1FmekdlUVh3RlFVUk9QcUdJUW1ZMTVHU3lTbHoyXzZ6Nlh4T0YtOVZRUTFPeg?oc=5",
-   "source": "Stocktwits",
-   "impact": 2.0,
-   "tickers": [
-    "QQQ",
-    "SPY"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 18 08:33 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Breakingviews - COMMENTARY: MSCI unnecessarily throws Indonesia into a panic",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONURVTXh5dHZxb1NWeXNzYUhNdTU2VFc2SldKVnF3U1A1VlRPMTdHQ19fc2NXZmZjdF93bGhNN3E2TDRQbTF2eXhyU1hNR094X1JZRGU0VXNmaG5rN2R1Wjd5SHh3NGl0X0ZRSy1ha2ZUN0JHQTdtRFVOdHB5Y0VqaFRXajNfYWFWNV9FQTV2bE11VmpGQVZUcTVFY2g5Z0FhczNRRGJDSVlSekE?oc=5",
-   "source": "Reuters",
-   "impact": 2.0,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 18 08:33 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "PSA FedEx Truck Theft May Top $1 Million in Stolen Cards",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRjk5M2c2OWxLXzJmaTBtX3RNek03d1plNC1MbkVzWWFoY2RiUjZHbnpJU1J0NzZmX2FpaHhLZlVvdE4yMjBfck14djFUNEVrVl9wb1VMb3lnU01CN3JfQWVqSUlhMnBJMFFzUjZKdEwwVFVEMlVXUFhBRkNZOHhMbTRJUnFNSzBCZkd1V3RQTVZjUnNP?oc=5",
-   "source": "Resell Calendar",
-   "impact": 4.4,
-   "tickers": [
-    "FDX"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 18 07:49 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "Malaysia Stock Market May Extend Losing Streak",
-   "link": "https://www.nasdaq.com/articles/malaysia-stock-market-may-extend-losing-streak-1",
-   "source": "Nasdaq Markets",
-   "impact": 2.2,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 18 07:49 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
-   "link": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "impact": 3.3,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 18 07:49 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Don't fall for this - how to protect yourself from AI scams",
-   "link": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "impact": 2.5,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 18 07:49 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Here's What $5,000 Invested in SpaceX Could Be Worth in 2030",
-   "link": "https://www.nasdaq.com/articles/heres-what-5000-invested-spacex-could-be-worth-2030",
-   "source": "Nasdaq Markets",
-   "impact": 2.0,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 18 07:49 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Japan Stock Market May See Renewed Consolidation On Monday",
-   "link": "https://www.nasdaq.com/articles/japan-stock-market-may-see-renewed-consolidation-monday",
-   "source": "Nasdaq Markets",
-   "impact": 3.1,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 18 07:49 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Top 4 Earnings Reports This Week: What Tesla, Meta, SpaceX, Netflix Must Show",
-   "link": "https://beincrypto.com/tesla-meta-spacex-netflix-earnings-ai/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 4.2,
-   "tickers": [
-    "META",
-    "NFLX",
-    "TSLA"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 18 07:49 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "Elon Musk’s SpaceX Now Controls 80% of the Race to Orbit",
-   "link": "https://beincrypto.com/elon-musk-spacex-global-orbital-mass/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.4,
-   "tickers": [
-    "TSLA"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 18 07:49 PM ET",
-   "consumer": true
   }
  ],
  "high_impact": [],
@@ -1950,9 +1941,9 @@
   ]
  },
  "sentiment_validation": {
-  "logged": 2924,
+  "logged": 2927,
   "min_sample": 100,
-  "generated_et": "Oct 18 08:33 PM ET",
+  "generated_et": "Oct 18 09:20 PM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
@@ -2051,98 +2042,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 18 08:32 PM ET",
-   "newest_et": "Oct 18 07:00 PM ET",
-   "newest": "2026-10-18T23:00:01+00:00"
+   "fetched_et": "Oct 18 09:20 PM ET",
+   "newest_et": "Oct 18 08:46 PM ET",
+   "newest": "2026-10-19T00:46:41+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 18 08:32 PM ET",
+   "fetched_et": "Oct 18 09:20 PM ET",
    "newest_et": "Oct 18 07:00 PM ET",
    "newest": "2026-10-18T23:00:01+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 18 08:32 PM ET",
+   "fetched_et": "Oct 18 09:20 PM ET",
    "newest_et": "Oct 16 03:40 PM ET",
    "newest": "2026-10-16T19:40:00+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 18 08:32 PM ET",
+   "fetched_et": "Oct 18 09:20 PM ET",
    "newest_et": "Oct 18 01:00 PM ET",
    "newest": "2026-10-18T17:00:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 18 08:32 PM ET",
+   "fetched_et": "Oct 18 09:20 PM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 18 08:32 PM ET",
-   "newest_et": "Oct 18 08:20 PM ET",
-   "newest": "2026-10-19T00:20:00+00:00"
+   "fetched_et": "Oct 18 09:20 PM ET",
+   "newest_et": "Oct 18 09:09 PM ET",
+   "newest": "2026-10-19T01:09:00+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 42,
-   "fetched_et": "Oct 18 08:32 PM ET",
+   "fetched_et": "Oct 18 09:20 PM ET",
    "newest_et": "Oct 18 08:22 PM ET",
    "newest": "2026-10-19T00:22:20+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 18 08:32 PM ET",
+   "fetched_et": "Oct 18 09:20 PM ET",
    "newest_et": "Oct 18 07:52 PM ET",
    "newest": "2026-10-18T23:52:29+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 18 08:32 PM ET",
-   "newest_et": "Oct 18 07:42 PM ET",
-   "newest": "2026-10-18T23:42:00+00:00"
+   "fetched_et": "Oct 18 09:20 PM ET",
+   "newest_et": "Oct 18 08:23 PM ET",
+   "newest": "2026-10-19T00:23:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 21,
-   "fetched_et": "Oct 18 08:32 PM ET",
-   "newest_et": "Oct 18 07:37 PM ET",
-   "newest": "2026-10-18T23:37:44+00:00"
+   "count": 23,
+   "fetched_et": "Oct 18 09:20 PM ET",
+   "newest_et": "Oct 18 09:01 PM ET",
+   "newest": "2026-10-19T01:01:00+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
-   "count": 54,
-   "fetched_et": "Oct 18 08:32 PM ET",
+   "count": 56,
+   "fetched_et": "Oct 18 09:20 PM ET",
    "newest_et": "Oct 18 04:55 PM ET",
    "newest": "2026-10-18T20:55:44+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 18 08:32 PM ET",
+   "fetched_et": "Oct 18 09:20 PM ET",
    "newest_et": "Oct 16 11:00 AM ET",
    "newest": "2026-10-16T15:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 18 08:32 PM ET",
-   "newest_et": "Oct 18 07:53 PM ET",
-   "newest": "2026-10-18T23:53:00+00:00"
+   "fetched_et": "Oct 18 09:20 PM ET",
+   "newest_et": "Oct 18 08:45 PM ET",
+   "newest": "2026-10-19T00:45:59+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Oct 18 08:32 PM ET"
+   "fetched_et": "Oct 18 09:20 PM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
