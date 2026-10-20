@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 20 12:45 AM ET",
- "generated_at": "2026-10-20T00:45:51.302710-04:00",
+ "generated_et": "Oct 20 01:27 AM ET",
+ "generated_at": "2026-10-20T01:27:27.556994-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-20",
@@ -12,33 +12,33 @@
   {
    "symbol": "ES=F",
    "label": "S&P 500 Fut",
-   "price": 7739.25,
-   "pct": 0.06,
-   "asof_et": "Oct 20 12:35 AM ET",
+   "price": 7734.0,
+   "pct": -0.01,
+   "asof_et": "Oct 20 01:15 AM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "NQ=F",
    "label": "Nasdaq 100 Fut",
-   "price": 29666.25,
-   "pct": -0.19,
-   "asof_et": "Oct 20 12:35 AM ET",
+   "price": 29631.5,
+   "pct": -0.31,
+   "asof_et": "Oct 20 01:15 AM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "YM=F",
    "label": "Dow Fut",
-   "price": 52293.0,
-   "pct": 0.21,
-   "asof_et": "Oct 20 12:35 AM ET",
+   "price": 52255.0,
+   "pct": 0.14,
+   "asof_et": "Oct 20 01:15 AM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "RTY=F",
    "label": "Russell 2000 Fut",
-   "price": 2742.9,
-   "pct": 0.02,
-   "asof_et": "Oct 20 12:35 AM ET",
+   "price": 2740.8,
+   "pct": -0.05,
+   "asof_et": "Oct 20 01:15 AM ET",
    "freshness": "delayed"
   },
   {
@@ -84,25 +84,25 @@
   {
    "symbol": "CL=F",
    "label": "WTI Crude",
-   "price": 98.69,
-   "pct": -4.79,
-   "asof_et": "Oct 20 12:35 AM ET",
+   "price": 98.83,
+   "pct": -4.66,
+   "asof_et": "Oct 20 01:15 AM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "GC=F",
    "label": "Gold",
-   "price": 4161.7,
-   "pct": 0.04,
-   "asof_et": "Oct 20 12:35 AM ET",
+   "price": 4154.0,
+   "pct": -0.15,
+   "asof_et": "Oct 20 01:15 AM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "DX-Y.NYB",
    "label": "Dollar Index",
-   "price": 101.8,
-   "pct": -0.18,
-   "asof_et": "Oct 20 12:35 AM ET",
+   "price": 101.78,
+   "pct": -0.19,
+   "asof_et": "Oct 20 01:15 AM ET",
    "freshness": "delayed"
   },
   {
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 81997.98,
-   "pct": -0.02,
-   "asof_et": "Oct 20 12:45 AM ET",
+   "price": 81883.87,
+   "pct": -0.16,
+   "asof_et": "Oct 20 01:25 AM ET",
    "freshness": "delayed"
   },
   {
@@ -382,6 +382,149 @@
  ],
  "breaking": [
   {
+   "title": "Stock futures mixed after tech shares rebound to start the week: Live updates",
+   "link": "https://www.cnbc.com/2026/10/19/stock-market-today-live-updates.html",
+   "source": "CNBC Top News",
+   "impact": 2.6,
+   "tickers": [
+    "QQQ",
+    "SPY"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 20 01:27 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Food aid charity under pressure from fuel costs",
+   "link": "https://www.bbc.co.uk/news/articles/cqy0rxw37x2eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "impact": 1.7,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 20 01:27 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Should You Buy Netflix Stock Before Its Earnings Report After Hours Today?",
+   "link": "https://www.fool.com/investing/2026/10/20/should-you-buy-netflix-stock-before-its-earnings-report-after-hours-today/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.1,
+   "tickers": [
+    "NFLX"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 20 01:27 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "'Cannot play hide and seek': Minister's warning over haze sends Singapore agricultural stocks lower",
+   "link": "https://www.cnbc.com/2026/10/20/singapore-haze-shanmugam-indonesia-malaysia.html",
+   "source": "CNBC Top News",
+   "impact": 3.4,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 20 01:27 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Tradeweb Markets To Buy Trumid Holdings For $1.97 Bln",
+   "link": "https://www.nasdaq.com/articles/tradeweb-markets-buy-trumid-holdings-197-bln",
+   "source": "Nasdaq Markets",
+   "impact": 3.7,
+   "tickers": [
+    "TW"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 20 01:27 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Canada awaits Alberta referendum results after Carney urges voters to reject separation",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSWZucE56Yy02MWJYWDBWQ1RVdEZoa2hZTGdHenVQbGd2Vms5bG5lVU41UmZJbWFCamJYN2dOdGxfM3NTei1oXzZaeENURkJ4alRIOW5tZHIzUHZnT3FubURtSlBaQzZaeWozNHVyc2RodHJYWWJncjl2WE9QNG5jcG94QnpaR0lQdHVzQWFtVVI2alpFX3BvbkZGVGhvUUQ4OWt1QQ?oc=5",
+   "source": "AP News",
+   "impact": 2.2,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 20 01:27 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "How safe havens stack up as tech, energy and France fears grip markets",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcHQwSENyS3lkNi05UkRqMGdnZVg3dUlBWC1KdE8wemZkNmthdFBhSG9MSXB5VV9Yd3ExSWI1ZDBFVEdpY1JKSl92RzlOOHhfbHpqeEdmUWlwa09IdlVqb0pyNDAzTzVGZjJDd05xMHlRazVZTUQ0eWxZWm8wZEFSRlllNkg5Mml6MFNBNEJ1OXdnTHlE?oc=5",
+   "source": "Reuters",
+   "impact": 2.1,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 20 01:27 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Gimmick or giveback? Even some Trump supporters don't expect to get $5,000 checks after midterms",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ2VmbEtRamd2RHJEUGhQM0NNV0xTWnNGTzQ1bFVWY1V2MnV4SFJEdlB1eVA4MnFvYW5INVQ0Nnljak9ZbV9BZkVDQVlKM1d1SFNudkg2UkdxaldXNVpCQjdyaEsxcXQtMl9lMllFN3JlbkpWYkwzOVkwYlloaXQ2MmRNbFBNaDBpbDBOdi1ZVE9aVHFLc2hZTGVrTGtCa0lLQ2hhNlVxQXkyNnZvR3ZXQVVkSkY1U00?oc=5",
+   "source": "AP News",
+   "impact": 2.3,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 20 01:27 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Shares stumble, oil rises as investors await AI sector earnings",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaHdteV9meHVjc2dvbmd1WjNPa1FHR2lwTFlEcmJPWE5zZnhHSFNjQndCeHptVW1NaEpsbms3QS1oSHRiTmZyUVp2ZVR0SlMwT1kxVnM2UFdyenVSblJHVW4ySjA3aTFUcGxvbV9iaHZZMzJVZTRQV1ZtM3BZMVd4RHFsaw?oc=5",
+   "source": "Reuters",
+   "impact": 5.6,
+   "tickers": [
+    "CL=F",
+    "XLE"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 20 01:27 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
+   "link": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "impact": 1.7,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 20 01:27 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Retail investors' buying fails to stem KOSPI's fall as foreign and institutional investors sell off",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mdGkyVVp0SEFYSFlvTXBobm5qWFhpcHdSaFBSc2g2OEZoQzZrY3EwblVpZXIyQjMtQms0S0NlVHNEX1ZnZFVNVndZN2NGRTg2WkYyRXBpcDZ2akllS1d5aDdmSjFxVGRXNWd5SQ?oc=5",
+   "source": "머니투데이",
+   "impact": 2.1,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 20 01:27 AM ET",
+   "consumer": true
+  },
+  {
+   "title": "Cuba says US-based suspects confessed in armed incursion and face terrorism charges",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMmV3UHFyRURIOVpPV1Zqd2NuYlVJelFOaEphNkstUW5HYS1WUXRzRjdRZHJXYmJvbHVnV2FMYndoWWl5bGFUUnBTOGxxMUx6N3F1Tm15SWprdjk3MzI5eWd4cEdTYVlYREF0VTM4alFua2ZES1BWMW5OMmhtaVg3aWY1R1ZGVTQwbW9tTzl6a2F5TDlvUmRBRk5CalI?oc=5",
+   "source": "AP News",
+   "impact": 2.2,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 20 01:27 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Asian stocks slip, Wall St and bonds benefit from oil dip",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRlNrY3VuTEdiVVp3eDBYSjJiMGlzcVN2M3I0QVhwYmdhWEVUZ29jMFdJZU1TOUM5Y2pDWllvTjNvZEZXMERrUkhSWTN1cXUwR1ZHOEh0d05sY3lmVWNxZVpzUUZ2T0wxSy1GeHd0cWdubE5aQXJZQ3d2a2FLN2VhRFVXdUt3bjRMeVBxWFdERQ?oc=5",
+   "source": "KELO-AM",
+   "impact": 2.3,
+   "tickers": [
+    "CL=F",
+    "XLE"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 20 01:27 AM ET",
+   "consumer": false
+  },
+  {
    "title": "'Cannot play hide and seek': Singapore minister's warning over haze sends agricultural stocks lower",
    "link": "https://www.cnbc.com/2026/10/20/singapore-haze-shanmugam-indonesia-malaysia.html",
    "source": "CNBC Top News",
@@ -454,154 +597,6 @@
    "tickers": [],
    "sentiment_label": "bullish",
    "seen_et": "Oct 20 12:46 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "GCash owner Mynt edges higher in record Philippine IPO amid Asian selloff",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdmFOcnFpcDFRNGFKUFNtcFVPY2hINkdvd2cteTh6QnhKaDA2TktIcmlyV3NueEc4Qm5YWXZOcTB4U2YwTEM5WVViOF9IUkFiVHRtS0pPYkdQR2FyOWd6ak5zcmdLTEdhLS1CNXlrV05sQ2hjRllFd2lLaVhjZ0dwdXRjRkczMGlSb1hMTHBtVnlFOEhUVnQ1RmhHZ3lXLXd6dlhiMjRxNFYxbktydWotYzFn?oc=5",
-   "source": "Reuters",
-   "impact": 5.5,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 20 12:46 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Gold inches up on softer dollar as investors assess Fed rate outlook",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLVJCYm9CRFhWY01aUkRqYnVXb0RzRC1RUnhfOEFicHItalFBMnRMc0ZjcWRVcGNnZVg3ZXQ3WXNXeUZLN183enN0NFAtdmxuUHJhRU5jOHlQbTg1TldhNVdtbF9IWU1GZ1BfOEZvTnJpUEhGTE5xUkRSbl9FZVR4NlFJMEE2V1VYZ1hVRzk3SmpJMi1qelE?oc=5",
-   "source": "Reuters",
-   "impact": 4.5,
-   "tickers": [
-    "GC=F",
-    "SPY",
-    "^TNX"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 20 12:46 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "China leaves loan rates steady for 17th consecutive month",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdVB0amh2R1lRc3VyUHZUMS1fcHZQeklxdjVOekRHRy0tUTBEa1U2aFlWRXdiNk0xamxUc1hrU0hmbEZBRVptMEIxRS11N1lvZk05Nkh1MDF1bUtONzlIZkFRSlpWcTNaRGxPcVZka2FrbXBSVEU0VUs5eC1qSVp4TnRianA1QWNwbWFzck1aWGFZeW5kcElaWElFTl94X2gwUV80bmpzSkI2UQ?oc=5",
-   "source": "Reuters",
-   "impact": 1.4,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 20 12:46 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Brent crude holds near five-month high on Middle East tension",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZlA3RXBMd0lXRU1feWpodXpZQ2tnUERkUHFQSlFGX2hCMjdrOVdhRVd2eVk3dmhLYklUdVM1WGtoXzc0cUt2OG44WjBYVFVZazFvQWo1UmJWRlliNzJHWlZBU1hScTU1RU9sVEdDVllsSWE4UXh5b0ZHX0VlU01fNDc3ckpxRkw3ZGdaM0xxMW1qOEhWck1XYUlSVkJWeVZyZWRRSkpqdTFQSmZhejlBRmkxZUJmMGtPVWx6Ym82SnNTcElaWGc?oc=5",
-   "source": "Reuters",
-   "impact": 3.3,
-   "tickers": [
-    "CL=F",
-    "XLE"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 20 12:46 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "South Korea's Elice plunges 30% in market debut as data centre stocks shunned",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNU1JYM3hYdDlsc1JuLWVCVHlKcld3Skc0Y1M0WWgzbk1JNFVJbzhsNU13eVVmSUNTX0hPX1ZGUXotNzVkV3UxTi1yMTlhNm04S2lzODk4NlRhOXFDMUFfb1cxbXd3TzZoZVl3QS00aldHcmNieDZSZ0x1eDlEYjZ5NmRCbWVEeTQwQ2RreWdkb2ljUXB5cDlKalhpTWZ3SnN5ek5pVzlBRWNEQ0d1SVdOREpqMUE1LUZf?oc=5",
-   "source": "Reuters",
-   "impact": 3.5,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 20 12:46 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Stocks Settle Higher as Chipmakers and AI-Infrastructure Stocks Rebound",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSzAxZHZielRBc2pQdGx0eklZQUtrMlNpR0lEUC1TVUFoVGlqNXpRUVBRMndYV0J3TGFsMFBKbXIzdzgwb0ZqUXo4eXBCcld6Z24yOUtFbEFwU09mNmdHQUstWkJmblB6UTlURUZORUxQdG50RmswTnNpbzVUTFpwNVBSY0tCRGZKSUc1ejFHRkRSUUxQblRfRExta0w3N1VwdHEwdkh2V0xUZ2lqU2tqMW42cUZOYXdzaVB6ZDRaTWNzZFBxY0U5RnBn?oc=5",
-   "source": "TradingView",
-   "impact": 1.2,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 20 12:46 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Brazil detects Newcastle disease at turkey farm, raising export concerns",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONG0tU1RiVjgxemV4TGdQWmdBTUhVa3lXY1RIU3F3WVAzODhJY0J6R1gxTkFxS0c4QmFWZ3BSX1M0c0l6T3BqTUttU19CR051d2k0ZWdzOUJnemQwU2dhX1pSZ2lMRjJaa0QtN25sZl81Tjc3N193OFhOQXh5bGxyWFN2U05vR2YzaTE2LWFCT01HU1gxai1TWHljYkNReDJYT0Mwd0dUbExuNXRwSVJlUFpfTUxVN1V5ZTRSVXhoMmxhWE9wVklSSC1Qdw?oc=5",
-   "source": "Reuters",
-   "impact": 1.1,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 20 12:46 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "FedEx Launches Dangerous Goods Road Transportation Services Across Five GCC Markets",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZVF2Q3hndDZSbnlva0FtUl9ya2Zmb0tGWnA4QTRrYlhUV2V6eG9LZFVMMktBRE9BWm83Q1F0bExlRmpXLUdWX3kyX1NGaFVMUWp4aENlY2FDOFZ1TVREZ2N5Tlg1SjMyeW9EaDg3U0llVDN1U0JCUDZKNElSSWJjOTVzSkNncVUyNlFYeURTUkdnY29YRmdZUzdGby1DSEk2ZWEydGlnWXRTMWlHTWJqRmpCT3JpRGZZUzFXQi15MlFISGNBYjEzRFl1eThiWnJ4dFNRaW1R0gHjAUFVX3lxTE42Nkk2NDVhU2F6bkdHUHJweUFBblQtLVcxTWFVbEdvWWRNWkpMdWxTTHdwSEFQck9Qc0hUaDVMQkxfdWZZcVlEdE9tX3lHa0JvOFdEalB3VUwxSjF4eVdGcG1qZWstWlVDb0ZQYnFrb3ZlVlZNaDVUb3JqY1JYQmdHQnlteFpuRXBqTFdkalZ4OGxDQzl0SmtUQmtIZXBqUDZveU1qdFVmbEJkRE9SdVQ0dmlwNG1mLU9XQXFNc1ZhNzgwOGtjcV9oZ01mLUQ5eWpsMVh5LTdyMTBXVDJpTTNZYVNj?oc=5",
-   "source": "Transport and Logistics ME",
-   "impact": 4.7,
-   "tickers": [
-    "FDX",
-    "GOOGL"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 20 12:46 AM ET",
-   "consumer": true
-  },
-  {
-   "title": "IMF members call for more support amid war shocks, 'advanced intelligence' risks",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbXNKelJOV3BhOFlRUmVnYWwyV0FXSkNpa0VNS2g0ek01V1BhaUNxX3FBclJXUUNKRENoU2d5cHNNazZIMWZ2TXB4aVZIcHNXaWNFbDkxYXpvdlhwakgxekdDd0ZWRDlJMW9zeE9FU3kwcWRPMjJFVmVfNnJ3OGNxV3JaSU5xTHVVQnRTaEdfUGpzVVY0a216eGlrZFBsYmxSQThnSlM5alJvd3hKMU1vY2N0dDFUNGdoTTdBd25kUllEMG45RFhZ?oc=5",
-   "source": "Reuters",
-   "impact": 1.6,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 20 12:46 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "General Motors is set to report earnings before the bell. Here's what Wall Street expects",
-   "link": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
-   "source": "CNBC Economy",
-   "impact": 3.2,
-   "tickers": [
-    "GM"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 20 12:07 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Bank Indonesia faces mounting pressure to hike after MSCI threat fuels market rout",
-   "link": "https://www.cnbc.com/2026/10/20/indonesia-msci-inflation-interest-rate-.html",
-   "source": "CNBC Top News",
-   "impact": 2.6,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 20 12:07 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Chip Stocks Just Had Their Longest Losing Streak Since 2008. Should You Buy Nvidia Stock Now?",
-   "link": "https://www.fool.com/investing/2026/10/19/chip-stocks-just-had-their-longest-losing-streak-since-2008-should-you-buy-nvidia-stock-now/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.2,
-   "tickers": [
-    "NVDA"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 20 12:07 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Dow, S&P 500, Nasdaq Edge Higher Amid Tech Rebound As Q3 Earnings Season Forges Ahead: DJT, AMZN, CBRS, CRWV Stocks In Focus",
-   "link": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-edge-higher-amid-tech-rebound-as-q3-earnings-season-forges-ahead-djt-amzn-cbrs-crwv-stocks-in-focus/cZxq0LsRBuB?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 4.1,
-   "tickers": [
-    "DIA",
-    "QQQ",
-    "SPY"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 20 12:07 AM ET",
    "consumer": false
   }
  ],
@@ -1155,7 +1150,7 @@
  "economic_calendar": {
   "source": "FairEconomy / ForexFactory weekly calendar (nfs.faireconomy.media)",
   "fallback": false,
-  "fetched_et": "Oct 20 12:06 AM ET",
+  "fetched_et": "Oct 20 01:27 AM ET",
   "events": [
    {
     "when_et": "Oct 20 08:15 AM ET",
@@ -2008,9 +2003,9 @@
   ]
  },
  "sentiment_validation": {
-  "logged": 3496,
+  "logged": 3499,
   "min_sample": 100,
-  "generated_et": "Oct 20 12:46 AM ET",
+  "generated_et": "Oct 20 01:27 AM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
@@ -2109,98 +2104,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 20 12:45 AM ET",
-   "newest_et": "Oct 20 12:36 AM ET",
-   "newest": "2026-10-20T04:36:55+00:00"
+   "fetched_et": "Oct 20 01:27 AM ET",
+   "newest_et": "Oct 20 01:16 AM ET",
+   "newest": "2026-10-20T05:16:13+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 20 12:45 AM ET",
+   "fetched_et": "Oct 20 01:27 AM ET",
    "newest_et": "Oct 19 02:36 PM ET",
    "newest": "2026-10-19T18:36:21+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 20 12:45 AM ET",
+   "fetched_et": "Oct 20 01:27 AM ET",
    "newest_et": "Oct 20 12:01 AM ET",
    "newest": "2026-10-20T04:01:01+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 20 12:45 AM ET",
+   "fetched_et": "Oct 20 01:27 AM ET",
    "newest_et": "Oct 19 05:58 PM ET",
    "newest": "2026-10-19T21:58:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 20 12:45 AM ET",
+   "fetched_et": "Oct 20 01:27 AM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 20 12:45 AM ET",
-   "newest_et": "Oct 20 12:20 AM ET",
-   "newest": "2026-10-20T04:20:00+00:00"
+   "fetched_et": "Oct 20 01:27 AM ET",
+   "newest_et": "Oct 20 12:50 AM ET",
+   "newest": "2026-10-20T04:50:01+00:00"
   },
   "BBC Business": {
    "ok": true,
-   "count": 51,
-   "fetched_et": "Oct 20 12:45 AM ET",
-   "newest_et": "Oct 19 07:00 PM ET",
-   "newest": "2026-10-19T23:00:21+00:00"
+   "count": 52,
+   "fetched_et": "Oct 20 01:27 AM ET",
+   "newest_et": "Oct 20 01:15 AM ET",
+   "newest": "2026-10-20T05:15:16+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 20 12:45 AM ET",
-   "newest_et": "Oct 19 10:09 PM ET",
-   "newest": "2026-10-20T02:09:00+00:00"
+   "fetched_et": "Oct 20 01:27 AM ET",
+   "newest_et": "Oct 20 12:06 AM ET",
+   "newest": "2026-10-20T04:06:00+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 20 12:45 AM ET",
-   "newest_et": "Oct 19 11:59 PM ET",
-   "newest": "2026-10-20T03:59:00+00:00"
+   "fetched_et": "Oct 20 01:27 AM ET",
+   "newest_et": "Oct 20 12:20 AM ET",
+   "newest": "2026-10-20T04:20:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 40,
-   "fetched_et": "Oct 20 12:45 AM ET",
+   "count": 41,
+   "fetched_et": "Oct 20 01:27 AM ET",
    "newest_et": "Oct 19 11:32 PM ET",
    "newest": "2026-10-20T03:32:00+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
-   "count": 51,
-   "fetched_et": "Oct 20 12:45 AM ET",
+   "count": 49,
+   "fetched_et": "Oct 20 01:27 AM ET",
    "newest_et": "Oct 19 09:23 PM ET",
    "newest": "2026-10-20T01:23:08+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 20 12:45 AM ET",
+   "fetched_et": "Oct 20 01:27 AM ET",
    "newest_et": "Oct 16 11:00 AM ET",
    "newest": "2026-10-16T15:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 20 12:45 AM ET",
-   "newest_et": "Oct 19 11:25 PM ET",
-   "newest": "2026-10-20T03:25:24+00:00"
+   "fetched_et": "Oct 20 01:27 AM ET",
+   "newest_et": "Oct 20 12:50 AM ET",
+   "newest": "2026-10-20T04:50:01+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Oct 20 12:45 AM ET"
+   "fetched_et": "Oct 20 01:27 AM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
@@ -2210,7 +2205,7 @@
   "Economic calendar": {
    "ok": true,
    "count": 13,
-   "fetched_et": "Oct 20 12:06 AM ET",
+   "fetched_et": "Oct 20 01:27 AM ET",
    "note": "FairEconomy / ForexFactory weekly calendar (nfs.faireconomy.media)"
   }
  }
