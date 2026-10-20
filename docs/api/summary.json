@@ -1,9 +1,9 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 19 07:44 PM ET",
- "generated_at": "2026-10-19T19:44:38.541657-04:00",
- "session": "after-hours",
+ "generated_et": "Oct 19 08:09 PM ET",
+ "generated_at": "2026-10-19T20:09:38.597080-04:00",
+ "session": "closed",
  "daily_report": {
   "date": "2026-10-19",
   "generated_et": "Mon Oct 19 2026, 12:10 AM ET"
@@ -12,50 +12,50 @@
   {
    "symbol": "ES=F",
    "label": "S&P 500 Fut",
-   "price": 7742.25,
-   "pct": 0.49,
-   "asof_et": "Oct 19 07:30 PM ET",
+   "price": 7743.75,
+   "pct": 0.51,
+   "asof_et": "Oct 19 07:55 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "NQ=F",
    "label": "Nasdaq 100 Fut",
-   "price": 29755.5,
-   "pct": 1.24,
-   "asof_et": "Oct 19 07:30 PM ET",
+   "price": 29747.75,
+   "pct": 1.21,
+   "asof_et": "Oct 19 07:55 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "YM=F",
    "label": "Dow Fut",
-   "price": 52240.0,
-   "pct": 0.05,
-   "asof_et": "Oct 19 07:30 PM ET",
+   "price": 52272.0,
+   "pct": 0.11,
+   "asof_et": "Oct 19 07:55 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "RTY=F",
    "label": "Russell 2000 Fut",
-   "price": 2743.6,
-   "pct": 0.3,
-   "asof_et": "Oct 19 07:30 PM ET",
+   "price": 2745.3,
+   "pct": 0.36,
+   "asof_et": "Oct 19 07:55 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "SPY",
    "label": "SPY",
-   "price": 767.7,
-   "pct": 0.58,
-   "asof_et": "Oct 19 07:35 PM ET",
-   "freshness": "delayed"
+   "price": 767.5,
+   "pct": 0.56,
+   "asof_et": "Oct 19 07:55 PM ET",
+   "freshness": "closed"
   },
   {
    "symbol": "QQQ",
    "label": "QQQ",
-   "price": 719.37,
-   "pct": 1.35,
-   "asof_et": "Oct 19 07:40 PM ET",
-   "freshness": "delayed"
+   "price": 719.02,
+   "pct": 1.3,
+   "asof_et": "Oct 19 07:55 PM ET",
+   "freshness": "closed"
   },
   {
    "symbol": "DIA",
@@ -63,15 +63,15 @@
    "price": 519.52,
    "pct": 0.08,
    "asof_et": "Oct 19 07:00 PM ET",
-   "freshness": "stale"
+   "freshness": "closed"
   },
   {
    "symbol": "IWM",
    "label": "IWM",
-   "price": 271.32,
-   "pct": 0.33,
-   "asof_et": "Oct 19 07:25 PM ET",
-   "freshness": "delayed"
+   "price": 271.49,
+   "pct": 0.39,
+   "asof_et": "Oct 19 07:51 PM ET",
+   "freshness": "closed"
   },
   {
    "symbol": "^VIX",
@@ -84,17 +84,17 @@
   {
    "symbol": "CL=F",
    "label": "WTI Crude",
-   "price": 98.25,
-   "pct": -3.12,
-   "asof_et": "Oct 19 07:30 PM ET",
+   "price": 98.24,
+   "pct": -3.13,
+   "asof_et": "Oct 19 07:55 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "GC=F",
    "label": "Gold",
-   "price": 4153.3,
-   "pct": -0.66,
-   "asof_et": "Oct 19 07:30 PM ET",
+   "price": 4151.6,
+   "pct": -0.71,
+   "asof_et": "Oct 19 07:55 PM ET",
    "freshness": "delayed"
   },
   {
@@ -102,8 +102,8 @@
    "label": "Dollar Index",
    "price": 101.97,
    "pct": 0.13,
-   "asof_et": "Oct 19 06:00 PM ET",
-   "freshness": "stale"
+   "asof_et": "Oct 19 07:55 PM ET",
+   "freshness": "delayed"
   },
   {
    "symbol": "^TNX",
@@ -116,34 +116,34 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 81968.26,
-   "pct": -0.06,
-   "asof_et": "Oct 19 07:40 PM ET",
+   "price": 81746.16,
+   "pct": -0.33,
+   "asof_et": "Oct 19 08:05 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "XLK",
    "label": "Technology",
-   "price": 186.36,
-   "pct": 1.58,
-   "asof_et": "Oct 19 07:15 PM ET",
-   "freshness": "delayed"
+   "price": 186.18,
+   "pct": 1.48,
+   "asof_et": "Oct 19 07:54 PM ET",
+   "freshness": "closed"
   },
   {
    "symbol": "XLF",
    "label": "Financials",
    "price": 55.09,
    "pct": -0.77,
-   "asof_et": "Oct 19 07:25 PM ET",
-   "freshness": "delayed"
+   "asof_et": "Oct 19 07:41 PM ET",
+   "freshness": "closed"
   },
   {
    "symbol": "XLE",
    "label": "Energy",
    "price": 67.89,
    "pct": -0.51,
-   "asof_et": "Oct 19 07:29 PM ET",
-   "freshness": "delayed"
+   "asof_et": "Oct 19 07:59 PM ET",
+   "freshness": "closed"
   },
   {
    "symbol": "XLV",
@@ -151,7 +151,7 @@
    "price": 175.65,
    "pct": -0.6,
    "asof_et": "Oct 19 05:25 PM ET",
-   "freshness": "stale"
+   "freshness": "closed"
   },
   {
    "symbol": "XLY",
@@ -159,15 +159,15 @@
    "price": 114.45,
    "pct": 1.77,
    "asof_et": "Oct 19 07:25 PM ET",
-   "freshness": "delayed"
+   "freshness": "closed"
   },
   {
    "symbol": "XLP",
    "label": "Cons. Staples",
-   "price": 87.23,
-   "pct": -0.45,
-   "asof_et": "Oct 19 07:20 PM ET",
-   "freshness": "delayed"
+   "price": 87.37,
+   "pct": -0.28,
+   "asof_et": "Oct 19 07:53 PM ET",
+   "freshness": "closed"
   },
   {
    "symbol": "XLI",
@@ -175,7 +175,7 @@
    "price": 166.68,
    "pct": -0.64,
    "asof_et": "Oct 19 05:25 PM ET",
-   "freshness": "stale"
+   "freshness": "closed"
   },
   {
    "symbol": "XLB",
@@ -183,7 +183,7 @@
    "price": 50.87,
    "pct": -0.1,
    "asof_et": "Oct 19 06:25 PM ET",
-   "freshness": "stale"
+   "freshness": "closed"
   },
   {
    "symbol": "XLU",
@@ -191,15 +191,15 @@
    "price": 41.42,
    "pct": -1.87,
    "asof_et": "Oct 19 07:40 PM ET",
-   "freshness": "delayed"
+   "freshness": "closed"
   },
   {
    "symbol": "XLRE",
    "label": "Real Estate",
    "price": 41.6,
    "pct": -1.33,
-   "asof_et": "Oct 19 07:26 PM ET",
-   "freshness": "delayed"
+   "asof_et": "Oct 19 07:25 PM ET",
+   "freshness": "closed"
   },
   {
    "symbol": "XLC",
@@ -207,15 +207,15 @@
    "price": 110.09,
    "pct": -0.21,
    "asof_et": "Oct 19 05:25 PM ET",
-   "freshness": "stale"
+   "freshness": "closed"
   },
   {
    "symbol": "SMH",
    "label": "Semiconductors",
-   "price": 550.01,
-   "pct": 1.89,
-   "asof_et": "Oct 19 07:42 PM ET",
-   "freshness": "delayed"
+   "price": 548.69,
+   "pct": 1.65,
+   "asof_et": "Oct 19 07:55 PM ET",
+   "freshness": "closed"
   }
  ],
  "top_themes": [
@@ -380,6 +380,84 @@
  ],
  "breaking": [
   {
+   "title": "Is Stronger Retail Sales Altering The Investment Case For Kohl's Stock (KSS)?",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLTRQSFRiNEZWMmRac1JRQjRHeHRKd3pRWUdJVFlWdS1Wamd3UnJuN25sdWJmd1pzSmgtMVl1RTBzUVhxQWNWRjVab3cwUUlod1Q0LXhsLUFJZXRSQU1WNUxCb2w0VkJYa2lxdGZZQklfTTQxWTZDbmJkV0tfaE5SSjVjXzVEd1FzREhWbVpjaTJGRFJRTXphWm5QWk9PcW1vaWkya0VSMVlFYTA1UndKYUNLdktLR1lhRlh30gHAAUFVX3lxTE5iaUgwVGIwR2lsb1VTMmt3VEZSclQ1S0Z1YVhZVnNQYU0zdUVxQU9abVcwd3BHOXdLZExNcFowekdiaFVvd2FHbHdjUEk0RDV5NEl3V0dhT1pVUkRWT1RhZGU4X3JVbWNiSDZHVF9Pc2xYbEd4eWNfbXhyV3JwV1lNeFFHVklYOS1Ta0pxdjJiZ3hEclpzQXFvdVJfQl9QYnhjb2pjRlQ5cmZRdXN2RktYY0lGZ2c5cm13QkZ6S2FaWA?oc=5",
+   "source": "Simply Wall Street",
+   "impact": 2.7,
+   "tickers": [
+    "KSS"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 19 08:09 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Meet the Dividend King Stock That Yields More Than Quintuple the Nasdaq-100. Here's Why It's a Buy in October.",
+   "link": "https://www.fool.com/investing/2026/10/19/meet-the-dividend-king-stock-that-yields-more-than/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 5.0,
+   "tickers": [
+    "QQQ",
+    "^TNX"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 19 08:09 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "3M Jumps On Expanded Amazon Data Center Deal; Earnings On Tap",
+   "link": "https://finance.yahoo.com/m/9f746d33-c17c-38dd-9fb5-a7b8bead6c9c/3m-jumps-on-expanded-amazon.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 4.9,
+   "tickers": [
+    "AMZN",
+    "DIA"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 19 08:09 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "COMMENTARY: Ballooning global imbalances risk amplifying messy AI unwind: McGeever",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUkJXWk93aWxuTEM4NmVkd2VjSlgtREktVkNGRDBOcnZlV0p5OXZVNUh2VlNnaXZfWlFSWkdoSXN3V2tZVHdCNFlyWjkwQUV1Y3E2SElJeE00Rzh5Wlp4VUxnQVZLTEhOS0lEUnZfbm9pdW5BQkZIV2NaMXNSb1BpS3J6bDE4NVgydFZRejg0MDRJN1RtdGRBR3hoc3JidlR6WlZsTDgtRkxMU3FjQVkyWWROVl9HVC1faHlRRDNnbS1IeXFwZ0pReDNLcGxmMVd0SThKTQ?oc=5",
+   "source": "Reuters",
+   "impact": 2.4,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 19 08:09 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Japan Stock Market May Remain Rangebound On Monday",
+   "link": "https://www.nasdaq.com/articles/japan-stock-market-may-remain-rangebound-monday",
+   "source": "Nasdaq Markets",
+   "impact": 3.1,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 19 08:09 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Tech Rebound May Boost South Korea Shares",
+   "link": "https://www.nasdaq.com/articles/tech-rebound-may-boost-south-korea-shares",
+   "source": "Nasdaq Markets",
+   "impact": 2.2,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 19 08:09 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "What to know about Kenya's starvation cult after its leader is convicted on 191 murder charges",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSlZta1gxenNzSEE3akdESTZPdkplbHJuZjBmSk5OX3J4UzZYUDU3U2VTMTkwYTBKaXFSbmREREZWaUdZa0ZPUFVBa2gya0l4Nm9FWmJLTnBpVDZQYXpWaU9RVDJRYzlZVmZYWE9OdUVPamRNZF9uNG1vZGZwNGdlYXpxT194V3BFYS1PeV9OUFMyVkZpcVNDNlY1M2tOWFVhTWhR?oc=5",
+   "source": "AP News",
+   "impact": 2.5,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 19 08:09 PM ET",
+   "consumer": false
+  },
+  {
    "title": "Thinking Nvidia Stock Could Hit $10 Trillion? Here's 1 Reason I'd Be Cautious",
    "link": "https://www.fool.com/investing/2026/10/19/thinking-nvidia-stock-could-hit-10-trillion/?.tsrc=rss",
    "source": "Yahoo Finance",
@@ -515,83 +593,6 @@
    "tickers": [],
    "sentiment_label": "bearish",
    "seen_et": "Oct 19 07:44 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "'I'm fed up of swiping': Why singles now want to meet IRL",
-   "link": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "impact": 5.0,
-   "tickers": [
-    "SPY",
-    "^TNX"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 19 07:09 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Pre-IPO Anduril Stock Climbs 50% in 5 Months",
-   "link": "https://www.fool.com/investing/2026/10/19/pre-ipo-anduril-stock-climbs-50-in-5-months/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.0,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 19 07:09 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Alphabet Stock Slipped After Q2 Earnings. Here's What Investors Need to See in Q3.",
-   "link": "https://www.fool.com/investing/2026/10/19/alphabet-q3-earnings-expectations/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.1,
-   "tickers": [
-    "GOOGL"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 19 07:09 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Dividend Aristocrats or Quality Factor: Which ETF Fits Retirement?",
-   "link": "https://247wallst.com/investing/etf/2026/10/19/dividend-aristocrats-or-quality-factor-which-etf-fits-retirement/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 1.7,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 19 07:09 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Kevin Bacon's Vintage Clothes Went Globetrotting, FedEx Finally Delivered Them",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcVZkaWd0bHdIZmFiNkkwWFh5VWJmQlFxS01WeVdlamNXVVdWWmRtQTQ2UmFCUTZjMWpldENOeFdjR2Z1clFmekJBRTFLbmlfeEw3d3U4TjdUaXpCMVZEeVJYdUpUYTJnUjdfZ0lOSnpHbjlNb1ctdmhCQmR6a194MmhhejZMckE?oc=5",
-   "source": "Wide Open Country",
-   "impact": 3.7,
-   "tickers": [
-    "FDX"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 19 07:09 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "COMMENTARY: Trading Day: AI storm abates",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQblNyYURqTWpQSVFybXNBbEFFekkwbG5rWjQ1UDQ3Q2pCUzlLeWFOWjlLNlZrcUZDSGljeTdmUEdSN3h0Yk1oRlA0c1VSQnFqY1FQTzczM0xveGJRXzNTYXhiVG1qb3N0UWhiR1ZWbmVnVTMwOHVfVENGd0lCcGF1ZkFGVTRwOF9heFBhYndGSmZpWjcwSDg2YVJ0a0t6MldDenZyek53?oc=5",
-   "source": "Reuters",
-   "impact": 1.5,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 19 07:09 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Shooting near Ohio mosque leaves 1 dead but was not connected to the building, police say",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRV8yQ0hzcFRDbkhoWVZyeGJLbnh1eGU0UEZpSk5SUHhLUU45ZlpJcUx3elJZRlc0T2JrRDllWTE4SllpSVBRVG5uV1lYd2dxa1VwQmJMZldYS2hPajZjRDFWSXJhVDM0b29FXzQxQkU2TDltYnNjU1VaN3RaRnhHeHhfbTRLSEZ0MVppcVpuckhFamM?oc=5",
-   "source": "AP News",
-   "impact": 2.4,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 19 07:09 PM ET",
    "consumer": false
   }
  ],
@@ -1944,14 +1945,14 @@
   ]
  },
  "sentiment_validation": {
-  "logged": 3446,
+  "logged": 3450,
   "min_sample": 100,
-  "generated_et": "Oct 19 07:44 PM ET",
+  "generated_et": "Oct 19 08:09 PM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
-    "n_scored": 3365,
-    "n_directional": 2758,
+    "n_scored": 3373,
+    "n_directional": 2764,
     "hit_rate": 46.1,
     "ci95": 1.9,
     "corr": -0.015,
@@ -1969,6 +1970,55 @@
   },
   "status": "MEASURED",
   "recent": [
+   {
+    "ticker": "IREN",
+    "sentiment": 0.459,
+    "title": "Stock Market Today, Oct. 19: IREN Rallies on AI Infrastructure Sentiment Rebound",
+    "r1h": -0.259,
+    "r1d": null
+   },
+   {
+    "ticker": "COIN",
+    "sentiment": 0.459,
+    "title": "Stock Market Today, Oct. 19: IREN Rallies on AI Infrastructure Sentiment Rebound",
+    "r1h": -0.024,
+    "r1d": null
+   },
+   {
+    "ticker": "QQQ",
+    "sentiment": 0.178,
+    "title": "AMD (AMD) Stock Trades Up, Here Is Why",
+    "r1h": -0.015,
+    "r1d": null
+   },
+   {
+    "ticker": "AMD",
+    "sentiment": 0.178,
+    "title": "AMD (AMD) Stock Trades Up, Here Is Why",
+    "r1h": -0.007,
+    "r1d": null
+   },
+   {
+    "ticker": "TSLA",
+    "sentiment": 0.586,
+    "title": "Did Foundry Win Just Shift Intel (INTC) Investment Narrative?",
+    "r1h": 0.084,
+    "r1d": null
+   },
+   {
+    "ticker": "INTC",
+    "sentiment": 0.586,
+    "title": "Did Foundry Win Just Shift Intel (INTC) Investment Narrative?",
+    "r1h": -0.143,
+    "r1d": null
+   },
+   {
+    "ticker": "BAC",
+    "sentiment": 0.25,
+    "title": "Bank of America Has Cut Its Share Count by Nearly a Third in 10 Years. $10,000 Invested Then Is Worth About $40,000 Now.",
+    "r1h": 0.001,
+    "r1d": null
+   },
    {
     "ticker": "MS",
     "sentiment": 0.691,
@@ -1989,55 +2039,6 @@
     "title": "NVIDIA Deal Highlights Value of Tiny's Early Poolside Investment",
     "r1h": 0.138,
     "r1d": null
-   },
-   {
-    "ticker": "QQQ",
-    "sentiment": 0.459,
-    "title": "Stock Market Today, Oct. 19: CoreWeave Rebounds on Goldman Sachs Buy Upgrade and $139 Price Target",
-    "r1h": 0.111,
-    "r1d": null
-   },
-   {
-    "ticker": "GS",
-    "sentiment": 0.459,
-    "title": "Stock Market Today, Oct. 19: CoreWeave Rebounds on Goldman Sachs Buy Upgrade and $139 Price Target",
-    "r1h": 0.0,
-    "r1d": null
-   },
-   {
-    "ticker": "CRWV",
-    "sentiment": 0.459,
-    "title": "Stock Market Today, Oct. 19: CoreWeave Rebounds on Goldman Sachs Buy Upgrade and $139 Price Target",
-    "r1h": 0.179,
-    "r1d": null
-   },
-   {
-    "ticker": "META",
-    "sentiment": -0.402,
-    "title": "Dow Jones Futures: AMD, Nvidia Lead AI Trade Higher; Meta, Netflix, SpaceX, Tesla Earnings On Deck",
-    "r1h": 0.018,
-    "r1d": null
-   },
-   {
-    "ticker": "AMD",
-    "sentiment": -0.402,
-    "title": "Dow Jones Futures: AMD, Nvidia Lead AI Trade Higher; Meta, Netflix, SpaceX, Tesla Earnings On Deck",
-    "r1h": 0.393,
-    "r1d": null
-   },
-   {
-    "ticker": "MS",
-    "sentiment": 0.848,
-    "title": "Stock Market Today, Oct. 19: Amazon Surges on Morgan Stanley Top Pick and $350 Price Target",
-    "r1h": -0.067,
-    "r1d": null
-   },
-   {
-    "ticker": "AMZN",
-    "sentiment": 0.848,
-    "title": "Stock Market Today, Oct. 19: Amazon Surges on Morgan Stanley Top Pick and $350 Price Target",
-    "r1h": 0.076,
-    "r1d": null
    }
   ]
  },
@@ -2045,98 +2046,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 11,
-   "fetched_et": "Oct 19 07:44 PM ET",
+   "fetched_et": "Oct 19 08:09 PM ET",
    "newest_et": "Oct 19 04:23 AM ET",
    "newest": "2026-10-19T08:23:33+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 19 07:44 PM ET",
+   "fetched_et": "Oct 19 08:09 PM ET",
    "newest_et": "Oct 19 02:36 PM ET",
    "newest": "2026-10-19T18:36:21+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 19 07:44 PM ET",
+   "fetched_et": "Oct 19 08:09 PM ET",
    "newest_et": "Oct 19 08:34 AM ET",
    "newest": "2026-10-19T12:34:01+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 19 07:44 PM ET",
+   "fetched_et": "Oct 19 08:09 PM ET",
    "newest_et": "Oct 19 05:58 PM ET",
    "newest": "2026-10-19T21:58:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 19 07:44 PM ET",
+   "fetched_et": "Oct 19 08:09 PM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 19,
-   "fetched_et": "Oct 19 07:44 PM ET",
-   "newest_et": "Oct 19 07:29 PM ET",
-   "newest": "2026-10-19T23:29:00+00:00"
+   "fetched_et": "Oct 19 08:09 PM ET",
+   "newest_et": "Oct 19 07:50 PM ET",
+   "newest": "2026-10-19T23:50:00+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 51,
-   "fetched_et": "Oct 19 07:44 PM ET",
+   "fetched_et": "Oct 19 08:09 PM ET",
    "newest_et": "Oct 19 07:00 PM ET",
    "newest": "2026-10-19T23:00:21+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 19 07:44 PM ET",
-   "newest_et": "Oct 19 05:45 PM ET",
-   "newest": "2026-10-19T21:45:42+00:00"
+   "fetched_et": "Oct 19 08:09 PM ET",
+   "newest_et": "Oct 19 07:30 PM ET",
+   "newest": "2026-10-19T23:30:20+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 19 07:44 PM ET",
+   "fetched_et": "Oct 19 08:09 PM ET",
    "newest_et": "Oct 19 06:47 PM ET",
    "newest": "2026-10-19T22:47:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 40,
-   "fetched_et": "Oct 19 07:44 PM ET",
-   "newest_et": "Oct 19 07:17 PM ET",
-   "newest": "2026-10-19T23:17:41+00:00"
+   "count": 20,
+   "fetched_et": "Oct 19 08:09 PM ET",
+   "newest_et": "Oct 19 03:18 PM ET",
+   "newest": "2026-10-19T19:18:30+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
    "count": 46,
-   "fetched_et": "Oct 19 07:44 PM ET",
-   "newest_et": "Oct 19 06:11 PM ET",
-   "newest": "2026-10-19T22:11:36+00:00"
+   "fetched_et": "Oct 19 08:09 PM ET",
+   "newest_et": "Oct 19 07:51 PM ET",
+   "newest": "2026-10-19T23:51:15+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 19 07:44 PM ET",
+   "fetched_et": "Oct 19 08:09 PM ET",
    "newest_et": "Oct 16 11:00 AM ET",
    "newest": "2026-10-16T15:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 19 07:44 PM ET",
-   "newest_et": "Oct 19 06:50 PM ET",
-   "newest": "2026-10-19T22:50:00+00:00"
+   "fetched_et": "Oct 19 08:09 PM ET",
+   "newest_et": "Oct 19 07:29 PM ET",
+   "newest": "2026-10-19T23:29:00+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Oct 19 07:44 PM ET"
+   "fetched_et": "Oct 19 08:09 PM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
