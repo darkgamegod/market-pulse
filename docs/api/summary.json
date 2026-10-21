@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 20 08:08 PM ET",
- "generated_at": "2026-10-20T20:08:12.142194-04:00",
+ "generated_et": "Oct 20 08:59 PM ET",
+ "generated_at": "2026-10-20T20:59:37.405525-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-20",
@@ -12,33 +12,33 @@
   {
    "symbol": "ES=F",
    "label": "S&P 500 Fut",
-   "price": 7775.5,
-   "pct": 0.53,
-   "asof_et": "Oct 20 07:55 PM ET",
+   "price": 7783.25,
+   "pct": 0.63,
+   "asof_et": "Oct 20 08:45 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "NQ=F",
    "label": "Nasdaq 100 Fut",
-   "price": 29911.5,
-   "pct": 0.64,
-   "asof_et": "Oct 20 07:55 PM ET",
+   "price": 29980.25,
+   "pct": 0.87,
+   "asof_et": "Oct 20 08:45 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "YM=F",
    "label": "Dow Fut",
-   "price": 52726.0,
-   "pct": 1.04,
-   "asof_et": "Oct 20 07:55 PM ET",
+   "price": 52732.0,
+   "pct": 1.05,
+   "asof_et": "Oct 20 08:45 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "RTY=F",
    "label": "Russell 2000 Fut",
-   "price": 2790.8,
-   "pct": 1.77,
-   "asof_et": "Oct 20 07:55 PM ET",
+   "price": 2789.5,
+   "pct": 1.72,
+   "asof_et": "Oct 20 08:45 PM ET",
    "freshness": "delayed"
   },
   {
@@ -84,25 +84,25 @@
   {
    "symbol": "CL=F",
    "label": "WTI Crude",
-   "price": 98.4,
-   "pct": -5.07,
-   "asof_et": "Oct 20 07:55 PM ET",
+   "price": 98.41,
+   "pct": -5.06,
+   "asof_et": "Oct 20 08:45 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "GC=F",
    "label": "Gold",
-   "price": 4132.5,
-   "pct": -0.66,
-   "asof_et": "Oct 20 07:55 PM ET",
+   "price": 4138.4,
+   "pct": -0.52,
+   "asof_et": "Oct 20 08:45 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "DX-Y.NYB",
    "label": "Dollar Index",
-   "price": 101.79,
-   "pct": -0.19,
-   "asof_et": "Oct 20 07:55 PM ET",
+   "price": 101.78,
+   "pct": -0.2,
+   "asof_et": "Oct 20 08:45 PM ET",
    "freshness": "delayed"
   },
   {
@@ -116,17 +116,17 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 82889.78,
-   "pct": 1.27,
-   "asof_et": "Oct 20 08:05 PM ET",
+   "price": 82945.37,
+   "pct": 1.33,
+   "asof_et": "Oct 20 08:55 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "XLK",
    "label": "Technology",
-   "price": 187.51,
-   "pct": 0.83,
-   "asof_et": "Oct 20 07:50 PM ET",
+   "price": 187.46,
+   "pct": 0.81,
+   "asof_et": "Oct 20 07:55 PM ET",
    "freshness": "closed"
   },
   {
@@ -134,7 +134,7 @@
    "label": "Financials",
    "price": 55.75,
    "pct": 1.25,
-   "asof_et": "Oct 20 07:52 PM ET",
+   "asof_et": "Oct 20 07:50 PM ET",
    "freshness": "closed"
   },
   {
@@ -150,7 +150,7 @@
    "label": "Health Care",
    "price": 178.8,
    "pct": 1.79,
-   "asof_et": "Oct 20 07:56 PM ET",
+   "asof_et": "Oct 20 07:55 PM ET",
    "freshness": "closed"
   },
   {
@@ -172,9 +172,9 @@
   {
    "symbol": "XLI",
    "label": "Industrials",
-   "price": 167.94,
-   "pct": 0.76,
-   "asof_et": "Oct 20 06:40 PM ET",
+   "price": 167.9,
+   "pct": 0.73,
+   "asof_et": "Oct 20 07:55 PM ET",
    "freshness": "closed"
   },
   {
@@ -382,6 +382,161 @@
  ],
  "breaking": [
   {
+   "title": "Bank of America finds a quicker path to Apple's iPhone Duo",
+   "link": "https://www.thestreet.com/markets/bank-of-america-finds-a-quicker-path-to-apples-iphone-duo?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.4,
+   "tickers": [
+    "AAPL",
+    "BAC"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 20 08:59 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Are You Overpaying For Costco Stock Versus Its Rivals?",
+   "link": "https://www.trefis.com/articles/619359/are-you-overpaying-for-costco-stock-versus-its-rivals/2026-10-20?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 4.3,
+   "tickers": [
+    "AMZN",
+    "COST",
+    "WMT"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 20 08:59 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Why Northrop Grumman Stock Rallied Today",
+   "link": "https://www.fool.com/investing/2026/10/20/why-northrop-grumman-stock-rallied-today/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.8,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 20 08:59 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Anthropic Is Targeting an IPO as Soon as Mid-November",
+   "link": "https://www.fool.com/investing/2026/10/20/anthropic-is-targeting-an-ipo-as-soon-as-mid-novem/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 1.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 20 08:59 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Better Consumer Stock for 2026: Airbnb vs. DICK'S Sporting Goods",
+   "link": "https://www.nasdaq.com/articles/better-consumer-stock-2026-airbnb-vs-dicks-sporting-goods",
+   "source": "Nasdaq Markets",
+   "impact": 2.8,
+   "tickers": [
+    "ABNB"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 20 08:59 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Singapore Stock Market May See Support At 5,400 Points",
+   "link": "https://www.nasdaq.com/articles/singapore-stock-market-may-see-support-5400-points",
+   "source": "Nasdaq Markets",
+   "impact": 3.6,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 20 08:59 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Musk Says SpaceX and Tesla Formed Committees to Discuss Potential Merger",
+   "link": "https://finance.yahoo.com/video/musk-says-spacex-tesla-formed-234400202.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.5,
+   "tickers": [
+    "TSLA"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 20 08:59 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Guatemalan man sentenced to 30 years for smuggling tragedy that killed 53 people in Texas",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSVBzMkZidW5hRW85NlRvYzZoUE5yTWpuRV9TQTBvdEhyai1aVTFKR1FKNHA1alFjeVZacmVOcE9uN2QyR3NoTlF5R2tzUnFjWUI5ZnhSTWRxMG1nVU5IQ2hmakJqWFZUaFFvQkIydW5nR21yencwM1VhcUtmaEg5VWdsc21IdEQ4NGpLLWJsVm40TldyX00wZlU3Yzd5Qmh0WUNKR1Z3THVXZw?oc=5",
+   "source": "AP News",
+   "impact": 2.6,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 20 08:59 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "USPS Raises Forever Stamp Price for the 6th Time in 5 Years - New Cost Starts Sunday",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTYmFGbkdkd2d6RkhxMEdrTndGMGpMMWhyVFVaOHkxTXVPMjZPaHpUUVlhUERtRkgxYUFDWXZHUkFYWEJFc3hNeVp2RmFubDd1MjMzWlpOR0ZpaDRoZGFYaGh3M3RaN3ZtcVBSY2NyTQ?oc=5",
+   "source": "FinanceBuzz",
+   "impact": 1.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 20 08:59 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Brewers promised a ticket to any future game for $1,000. Some fans unhappy with World Series seats",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT3FlZ0ladDhlWWlfOEgyWGI4YlQzemtOaTlCYTRoWnI1QmllLTRRczNXMEluMkRuMzhzZXBsb0NKZVhrMVE3b2k0anNJN0RRZnVjbmFPQnFva2MzVFFUY0xlZHRRN2JuaTlLVDBSUVVybDMwNkJoZmJ0LWJKZTVRcEIxenlVZDh3X19NNzVYaDhhSzBGbDVhWExRRUVzMTA0Z3hQQkxqOFNkSTU5WXRuSA?oc=5",
+   "source": "AP News",
+   "impact": 1.6,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 20 08:59 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Beijing blasts US sanctions on 5 Chinese firms tied to ex-Google engineer",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOS0JyVEtjeDR1NUlIUFJPOUtWbkV2cWVNVHY4dEUwWWlYcFZRbWlGWldfcXZ3cS1jSjBhbVZmY2pVSEEyelI3dDM5cThXcnNVWHVjVjlVR0cyanNwODVOdVVMdXA2Sy1QZEVjU01HU0Q4MGxYQURrZjJzZDkyc3BhdjZ1T191dDM0WDJhc2RzNEpBazBRQ1gxdmdMREpvb2g1T2VGd0lEQVU3SG9Ma1E?oc=5",
+   "source": "AP News",
+   "impact": 3.0,
+   "tickers": [
+    "GOOGL"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 20 08:59 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Yellowstone receives record $105 million gift for infrastructure, conservation, access",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQVNucFdBenBQR2t4TE13U0ZzelZuUmFoRXBieWVnTlZDNUJDWVFyQ2JBZ3RrUGpCd01raVg0VEFNTVJCN01mTUJtZjE0Qk9CanFMLTFGdGxlSlZYXzhKNHpkdFljdlVRZ1Zsa3RrczM2MVFCY0hqaFVRMnZsS0FSVWFKQWV6UTM2R1NkWHRBR1l4eFAyemRpeHhCUFVyTFJ3MzNXTWNLRmVmUkRNS05jUU9jTQ?oc=5",
+   "source": "AP News",
+   "impact": 2.9,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 20 08:59 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Meta tells Brazil's electoral court it treats Lula and Flávio Bolsonaro equally ahead of Sunday vote",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUUNRYjNpd1NxZ1huckx6aW9zQjZpRWFpazk2bHNoLWFBLTRLUjNySU5sR3F4TDMxbnBBU1BVRU5ob1RaRFlDMG05R3ZUZW5sYzVObDNwUC02Tnc1MHFWNmJLTFhBOG95OThvbXRnUVhDeEVtRGM0RElxcDBlcENkYzhrcG14VEg2T3NQYmMzZmhtWWtGTVQyT1dCVkQ2Q29Wem1MVUZDOU5iT0E?oc=5",
+   "source": "AP News",
+   "impact": 1.8,
+   "tickers": [
+    "META"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 20 08:59 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Woman who accused students of rape says Cornell president's response made her feel 'unsupported'",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWTcxZ0ZHNnpVWmpPVHBMTlphOGtGUU1hZGgwTUtmbGVyM1NKTWJ4UTFnUnN3enpBOW9xQ0NDSFc1Uk1naWlyZkxoRGFPZm8xVGVna2Z0clpBekhyWURuYl8yWjZtdDBZLTF2ZF9pUUlqOVFYaksyZ25RMTRJOE5xbm43WkVISzhBaWliX2dkaEM?oc=5",
+   "source": "AP News",
+   "impact": 2.4,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 20 08:59 PM ET",
+   "consumer": false
+  },
+  {
    "title": "Liquid AI CEO says AI's next big opportunity may be hiding inside your car",
    "link": "https://www.thestreet.com/investing/stocks/liquid-ai-ceo-says-ai-next-big-opportunity-inside-car-assistant?.tsrc=rss",
    "source": "Yahoo Finance",
@@ -445,161 +600,6 @@
    "tickers": [],
    "sentiment_label": "bearish",
    "seen_et": "Oct 20 08:08 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Super Micro Stock Surges on Strong AI Demand. Why Chip Investors Remain Cautious.",
-   "link": "https://finance.yahoo.com/m/43b6b732-d0a2-3c03-bfb2-181d681ee337/super-micro-stock-surges-on.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 4.2,
-   "tickers": [
-    "NVDA"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 20 08:08 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Stocks mostly rise as oil, US yields ease; French stocks fall",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaHdteV9meHVjc2dvbmd1WjNPa1FHR2lwTFlEcmJPWE5zZnhHSFNjQndCeHptVW1NaEpsbms3QS1oSHRiTmZyUVp2ZVR0SlMwT1kxVnM2UFdyenVSblJHVW4ySjA3aTFUcGxvbV9iaHZZMzJVZTRQV1ZtM3BZMVd4RHFsaw?oc=5",
-   "source": "Reuters",
-   "impact": 3.8,
-   "tickers": [
-    "CL=F",
-    "XLE",
-    "^TNX"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 20 08:08 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
-   "source": "Fed Press Releases",
-   "impact": 4.1,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 20 08:08 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
-   "source": "Fed Press Releases",
-   "impact": 3.3,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 20 08:08 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "Capital One's strong quarter and progressing Discover integration are rewarded on Wall Street",
-   "link": "https://www.cnbc.com/investingclub/2026/10/20/capital-one-strong-quarter-and-progressing-discover-integration-are-rewarded.html",
-   "source": "CNBC Top News",
-   "impact": 4.9,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 20 07:44 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Why Washington Trust Bancorp Stock Was a Winner Today",
-   "link": "https://www.nasdaq.com/articles/why-washington-trust-bancorp-stock-was-winner-today",
-   "source": "Nasdaq Markets",
-   "impact": 3.1,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 20 07:44 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Malaysia Stock Market May Tick Higher Again On Wednesday",
-   "link": "https://www.nasdaq.com/articles/malaysia-stock-market-may-tick-higher-again-wednesday",
-   "source": "Nasdaq Markets",
-   "impact": 1.8,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 20 07:44 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Stock futures rise as traders evaluate latest raft of earnings; SpaceX shares surge: Live updates",
-   "link": "https://www.cnbc.com/2026/10/20/stock-market-today-live-updates.html",
-   "source": "CNBC Top News",
-   "impact": 5.2,
-   "tickers": [
-    "DIA"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 20 07:44 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "SpaceX touts possible Tesla merger after profits soar",
-   "link": "https://finance.yahoo.com/technology/ai/articles/spacex-touts-possible-tesla-merger-233115624.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 6.3,
-   "tickers": [
-    "TSLA"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 20 07:44 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "COMMENTARY: Fed sneezes, but emerging markets aren't catching a cold yet: McGeever",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQS1daQTg5d2lOVXV0UWliMmhhb1R0c0MtbVFIRDRTSFBQWmZub2dmNFRTZmJWSDB3ME4xS1U3WnZ3MEtCamNScWNyYy13R25hSEdqOFdCcVZUNFRsTU1MMGxLWVRpSHB5NWxKTkR3d01Bb2ZheGg2WUtRTmZKZTJ4WHJKNG8tc0ZpSEZWUDNYLU5wUTJObmhqTU9wV3dWMVR4NXNqNVBpMUZGejV6M2hSZWZCUVZ5TGFJQUpNcUFkUnZ1dnVoajdBay1B?oc=5",
-   "source": "Reuters",
-   "impact": 4.2,
-   "tickers": [
-    "SPY",
-    "^TNX"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 20 07:44 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "2 Stocks to Buy From the 5 That Make Up Roughly 61.5% of Berkshire Hathaway's Portfolio",
-   "link": "https://www.fool.com/investing/2026/10/20/2-stocks-to-buy-from-the-5-that-make-up-roughly-61/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.0,
-   "tickers": [
-    "BRK-B"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 20 07:44 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Japan Stock Market May Stop The Bleeding On Wednesday",
-   "link": "https://www.nasdaq.com/articles/japan-stock-market-may-stop-bleeding-wednesday",
-   "source": "Nasdaq Markets",
-   "impact": 2.1,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 20 07:44 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "USPS Ocean Shift Delays Hawaii Small Business Packages",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZnJXYkJKWENvYUYyRVE1N2F6dHpncGFaeVFwN0d0aFZ2dDBOVTlPMHN2MTRtT3hnWldCS3lZQnd0bzlKTXp0cDd5U3FYS21qaDlXN0JHWHJvMnJ2RmlEVW40bndxc1Vsd0tHVU1nMHBicC1rczQ3bDVLV0NYQVphRGowSzVOT3NDRl8xaHBGdlJVOVA0TVdoNlpUU2h4cXFaTUE?oc=5",
-   "source": "Hoodline",
-   "impact": 1.5,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 20 07:44 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "The tech helping crack decades-old cold cases",
-   "link": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "impact": 2.2,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 20 07:44 PM ET",
    "consumer": false
   }
  ],
@@ -1143,32 +1143,8 @@
  "economic_calendar": {
   "source": "FairEconomy / ForexFactory weekly calendar (nfs.faireconomy.media)",
   "fallback": false,
-  "fetched_et": "Oct 20 07:13 PM ET",
+  "fetched_et": "Oct 20 08:59 PM ET",
   "events": [
-   {
-    "when_et": "Oct 20 08:15 AM ET",
-    "date": "2026-10-20",
-    "event": "ADP Weekly Employment Change",
-    "importance": "low",
-    "forecast": "",
-    "previous": "24.8K"
-   },
-   {
-    "when_et": "Oct 20 08:30 AM ET",
-    "date": "2026-10-20",
-    "event": "Building Permits",
-    "importance": "low",
-    "forecast": "1.39M",
-    "previous": "1.39M"
-   },
-   {
-    "when_et": "Oct 20 08:30 AM ET",
-    "date": "2026-10-20",
-    "event": "Housing Starts",
-    "importance": "low",
-    "forecast": "1.30M",
-    "previous": "1.28M"
-   },
    {
     "when_et": "Oct 20 10:00 AM ET",
     "date": "2026-10-20",
@@ -1253,7 +1229,7 @@
  },
  "earnings": {
   "source": "Nasdaq earnings calendar API (api.nasdaq.com), filtered to S&P 500 + watchlist",
-  "fetched_et": "Oct 20 04:48 PM ET",
+  "fetched_et": "Oct 20 08:59 PM ET",
   "events": [
    {
     "date": "2026-10-20",
@@ -1996,9 +1972,9 @@
   ]
  },
  "sentiment_validation": {
-  "logged": 3994,
+  "logged": 3999,
   "min_sample": 100,
-  "generated_et": "Oct 20 08:08 PM ET",
+  "generated_et": "Oct 20 08:59 PM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
@@ -2097,108 +2073,108 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 20 08:08 PM ET",
-   "newest_et": "Oct 20 08:01 PM ET",
-   "newest": "2026-10-21T00:01:49+00:00"
+   "fetched_et": "Oct 20 08:59 PM ET",
+   "newest_et": "Oct 20 08:51 PM ET",
+   "newest": "2026-10-21T00:51:27+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 20 08:08 PM ET",
+   "fetched_et": "Oct 20 08:59 PM ET",
    "newest_et": "Oct 20 03:28 PM ET",
    "newest": "2026-10-20T19:28:43+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 20 08:08 PM ET",
+   "fetched_et": "Oct 20 08:59 PM ET",
    "newest_et": "Oct 20 06:29 PM ET",
    "newest": "2026-10-20T22:29:45+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 20 08:08 PM ET",
-   "newest_et": "Oct 20 07:10 PM ET",
-   "newest": "2026-10-20T23:10:00+00:00"
+   "fetched_et": "Oct 20 08:59 PM ET",
+   "newest_et": "Oct 20 08:24 PM ET",
+   "newest": "2026-10-21T00:24:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 20 08:08 PM ET",
+   "fetched_et": "Oct 20 08:59 PM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
-   "count": 18,
-   "fetched_et": "Oct 20 08:08 PM ET",
-   "newest_et": "Oct 20 08:03 PM ET",
-   "newest": "2026-10-21T00:03:00+00:00"
+   "count": 16,
+   "fetched_et": "Oct 20 08:59 PM ET",
+   "newest_et": "Oct 20 08:37 PM ET",
+   "newest": "2026-10-21T00:37:00+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 54,
-   "fetched_et": "Oct 20 08:08 PM ET",
+   "fetched_et": "Oct 20 08:59 PM ET",
    "newest_et": "Oct 20 07:24 PM ET",
    "newest": "2026-10-20T23:24:47+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 20 08:08 PM ET",
+   "fetched_et": "Oct 20 08:59 PM ET",
    "newest_et": "Oct 20 07:30 PM ET",
    "newest": "2026-10-20T23:30:21+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 20 08:08 PM ET",
+   "fetched_et": "Oct 20 08:59 PM ET",
    "newest_et": "Oct 20 07:33 PM ET",
    "newest": "2026-10-20T23:33:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
    "count": 44,
-   "fetched_et": "Oct 20 08:08 PM ET",
+   "fetched_et": "Oct 20 08:59 PM ET",
    "newest_et": "Oct 20 07:17 PM ET",
    "newest": "2026-10-20T23:17:05+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
-   "count": 54,
-   "fetched_et": "Oct 20 08:08 PM ET",
+   "count": 50,
+   "fetched_et": "Oct 20 08:59 PM ET",
    "newest_et": "Oct 20 07:55 PM ET",
    "newest": "2026-10-20T23:55:34+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 20 08:08 PM ET",
+   "fetched_et": "Oct 20 08:59 PM ET",
    "newest_et": "Oct 16 11:00 AM ET",
    "newest": "2026-10-16T15:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 20 08:08 PM ET",
-   "newest_et": "Oct 20 07:34 PM ET",
-   "newest": "2026-10-20T23:34:13+00:00"
+   "fetched_et": "Oct 20 08:59 PM ET",
+   "newest_et": "Oct 20 08:20 PM ET",
+   "newest": "2026-10-21T00:20:00+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Oct 20 08:08 PM ET"
+   "fetched_et": "Oct 20 08:59 PM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
    "count": 82,
-   "fetched_et": "Oct 20 04:48 PM ET"
+   "fetched_et": "Oct 20 08:59 PM ET"
   },
   "Economic calendar": {
    "ok": true,
-   "count": 13,
-   "fetched_et": "Oct 20 07:13 PM ET",
+   "count": 10,
+   "fetched_et": "Oct 20 08:59 PM ET",
    "note": "FairEconomy / ForexFactory weekly calendar (nfs.faireconomy.media)"
   }
  }
