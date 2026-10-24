@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 23 10:25 PM ET",
- "generated_at": "2026-10-23T22:25:39.303998-04:00",
+ "generated_et": "Oct 23 11:01 PM ET",
+ "generated_at": "2026-10-23T23:01:17.439584-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-23",
@@ -116,17 +116,17 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 80777.0,
-   "pct": -0.66,
-   "asof_et": "Oct 23 10:25 PM ET",
+   "price": 80887.66,
+   "pct": -0.52,
+   "asof_et": "Oct 23 11:00 PM ET",
    "freshness": "delayed"
   },
   {
-   "symbol": "XLF",
-   "label": "Financials",
-   "price": 55.92,
-   "pct": -1.29,
-   "asof_et": "Oct 23 07:45 PM ET",
+   "symbol": "XLK",
+   "label": "Technology",
+   "price": 183.53,
+   "pct": 0.65,
+   "asof_et": "Oct 23 07:30 PM ET",
    "freshness": "closed"
   },
   {
@@ -372,6 +372,52 @@
  ],
  "breaking": [
   {
+   "title": "SpaceX Q3 Sales Rose 161% in Q3. Here's What Starlink, Starship, and AI Results Reveal About the Stock.",
+   "link": "https://www.fool.com/investing/2026/10/23/spacex-q3-sales-rose-161-in-q3-heres-what-starlink/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 1.8,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 23 11:01 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Tesla (TSLA) Starts Semi Volume Output With $2.8 Billion AI Component Bet",
+   "link": "https://finance.yahoo.com/technology/ai/articles/tesla-tsla-starts-semi-volume-021147396.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.6,
+   "tickers": [
+    "NVDA",
+    "TSLA"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 23 11:01 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Elon Musk Says Tesla Cars' Value Lies in FSD Service: 'People Are Buying FSD With a Car Attached, Not the Other Way Around'",
+   "link": "https://finance.yahoo.com/technology/articles/elon-musk-says-tesla-cars-013014650.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.5,
+   "tickers": [
+    "FSD",
+    "TSLA"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 23 11:01 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Dr Reddy's beats quarterly profit estimate on India market lift",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTjQwY1BCeHIxWUdoV1NzbXpBVk9uTEFTVDJlNE9IVFJHM3libGUzODBTcmczLUtPRFo4eExndklKYkxxSmtmMVVmbWUyOWZjVWE4RE9TQl85a2tVZEMteWthNFlnOWdFRHg0blJPN0JLb3dHNVlYZWZ6OWYzN0pwYnA4NTFZbnkyRUZDY01FcEVlUXpaQko1UExVOGw?oc=5",
+   "source": "Reuters",
+   "impact": 1.9,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 23 11:01 PM ET",
+   "consumer": false
+  },
+  {
    "title": "Turmoil hits AI buildout as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
    "link": "https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html",
    "source": "CNBC Top News",
@@ -545,48 +591,6 @@
     "TGT"
    ],
    "sentiment_label": "neutral",
-   "seen_et": "Oct 23 09:51 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "NASA adopting Apollo’s urgency to build a moon base and land astronauts within two years",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa0h5UmtYWUN2RnJJbUlacnl0ejQzZmhsUU9YOVVHY2M3SjVldDJ0UXdaR3J4bXh4dlU1QXpKU2sxN3lOYUxibEhkczkxYmFTVi04aUotTng4UWNUQTUyOGxDa1BoRlBBY21kcnlkZ2lpdzdWenVRamxqNmd2RmVrcDV3SkdyOW40MGY5QTA3TVFDWm9TT3NyMHJ3?oc=5",
-   "source": "AP News",
-   "impact": 1.4,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 23 09:51 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "After previous day's slump, trading is quieter among AI shares",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM0M0UTBfYWZ4MlVRd2x0SHBLZjVTMGRfMkk2YkM0V2M5aTEwS0lqRUpuamp2YzVOakt5ek5lZTkyR2V5TTA1MUE5VHd1N05RMW9rQWZmZ1AwVWhld2c4a1VjRFpGcGpyNHh2N1BxSnU4cWhyR2NSajZ3MEtBWGxYbDlRbzVqdXJCTXYtdEF2ZTA3SGlqR0xiOFBobGVlTXFLbmFoTDVqOFI?oc=5",
-   "source": "Reuters",
-   "impact": 1.9,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 23 09:51 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Cboe Nasdaq-100 Implied Volatil (^CNIV) latest stock news and headlines",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YQlpGZElZanZsUnZFUlpBOXp1d09aOGdfQUNEMXB3enhySHh2dFU1X3pmdWMyQnJ0eGZKYUsyQlUzQ19GVmdlUjc0ME5NdnVTRVlNS1VVVjAxWEVH?oc=5",
-   "source": "Yahoo Finance Australia",
-   "impact": 1.3,
-   "tickers": [
-    "QQQ"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 23 09:51 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "In Netanyahu stronghold, signs of fraying loyalty emerge before election",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMHlXZmNFQ1Z5ejY2V3ZpN0FXRFJJYTJvMkVxNzZsTTljVXNJRkI0ZVFBYkpXejhoekNLbjJkZU5iNVBWd0d6bFRPekZWTnByU1JuY1I5ODJxRW1pMFY4eEhNd0RqU2RjQVhTN291YUt3ZkR2YmFpLUdRTHZmdDduYlFQVjA3b1BkRGwtczQ1RmhrVU9GV3prSUN0NmZ0eUdrajdBa1I4VEcxQQ?oc=5",
-   "source": "AP News",
-   "impact": 1.7,
-   "tickers": [],
-   "sentiment_label": "bullish",
    "seen_et": "Oct 23 09:51 PM ET",
    "consumer": false
   }
@@ -2694,12 +2698,12 @@
  "sentiment_validation": {
   "logged": 4000,
   "min_sample": 100,
-  "generated_et": "Oct 23 10:26 PM ET",
+  "generated_et": "Oct 23 11:01 PM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
-    "n_scored": 3932,
-    "n_directional": 3271,
+    "n_scored": 3930,
+    "n_directional": 3270,
     "hit_rate": 47.9,
     "ci95": 1.7,
     "corr": 0.001,
@@ -2707,8 +2711,8 @@
    },
    "r1d": {
     "name": "+1 day",
-    "n_scored": 3461,
-    "n_directional": 2927,
+    "n_scored": 3459,
+    "n_directional": 2926,
     "hit_rate": 45.4,
     "ci95": 1.8,
     "corr": -0.072,
@@ -2793,98 +2797,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 23 10:25 PM ET",
+   "fetched_et": "Oct 23 11:01 PM ET",
    "newest_et": "Oct 23 09:57 PM ET",
    "newest": "2026-10-24T01:57:24+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 23 10:25 PM ET",
+   "fetched_et": "Oct 23 11:01 PM ET",
    "newest_et": "Oct 23 04:49 PM ET",
    "newest": "2026-10-23T20:49:42+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 23 10:25 PM ET",
+   "fetched_et": "Oct 23 11:01 PM ET",
    "newest_et": "Oct 23 02:57 PM ET",
    "newest": "2026-10-23T18:57:48+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 23 10:25 PM ET",
+   "fetched_et": "Oct 23 11:01 PM ET",
    "newest_et": "Oct 23 06:49 PM ET",
    "newest": "2026-10-23T22:49:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 23 10:25 PM ET",
+   "fetched_et": "Oct 23 11:01 PM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 23 10:25 PM ET",
-   "newest_et": "Oct 23 09:37 PM ET",
-   "newest": "2026-10-24T01:37:00+00:00"
+   "fetched_et": "Oct 23 11:01 PM ET",
+   "newest_et": "Oct 23 10:35 PM ET",
+   "newest": "2026-10-24T02:35:00+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 55,
-   "fetched_et": "Oct 23 10:25 PM ET",
+   "fetched_et": "Oct 23 11:01 PM ET",
    "newest_et": "Oct 23 08:36 PM ET",
    "newest": "2026-10-24T00:36:47+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 23 10:25 PM ET",
+   "fetched_et": "Oct 23 11:01 PM ET",
    "newest_et": "Oct 23 07:46 PM ET",
    "newest": "2026-10-23T23:46:35+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 23 10:25 PM ET",
-   "newest_et": "Oct 23 10:07 PM ET",
-   "newest": "2026-10-24T02:07:00+00:00"
+   "fetched_et": "Oct 23 11:01 PM ET",
+   "newest_et": "Oct 23 10:49 PM ET",
+   "newest": "2026-10-24T02:49:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 27,
-   "fetched_et": "Oct 23 10:25 PM ET",
+   "count": 26,
+   "fetched_et": "Oct 23 11:01 PM ET",
    "newest_et": "Oct 23 12:24 PM ET",
    "newest": "2026-10-23T16:24:56+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
    "count": 43,
-   "fetched_et": "Oct 23 10:25 PM ET",
-   "newest_et": "Oct 23 09:13 PM ET",
-   "newest": "2026-10-24T01:13:07+00:00"
+   "fetched_et": "Oct 23 11:01 PM ET",
+   "newest_et": "Oct 23 08:44 PM ET",
+   "newest": "2026-10-24T00:44:13+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 23 10:25 PM ET",
+   "fetched_et": "Oct 23 11:01 PM ET",
    "newest_et": "Oct 16 11:00 AM ET",
    "newest": "2026-10-16T15:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 23 10:25 PM ET",
-   "newest_et": "Oct 23 09:27 PM ET",
-   "newest": "2026-10-24T01:27:02+00:00"
+   "fetched_et": "Oct 23 11:01 PM ET",
+   "newest_et": "Oct 23 10:35 PM ET",
+   "newest": "2026-10-24T02:35:00+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 25,
-   "fetched_et": "Oct 23 10:25 PM ET"
+   "fetched_et": "Oct 23 11:01 PM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
