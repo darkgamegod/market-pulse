@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 24 01:31 AM ET",
- "generated_at": "2026-10-24T01:31:10.537169-04:00",
+ "generated_et": "Oct 24 02:10 AM ET",
+ "generated_at": "2026-10-24T02:10:21.640323-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-24",
@@ -92,8 +92,8 @@
   {
    "symbol": "GC=F",
    "label": "Gold",
-   "price": 4010.0,
-   "pct": -1.24,
+   "price": 4007.9,
+   "pct": -1.29,
    "asof_et": "Oct 23 04:55 PM ET",
    "freshness": "closed"
   },
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 80664.2,
-   "pct": -0.8,
-   "asof_et": "Oct 24 01:30 AM ET",
+   "price": 80650.56,
+   "pct": -0.81,
+   "asof_et": "Oct 24 02:10 AM ET",
    "freshness": "delayed"
   },
   {
@@ -143,6 +143,14 @@
    "price": 69.43,
    "pct": 2.75,
    "asof_et": "Oct 23 07:55 PM ET",
+   "freshness": "closed"
+  },
+  {
+   "symbol": "XLV",
+   "label": "Health Care",
+   "price": 179.69,
+   "pct": -0.89,
+   "asof_et": "Oct 23 07:50 PM ET",
    "freshness": "closed"
   },
   {
@@ -199,14 +207,6 @@
    "price": 105.96,
    "pct": -1.36,
    "asof_et": "Oct 23 06:55 PM ET",
-   "freshness": "closed"
-  },
-  {
-   "symbol": "SMH",
-   "label": "Semiconductors",
-   "price": 526.77,
-   "pct": 0.65,
-   "asof_et": "Oct 23 07:55 PM ET",
    "freshness": "closed"
   }
  ],
@@ -371,6 +371,58 @@
  ],
  "breaking": [
   {
+   "title": "If I Could Tell Every Investor 1 Thing About Stock Market Crashes, It Would Be This",
+   "link": "https://www.fool.com/investing/2026/10/24/if-i-could-tell-every-investor-1-thing-about-stock/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.6,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 24 02:10 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "OpenAI Nears $1.25 Trillion Valuation. What That Tells Investors Ahead of a Potential 2027 IPO.",
+   "link": "https://www.fool.com/investing/2026/10/24/openai-nears-125-trillion-valuation-what-that-tells-investors-ahead-of-a-potential-2027-ipo/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.0,
+   "tickers": [
+    "MSFT"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 24 02:10 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "If History Is Any Guide, This Cryptocurrency Is About to Go Parabolic in 2027",
+   "link": "https://www.fool.com/investing/2026/10/24/if-history-is-any-guide-this-cryptocurrency-is-abo/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 1.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 24 02:10 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "UK on alert over Beijing-backed AI hacking spree",
+   "link": "https://uk.finance.yahoo.com/news/uk-alert-over-beijing-backed-053000750.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 1.7,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 24 02:10 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Truworths stock: Simply Wall St shows ZAR 50.96 fair value for Truworths stock",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNllYdkt2TGtRMEpldko2R1I2ZnVtUGVvRHMyUGtXWGVMVFBJRXNaM1N3VHI3d3BGazdRUzcwMTVxQ2ZLZHYwNFFpQ3g3VFE3WEJDMFVTS1YzUl81VElIS1FlUVlNWnVFWTVsV2NnUUJPT25hS1RKaERTYTBkcXBQV3FQcUlIRzJUaThOYThrOWU2cDE2RmhUNnZJbW9nbjY3S2tUbFlBcXc2Z0VGWkh2dnp4SjhaSlVYMWJQMUhLN3NVUTQ3bXJYNEk3SEE0bGZKZ0E?oc=5",
+   "source": "ad-hoc-news.de",
+   "impact": 2.2,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 24 02:10 AM ET",
+   "consumer": false
+  },
+  {
    "title": "Dale Brown, who has the most wins of any LSU basketball coach, dies at age 90",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdkxhaDh4YW11dG1jT0hZMWhKT0hMYU1Ma0hXYjdqRWJTRTB1MVRKNkZEbHEtUHVrNm1kUWNBWm1jSzBkcUpSekVFRW9DRWtCYkRyWlJhcG1sVjNGS0k3czg5cjdndDE1aTdWcUlDYVZQbGxSNnlXcDM1ZnNFekd1WXplRGZjdw?oc=5",
    "source": "AP News",
@@ -533,62 +585,6 @@
    "tickers": [],
    "sentiment_label": "bearish",
    "seen_et": "Oct 23 11:47 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "SpaceX Q3 Sales Rose 161% in Q3. Here's What Starlink, Starship, and AI Results Reveal About the Stock.",
-   "link": "https://www.fool.com/investing/2026/10/23/spacex-q3-sales-rose-161-in-q3-heres-what-starlink/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 1.8,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 23 11:01 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Tesla (TSLA) Starts Semi Volume Output With $2.8 Billion AI Component Bet",
-   "link": "https://finance.yahoo.com/technology/ai/articles/tesla-tsla-starts-semi-volume-021147396.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.6,
-   "tickers": [
-    "NVDA",
-    "TSLA"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 23 11:01 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "Elon Musk Says Tesla Cars' Value Lies in FSD Service: 'People Are Buying FSD With a Car Attached, Not the Other Way Around'",
-   "link": "https://finance.yahoo.com/technology/articles/elon-musk-says-tesla-cars-013014650.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.5,
-   "tickers": [
-    "FSD",
-    "TSLA"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 23 11:01 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "Dr Reddy's beats quarterly profit estimate on India market lift",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTjQwY1BCeHIxWUdoV1NzbXpBVk9uTEFTVDJlNE9IVFJHM3libGUzODBTcmczLUtPRFo4eExndklKYkxxSmtmMVVmbWUyOWZjVWE4RE9TQl85a2tVZEMteWthNFlnOWdFRHg0blJPN0JLb3dHNVlYZWZ6OWYzN0pwYnA4NTFZbnkyRUZDY01FcEVlUXpaQko1UExVOGw?oc=5",
-   "source": "Reuters",
-   "impact": 1.9,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 23 11:01 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Turmoil hits AI buildout as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
-   "link": "https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html",
-   "source": "CNBC Top News",
-   "impact": 4.6,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 23 10:26 PM ET",
    "consumer": false
   }
  ],
@@ -2794,7 +2790,7 @@
  "sentiment_validation": {
   "logged": 4000,
   "min_sample": 100,
-  "generated_et": "Oct 24 01:31 AM ET",
+  "generated_et": "Oct 24 02:10 AM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
@@ -2893,98 +2889,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 01:31 AM ET",
+   "fetched_et": "Oct 24 02:10 AM ET",
    "newest_et": "Oct 23 09:57 PM ET",
    "newest": "2026-10-24T01:57:24+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 01:31 AM ET",
+   "fetched_et": "Oct 24 02:10 AM ET",
    "newest_et": "Oct 23 04:49 PM ET",
    "newest": "2026-10-23T20:49:42+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 01:31 AM ET",
+   "fetched_et": "Oct 24 02:10 AM ET",
    "newest_et": "Oct 23 02:57 PM ET",
    "newest": "2026-10-23T18:57:48+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 24 01:31 AM ET",
+   "fetched_et": "Oct 24 02:10 AM ET",
    "newest_et": "Oct 23 06:49 PM ET",
    "newest": "2026-10-23T22:49:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 01:31 AM ET",
+   "fetched_et": "Oct 24 02:10 AM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 24 01:31 AM ET",
-   "newest_et": "Oct 24 12:25 AM ET",
-   "newest": "2026-10-24T04:25:00+00:00"
+   "fetched_et": "Oct 24 02:10 AM ET",
+   "newest_et": "Oct 24 02:05 AM ET",
+   "newest": "2026-10-24T06:05:00+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 55,
-   "fetched_et": "Oct 24 01:31 AM ET",
+   "fetched_et": "Oct 24 02:10 AM ET",
    "newest_et": "Oct 23 08:36 PM ET",
    "newest": "2026-10-24T00:36:47+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 24 01:31 AM ET",
+   "fetched_et": "Oct 24 02:10 AM ET",
    "newest_et": "Oct 23 07:46 PM ET",
    "newest": "2026-10-23T23:46:35+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 24 01:31 AM ET",
-   "newest_et": "Oct 24 12:23 AM ET",
-   "newest": "2026-10-24T04:23:00+00:00"
+   "fetched_et": "Oct 24 02:10 AM ET",
+   "newest_et": "Oct 24 01:34 AM ET",
+   "newest": "2026-10-24T05:34:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
    "count": 25,
-   "fetched_et": "Oct 24 01:31 AM ET",
+   "fetched_et": "Oct 24 02:10 AM ET",
    "newest_et": "Oct 23 03:10 PM ET",
    "newest": "2026-10-23T19:10:27+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
-   "count": 43,
-   "fetched_et": "Oct 24 01:31 AM ET",
+   "count": 40,
+   "fetched_et": "Oct 24 02:10 AM ET",
    "newest_et": "Oct 23 09:13 PM ET",
    "newest": "2026-10-24T01:13:07+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 24 01:31 AM ET",
+   "fetched_et": "Oct 24 02:10 AM ET",
    "newest_et": "Oct 16 11:00 AM ET",
    "newest": "2026-10-16T15:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 24 01:31 AM ET",
-   "newest_et": "Oct 24 12:25 AM ET",
-   "newest": "2026-10-24T04:25:00+00:00"
+   "fetched_et": "Oct 24 02:10 AM ET",
+   "newest_et": "Oct 24 01:35 AM ET",
+   "newest": "2026-10-24T05:35:00+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 25,
-   "fetched_et": "Oct 24 01:31 AM ET"
+   "fetched_et": "Oct 24 02:10 AM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
