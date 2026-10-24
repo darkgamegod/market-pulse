@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 24 12:59 AM ET",
- "generated_at": "2026-10-24T00:59:38.189150-04:00",
+ "generated_et": "Oct 24 01:31 AM ET",
+ "generated_at": "2026-10-24T01:31:10.537169-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-24",
@@ -92,8 +92,8 @@
   {
    "symbol": "GC=F",
    "label": "Gold",
-   "price": 4007.9,
-   "pct": -1.29,
+   "price": 4010.0,
+   "pct": -1.24,
    "asof_et": "Oct 23 04:55 PM ET",
    "freshness": "closed"
   },
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 80782.04,
-   "pct": -0.65,
-   "asof_et": "Oct 24 12:55 AM ET",
+   "price": 80664.2,
+   "pct": -0.8,
+   "asof_et": "Oct 24 01:30 AM ET",
    "freshness": "delayed"
   },
   {
@@ -143,14 +143,6 @@
    "price": 69.43,
    "pct": 2.75,
    "asof_et": "Oct 23 07:55 PM ET",
-   "freshness": "closed"
-  },
-  {
-   "symbol": "XLV",
-   "label": "Health Care",
-   "price": 179.69,
-   "pct": -0.89,
-   "asof_et": "Oct 23 07:50 PM ET",
    "freshness": "closed"
   },
   {
@@ -379,6 +371,16 @@
  ],
  "breaking": [
   {
+   "title": "Dale Brown, who has the most wins of any LSU basketball coach, dies at age 90",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdkxhaDh4YW11dG1jT0hZMWhKT0hMYU1Ma0hXYjdqRWJTRTB1MVRKNkZEbHEtUHVrNm1kUWNBWm1jSzBkcUpSekVFRW9DRWtCYkRyWlJhcG1sVjNGS0k3czg5cjdndDE1aTdWcUlDYVZQbGxSNnlXcDM1ZnNFekd1WXplRGZjdw?oc=5",
+   "source": "AP News",
+   "impact": 2.1,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 24 01:31 AM ET",
+   "consumer": false
+  },
+  {
    "title": "Anthropic's Revenue Surged to $16.3 Billion in the First Half of 2026, Up From $1.1 Billion a Year Ago",
    "link": "https://www.fool.com/investing/2026/10/24/anthropics-revenue-surged-to-163-billion-in-the-fi/?.tsrc=rss",
    "source": "Yahoo Finance",
@@ -586,16 +588,6 @@
    "impact": 4.6,
    "tickers": [],
    "sentiment_label": "neutral",
-   "seen_et": "Oct 23 10:26 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Melania Trump brokers a ceasefire deal in Russian-occupied Ukrainian city to get relief aid in",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMkNRM3hJTVJkUGxjNjB3QmhSd2FSb2JHZkZtTjVNdzNWeHJ4QkpwdEd0cWttQjg0ZmVSQUtCV0JHTFRCeTd3NGJITy1ybDRTQzB4ZkhEdDEtRkRhcUZrWHdONWJZZFlBbGV5YmhkbDh5LTlaZm9jelQ3Y2FWOEcxUlhLZE5yX2c4dVhSZlYyVDUtVllza2ZLLTVXQ2RCN093aGJlRmc4RU9jcHZROVRv?oc=5",
-   "source": "AP News",
-   "impact": 2.9,
-   "tickers": [],
-   "sentiment_label": "bullish",
    "seen_et": "Oct 23 10:26 PM ET",
    "consumer": false
   }
@@ -1154,7 +1146,7 @@
  "economic_calendar": {
   "source": "RULE-BASED FALLBACK (approximate; live calendar unavailable)",
   "fallback": true,
-  "fetched_et": "Oct 24 12:26 AM ET",
+  "fetched_et": "Oct 24 01:31 AM ET",
   "events": [
    {
     "date": "2026-10-28",
@@ -2802,7 +2794,7 @@
  "sentiment_validation": {
   "logged": 4000,
   "min_sample": 100,
-  "generated_et": "Oct 24 12:59 AM ET",
+  "generated_et": "Oct 24 01:31 AM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
@@ -2901,98 +2893,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 12:59 AM ET",
+   "fetched_et": "Oct 24 01:31 AM ET",
    "newest_et": "Oct 23 09:57 PM ET",
    "newest": "2026-10-24T01:57:24+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 12:59 AM ET",
+   "fetched_et": "Oct 24 01:31 AM ET",
    "newest_et": "Oct 23 04:49 PM ET",
    "newest": "2026-10-23T20:49:42+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 12:59 AM ET",
+   "fetched_et": "Oct 24 01:31 AM ET",
    "newest_et": "Oct 23 02:57 PM ET",
    "newest": "2026-10-23T18:57:48+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 24 12:59 AM ET",
+   "fetched_et": "Oct 24 01:31 AM ET",
    "newest_et": "Oct 23 06:49 PM ET",
    "newest": "2026-10-23T22:49:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 12:59 AM ET",
+   "fetched_et": "Oct 24 01:31 AM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 24 12:59 AM ET",
+   "fetched_et": "Oct 24 01:31 AM ET",
    "newest_et": "Oct 24 12:25 AM ET",
    "newest": "2026-10-24T04:25:00+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 55,
-   "fetched_et": "Oct 24 12:59 AM ET",
+   "fetched_et": "Oct 24 01:31 AM ET",
    "newest_et": "Oct 23 08:36 PM ET",
    "newest": "2026-10-24T00:36:47+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 24 12:59 AM ET",
+   "fetched_et": "Oct 24 01:31 AM ET",
    "newest_et": "Oct 23 07:46 PM ET",
    "newest": "2026-10-23T23:46:35+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 24 12:59 AM ET",
+   "fetched_et": "Oct 24 01:31 AM ET",
    "newest_et": "Oct 24 12:23 AM ET",
    "newest": "2026-10-24T04:23:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
    "count": 25,
-   "fetched_et": "Oct 24 12:59 AM ET",
-   "newest_et": "Oct 23 02:46 PM ET",
-   "newest": "2026-10-23T18:46:42+00:00"
+   "fetched_et": "Oct 24 01:31 AM ET",
+   "newest_et": "Oct 23 03:10 PM ET",
+   "newest": "2026-10-23T19:10:27+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
    "count": 43,
-   "fetched_et": "Oct 24 12:59 AM ET",
+   "fetched_et": "Oct 24 01:31 AM ET",
    "newest_et": "Oct 23 09:13 PM ET",
    "newest": "2026-10-24T01:13:07+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 24 12:59 AM ET",
+   "fetched_et": "Oct 24 01:31 AM ET",
    "newest_et": "Oct 16 11:00 AM ET",
    "newest": "2026-10-16T15:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 24 12:59 AM ET",
+   "fetched_et": "Oct 24 01:31 AM ET",
    "newest_et": "Oct 24 12:25 AM ET",
    "newest": "2026-10-24T04:25:00+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
-   "count": 26,
-   "fetched_et": "Oct 24 12:59 AM ET"
+   "count": 25,
+   "fetched_et": "Oct 24 01:31 AM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
@@ -3002,7 +2994,7 @@
   "Economic calendar": {
    "ok": false,
    "count": 3,
-   "fetched_et": "Oct 24 12:26 AM ET",
+   "fetched_et": "Oct 24 01:31 AM ET",
    "note": "RULE-BASED FALLBACK (approximate; live calendar unavailable)"
   }
  }
