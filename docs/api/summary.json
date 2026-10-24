@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 24 09:18 AM ET",
- "generated_at": "2026-10-24T09:18:53.262763-04:00",
+ "generated_et": "Oct 24 09:56 AM ET",
+ "generated_at": "2026-10-24T09:56:53.859547-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-24",
@@ -12,8 +12,8 @@
   {
    "symbol": "ES=F",
    "label": "S&P 500 Fut",
-   "price": 7659.75,
-   "pct": -0.58,
+   "price": 7672.5,
+   "pct": -0.42,
    "asof_et": "Oct 23 05:00 PM ET",
    "freshness": "closed"
   },
@@ -28,16 +28,16 @@
   {
    "symbol": "YM=F",
    "label": "Dow Fut",
-   "price": 52394.0,
-   "pct": -1.27,
+   "price": 52451.0,
+   "pct": -1.16,
    "asof_et": "Oct 23 04:55 PM ET",
    "freshness": "closed"
   },
   {
    "symbol": "RTY=F",
    "label": "Russell 2000 Fut",
-   "price": 2784.5,
-   "pct": -0.41,
+   "price": 2788.7,
+   "pct": -0.26,
    "asof_et": "Oct 23 04:55 PM ET",
    "freshness": "closed"
   },
@@ -84,8 +84,8 @@
   {
    "symbol": "CL=F",
    "label": "WTI Crude",
-   "price": 103.27,
-   "pct": 3.82,
+   "price": 103.44,
+   "pct": 3.99,
    "asof_et": "Oct 23 04:55 PM ET",
    "freshness": "closed"
   },
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 80604.46,
-   "pct": -0.58,
-   "asof_et": "Oct 24 09:15 AM ET",
+   "price": 80591.09,
+   "pct": -0.6,
+   "asof_et": "Oct 24 09:55 AM ET",
    "freshness": "delayed"
   },
   {
@@ -379,6 +379,110 @@
  ],
  "breaking": [
   {
+   "title": "Thousands march in France over schools and living costs as police use tear gas",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWFhXb1VmdWxKRzJmZnRpSGpJTk40b3JoTldmR0FjTW9nWWxibmNBOTJCN1NNa1IyenIycmtueTVnVHhaR19YOUU3TkE2ODBHRFFlRWdDYVZzVWY0MVlqV0dTOHlkaTdEbmxkdnFNMnJicVFjSkhYUVdOaGFYYU5jVEQ5VEhRUU5tWlJjZ1pzOE5GQQ?oc=5",
+   "source": "AP News",
+   "impact": 1.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 24 09:57 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "My niece’s college rent is covered by a 529 plan. What else can I pay for tax-free?",
+   "link": "https://www.marketwatch.com/story/my-nieces-college-rent-is-covered-by-a-529-plan-what-else-can-i-pay-for-tax-free-d1686b63?mod=mw_rss_topstories",
+   "source": "MarketWatch Top",
+   "impact": 1.8,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 24 09:57 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "The Puzzle Pieces for a Stock Market Crash Are Taking Shape, With 4 Historically Flawless Indicators Now Sounding the Alarm",
+   "link": "https://www.fool.com/investing/2026/10/24/puzzle-pieces-for-stock-market-crash-taking-shape-4-historically-flawless-indicators-sound-alarm/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 24 09:57 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Micron vs. Sandisk: Which Is the Better AI Memory Stock to Own for the Next 3 Years",
+   "link": "https://www.fool.com/investing/2026/10/24/micron-vs-sandisk-which-is-the-better-ai-memory-st/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.8,
+   "tickers": [
+    "MU"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 24 09:57 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Dave Ramsey Calls 2026 Crash Predictions “Freaking Asinine.” Here’s What the Data Says.",
+   "link": "https://247wallst.com/personal-finance/2026/10/24/dave-ramsey-calls-2026-crash-predictions-freaking-asinine-heres-what-the-data-says/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 4.2,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 24 09:57 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Amazon Just Walked Away From a $427 Million Data Center Plan After Neighbors Fought Back",
+   "link": "https://247wallst.com/investing/2026/10/24/amazon-just-walked-away-from-a-427-million-data-center-plan-after-neighbors-fought-back/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.3,
+   "tickers": [
+    "AMZN"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 24 09:57 AM ET",
+   "consumer": true
+  },
+  {
+   "title": "Sexual harassment rules for Congress are under review after a flurry of ethics cases",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdldrQ2hEQ3pXZDdMRWxfVW9LZDBOd0RxTlF3TzIyUWVMU19jTnc0QVg2U0JhOEo5djNrSFQyWEs3TTVnSXo0S29zSERYdTBweDRFNURuc3JCdE9ITXpwd2l5M1FJdG1WM0twWU5RSzBvdEJEazZBWHc1TEQzeEVDWnQ5NnJmaVhMS1lOczgwTThTNGhzVmtxeENoWEtoSGRFZ1ZVZWJJUk83dXVZZDlV?oc=5",
+   "source": "AP News",
+   "impact": 2.4,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 24 09:57 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "This US House district was once a political battleground. Now it shows why Congress is dysfunctional",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeWlwd0ZicjIzenVmaGdibW90NkRLem5yLUdERTAtbVZERlBWYW9DQl83eFlhRUVRdmxBT0ZqRmlRR0xhbUJEUGVTMXJPMnNMRzRFX3lTYlcwdWF5dXZNTnowX2kxenh5ZF9JaFBhWlRiX2c0RFNXYTZKVTZ5WHZjNU80VmZxanc5RjIzMHNXUXViNVM2bG4xODl3VW9PREJ2dlpVUkk3TGpSTV96Y2gzSE56aDdSNG8xSWJxSmdn?oc=5",
+   "source": "AP News",
+   "impact": 2.2,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 24 09:57 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "2 Philippine air force planes collide during a training flight, killing all 4 pilots",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcEo5akhfQVNkRlRuUUNZV1U3dVhlZThEclBrbmRhamp3MGJPem1MNl9XZ2lSWUtDUUt3bWZ0S2E0SWdxQ2lfZUk1djVBREN6VU5PRDlqcFVvd1RCQVktSVhuZWRWOHdEZFNwckVUdDVZQk5KVHJYdlJNeGpwX0V6V3N3R18wdUlGTE4tQ2pYTzc1YXVnMEVvTGcwT0VTbmp2UVE2NXdZZ3Vla3oxMmc?oc=5",
+   "source": "AP News",
+   "impact": 4.1,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 24 09:57 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Euro sinks on French debt worries, yen gains for week on AI rout",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRU4zMGRzLXpsS3VUeXg0YlJGV1NNYnZCUTZaOVJhSm5KQkUxcExfVEZ0cmsyUkFHX2JubWJKV3RwVkpVd3dodmFLcHV2YU83S1JQSGF4YzlnOUdldHBHeks2bFpZLVJBVGhDeGxONTd1S05KSkxTZlhqYWFqZXA3bmloWDhhVEdQa3dpcllLbk16eURmMzhpUzJueE9vZw?oc=5",
+   "source": "Reuters",
+   "impact": 0.8,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 24 09:57 AM ET",
+   "consumer": false
+  },
+  {
    "title": "Biotech stocks are surging. How investors can play the new drug innovation boom",
    "link": "https://www.cnbc.com/2026/10/24/biotech-stocks-drug-innovation-rally.html",
    "source": "CNBC Top News",
@@ -491,111 +595,6 @@
     "CVX"
    ],
    "sentiment_label": "bullish",
-   "seen_et": "Oct 24 09:19 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "You Might Be Able to Invest in the Starlab Space Station -- but Should You?",
-   "link": "https://www.fool.com/investing/2026/10/24/how-to-invest-in-starlab-space-station-should-you/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 1.5,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 24 09:19 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Genmab, Incyte Partner On Trial Of Petosemtamab Combination In KRAS G12D-Mutated Colorectal Cancer",
-   "link": "https://www.nasdaq.com/articles/genmab-incyte-partner-trial-petosemtamab-combination-kras-g12d-mutated-colorectal-cancer",
-   "source": "Nasdaq Markets",
-   "impact": 3.4,
-   "tickers": [
-    "GMAB",
-    "INCY"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 24 09:19 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "XLRE vs VNQI: Domestic Large-Cap Stability or International 5% Yield",
-   "link": "https://www.nasdaq.com/articles/xlre-vs-vnqi-domestic-large-cap-stability-or-international-5-yield",
-   "source": "Nasdaq Markets",
-   "impact": 1.8,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 24 09:19 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Jensen Huang Says Nvidia GPUs Could Last Over 8 Years, Not 4, Carry ‘Really High’ Residual Value: ‘Lowest Risk’ Assets for Lenders",
-   "link": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-says-nvidia-gpus-113005747.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.8,
-   "tickers": [
-    "NVDA"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 24 09:19 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Share Prices, Stock Quotes, Charts, Trade History, Share Chat, Financial News - London South East",
-   "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE15a0pnSlVXbUxWSnZ1Ul9mT1RkekpRYms2djM0QVlJTm5HaUQxLTlyZ1NXZkg2Vk10N0E?oc=5",
-   "source": "London South East",
-   "impact": 2.3,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 24 09:19 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "North Korean leader Kim Jong Un visits China to inaugurate a new cross-border bridge",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX0I1TVQybGpFam8xeDVVN1NTdVFha1Q3Und2cjhZbHJnMG1CekZFTWEyMXI2VFNTVHF0MlF5ekIxM3plalZMVU9jVjZHanE2WnozM2xQN2x6WDA2NHh1NUVXRXIwZ2JVczFsQjZ5aXY2VU9tRk1kRWg2bDZpSlJKVzVFaVlhOFc0N0pnOUp0cWVwREY0b1JlZ2xSbw?oc=5",
-   "source": "AP News",
-   "impact": 1.4,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 24 09:19 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Japan’s unpopular revision of Imperial law that reinforces male-only succession takes effect",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQUFtbVZnRUFQNExhclhieGNGWTdaWkRocms3Nlp2X1pzclRYOHRHZmV2RmhDR0hzOUFQbnBOcW0zaDdRMTlXYVBJN3h6LTEyX3V3NzFuMjZ6X1R2RUlrT19fSlFDekxVMEJ2ZWpuNEZmdjFSemEtU2NUaFcwNDJCMVV1YldGNWdTQVVsenI0bVBUTmdQSnR3N1FNc0ZUVDl2Ty1IeC1DcHBZUQ?oc=5",
-   "source": "AP News",
-   "impact": 1.7,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 24 09:19 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Mavericks lose Cooper Flagg with shoulder injury following hard foul in 1st half against Pacers",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOajV3TEdLNVVqY2c3WVMwWVNTakFDNk5aN0xBNjBPRGV4U0xBVU9aV19jVmRpZnluQW5WX0c2R3JwejZnajl2am5ZR20zRldheVdxanpRVzJLYkRyU1YzYWtqYXZnWWU1S2RiZVQwdE9ILXpoRjMtNE1sVW1GZmZlYTRRV05XTXNSUW13Q1RuOWtUTHc?oc=5",
-   "source": "AP News",
-   "impact": 2.2,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 24 09:19 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "X-planes: Are they needed in the new era of drones?",
-   "link": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "impact": 0.5,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 24 09:19 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Vestas Wind Systems stock slumps as company says margins to be at low end of guidance",
-   "link": "https://www.marketwatch.com/story/vestas-wind-systems-stock-slumps-as-company-says-margins-to-be-at-low-end-of-guidance-a33bf5c4?mod=mw_rss_marketpulse",
-   "source": "MarketWatch Pulse",
-   "impact": 1.5,
-   "tickers": [],
-   "sentiment_label": "bearish",
    "seen_et": "Oct 24 09:19 AM ET",
    "consumer": false
   }
@@ -2788,12 +2787,12 @@
  "sentiment_validation": {
   "logged": 4000,
   "min_sample": 100,
-  "generated_et": "Oct 24 09:19 AM ET",
+  "generated_et": "Oct 24 09:57 AM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
-    "n_scored": 3876,
-    "n_directional": 3226,
+    "n_scored": 3874,
+    "n_directional": 3224,
     "hit_rate": 47.8,
     "ci95": 1.7,
     "corr": 0.001,
@@ -2801,8 +2800,8 @@
    },
    "r1d": {
     "name": "+1 day",
-    "n_scored": 3404,
-    "n_directional": 2881,
+    "n_scored": 3402,
+    "n_directional": 2879,
     "hit_rate": 45.4,
     "ci95": 1.8,
     "corr": -0.07,
@@ -2887,98 +2886,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 09:18 AM ET",
+   "fetched_et": "Oct 24 09:56 AM ET",
    "newest_et": "Oct 24 09:10 AM ET",
    "newest": "2026-10-24T13:10:45+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 09:18 AM ET",
+   "fetched_et": "Oct 24 09:56 AM ET",
    "newest_et": "Oct 23 04:49 PM ET",
    "newest": "2026-10-23T20:49:42+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 09:18 AM ET",
+   "fetched_et": "Oct 24 09:56 AM ET",
    "newest_et": "Oct 24 08:59 AM ET",
    "newest": "2026-10-24T12:59:59+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 24 09:18 AM ET",
-   "newest_et": "Oct 24 09:00 AM ET",
-   "newest": "2026-10-24T13:00:00+00:00"
+   "fetched_et": "Oct 24 09:56 AM ET",
+   "newest_et": "Oct 24 09:37 AM ET",
+   "newest": "2026-10-24T13:37:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 09:18 AM ET",
+   "fetched_et": "Oct 24 09:56 AM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 24 09:18 AM ET",
-   "newest_et": "Oct 24 09:07 AM ET",
-   "newest": "2026-10-24T13:07:54+00:00"
+   "fetched_et": "Oct 24 09:56 AM ET",
+   "newest_et": "Oct 24 09:26 AM ET",
+   "newest": "2026-10-24T13:26:02+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 55,
-   "fetched_et": "Oct 24 09:18 AM ET",
+   "fetched_et": "Oct 24 09:56 AM ET",
    "newest_et": "Oct 24 07:55 AM ET",
    "newest": "2026-10-24T11:55:35+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 24 09:18 AM ET",
+   "fetched_et": "Oct 24 09:56 AM ET",
    "newest_et": "Oct 23 07:46 PM ET",
    "newest": "2026-10-23T23:46:35+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 24 09:18 AM ET",
-   "newest_et": "Oct 24 08:28 AM ET",
-   "newest": "2026-10-24T12:28:00+00:00"
+   "fetched_et": "Oct 24 09:56 AM ET",
+   "newest_et": "Oct 24 09:42 AM ET",
+   "newest": "2026-10-24T13:42:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 23,
-   "fetched_et": "Oct 24 09:18 AM ET",
+   "count": 22,
+   "fetched_et": "Oct 24 09:56 AM ET",
    "newest_et": "Oct 23 09:16 PM ET",
    "newest": "2026-10-24T01:16:17+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
    "count": 41,
-   "fetched_et": "Oct 24 09:18 AM ET",
+   "fetched_et": "Oct 24 09:56 AM ET",
    "newest_et": "Oct 24 06:51 AM ET",
    "newest": "2026-10-24T10:51:36+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 24 09:18 AM ET",
+   "fetched_et": "Oct 24 09:56 AM ET",
    "newest_et": "Oct 16 11:00 AM ET",
    "newest": "2026-10-16T15:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 24 09:18 AM ET",
-   "newest_et": "Oct 24 08:46 AM ET",
-   "newest": "2026-10-24T12:46:00+00:00"
+   "fetched_et": "Oct 24 09:57 AM ET",
+   "newest_et": "Oct 24 09:05 AM ET",
+   "newest": "2026-10-24T13:05:00+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Oct 24 09:18 AM ET"
+   "fetched_et": "Oct 24 09:56 AM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
