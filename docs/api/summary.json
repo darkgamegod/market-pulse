@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 23 08:07 PM ET",
- "generated_at": "2026-10-23T20:07:37.761887-04:00",
+ "generated_et": "Oct 23 09:04 PM ET",
+ "generated_at": "2026-10-23T21:04:10.541031-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-23",
@@ -34,6 +34,14 @@
    "freshness": "closed"
   },
   {
+   "symbol": "RTY=F",
+   "label": "Russell 2000 Fut",
+   "price": 2788.7,
+   "pct": -0.26,
+   "asof_et": "Oct 23 04:55 PM ET",
+   "freshness": "closed"
+  },
+  {
    "symbol": "SPY",
    "label": "SPY",
    "price": 761.11,
@@ -54,7 +62,7 @@
    "label": "DIA",
    "price": 522.05,
    "pct": -1.11,
-   "asof_et": "Oct 23 07:54 PM ET",
+   "asof_et": "Oct 23 07:50 PM ET",
    "freshness": "closed"
   },
   {
@@ -62,7 +70,7 @@
    "label": "IWM",
    "price": 275.75,
    "pct": -0.33,
-   "asof_et": "Oct 23 07:57 PM ET",
+   "asof_et": "Oct 23 07:55 PM ET",
    "freshness": "closed"
   },
   {
@@ -108,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 80987.92,
-   "pct": -0.4,
-   "asof_et": "Oct 23 08:05 PM ET",
+   "price": 80562.2,
+   "pct": -0.92,
+   "asof_et": "Oct 23 09:00 PM ET",
    "freshness": "delayed"
   },
   {
@@ -142,7 +150,7 @@
    "label": "Health Care",
    "price": 179.69,
    "pct": -0.89,
-   "asof_et": "Oct 23 07:53 PM ET",
+   "asof_et": "Oct 23 07:50 PM ET",
    "freshness": "closed"
   },
   {
@@ -158,7 +166,7 @@
    "label": "Cons. Staples",
    "price": 88.29,
    "pct": -1.89,
-   "asof_et": "Oct 23 07:41 PM ET",
+   "asof_et": "Oct 23 07:40 PM ET",
    "freshness": "closed"
   },
   {
@@ -206,7 +214,7 @@
    "label": "Semiconductors",
    "price": 526.77,
    "pct": 0.65,
-   "asof_et": "Oct 23 07:59 PM ET",
+   "asof_et": "Oct 23 07:55 PM ET",
    "freshness": "closed"
   }
  ],
@@ -372,6 +380,104 @@
  ],
  "breaking": [
   {
+   "title": "Why AT&T Stock Plunged on Friday",
+   "link": "https://www.fool.com/investing/2026/10/23/why-att-stock-plunged-on-friday/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.3,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 23 09:04 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Apple’s iPhone Duo sells out within hours amid stock crunch",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZDF1M0x6WVZ6NkZOR3hHVmd5VkRUN09jbHNMS3ZpZHptQW13Q01Ha3BROTlhazlhQmhZRlZYS1VJY3FDMExpYjBRRXJvaC1JMTNEQVJaMFdUS1ZQMW9ZekVvRUZhRWZ2WEM0LXh0Q3ZYZEdlbnQteFJxU0VrZVdwM3V1UW1EMFcxVzIwbTNSUUx1XzRCdlgzTWptZ1FNTUw4a05naUllOGF0NDhDeU80WnlOOFFOMjjSAb4BQVVfeXFMT2s4Z1pjMW5rS1ZCRnl0dWJXTzg3UkpPeklQRE9GRjNCUlhoUVJjNGF4Mk5kRllZYTd1R1FfeDNEWFpzYk42LVcweUx0M2ZNSjZJOHY1RlJQc0lLNVRNbW9XX1ZYbVhjVGYtSXBKQjlhdVU4TkU5UUdJS190QW5IQUFLcFZTTHRNa2ZXSUlxMFphbDBMVkNmVU1MWTZVQnJ1cXZmcWNkODBCSXFzVG5CVGc2RGgyNEZiRlByUERHZw?oc=5",
+   "source": "The Financial Express",
+   "impact": 2.0,
+   "tickers": [
+    "AAPL"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 23 09:04 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Amazon Stock And Other Mega Cap Tech Names For The AI Infrastructure Reset",
+   "link": "https://finance.yahoo.com/technology/ai/articles/amazon-stock-other-mega-cap-001944653.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 4.6,
+   "tickers": [
+    "AMZN",
+    "GOOGL",
+    "MSFT"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 23 09:04 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "How does the UK state pension compare with other countries?",
+   "link": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "impact": 1.7,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 23 09:04 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Elon Musk Eyes SpaceX-Tesla Merger, Huang Pitches ‘Financeable’ Chips, Zuckerberg Wants More Compute: Mag 7 Voices This Week",
+   "link": "https://stocktwits.com/news-articles/markets/equity/elon-musk-jensen-huang-mark-zuckerberg-agree-ai-faces-bottlenecks-but-differ-on-why/cZUGPmZRBUB?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.7,
+   "tickers": [
+    "TSLA"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 23 09:04 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+   "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "impact": 1.6,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 23 09:04 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Union head calls MLB’s salary cap proposal ‘nuclear bomb’ ahead of World Series opener",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLTlrNkdkWE11eW5pcGtOZWY4WXRHVWl0d2dzbjVhZUx3NUtDSGE2NDNOaDdDOENyVzB2S1E0Q2V6c3pYVTBKMkZKWnRoTTlsYkRHbl9jZVNHQzlEdTBzTWpRLVRiS3A3NmF5VFl1WFJ5bXNTODU4eXU3cmhlb3dFbHVSTXVzS0NhYUtKYQ?oc=5",
+   "source": "AP News",
+   "impact": 1.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 23 09:04 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Mississippi DEI ban can go into full effect after Fifth Circuit reversal",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZzRiYi02c1d5RzhWM01pcndHcUE2aWNnZlVlSEIteHRkZ0tnaFZ4dlh1UXpOWmhsVTBkMS1pZV9rVzRsSU5pbGN6Q2NsUmp2dzdwQWR0OHVhczZPTmtPTE5zMVJaM1ZsQTRhUzlWVzNpOEl1RnNmdUlBelRISlN5RVJ2UjBJUFBEeUoweVp4c3JFcW5nM01vUnhzcE5yS1lhRHNJSWNCWU13UQ?oc=5",
+   "source": "AP News",
+   "impact": 4.0,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 23 09:04 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Prabowo accuses MSCI of trying to intimidate Indonesia after market rout",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRVJUeUxFejlDaTdtaHlGNW9mUklkVm5OZV9qSUJLUTRWSFpMbkdkOTF6WWt4TlNyYWNGem9Lc245Y280TTVvZXlHb0dTZGRaa0hIczlCeTc4NjZyeTRRSk9oNDVMUHQ2c3JVc3BLc2lPRWhqRXkyUTQzcWV0SDUybUF5TUZaX1Fud3R1UEMtbl92MUxhZVUxd3ZxYWZDTENqY2pvWC1FOXVmVk44bUYzR3B1WjJFRDFrZmxsdjR3?oc=5",
+   "source": "Reuters",
+   "impact": 0.9,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 23 09:04 PM ET",
+   "consumer": false
+  },
+  {
    "title": "Before you crank up the thermostat, try these tips to keep your house warmer for longer",
    "link": "https://www.bbc.co.uk/news/articles/cqr7yeed1ed7o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
@@ -493,98 +599,6 @@
    ],
    "sentiment_label": "bullish",
    "seen_et": "Oct 23 07:44 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Can You Make Money Off SiTime Stock Now?",
-   "link": "https://www.trefis.com/stock/sitm/articles/620109/can-you-make-money-off-sitime-stock-now/2026-10-23?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 1.5,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 23 07:44 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Turmoil hits AI build-out as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
-   "link": "https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html",
-   "source": "CNBC Top News",
-   "impact": 4.6,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 23 07:44 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Investors Figuring Out Agentic AI: Robinhood's Guild",
-   "link": "https://finance.yahoo.com/video/investors-figuring-agentic-ai-robinhoods-215711437.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.1,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 23 07:44 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "Knicks say using championship rings in an email to fool employees was an 'unfortunate mistake'",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQamZRRjFOdkJrdmx2OUJzX0RRc2prYnpPV1Q4b0FQajZWZGQ3ejhMaTNZanFsUHh3X0VMUjNGTGJLNi1oZkRYTTJNTXNkNnFZdzhsbHhvTEtSTEF5RlZ6ZkxJeVppQTh3VUxhSG1TczRVaUFVTEZ6NE1xcFlmXzBhZFJocXd1c2pMWS1adjNXUjRGVXRyenc?oc=5",
-   "source": "AP News",
-   "impact": 2.4,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 23 07:44 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Hot Picks: Three consumer stocks poised for stronger earnings",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMGdydzc3cmF5akpfUGM2eWpGZ3d5RWhPb3pxdXEtTE9zZkRsbW1rcmxfcmprajR2dWZUMC1oSERjWm5pUGZvTjNUMUg0a3NmUW9FUTlIa2FKR2NKVTFKemlSSTdNdEFMdnJXOTZ3S2ljRzJ1QkFFS0FXRnZORTBrdDVPTnBFSGlQQ25mazYtdDJ2R0hJY3puMzNVTGtvSTZ0ampISWhWS1QwemZlMzlQRFZSUFQ?oc=5",
-   "source": "BNN Bloomberg",
-   "impact": 3.4,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 23 07:44 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "UK regulator urges tighter private market controls to avoid conflicts of interest",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTzBKeHpHaWFUb3pJVkdRSlRzU09ObXlzYzdMN3gzNnNvMzF3VVA1U0g4cm5zc25kZW9INFJNSzhEWUR4alRpeWU5bDdHSzlxNkowbEdzeWtBQnFhUjJQWUpTX1RXZlZhaEJ1Y0JCRGRqVjdZSkc3bkN1TmJJTTBrbnFKQ0NkOVQ2NUM0Q2FYakV0a29lZVNpN0FvbnB4b29xeFFfM2lUVVFNLU8xR21wZHlzZEhrZ3A3dWhqR2x2UjRpSDJ6bkxN?oc=5",
-   "source": "Reuters",
-   "impact": 1.6,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 23 07:44 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Euro zone growth slows to 4-month low amid rising costs and French strife, survey shows",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPREYtdWRHb1k1TXZBQVJzeTdtb0NLZFBSNTFRRzR1enRIV0MwUE5meXJyX0tYNWZ2MmRBTnAtc3NPYm1wTHpkX0tSUURpLTNadDlYTHBHOWxmQ3FOZXl3cTBxQTBreTFCSmN3aGhlTEVIMTNJM3VyaExCYmp1TkV5X2d1cjFPZlhnQzBwR1lIZ0NMM2EtSkRpWTF6dXNoTWZiV01QRE02M3JJR0lTd2lONU9HRG1ETUJydEVUQjYwWnpGbnZv?oc=5",
-   "source": "Reuters",
-   "impact": 1.4,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 23 07:44 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Bradesco (BBD) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/bradesco-bbd-q3-2026-earnings-call-transcript",
-   "source": "Nasdaq Markets",
-   "impact": 3.6,
-   "tickers": [
-    "BBD"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 23 07:11 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Why Hilltop Holdings Stock Slumped Today",
-   "link": "https://www.fool.com/investing/2026/10/23/why-hilltop-holdings-stock-slumped-today/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 1.5,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 23 07:11 PM ET",
    "consumer": false
   }
  ],
@@ -1142,7 +1156,7 @@
  "economic_calendar": {
   "source": "FairEconomy / ForexFactory weekly calendar (nfs.faireconomy.media)",
   "fallback": false,
-  "fetched_et": "Oct 23 07:11 PM ET",
+  "fetched_et": "Oct 23 09:04 PM ET",
   "events": [
    {
     "when_et": "Oct 23 09:45 AM ET",
@@ -2699,12 +2713,12 @@
  "sentiment_validation": {
   "logged": 4000,
   "min_sample": 100,
-  "generated_et": "Oct 23 08:08 PM ET",
+  "generated_et": "Oct 23 09:04 PM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
-    "n_scored": 3942,
-    "n_directional": 3280,
+    "n_scored": 3939,
+    "n_directional": 3277,
     "hit_rate": 48.0,
     "ci95": 1.7,
     "corr": 0.002,
@@ -2712,8 +2726,8 @@
    },
    "r1d": {
     "name": "+1 day",
-    "n_scored": 3472,
-    "n_directional": 2936,
+    "n_scored": 3468,
+    "n_directional": 2933,
     "hit_rate": 45.6,
     "ci95": 1.8,
     "corr": -0.071,
@@ -2786,10 +2800,10 @@
     "r1d": null
    },
    {
-    "ticker": "TGT",
+    "ticker": "WMT",
     "sentiment": 0.178,
     "title": "Affirm Lost Walmart to Klarna in 2025. Now It Has Sam’s Club. Here’s What Moves the Stock Before November 5",
-    "r1h": -0.092,
+    "r1h": -0.017,
     "r1d": null
    }
   ]
@@ -2798,98 +2812,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 23 08:07 PM ET",
+   "fetched_et": "Oct 23 09:04 PM ET",
    "newest_et": "Oct 23 06:49 PM ET",
    "newest": "2026-10-23T22:49:42+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 23 08:07 PM ET",
+   "fetched_et": "Oct 23 09:04 PM ET",
    "newest_et": "Oct 23 04:49 PM ET",
    "newest": "2026-10-23T20:49:42+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 23 08:07 PM ET",
+   "fetched_et": "Oct 23 09:04 PM ET",
    "newest_et": "Oct 23 02:57 PM ET",
    "newest": "2026-10-23T18:57:48+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 23 08:07 PM ET",
+   "fetched_et": "Oct 23 09:04 PM ET",
    "newest_et": "Oct 23 06:49 PM ET",
    "newest": "2026-10-23T22:49:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 23 08:07 PM ET",
+   "fetched_et": "Oct 23 09:04 PM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
-   "count": 18,
-   "fetched_et": "Oct 23 08:07 PM ET",
-   "newest_et": "Oct 23 07:50 PM ET",
-   "newest": "2026-10-23T23:50:00+00:00"
+   "count": 19,
+   "fetched_et": "Oct 23 09:04 PM ET",
+   "newest_et": "Oct 23 08:53 PM ET",
+   "newest": "2026-10-24T00:53:32+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 55,
-   "fetched_et": "Oct 23 08:07 PM ET",
-   "newest_et": "Oct 23 07:50 PM ET",
-   "newest": "2026-10-23T23:50:45+00:00"
+   "fetched_et": "Oct 23 09:04 PM ET",
+   "newest_et": "Oct 23 08:36 PM ET",
+   "newest": "2026-10-24T00:36:47+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 23 08:07 PM ET",
-   "newest_et": "Oct 23 05:21 PM ET",
-   "newest": "2026-10-23T21:21:32+00:00"
+   "fetched_et": "Oct 23 09:04 PM ET",
+   "newest_et": "Oct 23 07:46 PM ET",
+   "newest": "2026-10-23T23:46:35+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 23 08:07 PM ET",
-   "newest_et": "Oct 23 07:03 PM ET",
-   "newest": "2026-10-23T23:03:00+00:00"
+   "fetched_et": "Oct 23 09:04 PM ET",
+   "newest_et": "Oct 23 08:14 PM ET",
+   "newest": "2026-10-24T00:14:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 31,
-   "fetched_et": "Oct 23 08:07 PM ET",
+   "count": 30,
+   "fetched_et": "Oct 23 09:04 PM ET",
    "newest_et": "Oct 23 12:24 PM ET",
    "newest": "2026-10-23T16:24:56+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
-   "count": 44,
-   "fetched_et": "Oct 23 08:07 PM ET",
-   "newest_et": "Oct 23 02:58 PM ET",
-   "newest": "2026-10-23T18:58:44+00:00"
+   "count": 16,
+   "fetched_et": "Oct 23 09:04 PM ET",
+   "newest_et": "Oct 23 08:44 PM ET",
+   "newest": "2026-10-24T00:44:13+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 23 08:07 PM ET",
+   "fetched_et": "Oct 23 09:04 PM ET",
    "newest_et": "Oct 16 11:00 AM ET",
    "newest": "2026-10-16T15:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 23 08:07 PM ET",
-   "newest_et": "Oct 23 07:20 PM ET",
-   "newest": "2026-10-23T23:20:00+00:00"
+   "fetched_et": "Oct 23 09:04 PM ET",
+   "newest_et": "Oct 23 07:50 PM ET",
+   "newest": "2026-10-23T23:50:00+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
-   "count": 25,
-   "fetched_et": "Oct 23 08:07 PM ET"
+   "count": 26,
+   "fetched_et": "Oct 23 09:04 PM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
@@ -2899,7 +2913,7 @@
   "Economic calendar": {
    "ok": true,
    "count": 4,
-   "fetched_et": "Oct 23 07:11 PM ET",
+   "fetched_et": "Oct 23 09:04 PM ET",
    "note": "FairEconomy / ForexFactory weekly calendar (nfs.faireconomy.media)"
   }
  }
