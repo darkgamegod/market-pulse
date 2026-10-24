@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 24 06:08 PM ET",
- "generated_at": "2026-10-24T18:08:36.190942-04:00",
+ "generated_et": "Oct 24 06:42 PM ET",
+ "generated_at": "2026-10-24T18:42:42.089812-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-24",
@@ -12,8 +12,8 @@
   {
    "symbol": "ES=F",
    "label": "S&P 500 Fut",
-   "price": 7659.75,
-   "pct": -0.58,
+   "price": 7672.5,
+   "pct": -0.42,
    "asof_et": "Oct 23 05:00 PM ET",
    "freshness": "closed"
   },
@@ -28,16 +28,8 @@
   {
    "symbol": "YM=F",
    "label": "Dow Fut",
-   "price": 52394.0,
-   "pct": -1.27,
-   "asof_et": "Oct 23 04:55 PM ET",
-   "freshness": "closed"
-  },
-  {
-   "symbol": "RTY=F",
-   "label": "Russell 2000 Fut",
-   "price": 2784.5,
-   "pct": -0.41,
+   "price": 52451.0,
+   "pct": -1.16,
    "asof_et": "Oct 23 04:55 PM ET",
    "freshness": "closed"
   },
@@ -84,8 +76,8 @@
   {
    "symbol": "CL=F",
    "label": "WTI Crude",
-   "price": 103.27,
-   "pct": 3.82,
+   "price": 103.44,
+   "pct": 3.99,
    "asof_et": "Oct 23 04:55 PM ET",
    "freshness": "closed"
   },
@@ -116,9 +108,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 80347.45,
-   "pct": -0.9,
-   "asof_et": "Oct 24 06:05 PM ET",
+   "price": 80467.99,
+   "pct": -0.75,
+   "asof_et": "Oct 24 06:40 PM ET",
    "freshness": "delayed"
   },
   {
@@ -379,6 +371,91 @@
  ],
  "breaking": [
   {
+   "title": "Trump set to announce plan by Audi to build a U.S. factory in Georgia, source says",
+   "link": "https://www.cnbc.com/2026/10/24/trump-audi-factory-georgia.html",
+   "source": "CNBC Top News",
+   "impact": 1.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 24 06:42 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Forget Casgevy: CRISPR Therapeutics' Heart-Disease Data Could Matter More",
+   "link": "https://www.fool.com/investing/2026/10/24/forget-casgevy-crispr-therapeutics-heart-disease-d/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 1.8,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 24 06:42 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Amazon.com (AMZN) Cancels $427 Million Loudoun County Data Center Project",
+   "link": "https://finance.yahoo.com/technology/articles/amazon-com-amzn-cancels-427-221154816.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.6,
+   "tickers": [
+    "AMZN"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 24 06:42 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Nvidia and 3 AI Infrastructure Stocks Backed by Hyperscaler Data Center Spending",
+   "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-3-ai-infrastructure-stocks-221122731.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.6,
+   "tickers": [
+    "AVGO",
+    "NVDA"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 24 06:42 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "More rain is expected after bad flooding in the Four Corners region led to rescues and evacuations",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVlh5NHFzcEpNNm00RzQzNnhXRjFzMl9BTUFjWGZhUGFHaVowcF9BeG1ZaXhpTWRTbzlJdHl3N3pWUHFpeUFEaXYtOUxNaHp0SmJCckgzakpxYTRDYUx5MDNiNlhVSHpTZmh4bEVtalI5YnFFOGtqbV9YNzMzMzVTZkRoVVVZelVqNnNQaU9NaHcySkZjWWlxOG1NdGNCU3RheGJkUWFneUp1NmE5b2FmSUx3?oc=5",
+   "source": "AP News",
+   "impact": 2.0,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 24 06:42 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Johnson & Johnson's prostate cancer drug shrinks tumors in early-stage trial",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeWNyU043aUVYSUNOanI5QkZfcjFOc2FET3BDNFh5RXdORFFNcFY4ZVFWNlUzV1gwaFpDNXkzeENNSFlFZVljZzNHdWtuZDlIc1ZJeGhocVpnTjN4QmVJcms4blBfZVpSMm5NWUgzb1NqejhfVnV5MV82Qi1Bakg1R19aVzBFWTZhOURPckU0Z2FHVkxOZVRIa2tMajVmaGlYd3Mwd3ZOXzVjbEp1YWVRXzVLZjdPTTdlZ19laS1MTm5vRlNhYUl1YUdDcXlwaEo5RDNkT2M0Tm9jUQ?oc=5",
+   "source": "Reuters",
+   "impact": 1.9,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 24 06:42 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Canada August retail sales rise 1.2%",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQklQcUdLZ0J4SlNDVWZ3d0NoZzd6SUp6N0N0aTUtSlNKUTZjVkFFVDZXbEgwREdKVXZHN21lU3JlRHZsbWQ1WjVPYmlkR0JvZXNQV3RYOUF5TklYZTQ5VVljNllWSm8zMzdTeE5mRkViLVZGMFdUbnJENl9VbDFrd1FOeU42VmhBVEhnLUJR?oc=5",
+   "source": "Reuters",
+   "impact": 0.1,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 24 06:42 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Voters prioritize costs and Iran over investigating Trump for next Congress, AP-NORC poll finds",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUlZzVmJWWUprcG9oV3lXbGRTZ3dZNl9ZNnFfWDBtTEVJQ3EzamgyTWNRSE4tWEc3UjF1RVNpN3Naa0g0QUVXRFRyWHl4c1BLREtZeUpBVWlFa0VLb0VteWFxQ1ZiV0lqMEpDQVE2eGQ0YUVwckZXTVM5RUh3UlRWN0h3Y1BseWRPdXVENkNUcUxWTlNQd2x1Vnc3aWtVOXd2Vkt3NVBKX25iLTJhZ21QQ2Q2MDA?oc=5",
+   "source": "AP News",
+   "impact": 0.0,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 24 06:42 PM ET",
+   "consumer": false
+  },
+  {
    "title": "Obama, in Ohio, assails 'cruelty' and indecency from Trump and his allies in the midterm campaign",
    "link": "https://www.cnbc.com/2026/10/24/obama-ohio-midterm-elections.html",
    "source": "CNBC Top News",
@@ -516,96 +593,6 @@
    ],
    "sentiment_label": "bullish",
    "seen_et": "Oct 24 05:45 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Cadence Design Systems (CDNS) Stock Looks Fully Valued Despite AI Hopes",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/cadence-design-systems-cdns-stock-210927944.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 4.2,
-   "tickers": [
-    "CDNS",
-    "NVDA"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 24 05:45 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Here's How Many Shares of Apple Stock You'd Need for $100 in Yearly Dividends",
-   "link": "https://www.fool.com/investing/2026/10/24/heres-how-many-shares-of-apple-stock-youd-need-for/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.3,
-   "tickers": [
-    "AAPL"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 24 05:45 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "GE Vernova Stock Fell 11% in a Day. Here's What I Think It Could Be Worth by 2030.",
-   "link": "https://www.fool.com/investing/2026/10/24/ge-vernova-stock-fell-11-in-a-day-here-s-what-i-think-it-could-be-worth-by-2030/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.0,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 24 05:45 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Booking vs. GameStop: Is Travel or Collectibles the Better Value Creator in Stocks?",
-   "link": "https://www.nasdaq.com/articles/booking-vs-gamestop-travel-or-collectibles-better-value-creator-stocks",
-   "source": "Nasdaq Markets",
-   "impact": 2.5,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 24 05:45 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "This Dividend Winner Just Announced Its 676th Consecutive Monthly Dividend. Is It Worth a Look?",
-   "link": "https://www.fool.com/investing/2026/10/24/this-dividend-winner-just-announced-its-676th-cons/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.3,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 24 05:06 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Elon Musk Just Gave Fantastic News for Nvidia Investors",
-   "link": "https://www.fool.com/investing/2026/10/24/elon-musk-gave-great-news-for-nvidia-investors/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.1,
-   "tickers": [
-    "NVDA",
-    "TSLA"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 24 05:06 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Here's the Average Women's Social Security Benefit From Ages 62 to 70",
-   "link": "https://www.nasdaq.com/articles/heres-average-womens-social-security-benefit-ages-62-70",
-   "source": "Nasdaq Markets",
-   "impact": 2.4,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 24 05:06 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "After SpaceX restores high-speed service, Musk claims Ukraine violated Starlink agreement",
-   "link": "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html",
-   "source": "CNBC Top News",
-   "impact": 2.2,
-   "tickers": [
-    "TSLA"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 24 04:42 PM ET",
    "consumer": false
   }
  ],
@@ -2797,21 +2784,21 @@
  "sentiment_validation": {
   "logged": 4000,
   "min_sample": 100,
-  "generated_et": "Oct 24 06:09 PM ET",
+  "generated_et": "Oct 24 06:42 PM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
-    "n_scored": 3805,
-    "n_directional": 3166,
-    "hit_rate": 48.0,
+    "n_scored": 3804,
+    "n_directional": 3165,
+    "hit_rate": 48.1,
     "ci95": 1.7,
-    "corr": 0.004,
+    "corr": 0.005,
     "status": "NO EDGE (≈ coin flip)"
    },
    "r1d": {
     "name": "+1 day",
-    "n_scored": 3333,
-    "n_directional": 2821,
+    "n_scored": 3332,
+    "n_directional": 2820,
     "hit_rate": 45.2,
     "ci95": 1.8,
     "corr": -0.067,
@@ -2896,98 +2883,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 06:08 PM ET",
-   "newest_et": "Oct 24 05:51 PM ET",
-   "newest": "2026-10-24T21:51:15+00:00"
+   "fetched_et": "Oct 24 06:42 PM ET",
+   "newest_et": "Oct 24 06:36 PM ET",
+   "newest": "2026-10-24T22:36:57+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 06:08 PM ET",
+   "fetched_et": "Oct 24 06:42 PM ET",
    "newest_et": "Oct 23 04:49 PM ET",
    "newest": "2026-10-23T20:49:42+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 06:08 PM ET",
+   "fetched_et": "Oct 24 06:42 PM ET",
    "newest_et": "Oct 24 11:53 AM ET",
    "newest": "2026-10-24T15:53:30+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 24 06:08 PM ET",
+   "fetched_et": "Oct 24 06:42 PM ET",
    "newest_et": "Oct 24 04:15 PM ET",
    "newest": "2026-10-24T20:15:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 06:08 PM ET",
+   "fetched_et": "Oct 24 06:42 PM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
-   "count": 18,
-   "fetched_et": "Oct 24 06:08 PM ET",
-   "newest_et": "Oct 24 05:50 PM ET",
-   "newest": "2026-10-24T21:50:00+00:00"
+   "count": 19,
+   "fetched_et": "Oct 24 06:42 PM ET",
+   "newest_et": "Oct 24 06:20 PM ET",
+   "newest": "2026-10-24T22:20:00+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 55,
-   "fetched_et": "Oct 24 06:08 PM ET",
+   "fetched_et": "Oct 24 06:42 PM ET",
    "newest_et": "Oct 24 07:55 AM ET",
    "newest": "2026-10-24T11:55:35+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 24 06:08 PM ET",
-   "newest_et": "Oct 23 07:46 PM ET",
-   "newest": "2026-10-23T23:46:35+00:00"
+   "fetched_et": "Oct 24 06:42 PM ET",
+   "newest_et": "Oct 24 04:18 AM ET",
+   "newest": "2026-10-24T08:18:18+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 24 06:08 PM ET",
+   "fetched_et": "Oct 24 06:42 PM ET",
    "newest_et": "Oct 24 05:31 PM ET",
    "newest": "2026-10-24T21:31:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
    "count": 16,
-   "fetched_et": "Oct 24 06:08 PM ET",
+   "fetched_et": "Oct 24 06:42 PM ET",
    "newest_et": "Oct 24 06:54 AM ET",
    "newest": "2026-10-24T10:54:28+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
-   "count": 43,
-   "fetched_et": "Oct 24 06:08 PM ET",
+   "count": 44,
+   "fetched_et": "Oct 24 06:42 PM ET",
    "newest_et": "Oct 24 04:13 PM ET",
    "newest": "2026-10-24T20:13:00+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 24 06:08 PM ET",
+   "fetched_et": "Oct 24 06:42 PM ET",
    "newest_et": "Oct 16 11:00 AM ET",
    "newest": "2026-10-16T15:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 24 06:08 PM ET",
+   "fetched_et": "Oct 24 06:42 PM ET",
    "newest_et": "Oct 24 05:50 PM ET",
    "newest": "2026-10-24T21:50:00+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
-   "count": 26,
-   "fetched_et": "Oct 24 06:08 PM ET"
+   "count": 25,
+   "fetched_et": "Oct 24 06:42 PM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
