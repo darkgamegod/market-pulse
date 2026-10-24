@@ -1,12 +1,12 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 23 11:47 PM ET",
- "generated_at": "2026-10-23T23:47:10.403319-04:00",
+ "generated_et": "Oct 24 12:25 AM ET",
+ "generated_at": "2026-10-24T00:25:21.295969-04:00",
  "session": "closed",
  "daily_report": {
-  "date": "2026-10-23",
-  "generated_et": "Fri Oct 23 2026, 12:08 AM ET"
+  "date": "2026-10-24",
+  "generated_et": "Sat Oct 24 2026, 12:26 AM ET"
  },
  "snapshot": [
   {
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 80840.77,
-   "pct": -0.58,
-   "asof_et": "Oct 23 11:45 PM ET",
+   "price": 80772.78,
+   "pct": -0.66,
+   "asof_et": "Oct 24 12:25 AM ET",
    "freshness": "delayed"
   },
   {
@@ -143,6 +143,14 @@
    "price": 69.43,
    "pct": 2.75,
    "asof_et": "Oct 23 07:55 PM ET",
+   "freshness": "closed"
+  },
+  {
+   "symbol": "XLV",
+   "label": "Health Care",
+   "price": 179.69,
+   "pct": -0.89,
+   "asof_et": "Oct 23 07:50 PM ET",
    "freshness": "closed"
   },
   {
@@ -213,15 +221,14 @@
  "top_themes": [
   {
    "name": "Fed & Rates",
-   "count": 35,
-   "sentiment": -0.14,
+   "count": 30,
+   "sentiment": -0.04,
    "tickers": [
     "^TNX",
     "SPY",
-    "CL=F",
-    "XLE",
     "TGT",
-    "^VIX"
+    "CL=F",
+    "XLE"
    ],
    "top_headline": {
     "title": "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
@@ -233,15 +240,15 @@
   },
   {
    "name": "Inflation & Macro Data",
-   "count": 35,
-   "sentiment": -0.13,
+   "count": 41,
+   "sentiment": -0.2,
    "tickers": [
     "SPY",
     "^TNX",
     "CL=F",
     "XLE",
     "TGT",
-    "ONS"
+    "GOOGL"
    ],
    "top_headline": {
     "title": "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
@@ -252,71 +259,51 @@
    }
   },
   {
-   "name": "AI & Semiconductors",
-   "count": 49,
-   "sentiment": -0.12,
+   "name": "Earnings & Guidance",
+   "count": 52,
+   "sentiment": 0.18,
    "tickers": [
-    "META",
-    "QQQ",
-    "CL=F",
-    "XLE",
-    "SPY",
-    "^TNX"
-   ],
-   "top_headline": {
-    "title": "Dow Jones Futures: Moderna Crashes, Meta Fuels AI Meltdown, But Warren Buffett Market Thriving",
-    "link": "https://finance.yahoo.com/m/47e878bb-824d-3243-a8e9-b86b1c3f85d3/dow-jones-futures%3A-moderna.html?.tsrc=rss",
-    "source": "Yahoo Finance",
-    "impact": 7.4,
-    "sentiment_label": "neutral"
-   }
-  },
-  {
-   "name": "Trade, Tariffs & Geopolitics",
-   "count": 63,
-   "sentiment": -0.26,
-   "tickers": [
-    "CL=F",
-    "XLE",
     "^TNX",
     "TSLA",
     "SPY",
-    "BTC-USD"
+    "MSFT",
+    "F",
+    "AAPL"
    ],
    "top_headline": {
-    "title": "Treasury yields log biggest drop since the 2023 banking crisis. Here’s what’s going on.",
-    "link": "https://www.marketwatch.com/story/treasury-yields-see-extreme-plunge-why-investors-are-ducking-for-cover-60044c66?mod=mw_rss_topstories",
-    "source": "MarketWatch Top",
+    "title": "Next week brings major risks for the stock market, just as the AI trade keeps faltering",
+    "link": "https://www.cnbc.com/2026/10/23/next-week-brings-major-risks-for-the-stock-market-just-as-the-ai-trade-keeps-faltering.html",
+    "source": "CNBC Top News",
     "impact": 6.2,
     "sentiment_label": "bearish"
    }
   },
   {
-   "name": "Energy & Commodities",
-   "count": 26,
-   "sentiment": -0.38,
+   "name": "AI & Semiconductors",
+   "count": 54,
+   "sentiment": -0.07,
    "tickers": [
-    "CL=F",
-    "XLE",
+    "SPY",
+    "TSLA",
+    "NVDA",
     "^TNX",
-    "DIA",
-    "WMT"
+    "META",
+    "GOOGL"
    ],
    "top_headline": {
-    "title": "10-year Treasury yield tumbles below 5% to lowest level in nearly a month",
-    "link": "https://www.cnbc.com/2026/10/22/treasurys-bonds-ai-yields.html",
+    "title": "Next week brings major risks for the stock market, just as the AI trade keeps faltering",
+    "link": "https://www.cnbc.com/2026/10/23/next-week-brings-major-risks-for-the-stock-market-just-as-the-ai-trade-keeps-faltering.html",
     "source": "CNBC Top News",
-    "impact": 6.4,
+    "impact": 6.2,
     "sentiment_label": "bearish"
    }
   },
   {
    "name": "Banks & Credit",
-   "count": 31,
-   "sentiment": -0.19,
+   "count": 27,
+   "sentiment": -0.17,
    "tickers": [
     "^TNX",
-    "META",
     "CL=F",
     "XLE",
     "SPY"
@@ -330,16 +317,56 @@
    }
   },
   {
-   "name": "Other Market News",
-   "count": 162,
-   "sentiment": -0.02,
+   "name": "Trade, Tariffs & Geopolitics",
+   "count": 60,
+   "sentiment": -0.09,
    "tickers": [
+    "^TNX",
+    "SPY",
+    "CL=F",
+    "XLE",
     "TSLA",
+    "BABA"
+   ],
+   "top_headline": {
+    "title": "Next week brings major risks for the stock market, just as the AI trade keeps faltering",
+    "link": "https://www.cnbc.com/2026/10/23/next-week-brings-major-risks-for-the-stock-market-just-as-the-ai-trade-keeps-faltering.html",
+    "source": "CNBC Top News",
+    "impact": 6.2,
+    "sentiment_label": "bearish"
+   }
+  },
+  {
+   "name": "Consumer & Retail",
+   "count": 36,
+   "sentiment": 0.12,
+   "tickers": [
     "GOOGL",
-    "NFLX",
+    "AMZN",
+    "CL=F",
+    "XLE",
+    "TSLA",
+    "NKE"
+   ],
+   "top_headline": {
+    "title": "India’s retail inflation jumps to 5.54% in September, above estimates",
+    "link": "https://www.cnbc.com/2026/10/12/india-inflation-oil-energy-iran-war.html",
+    "source": "CNBC Markets",
+    "impact": 5.6,
+    "sentiment_label": "bullish"
+   }
+  },
+  {
+   "name": "Other Market News",
+   "count": 150,
+   "sentiment": 0.0,
+   "tickers": [
     "AAPL",
+    "TSLA",
     "QQQ",
-    "SPY"
+    "ABNB",
+    "BA",
+    "GOOGL"
    ],
    "top_headline": {
     "title": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
@@ -348,29 +375,44 @@
     "impact": 4.7,
     "sentiment_label": "bearish"
    }
-  },
-  {
-   "name": "Earnings & Guidance",
-   "count": 43,
-   "sentiment": 0.13,
-   "tickers": [
-    "^TNX",
-    "SPY",
-    "META",
-    "TSLA",
-    "CL=F",
-    "XLE"
-   ],
-   "top_headline": {
-    "title": "Inflation fears on the rise as one-year outlook in Fed survey hits highest level since May 2023",
-    "link": "https://www.cnbc.com/2026/10/07/inflation-fears-on-the-rise-as-one-year-outlook-in-fed-survey-hits-highest-since-may-2023.html",
-    "source": "CNBC Markets",
-    "impact": 4.9,
-    "sentiment_label": "bearish"
-   }
   }
  ],
  "breaking": [
+  {
+   "title": "Bolloré Q3 Revenue Jumps 49% On Higher Energy Prices",
+   "link": "https://www.nasdaq.com/articles/bollore-q3-revenue-jumps-49-higher-energy-prices",
+   "source": "Nasdaq Markets",
+   "impact": 1.6,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 24 12:26 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Wells Fargo, Arm and Intuit Reject Tokenized Shares on OKX-ICE",
+   "link": "https://www.cryptoprowl.com/releases/wells-fargo-arm-and-intuit-reject-tokenized-shares-on-okx-ice-7440?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.8,
+   "tickers": [
+    "ARM",
+    "INTU",
+    "QQQ",
+    "WFC"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 24 12:26 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Robin Yount and Brewers' broadcast team pay tribute to Bob Uecker by borrowing from his wardrobe",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdlEwQ3Y3OHhMbG9BdnBINmxZYW1DaHduaWhBeGZITE9tM0tEWUlmZ1hHYXhLekdXS2dTdklfQnIzQUM5Zk1iTkZVZ20yQlZONXFpRjlMSWRtbjFGYndEbkhCZWQ1VDRhNmtxVzZOYjRiSmkyTlpaQ041QjFfQUFSOUNuLVVTblJsVDBubl9uV0tYN1FLUEZuMHR0Yl8zcjA?oc=5",
+   "source": "AP News",
+   "impact": 2.8,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 24 12:26 AM ET",
+   "consumer": false
+  },
   {
    "title": "How AI Power Board Launches At Navitas Semiconductor (NVTS) Has Changed Its Investment Story",
    "link": "https://finance.yahoo.com/technology/ai/articles/ai-power-board-launches-navitas-031654170.html?.tsrc=rss",
@@ -555,38 +597,6 @@
    "sentiment_label": "bearish",
    "seen_et": "Oct 23 10:26 PM ET",
    "consumer": false
-  },
-  {
-   "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
-   "link": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "impact": 0.1,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 23 10:26 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Jim Cramer's 5% to 8% rule puts Nvidia stock in focus",
-   "link": "https://www.thestreet.com/investing/stocks/jim-cramer-nvidia-5-to-8-percent-pullback-rule?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.4,
-   "tickers": [
-    "NVDA"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 23 09:51 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Western Digital Stock Has Fallen 53% Since June. I'd Consider a Small Position After Its Latest Report.",
-   "link": "https://www.fool.com/investing/2026/10/23/western-digital-stock-has-fallen-53-since-june-i-d-consider-a-small-position-after-its-latest-report/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 1.6,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 23 09:51 PM ET",
-   "consumer": false
   }
  ],
  "high_impact": [
@@ -607,9 +617,22 @@
  "watchlist": [
   {
    "ticker": "^TNX",
-   "pct": -3.75,
+   "pct": 0.71,
    "mentions": 21,
-   "sentiment": -0.38,
+   "sentiment": -0.16,
+   "why": {
+    "title": "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
+    "link": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html",
+    "source": "CNBC Markets",
+    "impact": 6.5,
+    "sentiment_label": "bearish"
+   }
+  },
+  {
+   "ticker": "SPY",
+   "pct": -0.37,
+   "mentions": 12,
+   "sentiment": -0.26,
    "why": {
     "title": "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
     "link": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html",
@@ -620,183 +643,170 @@
   },
   {
    "ticker": "CL=F",
-   "pct": 2.93,
-   "mentions": 23,
-   "sentiment": -0.42,
+   "pct": 3.99,
+   "mentions": 21,
+   "sentiment": -0.35,
    "why": {
-    "title": "10-year Treasury yield tumbles below 5% to lowest level in nearly a month",
-    "link": "https://www.cnbc.com/2026/10/22/treasurys-bonds-ai-yields.html",
+    "title": "Dow tumbles more than 600 points as oil prices rise and market sell-off hits most sectors",
+    "link": "https://www.cnbc.com/2026/10/22/stock-market-today-live-update.html",
     "source": "CNBC Top News",
-    "impact": 6.4,
+    "impact": 5.9,
     "sentiment_label": "bearish"
    }
   },
   {
    "ticker": "XLE",
-   "pct": -0.56,
-   "mentions": 23,
-   "sentiment": -0.42,
+   "pct": 2.75,
+   "mentions": 21,
+   "sentiment": -0.35,
    "why": {
-    "title": "10-year Treasury yield tumbles below 5% to lowest level in nearly a month",
-    "link": "https://www.cnbc.com/2026/10/22/treasurys-bonds-ai-yields.html",
+    "title": "Dow tumbles more than 600 points as oil prices rise and market sell-off hits most sectors",
+    "link": "https://www.cnbc.com/2026/10/22/stock-market-today-live-update.html",
     "source": "CNBC Top News",
-    "impact": 6.4,
+    "impact": 5.9,
     "sentiment_label": "bearish"
-   }
-  },
-  {
-   "ticker": "SPY",
-   "pct": -1.16,
-   "mentions": 14,
-   "sentiment": -0.27,
-   "why": {
-    "title": "Dow Jones Futures: Moderna Crashes, Meta Fuels AI Meltdown, But Warren Buffett Market Thriving",
-    "link": "https://finance.yahoo.com/m/47e878bb-824d-3243-a8e9-b86b1c3f85d3/dow-jones-futures%3A-moderna.html?.tsrc=rss",
-    "source": "Yahoo Finance",
-    "impact": 7.4,
-    "sentiment_label": "neutral"
-   }
-  },
-  {
-   "ticker": "META",
-   "pct": null,
-   "mentions": 13,
-   "sentiment": 0.25,
-   "why": {
-    "title": "Dow Jones Futures: Moderna Crashes, Meta Fuels AI Meltdown, But Warren Buffett Market Thriving",
-    "link": "https://finance.yahoo.com/m/47e878bb-824d-3243-a8e9-b86b1c3f85d3/dow-jones-futures%3A-moderna.html?.tsrc=rss",
-    "source": "Yahoo Finance",
-    "impact": 7.4,
-    "sentiment_label": "neutral"
    }
   },
   {
    "ticker": "TSLA",
    "pct": null,
-   "mentions": 14,
-   "sentiment": 0.06,
+   "mentions": 12,
+   "sentiment": 0.1,
    "why": {
-    "title": "3 Hurdles Could Complicate a Tesla and SpaceX Merger, Says Ex-Tesla Director",
-    "link": "https://beincrypto.com/tesla-spacex-merger-hurdles-steve-westly/?.tsrc=rss",
+    "title": "Stocktwits Zero To Sixty: Tesla And SpaceX Form Merger Committees As Profits Drop, While Rivian Buys AI Startup And GM, Ford Advance EV Plans",
+    "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-zero-to-sixty-tesla-and-space-x-form-merger-committees-as-profits-drop-while-rivian-buys-ai-startup-and-gm-ford-advance-ev-plans/cZUG5xVRBU9?.tsrc=rss",
     "source": "Yahoo Finance",
-    "impact": 4.7,
+    "impact": 5.4,
     "sentiment_label": "bullish"
    }
   },
   {
    "ticker": "GOOGL",
    "pct": null,
-   "mentions": 15,
-   "sentiment": 0.12,
+   "mentions": 12,
+   "sentiment": 0.25,
    "why": {
-    "title": "E-Commerce Update - Fresh Food E-Commerce Soars With Digital Convenience And Innovation",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcVExVzFSdEtwR0hXcDRWWTNQRnNMQkMyc3BZUTJPbWFTWDN5Q2FlUi1GQkJDMGhTdnFNY2gwSGUzQldMV0JQQWlyY2g4UFR5TVBHRDZWakx5cy1GRHF0TVZBaDZHU0NmbzdKN3NDQzVYeWR5NzZ6VkZ4NnF0WXE4WUotUjI3LUhOY0lRQTB3Zm1hTXNlTy02V0NUM19MamVUWDl6R1ZzRkhrTTRNVEI4bzJyWlBfbGs5TGpGRWVOeDV2SmRCMnktZkduUVNoUdIBzgFBVV95cUxQcVExVzFSdEtwR0hXcDRWWTNQRnNMQkMyc3BZUTJPbWFTWDN5Q2FlUi1GQkJDMGhTdnFNY2gwSGUzQldMV0JQQWlyY2g4UFR5TVBHRDZWakx5cy1GRHF0TVZBaDZHU0NmbzdKN3NDQzVYeWR5NzZ6VkZ4NnF0WXE4WUotUjI3LUhOY0lRQTB3Zm1hTXNlTy02V0NUM19MamVUWDl6R1ZzRkhrTTRNVEI4bzJyWlBfbGs5TGpGRWVOeDV2SmRCMnktZkduUVNoUQ?oc=5",
+    "title": "Canadian Stock Market Today: TSX Futures Edge Lower On Energy Inflation And Retail Focus",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPb041Y2x4WkJiSHpYYllOb2N4RHJQM0lnZDltSWVhMmJIVzctcEtpWGdrb0hEeVJGaHRDaFVNajBkd0FlWGc0N0RtU3liUzZzMUtPdWZrYzhNUWtxbmtpQ1Vtd0dNYmZNMUN2R1V0amVtVERaRURfWEVBbU5oSm5aUkN0WFFyc3ZUMlh1VjB6STRxNmt6d19kWklFQ1l0SHZQenM5SGp2UW1FbGdRMGdDWldQQm4zSGQxcmVUZmx0MFZnUFlJVUHSAcsBQVVfeXFMTUJDTkF5R1RYNjluaHFEQ0VnMEg0U256NlAtVVA5d1kydm9sSkZpby1RbmdqRFVCN3d6SnU1T09EMFFKZDI3UkZRWHNZeEdKR0JubzczRHNxeGdrV2tOVHRqWHJQQU9TRlphd3ZVZ0FfTGdpMXkwN1dHbExTaUF5dUpiTk80NW1XR3p0NGhHRS1IeWZPQUFldmN6ZEJsNE1jeHpGRjRBRllxdVlWLUdOc3ZvdjJsWnVsd0pFUHFtWThRMEJPYVJmMkZobXM?oc=5",
     "source": "Simply Wall Street",
-    "impact": 3.4,
-    "sentiment_label": "bullish"
-   }
-  },
-  {
-   "ticker": "QQQ",
-   "pct": -3.02,
-   "mentions": 7,
-   "sentiment": -0.27,
-   "why": {
-    "title": "Dow Jones Futures: Moderna Crashes, Meta Fuels AI Meltdown, But Warren Buffett Market Thriving",
-    "link": "https://finance.yahoo.com/m/47e878bb-824d-3243-a8e9-b86b1c3f85d3/dow-jones-futures%3A-moderna.html?.tsrc=rss",
-    "source": "Yahoo Finance",
-    "impact": 7.4,
+    "impact": 5.0,
     "sentiment_label": "neutral"
    }
   },
   {
    "ticker": "UPS",
    "pct": null,
-   "mentions": 7,
-   "sentiment": 0.03,
+   "mentions": 8,
+   "sentiment": 0.1,
    "why": {
     "title": "UPS Updates its Hemp Shipping Policy as Federal Ban Looms",
     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQam8wU1dDVVpNSkVablN5amlVQXREcUdmQ1RnSmVZU1FSUllVRHhUODQ0aXhPSE1FQno2R3JwbFNtZUtiZEVyYlhCWmw1dHFhX3dOVmVZR2RSYVp1Ni16YVFtY1FKR1dDNDVQSU9Ha21Bcmp4SDBIZHlkd3Vya1kzaXk0YmVCclpVNm53?oc=5",
     "source": "Ganjapreneur",
-    "impact": 5.6,
+    "impact": 4.9,
     "sentiment_label": "bearish"
+   }
+  },
+  {
+   "ticker": "NVDA",
+   "pct": null,
+   "mentions": 4,
+   "sentiment": 0.09,
+   "why": {
+    "title": "Apple is set to take back the market-cap crown from Nvidia. Upcoming earnings may push it over the top",
+    "link": "https://www.cnbc.com/2026/10/23/apple-nvidia-market-cap-earnings.html",
+    "source": "CNBC Top News",
+    "impact": 5.2,
+    "sentiment_label": "bullish"
+   }
+  },
+  {
+   "ticker": "AAPL",
+   "pct": null,
+   "mentions": 5,
+   "sentiment": 0.07,
+   "why": {
+    "title": "Apple is set to take back the market-cap crown from Nvidia. Upcoming earnings may push it over the top",
+    "link": "https://www.cnbc.com/2026/10/23/apple-nvidia-market-cap-earnings.html",
+    "source": "CNBC Top News",
+    "impact": 5.2,
+    "sentiment_label": "bullish"
+   }
+  },
+  {
+   "ticker": "META",
+   "pct": null,
+   "mentions": 7,
+   "sentiment": 0.23,
+   "why": {
+    "title": "Meta shares slide, default insurance hits record as AI spending alarms investors",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdnFibXQ2bEZfUWFpTEoxYTNPQ3dHTlMwMjZRaFcxZlphTlplUlNFWkgta2xwdVBvU0l5OWNkMEctQmNrM2s1UDRpSW5jNFhpLW9TQUlzYlpmZFZudjhvM0RtcC1hQ24xSmVOMDYwbUIzNDQ3NlAwTEpILTc4akh1czlRcThIUnU3Y2VkbWJJWE9jdXJzbWtzclVfeUh5RzN6UzdaTlZjRWlMQQ?oc=5",
+    "source": "Reuters",
+    "impact": 3.5,
+    "sentiment_label": "bullish"
+   }
+  },
+  {
+   "ticker": "DIA",
+   "pct": -1.11,
+   "mentions": 4,
+   "sentiment": -0.04,
+   "why": {
+    "title": "Dow tumbles more than 600 points as oil prices rise and market sell-off hits most sectors",
+    "link": "https://www.cnbc.com/2026/10/22/stock-market-today-live-update.html",
+    "source": "CNBC Top News",
+    "impact": 5.9,
+    "sentiment_label": "bearish"
+   }
+  },
+  {
+   "ticker": "QQQ",
+   "pct": 0.06,
+   "mentions": 4,
+   "sentiment": -0.28,
+   "why": {
+    "title": "Wells Fargo, Arm and Intuit Reject Tokenized Shares on OKX-ICE",
+    "link": "https://www.cryptoprowl.com/releases/wells-fargo-arm-and-intuit-reject-tokenized-shares-on-okx-ice-7440?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "impact": 3.8,
+    "sentiment_label": "bullish"
    }
   },
   {
    "ticker": "TGT",
    "pct": null,
-   "mentions": 4,
-   "sentiment": 0.3,
+   "mentions": 3,
+   "sentiment": 0.43,
    "why": {
     "title": "Japan's core inflation exceeds BOJ target, cements near-term rate hike chance",
     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOTJqdzA2UHpkbmExTlVYbWgxX2VuMGQ3ck9XcUpfUEgxQURja19JdmlfLURneW9HUWpZbzNPMFJ3bS15Zk5DYlNTWU1teWprbW1hOHlJNXdDNWxYbExYRUU0bTIyVzFPLVlRZjY2cFk0THZTb094X2FrM3lPZ005THBHczdTdEl4WEhIUXVCdnA2TE9qTEtFWHh4aHloeWZFU0RuQmhlR0VRSDRCTURWZDB2eTNnWDloNWJIWktsNG5Pak5NSEdtSQ?oc=5",
     "source": "Reuters",
-    "impact": 6.4,
+    "impact": 5.3,
     "sentiment_label": "bullish"
    }
   },
   {
    "ticker": "AMZN",
    "pct": null,
-   "mentions": 5,
-   "sentiment": 0.39,
-   "why": {
-    "title": "Personal agents like Meta's Muse could fuel AI’s growth — and challenge Amazon and Apple",
-    "link": "https://www.cnbc.com/2026/10/22/meta-muse-personal-ai-agents.html",
-    "source": "CNBC Top News",
-    "impact": 3.0,
-    "sentiment_label": "bullish"
-   }
-  },
-  {
-   "ticker": "DIA",
-   "pct": 0.17,
    "mentions": 3,
-   "sentiment": 0.34,
+   "sentiment": 0.58,
    "why": {
-    "title": "Dow Jones Futures: Moderna Crashes, Meta Fuels AI Meltdown, But Warren Buffett Market Thriving",
-    "link": "https://finance.yahoo.com/m/47e878bb-824d-3243-a8e9-b86b1c3f85d3/dow-jones-futures%3A-moderna.html?.tsrc=rss",
+    "title": "Amazon Stock And Other Mega Cap Tech Names For The AI Infrastructure Reset",
+    "link": "https://finance.yahoo.com/technology/ai/articles/amazon-stock-other-mega-cap-001944653.html?.tsrc=rss",
     "source": "Yahoo Finance",
-    "impact": 7.4,
-    "sentiment_label": "neutral"
-   }
-  },
-  {
-   "ticker": "^VIX",
-   "pct": 14.09,
-   "mentions": 3,
-   "sentiment": -0.07,
-   "why": {
-    "title": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
-    "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
-    "source": "Fed Press Releases",
-    "impact": 4.7,
-    "sentiment_label": "bearish"
-   }
-  },
-  {
-   "ticker": "AAPL",
-   "pct": null,
-   "mentions": 4,
-   "sentiment": 0.04,
-   "why": {
-    "title": "Personal agents like Meta's Muse could fuel AI’s growth — and challenge Amazon and Apple",
-    "link": "https://www.cnbc.com/2026/10/22/meta-muse-personal-ai-agents.html",
-    "source": "CNBC Top News",
-    "impact": 3.0,
+    "impact": 4.4,
     "sentiment_label": "bullish"
    }
   },
   {
-   "ticker": "NFLX",
+   "ticker": "MSFT",
    "pct": null,
-   "mentions": 4,
-   "sentiment": 0.46,
+   "mentions": 3,
+   "sentiment": 0.44,
    "why": {
-    "title": "Netflix posts third-quarter earnings beat, but shares fall on advertising and revenue guidance",
-    "link": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
-    "source": "CNBC Economy",
-    "impact": 3.4,
+    "title": "Amazon Stock And Other Mega Cap Tech Names For The AI Infrastructure Reset",
+    "link": "https://finance.yahoo.com/technology/ai/articles/amazon-stock-other-mega-cap-001944653.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "impact": 4.4,
     "sentiment_label": "bullish"
    }
   }
@@ -804,7 +814,7 @@
  "movers": {
   "mode": "last session (market not in pre-market)",
   "basis": "opening gap (open vs prior close) of the last session; RVOL = session volume / 20-day avg",
-  "fetched_et": "Oct 23 10:25 PM ET",
+  "fetched_et": "Oct 24 12:25 AM ET",
   "gappers": [
    {
     "symbol": "CCI",
@@ -1143,7 +1153,7 @@
  "economic_calendar": {
   "source": "RULE-BASED FALLBACK (approximate; live calendar unavailable)",
   "fallback": true,
-  "fetched_et": "Oct 23 11:47 PM ET",
+  "fetched_et": "Oct 24 12:26 AM ET",
   "events": [
    {
     "date": "2026-10-28",
@@ -1173,26 +1183,8 @@
  },
  "earnings": {
   "source": "Nasdaq earnings calendar API (api.nasdaq.com), filtered to S&P 500 + watchlist",
-  "fetched_et": "Oct 23 09:51 PM ET",
+  "fetched_et": "Oct 24 12:26 AM ET",
   "events": [
-   {
-    "date": "2026-10-23",
-    "symbol": "AXP",
-    "name": "American Express Company",
-    "time": "BMO (pre-market)",
-    "eps_forecast": "$4.47",
-    "last_year_eps": "$4.14",
-    "mcap": 219590492000
-   },
-   {
-    "date": "2026-10-23",
-    "symbol": "SLB",
-    "name": "SLB Limited",
-    "time": "BMO (pre-market)",
-    "eps_forecast": "$0.62",
-    "last_year_eps": "$0.69",
-    "mcap": 73539297000
-   },
    {
     "date": "2026-10-26",
     "symbol": "VZ",
@@ -2686,30 +2678,147 @@
     "eps_forecast": "$0.86",
     "last_year_eps": "$1.16",
     "mcap": 7135779300
+   },
+   {
+    "date": "2026-10-30",
+    "symbol": "XOM",
+    "name": "ExxonMobil Holdings Corporation",
+    "time": "BMO (pre-market)",
+    "eps_forecast": "$3.96",
+    "last_year_eps": "$1.88",
+    "mcap": 732866080000
+   },
+   {
+    "date": "2026-10-30",
+    "symbol": "ABBV",
+    "name": "AbbVie Inc.",
+    "time": "BMO (pre-market)",
+    "eps_forecast": "$3.76",
+    "last_year_eps": "$1.86",
+    "mcap": 503964172000
+   },
+   {
+    "date": "2026-10-30",
+    "symbol": "CVX",
+    "name": "Chevron Corporation",
+    "time": "BMO (pre-market)",
+    "eps_forecast": "$4.78",
+    "last_year_eps": "$1.85",
+    "mcap": 447867847000
+   },
+   {
+    "date": "2026-10-30",
+    "symbol": "GD",
+    "name": "General Dynamics Corporation",
+    "time": "BMO (pre-market)",
+    "eps_forecast": "$4.14",
+    "last_year_eps": "$3.88",
+    "mcap": 94908760000
+   },
+   {
+    "date": "2026-10-30",
+    "symbol": "REGN",
+    "name": "Regeneron Pharmaceuticals, Inc.",
+    "time": "BMO (pre-market)",
+    "eps_forecast": "$13.76",
+    "last_year_eps": "$9.63",
+    "mcap": 84329398000
+   },
+   {
+    "date": "2026-10-30",
+    "symbol": "CL",
+    "name": "Colgate-Palmolive Company",
+    "time": "BMO (pre-market)",
+    "eps_forecast": "$0.92",
+    "last_year_eps": "$0.91",
+    "mcap": 77636665000
+   },
+   {
+    "date": "2026-10-30",
+    "symbol": "D",
+    "name": "Dominion Energy, Inc.",
+    "time": "BMO (pre-market)",
+    "eps_forecast": "$1.19",
+    "last_year_eps": "$1.06",
+    "mcap": 57520996000
+   },
+   {
+    "date": "2026-10-30",
+    "symbol": "EXC",
+    "name": "Exelon Corporation",
+    "time": "BMO (pre-market)",
+    "eps_forecast": "$0.81",
+    "last_year_eps": "$0.86",
+    "mcap": 46296592000
+   },
+   {
+    "date": "2026-10-30",
+    "symbol": "KVUE",
+    "name": "Kenvue Inc.",
+    "time": "BMO (pre-market)",
+    "eps_forecast": "$0.28",
+    "last_year_eps": "$0.28",
+    "mcap": 38184976000
+   },
+   {
+    "date": "2026-10-30",
+    "symbol": "CHD",
+    "name": "Church & Dwight Company, Inc.",
+    "time": "BMO (pre-market)",
+    "eps_forecast": "$0.90",
+    "last_year_eps": "$0.81",
+    "mcap": 25822017500
+   },
+   {
+    "date": "2026-10-30",
+    "symbol": "LYB",
+    "name": "LyondellBasell Industries NV",
+    "time": "BMO (pre-market)",
+    "eps_forecast": "$2.73",
+    "last_year_eps": "$1.01",
+    "mcap": 21116991500
+   },
+   {
+    "date": "2026-10-30",
+    "symbol": "CBOE",
+    "name": "Cboe Global Markets, Inc.",
+    "time": "BMO (pre-market)",
+    "eps_forecast": "$3.40",
+    "last_year_eps": "$2.67",
+    "mcap": 11636977312
+   },
+   {
+    "date": "2026-10-30",
+    "symbol": "FRT",
+    "name": "Federal Realty Investment Trust",
+    "time": "BMO (pre-market)",
+    "eps_forecast": "$1.85",
+    "last_year_eps": "$1.77",
+    "mcap": 9460489200
    }
   ]
  },
  "sentiment_validation": {
   "logged": 4000,
   "min_sample": 100,
-  "generated_et": "Oct 23 11:47 PM ET",
+  "generated_et": "Oct 24 12:26 AM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
-    "n_scored": 3930,
-    "n_directional": 3269,
-    "hit_rate": 47.9,
+    "n_scored": 3927,
+    "n_directional": 3266,
+    "hit_rate": 47.8,
     "ci95": 1.7,
     "corr": 0.001,
     "status": "NO EDGE (≈ coin flip)"
    },
    "r1d": {
     "name": "+1 day",
-    "n_scored": 3458,
-    "n_directional": 2925,
+    "n_scored": 3455,
+    "n_directional": 2922,
     "hit_rate": 45.4,
     "ci95": 1.8,
-    "corr": -0.073,
+    "corr": -0.072,
     "status": "NO EDGE (≈ coin flip)"
    }
   },
@@ -2791,108 +2900,108 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 23 11:47 PM ET",
+   "fetched_et": "Oct 24 12:25 AM ET",
    "newest_et": "Oct 23 09:57 PM ET",
    "newest": "2026-10-24T01:57:24+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 23 11:47 PM ET",
+   "fetched_et": "Oct 24 12:25 AM ET",
    "newest_et": "Oct 23 04:49 PM ET",
    "newest": "2026-10-23T20:49:42+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 23 11:47 PM ET",
+   "fetched_et": "Oct 24 12:25 AM ET",
    "newest_et": "Oct 23 02:57 PM ET",
    "newest": "2026-10-23T18:57:48+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 23 11:47 PM ET",
+   "fetched_et": "Oct 24 12:25 AM ET",
    "newest_et": "Oct 23 06:49 PM ET",
    "newest": "2026-10-23T22:49:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 23 11:47 PM ET",
+   "fetched_et": "Oct 24 12:25 AM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 23 11:47 PM ET",
-   "newest_et": "Oct 23 11:16 PM ET",
-   "newest": "2026-10-24T03:16:54+00:00"
+   "fetched_et": "Oct 24 12:25 AM ET",
+   "newest_et": "Oct 23 11:59 PM ET",
+   "newest": "2026-10-24T03:59:00+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 55,
-   "fetched_et": "Oct 23 11:47 PM ET",
+   "fetched_et": "Oct 24 12:25 AM ET",
    "newest_et": "Oct 23 08:36 PM ET",
    "newest": "2026-10-24T00:36:47+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 23 11:47 PM ET",
+   "fetched_et": "Oct 24 12:25 AM ET",
    "newest_et": "Oct 23 07:46 PM ET",
    "newest": "2026-10-23T23:46:35+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 23 11:47 PM ET",
-   "newest_et": "Oct 23 10:49 PM ET",
-   "newest": "2026-10-24T02:49:00+00:00"
+   "fetched_et": "Oct 24 12:25 AM ET",
+   "newest_et": "Oct 23 10:44 PM ET",
+   "newest": "2026-10-24T02:44:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 27,
-   "fetched_et": "Oct 23 11:47 PM ET",
-   "newest_et": "Oct 23 12:24 PM ET",
-   "newest": "2026-10-23T16:24:56+00:00"
+   "count": 26,
+   "fetched_et": "Oct 24 12:25 AM ET",
+   "newest_et": "Oct 23 02:46 PM ET",
+   "newest": "2026-10-23T18:46:42+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
-   "count": 16,
-   "fetched_et": "Oct 23 11:47 PM ET",
-   "newest_et": "Oct 23 02:58 PM ET",
-   "newest": "2026-10-23T18:58:44+00:00"
+   "count": 42,
+   "fetched_et": "Oct 24 12:25 AM ET",
+   "newest_et": "Oct 23 09:13 PM ET",
+   "newest": "2026-10-24T01:13:07+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 23 11:47 PM ET",
+   "fetched_et": "Oct 24 12:25 AM ET",
    "newest_et": "Oct 16 11:00 AM ET",
    "newest": "2026-10-16T15:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 23 11:47 PM ET",
-   "newest_et": "Oct 23 11:15 PM ET",
-   "newest": "2026-10-24T03:15:50+00:00"
+   "fetched_et": "Oct 24 12:25 AM ET",
+   "newest_et": "Oct 23 11:59 PM ET",
+   "newest": "2026-10-24T03:59:19+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
-   "count": 25,
-   "fetched_et": "Oct 23 11:47 PM ET"
+   "count": 26,
+   "fetched_et": "Oct 24 12:25 AM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
-   "count": 168,
-   "fetched_et": "Oct 23 09:51 PM ET"
+   "count": 179,
+   "fetched_et": "Oct 24 12:26 AM ET"
   },
   "Economic calendar": {
    "ok": false,
    "count": 3,
-   "fetched_et": "Oct 23 11:47 PM ET",
+   "fetched_et": "Oct 24 12:26 AM ET",
    "note": "RULE-BASED FALLBACK (approximate; live calendar unavailable)"
   }
  }
