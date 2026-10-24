@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 24 05:06 PM ET",
- "generated_at": "2026-10-24T17:06:34.733520-04:00",
+ "generated_et": "Oct 24 05:43 PM ET",
+ "generated_at": "2026-10-24T17:43:37.851123-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-24",
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 80319.99,
-   "pct": -0.93,
-   "asof_et": "Oct 24 05:05 PM ET",
+   "price": 80237.63,
+   "pct": -1.03,
+   "asof_et": "Oct 24 05:45 PM ET",
    "freshness": "delayed"
   },
   {
@@ -379,6 +379,87 @@
  ],
  "breaking": [
   {
+   "title": "Trump casts his midterm election ballot early in Florida",
+   "link": "https://www.cnbc.com/2026/10/24/trump-midterm-election-early-vote-florida.html",
+   "source": "CNBC Top News",
+   "impact": 2.0,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 24 05:45 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "An OpenAI Model Spent Ethereum Without Permission. Here's What That Means For Crypto Investors.",
+   "link": "https://www.fool.com/investing/2026/10/24/an-openai-model-spent-ethereum-without-permission/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.5,
+   "tickers": [
+    "BTC-USD",
+    "COIN",
+    "MSFT"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 24 05:45 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "3 AI Stocks To Watch In October 2026",
+   "link": "https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-watch-october-210956830.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 5.2,
+   "tickers": [
+    "^TNX"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 24 05:45 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Cadence Design Systems (CDNS) Stock Looks Fully Valued Despite AI Hopes",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/cadence-design-systems-cdns-stock-210927944.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 4.2,
+   "tickers": [
+    "CDNS",
+    "NVDA"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 24 05:45 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Here's How Many Shares of Apple Stock You'd Need for $100 in Yearly Dividends",
+   "link": "https://www.fool.com/investing/2026/10/24/heres-how-many-shares-of-apple-stock-youd-need-for/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.3,
+   "tickers": [
+    "AAPL"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 24 05:45 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "GE Vernova Stock Fell 11% in a Day. Here's What I Think It Could Be Worth by 2030.",
+   "link": "https://www.fool.com/investing/2026/10/24/ge-vernova-stock-fell-11-in-a-day-here-s-what-i-think-it-could-be-worth-by-2030/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.0,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 24 05:45 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Booking vs. GameStop: Is Travel or Collectibles the Better Value Creator in Stocks?",
+   "link": "https://www.nasdaq.com/articles/booking-vs-gamestop-travel-or-collectibles-better-value-creator-stocks",
+   "source": "Nasdaq Markets",
+   "impact": 2.5,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 24 05:45 PM ET",
+   "consumer": true
+  },
+  {
    "title": "This Dividend Winner Just Announced Its 676th Consecutive Monthly Dividend. Is It Worth a Look?",
    "link": "https://www.fool.com/investing/2026/10/24/this-dividend-winner-just-announced-its-676th-cons/?.tsrc=rss",
    "source": "Yahoo Finance",
@@ -523,83 +604,6 @@
    ],
    "sentiment_label": "bearish",
    "seen_et": "Oct 24 04:02 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Oklo Is Down 61% This Year Despite a Real Technical Milestone. Here's the Disconnect Between the Stock and the Science.",
-   "link": "https://www.fool.com/investing/2026/10/24/oklo-is-down-61-this-year-despite-a-real-technical/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 1.5,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 24 04:02 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Stock Market Sell-Off: History Says This Is the Best Move to Make Right Now",
-   "link": "https://www.fool.com/investing/2026/10/24/stock-market-sell-off-history-says-do-this/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.6,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 24 04:02 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Vertex Pharmaceuticals Gets 96% of Product Sales From Treatments for 1 Disease. Here's Why That's About to Change.",
-   "link": "https://www.fool.com/investing/2026/10/24/vertex-pharmaceuticals-gets-96-of-product-sales-fr/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 1.5,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 24 04:02 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Knicks try to clear up ‘misinformation’ about rings, say employees will get them in 4-6 weeks",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUy1mcG5uQlg1VWZmd05IanlNckFvVEFTZU8wQnBCcFB3em9hMzNoOGJNQUpJTGpxV0R6RTBCQkZYUG9CX3FUYmJUUEJfbEQzUGltOXBoMmJ5c2pZSHVRTEgtRGk0Y25JQkE2ZUt1MGJScE5lSXNwU1N1cUIycUtfYUVpVW85NUdIUFZsakRjMU14VVFkbnc?oc=5",
-   "source": "AP News",
-   "impact": 2.2,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 24 04:02 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Publishers, advertisers call EU, UK antitrust regulators to suspend Meta's new commercial terms",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRFBMTWVjQWZTZV9kZzdiYzVMMFlBZUFpb1Nob0k5ZGhfLTk2Qk1CUlA5blRxdmRPZGF5a3dsX0dXSGtuMFFKc21KYXlsVU9SbmRlQ3B4V0RyRllxZ0ZITjBPUWllZ3E5OWhvRmhsVHdlOFJzcnBlbkpWTWRFU3hFNE81cjlNcThSNjN1S2l2SkxwVTJua1VxQW5ZWWQ1MXNGMkp1bE9qN2RhWUFnM2lnMmVnbDRYVG9xVXlRUmZpN2VSRlE?oc=5",
-   "source": "Reuters",
-   "impact": 1.1,
-   "tickers": [
-    "META"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 24 04:02 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Here's who Netflix just brought in to run content — and what it means for the streamer",
-   "link": "https://www.cnbc.com/2026/10/16/netflix-peter-rice-chief-content-officer.html",
-   "source": "CNBC Economy",
-   "impact": 1.0,
-   "tickers": [
-    "NFLX"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 24 04:02 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Nvidia Credit Stress Could Lift Hannover Re Stock And Other AI Insurance Names",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-credit-stress-could-lift-190924644.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.2,
-   "tickers": [
-    "MSFT",
-    "NVDA"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 24 03:39 PM ET",
    "consumer": false
   }
  ],
@@ -1143,7 +1147,7 @@
  "economic_calendar": {
   "source": "RULE-BASED FALLBACK (approximate; live calendar unavailable)",
   "fallback": true,
-  "fetched_et": "Oct 24 04:42 PM ET",
+  "fetched_et": "Oct 24 05:45 PM ET",
   "events": [
    {
     "date": "2026-10-28",
@@ -1173,7 +1177,7 @@
  },
  "earnings": {
   "source": "Nasdaq earnings calendar API (api.nasdaq.com), filtered to S&P 500 + watchlist",
-  "fetched_et": "Oct 24 01:29 PM ET",
+  "fetched_et": "Oct 24 05:45 PM ET",
   "events": [
    {
     "date": "2026-10-26",
@@ -2791,12 +2795,12 @@
  "sentiment_validation": {
   "logged": 4000,
   "min_sample": 100,
-  "generated_et": "Oct 24 05:06 PM ET",
+  "generated_et": "Oct 24 05:45 PM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
-    "n_scored": 3813,
-    "n_directional": 3172,
+    "n_scored": 3809,
+    "n_directional": 3170,
     "hit_rate": 48.0,
     "ci95": 1.7,
     "corr": 0.004,
@@ -2804,8 +2808,8 @@
    },
    "r1d": {
     "name": "+1 day",
-    "n_scored": 3341,
-    "n_directional": 2827,
+    "n_scored": 3337,
+    "n_directional": 2825,
     "hit_rate": 45.2,
     "ci95": 1.8,
     "corr": -0.068,
@@ -2890,108 +2894,100 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 05:06 PM ET",
-   "newest_et": "Oct 24 04:38 PM ET",
-   "newest": "2026-10-24T20:38:30+00:00"
+   "fetched_et": "Oct 24 05:43 PM ET",
+   "newest_et": "Oct 24 05:28 PM ET",
+   "newest": "2026-10-24T21:28:44+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 05:06 PM ET",
+   "fetched_et": "Oct 24 05:43 PM ET",
    "newest_et": "Oct 23 04:49 PM ET",
    "newest": "2026-10-23T20:49:42+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 05:06 PM ET",
+   "fetched_et": "Oct 24 05:43 PM ET",
    "newest_et": "Oct 24 11:53 AM ET",
    "newest": "2026-10-24T15:53:30+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 24 05:06 PM ET",
+   "fetched_et": "Oct 24 05:43 PM ET",
    "newest_et": "Oct 24 04:15 PM ET",
    "newest": "2026-10-24T20:15:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 05:06 PM ET",
+   "fetched_et": "Oct 24 05:43 PM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 18,
-   "fetched_et": "Oct 24 05:06 PM ET",
-   "newest_et": "Oct 24 04:51 PM ET",
-   "newest": "2026-10-24T20:51:00+00:00"
+   "fetched_et": "Oct 24 05:43 PM ET",
+   "newest_et": "Oct 24 05:26 PM ET",
+   "newest": "2026-10-24T21:26:00+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 55,
-   "fetched_et": "Oct 24 05:06 PM ET",
+   "fetched_et": "Oct 24 05:43 PM ET",
    "newest_et": "Oct 24 07:55 AM ET",
    "newest": "2026-10-24T11:55:35+00:00"
   },
   "Reuters (via Google News)": {
-   "ok": true,
-   "count": 60,
-   "fetched_et": "Oct 24 05:06 PM ET",
-   "newest_et": "Oct 23 07:46 PM ET",
-   "newest": "2026-10-23T23:46:35+00:00"
+   "ok": false,
+   "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:reuters.com+markets&hl=en-US&gl=US&ceid=US:en",
+   "fetched_et": "Oct 24 05:43 PM ET"
   },
   "AP Business (via Google News)": {
-   "ok": true,
-   "count": 60,
-   "fetched_et": "Oct 24 05:06 PM ET",
-   "newest_et": "Oct 24 04:23 PM ET",
-   "newest": "2026-10-24T20:23:00+00:00"
+   "ok": false,
+   "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:apnews.com+business&hl=en-US&gl=US&ceid=US:en",
+   "fetched_et": "Oct 24 05:44 PM ET"
   },
   "Shipping & Postage (via Google News)": {
-   "ok": true,
-   "count": 16,
-   "fetched_et": "Oct 24 05:06 PM ET",
-   "newest_et": "Oct 24 06:54 AM ET",
-   "newest": "2026-10-24T10:54:28+00:00"
+   "ok": false,
+   "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(USPS+OR+UPS+OR+FedEx)+(rates+OR+surcharge+OR+postage+OR+shipping)+when:2d&hl=en-US&gl=US&ceid=US:en",
+   "fetched_et": "Oct 24 05:44 PM ET"
   },
   "Retail & E-commerce (via Google News)": {
-   "ok": true,
-   "count": 43,
-   "fetched_et": "Oct 24 05:06 PM ET",
-   "newest_et": "Oct 24 04:13 PM ET",
-   "newest": "2026-10-24T20:13:00+00:00"
+   "ok": false,
+   "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(retail+sales+OR+e-commerce+OR+retailers)+stocks+when:2d&hl=en-US&gl=US&ceid=US:en",
+   "fetched_et": "Oct 24 05:45 PM ET"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 24 05:06 PM ET",
+   "fetched_et": "Oct 24 05:45 PM ET",
    "newest_et": "Oct 16 11:00 AM ET",
    "newest": "2026-10-16T15:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 24 05:06 PM ET",
-   "newest_et": "Oct 24 04:27 PM ET",
-   "newest": "2026-10-24T20:27:00+00:00"
+   "fetched_et": "Oct 24 05:45 PM ET",
+   "newest_et": "Oct 24 05:09 PM ET",
+   "newest": "2026-10-24T21:09:00+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Oct 24 05:06 PM ET"
+   "fetched_et": "Oct 24 05:43 PM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
    "count": 179,
-   "fetched_et": "Oct 24 01:29 PM ET"
+   "fetched_et": "Oct 24 05:45 PM ET"
   },
   "Economic calendar": {
    "ok": false,
    "count": 3,
-   "fetched_et": "Oct 24 04:42 PM ET",
+   "fetched_et": "Oct 24 05:45 PM ET",
    "note": "RULE-BASED FALLBACK (approximate; live calendar unavailable)"
   }
  }
