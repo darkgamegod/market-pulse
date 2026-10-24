@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 24 07:59 AM ET",
- "generated_at": "2026-10-24T07:59:57.431322-04:00",
+ "generated_et": "Oct 24 08:36 AM ET",
+ "generated_at": "2026-10-24T08:36:25.771276-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-24",
@@ -12,8 +12,8 @@
   {
    "symbol": "ES=F",
    "label": "S&P 500 Fut",
-   "price": 7659.75,
-   "pct": -0.58,
+   "price": 7672.5,
+   "pct": -0.42,
    "asof_et": "Oct 23 05:00 PM ET",
    "freshness": "closed"
   },
@@ -28,16 +28,16 @@
   {
    "symbol": "YM=F",
    "label": "Dow Fut",
-   "price": 52394.0,
-   "pct": -1.27,
+   "price": 52451.0,
+   "pct": -1.16,
    "asof_et": "Oct 23 04:55 PM ET",
    "freshness": "closed"
   },
   {
    "symbol": "RTY=F",
    "label": "Russell 2000 Fut",
-   "price": 2784.5,
-   "pct": -0.41,
+   "price": 2788.7,
+   "pct": -0.26,
    "asof_et": "Oct 23 04:55 PM ET",
    "freshness": "closed"
   },
@@ -84,8 +84,8 @@
   {
    "symbol": "CL=F",
    "label": "WTI Crude",
-   "price": 103.27,
-   "pct": 3.82,
+   "price": 103.44,
+   "pct": 3.99,
    "asof_et": "Oct 23 04:55 PM ET",
    "freshness": "closed"
   },
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 80487.21,
-   "pct": -0.72,
-   "asof_et": "Oct 24 08:00 AM ET",
+   "price": 80689.64,
+   "pct": -0.47,
+   "asof_et": "Oct 24 08:35 AM ET",
    "freshness": "delayed"
   },
   {
@@ -379,6 +379,133 @@
  ],
  "breaking": [
   {
+   "title": "Moderna’s cancer vaccine is ‘likely’ to get approved. Skeptics question if it will be the best option.",
+   "link": "https://www.marketwatch.com/story/the-real-test-for-modernas-cancer-vaccine-isnt-about-beating-keytruda-its-keeping-cancer-from-coming-back-in-the-long-term-da9af99f?mod=mw_rss_topstories",
+   "source": "MarketWatch Top",
+   "impact": 2.1,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 24 08:36 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Why popular airplanes are getting scrapped years early",
+   "link": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
+   "source": "CNBC Top News",
+   "impact": 2.0,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 24 08:36 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Is Bitcoin a Buy Right Now?",
+   "link": "https://www.fool.com/investing/2026/10/24/is-bitcoin-a-buy-right-now/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.6,
+   "tickers": [
+    "BTC-USD",
+    "COIN"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 24 08:36 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "I'd Put Most of a Lump Sum Into an S&P 500 Fund Right Away. Here's When I Wouldn't.",
+   "link": "https://www.fool.com/investing/2026/10/24/i-d-put-most-of-a-lump-sum-into-an-s-and-p-500-fund-right-away-here-s-when-i-wouldn-t/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.4,
+   "tickers": [
+    "SPY"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 24 08:36 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Microsoft Stock And 2 Other Best Defensive Stocks",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-2-other-best-120954839.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.0,
+   "tickers": [
+    "MSFT"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 24 08:36 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Billionaire Paul Tudor Jones warns AI and IPOs could hit stocks hard in 2027. Protect your nest egg now",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-paul-tudor-jones-warns-120500110.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.9,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 24 08:36 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "U.S. Power Demand Is Set to Jump 20% by 2030. Here's What It Means for Energy Stocks.",
+   "link": "https://www.fool.com/investing/2026/10/24/us-power-demand-is-set-to-jump-20-by-2030-heres-wh/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.1,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 24 08:36 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "AI fever ignites a boom in thematic ETFs as fund managers hunt for their next big hit",
+   "link": "https://www.marketwatch.com/story/ai-fever-ignites-a-boom-in-thematic-etfs-as-fund-managers-hunt-for-their-next-big-hit-82d1566c?mod=mw_rss_topstories",
+   "source": "MarketWatch Top",
+   "impact": 4.2,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 24 08:36 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave.",
+   "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
+   "source": "MarketWatch Top",
+   "impact": 1.6,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 24 08:36 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Man killed in suspected racist attack near Paris identified as martial arts fighter",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV2prYW8takQzZVliTHhrQVJGTmVlbDBSNkJFVzVlLWpyVkZvU1pNM05fWWpXNFY3NzZOZzlqUHJIMVplQV80eVJHemh4Y01VTkVpbGR6RFdnaWExdDlZR3BETWdVZEMwYXh6MUVyRDVPTVNjOTh2dE1MZndxSXNPbWdkMDBZZFlO?oc=5",
+   "source": "AP News",
+   "impact": 2.5,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 24 08:36 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Jayson Tatum vents over Jaylen Brown's 'cap' post as Celtics win overshadowed by trade drama talk",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcndVb25XQVBtYmcxNWNLRlpvVTBCWlg0ei16a3dRelYtTkJ3dXI5amhxbXJ0UThsNGF2R3dKOEdxNVVmZkItOHdfSVlOR19zdk1aRXRJcVlxUFpWaW1PWENodXVzb1ZhS3BWZGxaSTYxOWhqb0xudDBCenlUR01xdmwzYlVYLU9tT0c5NnRRSHhrMUpFUWxwSlBnQXZLUQ?oc=5",
+   "source": "AP News",
+   "impact": 2.1,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 24 08:36 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Northern Trust Quality Dividend (^SPLB-IV) Latest Stock News & Headlines - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kSG9pVXVwZVZ1ZlBHcmk3UllJMzEyQ1R4LVhwblFaN0lZQ3l5dUphbzlxRTdQMjg2MUhnUTBSTkF6VUZRLTZNQUhsYjRjZ29NZjNKcGNDbWNybzJ2V1NBcA?oc=5",
+   "source": "Yahoo! Finance Canada",
+   "impact": 1.3,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 24 08:36 AM ET",
+   "consumer": false
+  },
+  {
    "title": "Rising demand from families needing Christmas help",
    "link": "https://www.bbc.co.uk/news/articles/cqp8gjz4k7g6o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
@@ -475,138 +602,6 @@
    ],
    "sentiment_label": "bullish",
    "seen_et": "Oct 24 08:00 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Jensen Huang Says AI Demand Is \"Off the Charts.\" The Money to Pay for It Isn't",
-   "link": "https://www.fool.com/investing/2026/10/24/jensen-huang-says-ai-demand-is-off-the-charts-the-money-to-pay-for-it-isn-t/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.6,
-   "tickers": [
-    "NVDA"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 24 08:00 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Rocket Lab Is Buying Iridium, and Guess What? Iridium Just Beat Earnings!",
-   "link": "https://www.fool.com/investing/2026/10/24/rocket-lab-buying-iridium-which-just-beat-earnings/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.6,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 24 08:00 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Tesla Got Trump Tariff Refunds, and Elon Musk Isn’t Sitting on the Cash — CFO Says Money Is Going Into...",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-got-trump-tariff-refunds-104506257.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 6.5,
-   "tickers": [
-    "TSLA"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 24 08:00 AM ET",
-   "consumer": true
-  },
-  {
-   "title": "Ukraine says Starlink speed limits lifted after a slowdown that hobbled its drones",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOGd5SnEtSm9xemFDa0s3MnhQUjFKOHZmcUxxcHVJU01FWk5aWWEzQWJKaG1DUGlqMFVIWVJrWXA0NUx6NTVQblRkb2lUNXJSWWdrd3A5VlNuc1BqbWM1TEdCZ0pJaHUwdWFpa1g3MVFkODMzWEZuS21WaGpqSldLTEZqT2xReDFQY1I3NEV6ZEZWTl9Pb2gzbG13?oc=5",
-   "source": "AP News",
-   "impact": 1.5,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 24 08:00 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Ukraine and Russia eye new peace talks — and Melania Trump's mission — but steep obstacles remain",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUUw3V0JLTVMtaXQ1bm9sVC0yU1VITmZSTW9OVkVZM2JEbUpwaWlCcThLQ1JXUURGSC1IamlEakx1Mm5Ld3QxVlZvaTBJUTJHcHBqSDk3S3B2dmY1cUNFNzZUeFNhZkdhaFU5bVBkS2l1ajFBdnRubERJQ0NrWlVmWGtXLU9ZeFVBTEVFYjl2T0NaWDlpNEJQdGRJVDdYSmQzUFNaVFpJSUhRS3ZL?oc=5",
-   "source": "AP News",
-   "impact": 1.5,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 24 08:00 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "France mobilizes up to 70,000 police to curb violence at protests over living costs",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWFhXb1VmdWxKRzJmZnRpSGpJTk40b3JoTldmR0FjTW9nWWxibmNBOTJCN1NNa1IyenIycmtueTVnVHhaR19YOUU3TkE2ODBHRFFlRWdDYVZzVWY0MVlqV0dTOHlkaTdEbmxkdnFNMnJicVFjSkhYUVdOaGFYYU5jVEQ5VEhRUU5tWlJjZ1pzOE5GQQ?oc=5",
-   "source": "AP News",
-   "impact": 2.3,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 24 08:00 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Before you crank up the thermostat, try these tips to keep you and your home warmer for longer",
-   "link": "https://www.bbc.co.uk/news/articles/cqr7yeed1ed7o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "impact": 2.7,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 24 08:00 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "France spared Moody's ratings downgrade as it struggles with unrest",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNDNzYlVKMzN1VE5rMDhtcVFnY1NsRXZNYmRVZmZKc2dxVC1xZ19abmEtTTlHclVXQWc4YWJXWHNtNktWU2ZBSUVWT1lwWmo1UDVsdFd1RUxjQUkwUGRROUVhWVZkTnJmSU1pdUl4d1FCYU1nTGRMckNaUnpaQVVlOFhkdzZuVFZKaUNCajRGWXFxS0RIODZYSUtVU0o?oc=5",
-   "source": "Reuters",
-   "impact": 2.6,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 24 08:00 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "FTSE 100 Today: London’s Benchmark Index Hovers Near 10,700 as Oil Prices Surge and UK Retail Sales Weaken; What Should Investors Know?",
-   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOanVsZGwyTXFvNEo3Ykt5R1VlLVgzVjBtUi1tWm14SjdETUZFVEpxQmdPVVUyTWszbnpHd2M0eWlNQk1GbDZRM1lLV0lkc1RvbGkzWEVqZFlmc0xFM0l3VUpId3p1c2xiZFdKT1hqNmh3MDFVRm5sUjV6RG1TTU00VVdPLVNCNUh5amNIc3R1MzUyekFwdGRzUF9MRWcwZ2ZrVm8zX21oYXM2QTR0VzVQNFFPVkhoR29vU09ZUElHZTVNNFJhalVyLXFTd2lUd2hMN3l2ck5ya0Z3RUVjZVJINE1UU185cEU3dktzSkV3NWxMd1N2SXdQUmRDLXZ4dXhaUXRiOGMxMlFFQQ?oc=5",
-   "source": "The Sunday Guardian",
-   "impact": 2.7,
-   "tickers": [
-    "CL=F",
-    "XLE"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 24 08:00 AM ET",
-   "consumer": true
-  },
-  {
-   "title": "Apple Just Passed Nvidia as the World’s Most Valuable Company on iPhone Duo Day",
-   "link": "https://247wallst.com/investing/2026/10/24/apple-just-passed-nvidia-as-the-worlds-most-valuable-company-on-iphone-duo-day/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.9,
-   "tickers": [
-    "AAPL",
-    "NVDA"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 24 07:28 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Tech Stock Sell-Off: This Could Be the Most Powerful Reason to Buy Bonds Right Now",
-   "link": "https://www.fool.com/investing/2026/10/24/tech-stock-sell-off-reason-buy-bonds/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 5.0,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 24 07:28 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Nvidia's role as AI financier faces first big test as neoclouds take market hit",
-   "link": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
-   "source": "CNBC Top News",
-   "impact": 2.3,
-   "tickers": [
-    "NVDA"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 24 07:28 AM ET",
    "consumer": false
   }
  ],
@@ -2798,12 +2793,12 @@
  "sentiment_validation": {
   "logged": 4000,
   "min_sample": 100,
-  "generated_et": "Oct 24 08:00 AM ET",
+  "generated_et": "Oct 24 08:36 AM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
-    "n_scored": 3887,
-    "n_directional": 3234,
+    "n_scored": 3884,
+    "n_directional": 3233,
     "hit_rate": 47.9,
     "ci95": 1.7,
     "corr": 0.001,
@@ -2811,8 +2806,8 @@
    },
    "r1d": {
     "name": "+1 day",
-    "n_scored": 3415,
-    "n_directional": 2889,
+    "n_scored": 3412,
+    "n_directional": 2888,
     "hit_rate": 45.3,
     "ci95": 1.8,
     "corr": -0.071,
@@ -2897,98 +2892,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 07:59 AM ET",
-   "newest_et": "Oct 24 07:54 AM ET",
-   "newest": "2026-10-24T11:54:02+00:00"
+   "fetched_et": "Oct 24 08:36 AM ET",
+   "newest_et": "Oct 24 08:20 AM ET",
+   "newest": "2026-10-24T12:20:22+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 07:59 AM ET",
+   "fetched_et": "Oct 24 08:36 AM ET",
    "newest_et": "Oct 23 04:49 PM ET",
    "newest": "2026-10-23T20:49:42+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 07:59 AM ET",
-   "newest_et": "Oct 23 02:57 PM ET",
-   "newest": "2026-10-23T18:57:48+00:00"
+   "fetched_et": "Oct 24 08:36 AM ET",
+   "newest_et": "Oct 24 08:20 AM ET",
+   "newest": "2026-10-24T12:20:22+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 24 07:59 AM ET",
-   "newest_et": "Oct 24 07:30 AM ET",
-   "newest": "2026-10-24T11:30:00+00:00"
+   "fetched_et": "Oct 24 08:36 AM ET",
+   "newest_et": "Oct 24 08:30 AM ET",
+   "newest": "2026-10-24T12:30:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 07:59 AM ET",
+   "fetched_et": "Oct 24 08:36 AM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
-   "count": 17,
-   "fetched_et": "Oct 24 07:59 AM ET",
-   "newest_et": "Oct 24 07:53 AM ET",
-   "newest": "2026-10-24T11:53:11+00:00"
+   "count": 18,
+   "fetched_et": "Oct 24 08:36 AM ET",
+   "newest_et": "Oct 24 08:20 AM ET",
+   "newest": "2026-10-24T12:20:00+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 55,
-   "fetched_et": "Oct 24 07:59 AM ET",
+   "fetched_et": "Oct 24 08:36 AM ET",
    "newest_et": "Oct 24 07:55 AM ET",
    "newest": "2026-10-24T11:55:35+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 24 07:59 AM ET",
+   "fetched_et": "Oct 24 08:36 AM ET",
    "newest_et": "Oct 24 06:05 AM ET",
    "newest": "2026-10-24T10:05:13+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 24 08:00 AM ET",
+   "fetched_et": "Oct 24 08:36 AM ET",
    "newest_et": "Oct 24 06:45 AM ET",
    "newest": "2026-10-24T10:45:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 24,
-   "fetched_et": "Oct 24 08:00 AM ET",
+   "count": 23,
+   "fetched_et": "Oct 24 08:36 AM ET",
    "newest_et": "Oct 23 09:16 PM ET",
    "newest": "2026-10-24T01:16:17+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
-   "count": 42,
-   "fetched_et": "Oct 24 08:00 AM ET",
+   "count": 41,
+   "fetched_et": "Oct 24 08:36 AM ET",
    "newest_et": "Oct 24 06:28 AM ET",
    "newest": "2026-10-24T10:28:47+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 24 08:00 AM ET",
+   "fetched_et": "Oct 24 08:36 AM ET",
    "newest_et": "Oct 16 11:00 AM ET",
    "newest": "2026-10-16T15:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 24 08:00 AM ET",
-   "newest_et": "Oct 24 07:10 AM ET",
-   "newest": "2026-10-24T11:10:00+00:00"
+   "fetched_et": "Oct 24 08:36 AM ET",
+   "newest_et": "Oct 24 08:20 AM ET",
+   "newest": "2026-10-24T12:20:00+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Oct 24 07:59 AM ET"
+   "fetched_et": "Oct 24 08:36 AM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
