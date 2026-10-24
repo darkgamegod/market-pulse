@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 23 09:04 PM ET",
- "generated_at": "2026-10-23T21:04:10.541031-04:00",
+ "generated_et": "Oct 23 09:51 PM ET",
+ "generated_at": "2026-10-23T21:51:30.907113-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-23",
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 80562.2,
-   "pct": -0.92,
-   "asof_et": "Oct 23 09:00 PM ET",
+   "price": 80801.93,
+   "pct": -0.63,
+   "asof_et": "Oct 23 09:50 PM ET",
    "freshness": "delayed"
   },
   {
@@ -380,6 +380,163 @@
  ],
  "breaking": [
   {
+   "title": "Jim Cramer's 5% to 8% rule puts Nvidia stock in focus",
+   "link": "https://www.thestreet.com/investing/stocks/jim-cramer-nvidia-5-to-8-percent-pullback-rule?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.4,
+   "tickers": [
+    "NVDA"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 23 09:51 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Western Digital Stock Has Fallen 53% Since June. I'd Consider a Small Position After Its Latest Report.",
+   "link": "https://www.fool.com/investing/2026/10/23/western-digital-stock-has-fallen-53-since-june-i-d-consider-a-small-position-after-its-latest-report/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 1.6,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 23 09:51 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Mercari And 2 Other High Growth Insider Stocks",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/mercari-2-other-high-growth-011401968.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.0,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 23 09:51 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "How much Apple stock does former CEO Tim Cook actually own?",
+   "link": "https://www.thestreet.com/investing/how-much-apple-stock-does-former-ceo-tim-cook-own?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.1,
+   "tickers": [
+    "AAPL"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 23 09:51 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Tesla wants to sell a car with no steering wheel this year",
+   "link": "https://www.thestreet.com/automotive/tesla-wants-to-sell-a-car-with-no-steering-wheel-this-year?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.3,
+   "tickers": [
+    "TSLA"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 23 09:51 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Stocktwits Zero To Sixty: Tesla And SpaceX Form Merger Committees As Profits Drop, While Rivian Buys AI Startup And GM, Ford Advance EV Plans",
+   "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-zero-to-sixty-tesla-and-space-x-form-merger-committees-as-profits-drop-while-rivian-buys-ai-startup-and-gm-ford-advance-ev-plans/cZUG5xVRBU9?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 5.5,
+   "tickers": [
+    "F",
+    "TSLA"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 23 09:51 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Celsius vs. Colgate-Palmolive: Which Stock Should Investors Consider Before the Start of 2027?",
+   "link": "https://www.nasdaq.com/articles/celsius-vs-colgate-palmolive-which-stock-should-investors-consider-start-2027",
+   "source": "Nasdaq Markets",
+   "impact": 2.2,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 23 09:51 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Tesla Just Reversed Its 2026 CapEx Surge — Why Gordon Johnson Asks If It's the 'End of the AI Trade'",
+   "link": "https://finance.yahoo.com/technology/ai/articles/tesla-just-reversed-2026-capex-003005120.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.5,
+   "tickers": [
+    "TSLA"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 23 09:51 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Review & Preview: The Dow’s Turn",
+   "link": "https://finance.yahoo.com/m/e0fe5a77-6816-38a8-b2cb-9878c9cd341d/review-%26-preview%3A-the-dow%E2%80%99s.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.4,
+   "tickers": [
+    "DIA"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 23 09:51 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Urban Outfitters stock: Needham starts coverage with USD 100 target",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNE1pQVc3WWRRX1hMOFM1bnhmTmJ2bHk5bDBvT1FzVndIUFlCX1pFa3lJekJUUmFTTUVXREpvZzJ2cEo5aTdTZjRpaDlTNXJmZjBPY2QyVVJXa2UzYnFyMkEzbDJXbGVTQk1UUmJBSGd5V19KX3lYZUpkVXByM2N0TDA4OUUyRXVpOWpzUTl0VTltTFR1RDh6WTJfaC1YUHBPblBGZGxvamdUOFFScGRzRGo4cFZ5VW5SVGN1cVlFQWFqRlU?oc=5",
+   "source": "ad-hoc-news.de",
+   "impact": 1.9,
+   "tickers": [
+    "TGT"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 23 09:51 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "NASA adopting Apollo’s urgency to build a moon base and land astronauts within two years",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa0h5UmtYWUN2RnJJbUlacnl0ejQzZmhsUU9YOVVHY2M3SjVldDJ0UXdaR3J4bXh4dlU1QXpKU2sxN3lOYUxibEhkczkxYmFTVi04aUotTng4UWNUQTUyOGxDa1BoRlBBY21kcnlkZ2lpdzdWenVRamxqNmd2RmVrcDV3SkdyOW40MGY5QTA3TVFDWm9TT3NyMHJ3?oc=5",
+   "source": "AP News",
+   "impact": 1.4,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 23 09:51 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "After previous day's slump, trading is quieter among AI shares",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM0M0UTBfYWZ4MlVRd2x0SHBLZjVTMGRfMkk2YkM0V2M5aTEwS0lqRUpuamp2YzVOakt5ek5lZTkyR2V5TTA1MUE5VHd1N05RMW9rQWZmZ1AwVWhld2c4a1VjRFpGcGpyNHh2N1BxSnU4cWhyR2NSajZ3MEtBWGxYbDlRbzVqdXJCTXYtdEF2ZTA3SGlqR0xiOFBobGVlTXFLbmFoTDVqOFI?oc=5",
+   "source": "Reuters",
+   "impact": 1.9,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 23 09:51 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Cboe Nasdaq-100 Implied Volatil (^CNIV) latest stock news and headlines",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YQlpGZElZanZsUnZFUlpBOXp1d09aOGdfQUNEMXB3enhySHh2dFU1X3pmdWMyQnJ0eGZKYUsyQlUzQ19GVmdlUjc0ME5NdnVTRVlNS1VVVjAxWEVH?oc=5",
+   "source": "Yahoo Finance Australia",
+   "impact": 1.3,
+   "tickers": [
+    "QQQ"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 23 09:51 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "In Netanyahu stronghold, signs of fraying loyalty emerge before election",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMHlXZmNFQ1Z5ejY2V3ZpN0FXRFJJYTJvMkVxNzZsTTljVXNJRkI0ZVFBYkpXejhoekNLbjJkZU5iNVBWd0d6bFRPekZWTnByU1JuY1I5ODJxRW1pMFY4eEhNd0RqU2RjQVhTN291YUt3ZkR2YmFpLUdRTHZmdDduYlFQVjA3b1BkRGwtczQ1RmhrVU9GV3prSUN0NmZ0eUdrajdBa1I4VEcxQQ?oc=5",
+   "source": "AP News",
+   "impact": 1.7,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 23 09:51 PM ET",
+   "consumer": false
+  },
+  {
    "title": "Why AT&T Stock Plunged on Friday",
    "link": "https://www.fool.com/investing/2026/10/23/why-att-stock-plunged-on-friday/?.tsrc=rss",
    "source": "Yahoo Finance",
@@ -445,160 +602,6 @@
    "tickers": [],
    "sentiment_label": "neutral",
    "seen_et": "Oct 23 09:04 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Union head calls MLB’s salary cap proposal ‘nuclear bomb’ ahead of World Series opener",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLTlrNkdkWE11eW5pcGtOZWY4WXRHVWl0d2dzbjVhZUx3NUtDSGE2NDNOaDdDOENyVzB2S1E0Q2V6c3pYVTBKMkZKWnRoTTlsYkRHbl9jZVNHQzlEdTBzTWpRLVRiS3A3NmF5VFl1WFJ5bXNTODU4eXU3cmhlb3dFbHVSTXVzS0NhYUtKYQ?oc=5",
-   "source": "AP News",
-   "impact": 1.5,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 23 09:04 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Mississippi DEI ban can go into full effect after Fifth Circuit reversal",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZzRiYi02c1d5RzhWM01pcndHcUE2aWNnZlVlSEIteHRkZ0tnaFZ4dlh1UXpOWmhsVTBkMS1pZV9rVzRsSU5pbGN6Q2NsUmp2dzdwQWR0OHVhczZPTmtPTE5zMVJaM1ZsQTRhUzlWVzNpOEl1RnNmdUlBelRISlN5RVJ2UjBJUFBEeUoweVp4c3JFcW5nM01vUnhzcE5yS1lhRHNJSWNCWU13UQ?oc=5",
-   "source": "AP News",
-   "impact": 4.0,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 23 09:04 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Prabowo accuses MSCI of trying to intimidate Indonesia after market rout",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRVJUeUxFejlDaTdtaHlGNW9mUklkVm5OZV9qSUJLUTRWSFpMbkdkOTF6WWt4TlNyYWNGem9Lc245Y280TTVvZXlHb0dTZGRaa0hIczlCeTc4NjZyeTRRSk9oNDVMUHQ2c3JVc3BLc2lPRWhqRXkyUTQzcWV0SDUybUF5TUZaX1Fud3R1UEMtbl92MUxhZVUxd3ZxYWZDTENqY2pvWC1FOXVmVk44bUYzR3B1WjJFRDFrZmxsdjR3?oc=5",
-   "source": "Reuters",
-   "impact": 0.9,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 23 09:04 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Before you crank up the thermostat, try these tips to keep your house warmer for longer",
-   "link": "https://www.bbc.co.uk/news/articles/cqr7yeed1ed7o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "impact": 3.2,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 23 08:07 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Procter & Gamble's Earnings Show a Resilient Consumer Despite Price Hikes. Is the Dividend King Stock a Buy?",
-   "link": "https://www.fool.com/investing/2026/10/23/procter-gambles-earnings-show-a-resilient-consumer/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.5,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 23 08:07 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "24-year-old Coast Guard swimmer says he fought waves and darkness to rescue 16 people from ocean",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN3ZnYlRYeXNMaXdNLWtiZ2duMkViNWhjTnB3RlRpUW9ETTFKSEFPM0ctZUI5d2NrSUxKOUFTRUxTakhPVk1mS0JVM0ptVFFhWTl4OWIzSDgxT0FfbDJ3UlZub2NhSzhYbUJSY3dnVTJSaGFkT3UxV2lwUy1vVEhmOHgxQlNRdjg2MjhCTjl0dGZENHdRcVpv?oc=5",
-   "source": "AP News",
-   "impact": 1.5,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 23 08:07 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Dallas Cowboys cheerleaders unionize after years of fighting for higher pay",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSFpuYnN6WVBnSHE0akxPZ2Uyd1BGYVVmYmdaMF9IYTk3cmtrV181d0MxcFAtN0I0akFMSW1nTUhDa1BDenctQ1BYTnZ4SDZ3WnhkaW5NZW1WRDVMVkdmbWc1MzYxUkE3QXBpRlpURTUtdTFDREJvY0xhWklUUEFtLWJGMzNfTkdqaGJfeHZwU3ZOVjY2RV92Qg?oc=5",
-   "source": "AP News",
-   "impact": 1.9,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 23 08:07 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Devils acquire U.S. Olympic goalie Connor Hellebuyck in a trade with the Jets",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVFlibERvSlZLR1VtVkFFYnB4ZFRnZlhGWDRBWEY5LW9IT1EyczAtOFJHMUVrSHI5TDlxdXRVckpwTEtENXU3ZU9BSWxkeHpoeEctYkZLdmFLMnc4ODFOellEUG01UGVGd0Q2ZDdvRmNyTjdzSDc5dmV4X1pvVV82bEE5OXNyNGM0dzZ6U0s0OEJUZw?oc=5",
-   "source": "AP News",
-   "impact": 3.5,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 23 08:07 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Stocks fall, but tech shares steady after selloff; oil hits highest in nearly six months",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMG5uTk9BQ2lzbUtHT1k4Nlp4RlRCcXFvVXR5YUhCamhubGQ1SlB0c2FYczVLdl9ESzJBRzdkNmVuYU1ISVc2MndXWnBZTzBDNFdzeHBEQTNPTGU2SGhBTmtKM3Z1SWUxR2szN20yYWIySGIzUXlZcXVhdGNtTlJNMGN1WQ?oc=5",
-   "source": "Reuters",
-   "impact": 3.5,
-   "tickers": [
-    "CL=F",
-    "XLE"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 23 08:07 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "DirecTV to acquire EchoStar’s video distribution business including Dish TV and Sling TV",
-   "link": "https://www.marketwatch.com/story/directv-to-acquire-echostars-video-distribution-business-including-dish-tv-and-sling-tv-23349832?mod=mw_rss_marketpulse",
-   "source": "MarketWatch Pulse",
-   "impact": 1.2,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 23 08:07 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "A Surprising New Rival Is Threatening CoreWeave (and It's Not Best Known as an AI Cloud Company)",
-   "link": "https://www.fool.com/investing/2026/10/23/a-surprising-new-rival-is-threatening-coreweave-an/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.5,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 23 07:44 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "3 Defense Stocks Investors May Prefer Over Musk Linked Aerospace Bets",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/3-defense-stocks-investors-may-231049052.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.4,
-   "tickers": [
-    "TSLA"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 23 07:44 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "Dow Jones Futures: Microsoft, Google, Amazon Lead Earnings Wave; What To Do Amid Mixed Signals",
-   "link": "https://finance.yahoo.com/m/cdb9c13b-db57-3551-acd0-7507e9d69b5a/dow-jones-futures%3A-microsoft%2C.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 4.5,
-   "tickers": [
-    "AMZN",
-    "DIA",
-    "GOOGL",
-    "MSFT",
-    "QQQ",
-    "SPY"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 23 07:44 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "Prediction: $5,000 in Costco Stock Will Trail the Market Through 2030",
-   "link": "https://www.fool.com/investing/2026/10/23/prediction-usd5-000-in-costco-stock-will-trail-the-market-through-2030/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 4.7,
-   "tickers": [
-    "COST"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 23 07:44 PM ET",
    "consumer": false
   }
  ],
@@ -1194,7 +1197,7 @@
  },
  "earnings": {
   "source": "Nasdaq earnings calendar API (api.nasdaq.com), filtered to S&P 500 + watchlist",
-  "fetched_et": "Oct 23 05:26 PM ET",
+  "fetched_et": "Oct 23 09:51 PM ET",
   "events": [
    {
     "date": "2026-10-23",
@@ -2713,24 +2716,24 @@
  "sentiment_validation": {
   "logged": 4000,
   "min_sample": 100,
-  "generated_et": "Oct 23 09:04 PM ET",
+  "generated_et": "Oct 23 09:52 PM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
-    "n_scored": 3939,
-    "n_directional": 3277,
-    "hit_rate": 48.0,
+    "n_scored": 3932,
+    "n_directional": 3271,
+    "hit_rate": 47.9,
     "ci95": 1.7,
-    "corr": 0.002,
+    "corr": 0.001,
     "status": "NO EDGE (≈ coin flip)"
    },
    "r1d": {
     "name": "+1 day",
-    "n_scored": 3468,
-    "n_directional": 2933,
-    "hit_rate": 45.6,
+    "n_scored": 3461,
+    "n_directional": 2927,
+    "hit_rate": 45.4,
     "ci95": 1.8,
-    "corr": -0.071,
+    "corr": -0.072,
     "status": "NO EDGE (≈ coin flip)"
    }
   },
@@ -2812,103 +2815,103 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 23 09:04 PM ET",
+   "fetched_et": "Oct 23 09:51 PM ET",
    "newest_et": "Oct 23 06:49 PM ET",
    "newest": "2026-10-23T22:49:42+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 23 09:04 PM ET",
+   "fetched_et": "Oct 23 09:51 PM ET",
    "newest_et": "Oct 23 04:49 PM ET",
    "newest": "2026-10-23T20:49:42+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 23 09:04 PM ET",
+   "fetched_et": "Oct 23 09:51 PM ET",
    "newest_et": "Oct 23 02:57 PM ET",
    "newest": "2026-10-23T18:57:48+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 23 09:04 PM ET",
+   "fetched_et": "Oct 23 09:51 PM ET",
    "newest_et": "Oct 23 06:49 PM ET",
    "newest": "2026-10-23T22:49:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 23 09:04 PM ET",
+   "fetched_et": "Oct 23 09:51 PM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
-   "count": 19,
-   "fetched_et": "Oct 23 09:04 PM ET",
-   "newest_et": "Oct 23 08:53 PM ET",
-   "newest": "2026-10-24T00:53:32+00:00"
+   "count": 20,
+   "fetched_et": "Oct 23 09:51 PM ET",
+   "newest_et": "Oct 23 09:37 PM ET",
+   "newest": "2026-10-24T01:37:00+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 55,
-   "fetched_et": "Oct 23 09:04 PM ET",
+   "fetched_et": "Oct 23 09:51 PM ET",
    "newest_et": "Oct 23 08:36 PM ET",
    "newest": "2026-10-24T00:36:47+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 23 09:04 PM ET",
+   "fetched_et": "Oct 23 09:51 PM ET",
    "newest_et": "Oct 23 07:46 PM ET",
    "newest": "2026-10-23T23:46:35+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 23 09:04 PM ET",
-   "newest_et": "Oct 23 08:14 PM ET",
-   "newest": "2026-10-24T00:14:00+00:00"
+   "fetched_et": "Oct 23 09:51 PM ET",
+   "newest_et": "Oct 23 09:30 PM ET",
+   "newest": "2026-10-24T01:30:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 30,
-   "fetched_et": "Oct 23 09:04 PM ET",
+   "count": 29,
+   "fetched_et": "Oct 23 09:51 PM ET",
    "newest_et": "Oct 23 12:24 PM ET",
    "newest": "2026-10-23T16:24:56+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
-   "count": 16,
-   "fetched_et": "Oct 23 09:04 PM ET",
+   "count": 41,
+   "fetched_et": "Oct 23 09:51 PM ET",
    "newest_et": "Oct 23 08:44 PM ET",
    "newest": "2026-10-24T00:44:13+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 23 09:04 PM ET",
+   "fetched_et": "Oct 23 09:51 PM ET",
    "newest_et": "Oct 16 11:00 AM ET",
    "newest": "2026-10-16T15:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 23 09:04 PM ET",
-   "newest_et": "Oct 23 07:50 PM ET",
-   "newest": "2026-10-23T23:50:00+00:00"
+   "fetched_et": "Oct 23 09:51 PM ET",
+   "newest_et": "Oct 23 09:27 PM ET",
+   "newest": "2026-10-24T01:27:02+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Oct 23 09:04 PM ET"
+   "fetched_et": "Oct 23 09:51 PM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
    "count": 168,
-   "fetched_et": "Oct 23 05:26 PM ET"
+   "fetched_et": "Oct 23 09:51 PM ET"
   },
   "Economic calendar": {
    "ok": true,
