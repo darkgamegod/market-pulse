@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 24 04:09 AM ET",
- "generated_at": "2026-10-24T04:09:14.544448-04:00",
+ "generated_et": "Oct 24 04:47 AM ET",
+ "generated_at": "2026-10-24T04:47:11.518248-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-24",
@@ -12,8 +12,8 @@
   {
    "symbol": "ES=F",
    "label": "S&P 500 Fut",
-   "price": 7672.5,
-   "pct": -0.42,
+   "price": 7659.75,
+   "pct": -0.58,
    "asof_et": "Oct 23 05:00 PM ET",
    "freshness": "closed"
   },
@@ -28,16 +28,16 @@
   {
    "symbol": "YM=F",
    "label": "Dow Fut",
-   "price": 52451.0,
-   "pct": -1.16,
+   "price": 52394.0,
+   "pct": -1.27,
    "asof_et": "Oct 23 04:55 PM ET",
    "freshness": "closed"
   },
   {
    "symbol": "RTY=F",
    "label": "Russell 2000 Fut",
-   "price": 2788.7,
-   "pct": -0.26,
+   "price": 2784.5,
+   "pct": -0.41,
    "asof_et": "Oct 23 04:55 PM ET",
    "freshness": "closed"
   },
@@ -84,8 +84,8 @@
   {
    "symbol": "CL=F",
    "label": "WTI Crude",
-   "price": 103.44,
-   "pct": 3.99,
+   "price": 103.27,
+   "pct": 3.82,
    "asof_et": "Oct 23 04:55 PM ET",
    "freshness": "closed"
   },
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 80612.7,
-   "pct": -0.57,
-   "asof_et": "Oct 24 04:05 AM ET",
+   "price": 80565.58,
+   "pct": -0.63,
+   "asof_et": "Oct 24 04:45 AM ET",
    "freshness": "delayed"
   },
   {
@@ -379,6 +379,107 @@
  ],
  "breaking": [
   {
+   "title": "Micron and Sandisk Hit Record Memory Margins. There's One Clear Winner.",
+   "link": "https://www.fool.com/investing/2026/10/24/micron-sandisk-record-memory-margins-winner/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.5,
+   "tickers": [
+    "MU"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 24 04:47 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Elon Musk Expects SpaceX to Make $500 Billion to $1 Trillion in Sales Next Year. Here's What That Means for the Stock.",
+   "link": "https://www.fool.com/investing/2026/10/24/elon-musk-spacex-to-make-500-billion-to-1-trillion/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.6,
+   "tickers": [
+    "TSLA"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 24 04:47 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "President Donald Trump Just Threw Fed Chair Kevin Warsh Under the Bus, and Things Could Get Ugly for Wall Street",
+   "link": "https://www.fool.com/investing/2026/10/24/donald-trump-just-threw-fed-chair-kevin-warsh-under-bus-things-get-ugly-for-wall-street/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 6.1,
+   "tickers": [
+    "SPY",
+    "^TNX"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 24 04:47 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Forget Mars, SpaceX’s Most Important Business Has Nothing To Do With Space (At Least For Now)",
+   "link": "https://247wallst.com/investing/2026/10/24/forget-mars-spacexs-most-important-business-has-nothing-to-do-with-space-at-least-for-now/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.1,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 24 04:47 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "What Will a $10,000 Investment in Palantir Be Worth by 2030?",
+   "link": "https://www.fool.com/investing/2026/10/24/what-will-a-10000-investment-in-palantir-be-worth/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.6,
+   "tickers": [
+    "PLTR"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 24 04:47 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Apple Is One of the Most Profitable Businesses in the World. Here's Why the Stock Is Worth $295 a Share Right Now.",
+   "link": "https://www.fool.com/investing/2026/10/24/apple-is-one-of-the-most-profitable-businesses-in/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.0,
+   "tickers": [
+    "AAPL"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 24 04:47 AM ET",
+   "consumer": true
+  },
+  {
+   "title": "The tech ‘death spiral’ that could destroy the AI boom",
+   "link": "https://www.telegraph.co.uk/business/2026/10/24/warning-signs-flash-for-ai-boom-as-risky-debt-piles-up/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.1,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 24 04:47 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "A preliminary magnitude 6.9 earthquake hits off the coast of Vanuatu",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRGNFRlVtTXd1WEY5R1VKLU9MeElnSzJhZC1Yb2RfaWF6dEVBem9uLWlWSXItYXp3a2hMOVZPWmwyT2x6bnFTRDhlcWM0QzFMNVNVS2JrRTdfR0Ewd1puWTBQdEo1c3MyTVdLal9lVV9KWDlaSUV6cnRyUmcydFRPQUxxX2lfYjdwUDNzQTlvaGxldURWVVE?oc=5",
+   "source": "AP News",
+   "impact": 1.4,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 24 04:47 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Players in WNBA Finals tuning out President Trump, other outside noise, say their focus on the games",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUk92eDVKRVM5dGJWSXZZdWtSOGlNQV9UdG5YMTEzYmxyU1R3V0pxY085cFFkMzFKR1BqYW9KRmo2dEl2ekxoWjY0ODlvQ1JjVmFid3F6NHJLS2hfUFNFeUg5Wk5yWnV3dTFjQVZUTlhXXzFZY0NjS2NaZ3M5UDhEUzMyWQ?oc=5",
+   "source": "AP News",
+   "impact": 1.1,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 24 04:47 AM ET",
+   "consumer": false
+  },
+  {
    "title": "The Next AI Infrastructure Winner Isn't a Memory Stock. It's This.",
    "link": "https://www.nasdaq.com/articles/next-ai-infrastructure-winner-isnt-memory-stock-its",
    "source": "Nasdaq Markets",
@@ -492,120 +593,9 @@
    "sentiment_label": "bearish",
    "seen_et": "Oct 24 03:35 AM ET",
    "consumer": false
-  },
-  {
-   "title": "Wall Street loses ground under pressure from rising oil prices",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNWpGTk1fbkF2SWY0S1Q2MHN6WjRqQ1R3VWp4WXFKd3VQUG5WSlI1ZXFDY1pSUGJyampWMGtwZ3dRQmxGRzlTbERHSnlraUZ4WmFCSXM4U3J1Z1VSdV81eTB2ck1lWElpSnR2Qi1FbWUwUmJBT1l5enVZLVpsYmMySnBhZ0FDWHZBTElJVEhGYl9tN2tXblE?oc=5",
-   "source": "AP News",
-   "impact": 2.9,
-   "tickers": [
-    "CL=F",
-    "XLE"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 24 03:35 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Here's the AI Chip Stock That Hedge Funds Are Loading Up On",
-   "link": "https://www.fool.com/investing/2026/10/24/heres-the-ai-chip-stock-that-hedge-funds-are-loadi/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 1.5,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 24 02:56 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Is It Too Late to Buy SpaceX Stock After Its Monster Third-Quarter Earnings Report? Here's the Answer.",
-   "link": "https://www.fool.com/investing/2026/10/24/is-it-too-late-to-buy-spacex-stock-after-q3/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 4.2,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 24 02:56 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests",
-   "link": "https://www.cnbc.com/2026/10/24/france-riots-paris-unrest-debt-budget.html",
-   "source": "CNBC Top News",
-   "impact": 4.0,
-   "tickers": [
-    "^TNX"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 24 02:56 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "What a day in customer service looks like — as AI changes everything",
-   "link": "https://www.cnbc.com/2026/10/24/ai-customer-service-jobs-work.html",
-   "source": "CNBC Top News",
-   "impact": 1.8,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 24 02:56 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Paris shuts museums and police deploy in big numbers for new protests across France",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWFhXb1VmdWxKRzJmZnRpSGpJTk40b3JoTldmR0FjTW9nWWxibmNBOTJCN1NNa1IyenIycmtueTVnVHhaR19YOUU3TkE2ODBHRFFlRWdDYVZzVWY0MVlqV0dTOHlkaTdEbmxkdnFNMnJicVFjSkhYUVdOaGFYYU5jVEQ5VEhRUU5tWlJjZ1pzOE5GQQ?oc=5",
-   "source": "AP News",
-   "impact": 1.9,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 24 02:56 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "COSCO SHIPPING Energy Transportation Insider Ups Holding By 22% During Year",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONmoxdE9VQ2JRa0pPV2JXcDZhT0taWVB6cVZTd2ZDdFJKQXU4NmlZLS1zcWJZdmNKNlU0ZTJlWUo4d1FnTHBvTHYzbllrclAwVHdUXzg3ZVg0U25LeUJvYTg4YWVxWmhFQ1pkYWFUQWdYckJ0UzhsSnR5Q2VXWjlTSm5mUkhtckhINFNBM2kySU1laHJ2T216cDM3UFVxb1ZsT2QzazJxM0U4Yi1hQ05DUVgzcw?oc=5",
-   "source": "Moomoo",
-   "impact": 4.0,
-   "tickers": [
-    "UPS"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 24 02:56 AM ET",
-   "consumer": true
-  },
-  {
-   "title": "Kering shares slide 10% after drop in sales at flagship brand Gucci",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRVBnb2JJZlQ4OF9EU1NqenNlUXRzbDdST1dIMXA0SzlEY0FSdU16OTJsdVJMUldteWlzZHUxVVBjcTRoM3FRVUcxVnJTSktTQ2NuT3UxWTZTTy1ndnVfd0NnTi1WczlaZjEzZjFHdVZLQTZDdTctSWt6VnVxdlBSLWdLcTk?oc=5",
-   "source": "Financial Times",
-   "impact": 0.8,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 24 02:56 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "If I Could Tell Every Investor 1 Thing About Stock Market Crashes, It Would Be This",
-   "link": "https://www.fool.com/investing/2026/10/24/if-i-could-tell-every-investor-1-thing-about-stock/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.6,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 24 02:10 AM ET",
-   "consumer": false
   }
  ],
- "high_impact": [
-  {
-   "title": "S&P 500, Dow Drop As Elevated Oil Prices Stoke Inflation Fears Ahead Of Fed Meeting Next Week — AAPL, AXP, CART, UBER In Focus",
-   "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-drop-as-elevated-oil-prices-stoke-inflation-fears-ahead-of-fed-meeting-next-week-aapl-axp-cart-uber-in-focus/cZxyHWvRBU4?.tsrc=rss",
-   "impact": 7.8,
-   "tickers": [
-    "CL=F",
-    "DIA",
-    "SPY",
-    "UBER",
-    "XLE",
-    "^TNX"
-   ]
-  }
- ],
+ "high_impact": [],
  "watchlist": [
   {
    "ticker": "^TNX",
@@ -1175,7 +1165,7 @@
  },
  "earnings": {
   "source": "Nasdaq earnings calendar API (api.nasdaq.com), filtered to S&P 500 + watchlist",
-  "fetched_et": "Oct 24 12:26 AM ET",
+  "fetched_et": "Oct 24 04:47 AM ET",
   "events": [
    {
     "date": "2026-10-26",
@@ -2793,12 +2783,12 @@
  "sentiment_validation": {
   "logged": 4000,
   "min_sample": 100,
-  "generated_et": "Oct 24 04:09 AM ET",
+  "generated_et": "Oct 24 04:47 AM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
-    "n_scored": 3920,
-    "n_directional": 3263,
+    "n_scored": 3915,
+    "n_directional": 3258,
     "hit_rate": 47.8,
     "ci95": 1.7,
     "corr": 0.001,
@@ -2806,8 +2796,8 @@
    },
    "r1d": {
     "name": "+1 day",
-    "n_scored": 3448,
-    "n_directional": 2918,
+    "n_scored": 3443,
+    "n_directional": 2913,
     "hit_rate": 45.4,
     "ci95": 1.8,
     "corr": -0.072,
@@ -2892,103 +2882,103 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 04:09 AM ET",
+   "fetched_et": "Oct 24 04:47 AM ET",
    "newest_et": "Oct 24 02:41 AM ET",
    "newest": "2026-10-24T06:41:14+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 04:09 AM ET",
+   "fetched_et": "Oct 24 04:47 AM ET",
    "newest_et": "Oct 23 04:49 PM ET",
    "newest": "2026-10-23T20:49:42+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 04:09 AM ET",
+   "fetched_et": "Oct 24 04:47 AM ET",
    "newest_et": "Oct 23 02:57 PM ET",
    "newest": "2026-10-23T18:57:48+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 24 04:09 AM ET",
+   "fetched_et": "Oct 24 04:47 AM ET",
    "newest_et": "Oct 24 04:00 AM ET",
    "newest": "2026-10-24T08:00:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 04:09 AM ET",
+   "fetched_et": "Oct 24 04:47 AM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 24 04:09 AM ET",
-   "newest_et": "Oct 24 03:11 AM ET",
-   "newest": "2026-10-24T07:11:11+00:00"
+   "fetched_et": "Oct 24 04:47 AM ET",
+   "newest_et": "Oct 24 04:35 AM ET",
+   "newest": "2026-10-24T08:35:00+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 55,
-   "fetched_et": "Oct 24 04:09 AM ET",
+   "fetched_et": "Oct 24 04:47 AM ET",
    "newest_et": "Oct 23 08:36 PM ET",
    "newest": "2026-10-24T00:36:47+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 24 04:09 AM ET",
+   "fetched_et": "Oct 24 04:47 AM ET",
    "newest_et": "Oct 23 07:46 PM ET",
    "newest": "2026-10-23T23:46:35+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 24 04:09 AM ET",
-   "newest_et": "Oct 24 02:44 AM ET",
-   "newest": "2026-10-24T06:44:00+00:00"
+   "fetched_et": "Oct 24 04:47 AM ET",
+   "newest_et": "Oct 24 03:25 AM ET",
+   "newest": "2026-10-24T07:25:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 15,
-   "fetched_et": "Oct 24 04:09 AM ET",
-   "newest_et": "Oct 23 04:48 PM ET",
-   "newest": "2026-10-23T20:48:35+00:00"
+   "count": 25,
+   "fetched_et": "Oct 24 04:47 AM ET",
+   "newest_et": "Oct 23 08:58 PM ET",
+   "newest": "2026-10-24T00:58:14+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
-   "count": 39,
-   "fetched_et": "Oct 24 04:09 AM ET",
+   "count": 38,
+   "fetched_et": "Oct 24 04:47 AM ET",
    "newest_et": "Oct 24 02:37 AM ET",
-   "newest": "2026-10-24T06:37:00+00:00"
+   "newest": "2026-10-24T06:37:01+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 24 04:09 AM ET",
+   "fetched_et": "Oct 24 04:47 AM ET",
    "newest_et": "Oct 16 11:00 AM ET",
    "newest": "2026-10-16T15:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 24 04:09 AM ET",
-   "newest_et": "Oct 24 03:50 AM ET",
-   "newest": "2026-10-24T07:50:00+00:00"
+   "fetched_et": "Oct 24 04:47 AM ET",
+   "newest_et": "Oct 24 04:05 AM ET",
+   "newest": "2026-10-24T08:05:00+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Oct 24 04:09 AM ET"
+   "fetched_et": "Oct 24 04:47 AM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
    "count": 179,
-   "fetched_et": "Oct 24 12:26 AM ET"
+   "fetched_et": "Oct 24 04:47 AM ET"
   },
   "Economic calendar": {
    "ok": false,
