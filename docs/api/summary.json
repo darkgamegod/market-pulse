@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 24 06:42 PM ET",
- "generated_at": "2026-10-24T18:42:42.089812-04:00",
+ "generated_et": "Oct 24 07:06 PM ET",
+ "generated_at": "2026-10-24T19:06:44.183360-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-24",
@@ -30,6 +30,14 @@
    "label": "Dow Fut",
    "price": 52451.0,
    "pct": -1.16,
+   "asof_et": "Oct 23 04:55 PM ET",
+   "freshness": "closed"
+  },
+  {
+   "symbol": "RTY=F",
+   "label": "Russell 2000 Fut",
+   "price": 2788.7,
+   "pct": -0.26,
    "asof_et": "Oct 23 04:55 PM ET",
    "freshness": "closed"
   },
@@ -108,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 80467.99,
-   "pct": -0.75,
-   "asof_et": "Oct 24 06:40 PM ET",
+   "price": 80495.28,
+   "pct": -0.71,
+   "asof_et": "Oct 24 07:05 PM ET",
    "freshness": "delayed"
   },
   {
@@ -371,6 +379,26 @@
  ],
  "breaking": [
   {
+   "title": "First Interstate BancSystem: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/first-interstate-bancsystem-3-key-takeaways-long-term-investors",
+   "source": "Nasdaq Markets",
+   "impact": 2.0,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 24 07:06 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Booking vs. Five Below: Is the Travel Giant or Specialty Retailer the Better Stock to Buy in 2026?",
+   "link": "https://www.nasdaq.com/articles/booking-vs-five-below-travel-giant-or-specialty-retailer-better-stock-buy-2026",
+   "source": "Nasdaq Markets",
+   "impact": 2.0,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 24 07:06 PM ET",
+   "consumer": true
+  },
+  {
    "title": "Trump set to announce plan by Audi to build a U.S. factory in Georgia, source says",
    "link": "https://www.cnbc.com/2026/10/24/trump-audi-factory-georgia.html",
    "source": "CNBC Top News",
@@ -565,32 +593,6 @@
    "source": "CNBC Top News",
    "impact": 2.0,
    "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 24 05:45 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "An OpenAI Model Spent Ethereum Without Permission. Here's What That Means For Crypto Investors.",
-   "link": "https://www.fool.com/investing/2026/10/24/an-openai-model-spent-ethereum-without-permission/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.5,
-   "tickers": [
-    "BTC-USD",
-    "COIN",
-    "MSFT"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 24 05:45 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "3 AI Stocks To Watch In October 2026",
-   "link": "https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-watch-october-210956830.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 5.2,
-   "tickers": [
-    "^TNX"
-   ],
    "sentiment_label": "bullish",
    "seen_et": "Oct 24 05:45 PM ET",
    "consumer": false
@@ -1136,7 +1138,7 @@
  "economic_calendar": {
   "source": "RULE-BASED FALLBACK (approximate; live calendar unavailable)",
   "fallback": true,
-  "fetched_et": "Oct 24 05:45 PM ET",
+  "fetched_et": "Oct 24 07:06 PM ET",
   "events": [
    {
     "date": "2026-10-28",
@@ -2784,7 +2786,7 @@
  "sentiment_validation": {
   "logged": 4000,
   "min_sample": 100,
-  "generated_et": "Oct 24 06:42 PM ET",
+  "generated_et": "Oct 24 07:07 PM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
@@ -2883,98 +2885,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 06:42 PM ET",
-   "newest_et": "Oct 24 06:36 PM ET",
-   "newest": "2026-10-24T22:36:57+00:00"
+   "fetched_et": "Oct 24 07:06 PM ET",
+   "newest_et": "Oct 24 06:55 PM ET",
+   "newest": "2026-10-24T22:55:06+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 06:42 PM ET",
+   "fetched_et": "Oct 24 07:06 PM ET",
    "newest_et": "Oct 23 04:49 PM ET",
    "newest": "2026-10-23T20:49:42+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 06:42 PM ET",
+   "fetched_et": "Oct 24 07:06 PM ET",
    "newest_et": "Oct 24 11:53 AM ET",
    "newest": "2026-10-24T15:53:30+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 24 06:42 PM ET",
+   "fetched_et": "Oct 24 07:06 PM ET",
    "newest_et": "Oct 24 04:15 PM ET",
    "newest": "2026-10-24T20:15:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 06:42 PM ET",
+   "fetched_et": "Oct 24 07:06 PM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 19,
-   "fetched_et": "Oct 24 06:42 PM ET",
+   "fetched_et": "Oct 24 07:06 PM ET",
    "newest_et": "Oct 24 06:20 PM ET",
    "newest": "2026-10-24T22:20:00+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 55,
-   "fetched_et": "Oct 24 06:42 PM ET",
+   "fetched_et": "Oct 24 07:06 PM ET",
    "newest_et": "Oct 24 07:55 AM ET",
    "newest": "2026-10-24T11:55:35+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 24 06:42 PM ET",
+   "fetched_et": "Oct 24 07:06 PM ET",
    "newest_et": "Oct 24 04:18 AM ET",
    "newest": "2026-10-24T08:18:18+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 24 06:42 PM ET",
+   "fetched_et": "Oct 24 07:06 PM ET",
    "newest_et": "Oct 24 05:31 PM ET",
    "newest": "2026-10-24T21:31:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
    "count": 16,
-   "fetched_et": "Oct 24 06:42 PM ET",
+   "fetched_et": "Oct 24 07:06 PM ET",
    "newest_et": "Oct 24 06:54 AM ET",
    "newest": "2026-10-24T10:54:28+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
-   "count": 44,
-   "fetched_et": "Oct 24 06:42 PM ET",
+   "count": 20,
+   "fetched_et": "Oct 24 07:06 PM ET",
    "newest_et": "Oct 24 04:13 PM ET",
    "newest": "2026-10-24T20:13:00+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 24 06:42 PM ET",
+   "fetched_et": "Oct 24 07:06 PM ET",
    "newest_et": "Oct 16 11:00 AM ET",
    "newest": "2026-10-16T15:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 24 06:42 PM ET",
-   "newest_et": "Oct 24 05:50 PM ET",
-   "newest": "2026-10-24T21:50:00+00:00"
+   "fetched_et": "Oct 24 07:06 PM ET",
+   "newest_et": "Oct 24 06:29 PM ET",
+   "newest": "2026-10-24T22:29:45+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
-   "count": 25,
-   "fetched_et": "Oct 24 06:42 PM ET"
+   "count": 26,
+   "fetched_et": "Oct 24 07:06 PM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
@@ -2984,7 +2986,7 @@
   "Economic calendar": {
    "ok": false,
    "count": 3,
-   "fetched_et": "Oct 24 05:45 PM ET",
+   "fetched_et": "Oct 24 07:06 PM ET",
    "note": "RULE-BASED FALLBACK (approximate; live calendar unavailable)"
   }
  }
