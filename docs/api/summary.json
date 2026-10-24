@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 24 12:59 PM ET",
- "generated_at": "2026-10-24T12:59:16.462065-04:00",
+ "generated_et": "Oct 24 01:27 PM ET",
+ "generated_at": "2026-10-24T13:27:48.704381-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-24",
@@ -12,8 +12,8 @@
   {
    "symbol": "ES=F",
    "label": "S&P 500 Fut",
-   "price": 7659.75,
-   "pct": -0.58,
+   "price": 7672.5,
+   "pct": -0.42,
    "asof_et": "Oct 23 05:00 PM ET",
    "freshness": "closed"
   },
@@ -28,16 +28,16 @@
   {
    "symbol": "YM=F",
    "label": "Dow Fut",
-   "price": 52394.0,
-   "pct": -1.27,
+   "price": 52451.0,
+   "pct": -1.16,
    "asof_et": "Oct 23 04:55 PM ET",
    "freshness": "closed"
   },
   {
    "symbol": "RTY=F",
    "label": "Russell 2000 Fut",
-   "price": 2784.5,
-   "pct": -0.41,
+   "price": 2788.7,
+   "pct": -0.26,
    "asof_et": "Oct 23 04:55 PM ET",
    "freshness": "closed"
   },
@@ -84,8 +84,8 @@
   {
    "symbol": "CL=F",
    "label": "WTI Crude",
-   "price": 103.27,
-   "pct": 3.82,
+   "price": 103.44,
+   "pct": 3.99,
    "asof_et": "Oct 23 04:55 PM ET",
    "freshness": "closed"
   },
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 80129.9,
-   "pct": -1.16,
-   "asof_et": "Oct 24 12:55 PM ET",
+   "price": 80114.6,
+   "pct": -1.18,
+   "asof_et": "Oct 24 01:25 PM ET",
    "freshness": "delayed"
   },
   {
@@ -379,6 +379,48 @@
  ],
  "breaking": [
   {
+   "title": "AI bear slams Nvidia's GPU pitch: 'There's not scarcity other than that which is created by Jensen Huang'",
+   "link": "https://finance.yahoo.com/technology/article/ai-bear-slams-nvidias-gpu-pitch-theres-not-scarcity-other-than-that-which-is-created-by-jensen-huang-171507476.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.3,
+   "tickers": [
+    "NVDA"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 24 01:30 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Six Flags says it will install seat belts on Georgia roller coaster after rider's death",
+   "link": "https://www.cnbc.com/2026/10/24/six-flags-seat-belts-roller-coaster.html",
+   "source": "CNBC Top News",
+   "impact": 2.3,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 24 01:30 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Social Security's 2027 COLA Is One of the Highest in Decades, but There Are Still 2 Issues Retirees May Run Into",
+   "link": "https://www.fool.com/retirement/2026/10/24/social-securitys-2027-cola-is-one-of-the-highest/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.0,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 24 01:30 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "China’s Stock Market Is Trailing the U.S. by the Widest Margin in History",
+   "link": "https://247wallst.com/investing/2026/10/24/chinas-stock-market-is-trailing-the-u-s-by-the-widest-margin-in-history/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.3,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 24 01:30 PM ET",
+   "consumer": false
+  },
+  {
    "title": "SAP: 3 Key Takeaways for Long-Term Investors",
    "link": "https://www.nasdaq.com/articles/sap-3-key-takeaways-long-term-investors",
    "source": "Nasdaq Markets",
@@ -548,46 +590,6 @@
    "impact": 1.9,
    "tickers": [],
    "sentiment_label": "bearish",
-   "seen_et": "Oct 24 12:27 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "AI funding fears rattle Wall Street. Here's how we're adjusting our portfolio",
-   "link": "https://www.cnbc.com/investingclub/2026/10/24/ai-funding-fears-rattle-wall-street-heres-how-were-adjusting-our-portfolio.html",
-   "source": "CNBC Top News",
-   "impact": 2.0,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 24 12:27 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Could Redwire Be the Next Rocket Lab?",
-   "link": "https://www.fool.com/investing/2026/10/24/could-redwire-be-the-next-rocket-lab/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.2,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 24 12:27 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "MPLX Stock Pays a Hefty 7.4% Dividend Yield. Here's How Much $10,000 Generates in Passive Income Each Year.",
-   "link": "https://www.fool.com/investing/2026/10/24/mplx-stock-pays-a-hefty-74-dividend-yield-heres-ho/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 1.7,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 24 12:27 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "PC Sales Just Crashed 21% as AI Eats the World’s Memory Chips",
-   "link": "https://247wallst.com/investing/2026/10/24/pc-sales-just-crashed-21-as-ai-eats-the-worlds-memory-chips/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.2,
-   "tickers": [],
-   "sentiment_label": "neutral",
    "seen_et": "Oct 24 12:27 PM ET",
    "consumer": false
   }
@@ -793,7 +795,7 @@
  "movers": {
   "mode": "last session (market not in pre-market)",
   "basis": "opening gap (open vs prior close) of the last session; RVOL = session volume / 20-day avg",
-  "fetched_et": "Oct 24 10:25 AM ET",
+  "fetched_et": "Oct 24 01:29 PM ET",
   "gappers": [
    {
     "symbol": "CCI",
@@ -1162,7 +1164,7 @@
  },
  "earnings": {
   "source": "Nasdaq earnings calendar API (api.nasdaq.com), filtered to S&P 500 + watchlist",
-  "fetched_et": "Oct 24 09:19 AM ET",
+  "fetched_et": "Oct 24 01:29 PM ET",
   "events": [
    {
     "date": "2026-10-26",
@@ -2780,11 +2782,11 @@
  "sentiment_validation": {
   "logged": 4000,
   "min_sample": 100,
-  "generated_et": "Oct 24 12:59 PM ET",
+  "generated_et": "Oct 24 01:30 PM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
-    "n_scored": 3843,
+    "n_scored": 3842,
     "n_directional": 3197,
     "hit_rate": 47.9,
     "ci95": 1.7,
@@ -2793,7 +2795,7 @@
    },
    "r1d": {
     "name": "+1 day",
-    "n_scored": 3371,
+    "n_scored": 3370,
     "n_directional": 2852,
     "hit_rate": 45.2,
     "ci95": 1.8,
@@ -2879,103 +2881,95 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 12:59 PM ET",
-   "newest_et": "Oct 24 12:14 PM ET",
-   "newest": "2026-10-24T16:14:00+00:00"
+   "fetched_et": "Oct 24 01:27 PM ET",
+   "newest_et": "Oct 24 01:22 PM ET",
+   "newest": "2026-10-24T17:22:21+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 12:59 PM ET",
+   "fetched_et": "Oct 24 01:27 PM ET",
    "newest_et": "Oct 23 04:49 PM ET",
    "newest": "2026-10-23T20:49:42+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 12:59 PM ET",
+   "fetched_et": "Oct 24 01:27 PM ET",
    "newest_et": "Oct 24 11:53 AM ET",
    "newest": "2026-10-24T15:53:30+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 24 12:59 PM ET",
-   "newest_et": "Oct 24 12:46 PM ET",
-   "newest": "2026-10-24T16:46:00+00:00"
+   "fetched_et": "Oct 24 01:27 PM ET",
+   "newest_et": "Oct 24 01:23 PM ET",
+   "newest": "2026-10-24T17:23:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 12:59 PM ET",
+   "fetched_et": "Oct 24 01:27 PM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 24 12:59 PM ET",
-   "newest_et": "Oct 24 12:35 PM ET",
-   "newest": "2026-10-24T16:35:00+00:00"
+   "fetched_et": "Oct 24 01:27 PM ET",
+   "newest_et": "Oct 24 01:15 PM ET",
+   "newest": "2026-10-24T17:15:07+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 55,
-   "fetched_et": "Oct 24 12:59 PM ET",
+   "fetched_et": "Oct 24 01:27 PM ET",
    "newest_et": "Oct 24 07:55 AM ET",
    "newest": "2026-10-24T11:55:35+00:00"
   },
   "Reuters (via Google News)": {
-   "ok": true,
-   "count": 60,
-   "fetched_et": "Oct 24 12:59 PM ET",
-   "newest_et": "Oct 23 07:46 PM ET",
-   "newest": "2026-10-23T23:46:35+00:00"
+   "ok": false,
+   "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:reuters.com+markets&hl=en-US&gl=US&ceid=US:en",
+   "fetched_et": "Oct 24 01:28 PM ET"
   },
   "AP Business (via Google News)": {
-   "ok": true,
-   "count": 60,
-   "fetched_et": "Oct 24 12:59 PM ET",
-   "newest_et": "Oct 24 12:40 PM ET",
-   "newest": "2026-10-24T16:40:00+00:00"
+   "ok": false,
+   "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:apnews.com+business&hl=en-US&gl=US&ceid=US:en",
+   "fetched_et": "Oct 24 01:28 PM ET"
   },
   "Shipping & Postage (via Google News)": {
-   "ok": true,
-   "count": 20,
-   "fetched_et": "Oct 24 12:59 PM ET",
-   "newest_et": "Oct 24 02:28 AM ET",
-   "newest": "2026-10-24T06:28:07+00:00"
+   "ok": false,
+   "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(USPS+OR+UPS+OR+FedEx)+(rates+OR+surcharge+OR+postage+OR+shipping)+when:2d&hl=en-US&gl=US&ceid=US:en",
+   "fetched_et": "Oct 24 01:28 PM ET"
   },
   "Retail & E-commerce (via Google News)": {
-   "ok": true,
-   "count": 42,
-   "fetched_et": "Oct 24 12:59 PM ET",
-   "newest_et": "Oct 24 10:45 AM ET",
-   "newest": "2026-10-24T14:45:00+00:00"
+   "ok": false,
+   "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(retail+sales+OR+e-commerce+OR+retailers)+stocks+when:2d&hl=en-US&gl=US&ceid=US:en",
+   "fetched_et": "Oct 24 01:29 PM ET"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 24 12:59 PM ET",
+   "fetched_et": "Oct 24 01:29 PM ET",
    "newest_et": "Oct 16 11:00 AM ET",
    "newest": "2026-10-16T15:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 24 12:59 PM ET",
+   "fetched_et": "Oct 24 01:29 PM ET",
    "newest_et": "Oct 24 12:40 PM ET",
    "newest": "2026-10-24T16:40:37+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Oct 24 12:59 PM ET"
+   "fetched_et": "Oct 24 01:27 PM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
    "count": 179,
-   "fetched_et": "Oct 24 09:19 AM ET"
+   "fetched_et": "Oct 24 01:29 PM ET"
   },
   "Economic calendar": {
    "ok": false,
