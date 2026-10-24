@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 24 04:41 PM ET",
- "generated_at": "2026-10-24T16:41:28.064226-04:00",
+ "generated_et": "Oct 24 05:06 PM ET",
+ "generated_at": "2026-10-24T17:06:34.733520-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-24",
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 80440.79,
-   "pct": -0.78,
-   "asof_et": "Oct 24 04:40 PM ET",
+   "price": 80319.99,
+   "pct": -0.93,
+   "asof_et": "Oct 24 05:05 PM ET",
    "freshness": "delayed"
   },
   {
@@ -379,6 +379,39 @@
  ],
  "breaking": [
   {
+   "title": "This Dividend Winner Just Announced Its 676th Consecutive Monthly Dividend. Is It Worth a Look?",
+   "link": "https://www.fool.com/investing/2026/10/24/this-dividend-winner-just-announced-its-676th-cons/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.3,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 24 05:06 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Elon Musk Just Gave Fantastic News for Nvidia Investors",
+   "link": "https://www.fool.com/investing/2026/10/24/elon-musk-gave-great-news-for-nvidia-investors/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.1,
+   "tickers": [
+    "NVDA",
+    "TSLA"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 24 05:06 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Here's the Average Women's Social Security Benefit From Ages 62 to 70",
+   "link": "https://www.nasdaq.com/articles/heres-average-womens-social-security-benefit-ages-62-70",
+   "source": "Nasdaq Markets",
+   "impact": 2.4,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 24 05:06 PM ET",
+   "consumer": false
+  },
+  {
    "title": "After SpaceX restores high-speed service, Musk claims Ukraine violated Starlink agreement",
    "link": "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html",
    "source": "CNBC Top News",
@@ -566,38 +599,6 @@
     "NVDA"
    ],
    "sentiment_label": "bearish",
-   "seen_et": "Oct 24 03:39 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Union Pacific Corporation: 3 Key Takeaways for Long-Term Investors",
-   "link": "https://www.nasdaq.com/articles/union-pacific-corporation-3-key-takeaways-long-term-investors",
-   "source": "Nasdaq Markets",
-   "impact": 2.4,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 24 03:39 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "Advance Auto Parts vs. Booking Holdings: Which Consumer Stock Is a Better Buy in 2026?",
-   "link": "https://www.nasdaq.com/articles/advance-auto-parts-vs-booking-holdings-which-consumer-stock-better-buy-2026",
-   "source": "Nasdaq Markets",
-   "impact": 2.8,
-   "tickers": [
-    "BKNG"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 24 03:39 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "Energy Transfer vs. Kinder Morgan: Which Natural Gas Pipeline Stock Is the Better Buy for the AI Power Boom?",
-   "link": "https://www.nasdaq.com/articles/energy-transfer-vs-kinder-morgan-which-natural-gas-pipeline-stock-better-buy-ai-power-boom",
-   "source": "Nasdaq Markets",
-   "impact": 2.6,
-   "tickers": [],
-   "sentiment_label": "bullish",
    "seen_et": "Oct 24 03:39 PM ET",
    "consumer": false
   }
@@ -2790,21 +2791,21 @@
  "sentiment_validation": {
   "logged": 4000,
   "min_sample": 100,
-  "generated_et": "Oct 24 04:42 PM ET",
+  "generated_et": "Oct 24 05:06 PM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
-    "n_scored": 3815,
-    "n_directional": 3174,
+    "n_scored": 3813,
+    "n_directional": 3172,
     "hit_rate": 48.0,
     "ci95": 1.7,
-    "corr": 0.005,
+    "corr": 0.004,
     "status": "NO EDGE (≈ coin flip)"
    },
    "r1d": {
     "name": "+1 day",
-    "n_scored": 3343,
-    "n_directional": 2829,
+    "n_scored": 3341,
+    "n_directional": 2827,
     "hit_rate": 45.2,
     "ci95": 1.8,
     "corr": -0.068,
@@ -2889,98 +2890,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 04:41 PM ET",
+   "fetched_et": "Oct 24 05:06 PM ET",
    "newest_et": "Oct 24 04:38 PM ET",
    "newest": "2026-10-24T20:38:30+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 04:41 PM ET",
+   "fetched_et": "Oct 24 05:06 PM ET",
    "newest_et": "Oct 23 04:49 PM ET",
    "newest": "2026-10-23T20:49:42+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 04:41 PM ET",
+   "fetched_et": "Oct 24 05:06 PM ET",
    "newest_et": "Oct 24 11:53 AM ET",
    "newest": "2026-10-24T15:53:30+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 24 04:41 PM ET",
+   "fetched_et": "Oct 24 05:06 PM ET",
    "newest_et": "Oct 24 04:15 PM ET",
    "newest": "2026-10-24T20:15:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 04:41 PM ET",
+   "fetched_et": "Oct 24 05:06 PM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
-   "count": 19,
-   "fetched_et": "Oct 24 04:41 PM ET",
-   "newest_et": "Oct 24 04:30 PM ET",
-   "newest": "2026-10-24T20:30:22+00:00"
+   "count": 18,
+   "fetched_et": "Oct 24 05:06 PM ET",
+   "newest_et": "Oct 24 04:51 PM ET",
+   "newest": "2026-10-24T20:51:00+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 55,
-   "fetched_et": "Oct 24 04:41 PM ET",
+   "fetched_et": "Oct 24 05:06 PM ET",
    "newest_et": "Oct 24 07:55 AM ET",
    "newest": "2026-10-24T11:55:35+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 24 04:41 PM ET",
+   "fetched_et": "Oct 24 05:06 PM ET",
    "newest_et": "Oct 23 07:46 PM ET",
    "newest": "2026-10-23T23:46:35+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 24 04:41 PM ET",
-   "newest_et": "Oct 24 04:03 PM ET",
-   "newest": "2026-10-24T20:03:00+00:00"
+   "fetched_et": "Oct 24 05:06 PM ET",
+   "newest_et": "Oct 24 04:23 PM ET",
+   "newest": "2026-10-24T20:23:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 17,
-   "fetched_et": "Oct 24 04:41 PM ET",
-   "newest_et": "Oct 24 05:33 AM ET",
-   "newest": "2026-10-24T09:33:09+00:00"
+   "count": 16,
+   "fetched_et": "Oct 24 05:06 PM ET",
+   "newest_et": "Oct 24 06:54 AM ET",
+   "newest": "2026-10-24T10:54:28+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
    "count": 43,
-   "fetched_et": "Oct 24 04:41 PM ET",
+   "fetched_et": "Oct 24 05:06 PM ET",
    "newest_et": "Oct 24 04:13 PM ET",
    "newest": "2026-10-24T20:13:00+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 24 04:41 PM ET",
+   "fetched_et": "Oct 24 05:06 PM ET",
    "newest_et": "Oct 16 11:00 AM ET",
    "newest": "2026-10-16T15:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 24 04:41 PM ET",
-   "newest_et": "Oct 24 04:02 PM ET",
-   "newest": "2026-10-24T20:02:02+00:00"
+   "fetched_et": "Oct 24 05:06 PM ET",
+   "newest_et": "Oct 24 04:27 PM ET",
+   "newest": "2026-10-24T20:27:00+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Oct 24 04:41 PM ET"
+   "fetched_et": "Oct 24 05:06 PM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
