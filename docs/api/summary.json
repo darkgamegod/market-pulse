@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 24 01:27 PM ET",
- "generated_at": "2026-10-24T13:27:48.704381-04:00",
+ "generated_et": "Oct 24 01:56 PM ET",
+ "generated_at": "2026-10-24T13:56:11.736059-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-24",
@@ -12,8 +12,8 @@
   {
    "symbol": "ES=F",
    "label": "S&P 500 Fut",
-   "price": 7672.5,
-   "pct": -0.42,
+   "price": 7659.75,
+   "pct": -0.58,
    "asof_et": "Oct 23 05:00 PM ET",
    "freshness": "closed"
   },
@@ -28,16 +28,16 @@
   {
    "symbol": "YM=F",
    "label": "Dow Fut",
-   "price": 52451.0,
-   "pct": -1.16,
+   "price": 52394.0,
+   "pct": -1.27,
    "asof_et": "Oct 23 04:55 PM ET",
    "freshness": "closed"
   },
   {
    "symbol": "RTY=F",
    "label": "Russell 2000 Fut",
-   "price": 2788.7,
-   "pct": -0.26,
+   "price": 2784.5,
+   "pct": -0.41,
    "asof_et": "Oct 23 04:55 PM ET",
    "freshness": "closed"
   },
@@ -84,8 +84,8 @@
   {
    "symbol": "CL=F",
    "label": "WTI Crude",
-   "price": 103.44,
-   "pct": 3.99,
+   "price": 103.27,
+   "pct": 3.82,
    "asof_et": "Oct 23 04:55 PM ET",
    "freshness": "closed"
   },
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 80114.6,
-   "pct": -1.18,
-   "asof_et": "Oct 24 01:25 PM ET",
+   "price": 80168.75,
+   "pct": -1.12,
+   "asof_et": "Oct 24 01:55 PM ET",
    "freshness": "delayed"
   },
   {
@@ -191,14 +191,6 @@
    "price": 42.59,
    "pct": -0.65,
    "asof_et": "Oct 23 07:35 PM ET",
-   "freshness": "closed"
-  },
-  {
-   "symbol": "XLRE",
-   "label": "Real Estate",
-   "price": 42.57,
-   "pct": 0.12,
-   "asof_et": "Oct 23 05:20 PM ET",
    "freshness": "closed"
   },
   {
@@ -379,6 +371,176 @@
  ],
  "breaking": [
   {
+   "title": "Is Nike Still a Growth Stock? Here's the Answer.",
+   "link": "https://www.fool.com/investing/2026/10/24/is-nike-still-a-growth-stock-heres-the-answer/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.1,
+   "tickers": [
+    "NKE"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 24 01:56 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Broadcom vs. Dell Technologies: Which Stock Is AI Powering to Be a Better Buy in 2026?",
+   "link": "https://www.fool.com/coverage/better-buy/2026/10/24/broadcom-vs-dell-technologies-which-stock-is-ai-powering-to-be-a-better-buy-in-2026/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.2,
+   "tickers": [
+    "AVGO"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 24 01:56 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Bloom Energy Raised Its 2026 Forecast for the Third Time. Is the Stock a Buy More Than a Third Below Its Record?",
+   "link": "https://www.fool.com/investing/2026/10/24/bloom-energy-raised-its-2026-forecast-for-the-third-time-is-the-stock-a-buy-more-than-a-third-below-its-record/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.8,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 24 01:56 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Apple Joins Nvidia in the $5 Trillion Club. Here's Which Stock I Think Can Get to $10 Trillion First.",
+   "link": "https://www.fool.com/investing/2026/10/24/apple-nvidia-5-trillion-club-which-stock-10/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.1,
+   "tickers": [
+    "AAPL",
+    "NVDA"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 24 01:56 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Bro went from a 700-person village in Slovakia to Google then built an app that makes $2k/day",
+   "link": "https://starterstory.videonest.co/videos/2342774/bro-went-from-a-700-person-village-in-slovakia-to-GBHFM1OXyh?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 4.0,
+   "tickers": [
+    "AMZN",
+    "GOOGL"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 24 01:56 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Inflation Is Running Hotter Than Expected. That Could Be Bullish for Bitcoin.",
+   "link": "https://www.fool.com/investing/2026/10/24/inflation-is-running-hotter-than-expected-that-cou/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 4.6,
+   "tickers": [
+    "BTC-USD",
+    "COIN"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 24 01:56 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Honeywell Technologies: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/honeywell-technologies-3-key-takeaways-long-term-investors",
+   "source": "Nasdaq Markets",
+   "impact": 3.1,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 24 01:56 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Why Appian Stock Surged 24.2% This Week",
+   "link": "https://www.nasdaq.com/articles/why-appian-stock-surged-242-week",
+   "source": "Nasdaq Markets",
+   "impact": 5.2,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 24 01:56 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Conifer Management Buys $16.9 Million Group 1 Automotive Shares. What Does This Mean for Investors?",
+   "link": "https://www.nasdaq.com/articles/conifer-management-buys-169-million-group-1-automotive-shares-what-does-mean-investors",
+   "source": "Nasdaq Markets",
+   "impact": 2.1,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 24 01:56 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Here's What the Average Social Security Benefit Actually Covers",
+   "link": "https://www.nasdaq.com/articles/heres-what-average-social-security-benefit-actually-covers-0",
+   "source": "Nasdaq Markets",
+   "impact": 2.5,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 24 01:56 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Apple's $1,999 iPhone Duo appears to have an app problem",
+   "link": "https://www.thestreet.com/technology/apples-1999-iphone-duo-appears-to-have-an-app-problem?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.3,
+   "tickers": [
+    "AAPL",
+    "MSFT",
+    "NFLX"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 24 01:56 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Vertiv (VRT) Stock Looks Below Fair Value After A Huge Run",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/vertiv-vrt-stock-looks-below-171355987.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.5,
+   "tickers": [
+    "NVDA",
+    "VRT"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 24 01:56 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Soldiers guard center of Milan as thousands of protesters march across European cities",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUV9xQTg4SlhqSXJkZEM3YXRLVGhsdFpYM0xRZU1yWHdMUGNxZ1BfU2NVb3BrUnVSZ29oYU5PUHpOTHRnaVd3U2RyZHozNUJLZHh5WU9leDRDc3BpT0tQY1FxX1lFNThkYzViNl9CeUtGaU1qcVdXQmRMR1lLblhFZnFRNzJuZHBLWWdROWhVTQ?oc=5",
+   "source": "AP News",
+   "impact": 2.0,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 24 01:56 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "2 Reasons You May Want to Switch to a Medicare Advantage Plan -- and 2 Reasons Not to",
+   "link": "https://www.nasdaq.com/articles/2-reasons-you-may-want-switch-medicare-advantage-plan-and-2-reasons-not",
+   "source": "Nasdaq Markets",
+   "impact": 1.6,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 24 01:56 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Cracking a smile regularly may be good not just for your mood but for your health",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZXJrN0pqTE5KUmJNR3RFaUFwQnE5Mlg1Y0hTR1MtV1JFWXNmaUtZSXYzS3R3YjdkNDFSVDI1NXE0bFB4MUhBVC1yLS14VGw2U1B4OXNrM21wSWx3clVqZE5tWG5ja0ZSVW5rTUxMbkRtMzdNWnREUWJ1dUctUFItcmY2bnB6U3R0ZS00?oc=5",
+   "source": "AP News",
+   "impact": 2.3,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 24 01:56 PM ET",
+   "consumer": false
+  },
+  {
    "title": "AI bear slams Nvidia's GPU pitch: 'There's not scarcity other than that which is created by Jensen Huang'",
    "link": "https://finance.yahoo.com/technology/article/ai-bear-slams-nvidias-gpu-pitch-theres-not-scarcity-other-than-that-which-is-created-by-jensen-huang-171507476.html?.tsrc=rss",
    "source": "Yahoo Finance",
@@ -428,169 +590,6 @@
    "tickers": [],
    "sentiment_label": "neutral",
    "seen_et": "Oct 24 12:59 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "More than 400,000 protest across France, challenging Macron as Paris clashes erupt",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWFhXb1VmdWxKRzJmZnRpSGpJTk40b3JoTldmR0FjTW9nWWxibmNBOTJCN1NNa1IyenIycmtueTVnVHhaR19YOUU3TkE2ODBHRFFlRWdDYVZzVWY0MVlqV0dTOHlkaTdEbmxkdnFNMnJicVFjSkhYUVdOaGFYYU5jVEQ5VEhRUU5tWlJjZ1pzOE5GQQ?oc=5",
-   "source": "AP News",
-   "impact": 1.9,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 24 12:59 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Prediction: 2 Stocks That Will Be Worth More Than IonQ 5 Years From Now",
-   "link": "https://www.fool.com/investing/2026/10/24/predict-stocks-worth-more-than-ionq-5-years/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.0,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 24 12:59 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Why Hasbro Stock Surged This Week",
-   "link": "https://www.nasdaq.com/articles/why-hasbro-stock-surged-week",
-   "source": "Nasdaq Markets",
-   "impact": 4.5,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 24 12:59 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Amgen vs. Johnson & Johnson: Which Healthcare Giant Has the Better Stock to Buy?",
-   "link": "https://www.nasdaq.com/articles/amgen-vs-johnson-johnson-which-healthcare-giant-has-better-stock-buy",
-   "source": "Nasdaq Markets",
-   "impact": 2.0,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 24 12:59 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Grayscale's New Zcash ETF Has Gathered $1 Billion in Assets in Just 30 Days. Here's Why Investors Are So Bullish on Zcash.",
-   "link": "https://www.fool.com/investing/2026/10/24/grayscales-new-zcash-etf-has-gathered-1-billion-in/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.5,
-   "tickers": [
-    "BTC-USD",
-    "COIN"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 24 12:59 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Booking vs. Home Depot: Is Consumer Travel or Home Improvement Benefitting One of These Stocks More?",
-   "link": "https://www.nasdaq.com/articles/booking-vs-home-depot-consumer-travel-or-home-improvement-benefitting-one-these-stocks",
-   "source": "Nasdaq Markets",
-   "impact": 3.0,
-   "tickers": [
-    "HD"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 24 12:59 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "Chamath: “$0.70-75 of Every Dollar” of AI Spend Is VC Money. The Real Winners Are Already Publicly Traded",
-   "link": "https://www.tikr.com/blog/chamath-0-70-75-of-every-dollar-of-ai-spend-is-vc-money-the-real-winners-are-already-publicly-traded?ref=yahoofinance&.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.8,
-   "tickers": [
-    "AMZN",
-    "GOOGL",
-    "MSFT"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 24 12:59 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "Amazon’s AWS Has Already Sold “a Good Chunk” of 2028 Capacity",
-   "link": "https://247wallst.com/investing/2026/10/24/amazons-aws-has-already-sold-a-good-chunk-of-2028-capacity/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.3,
-   "tickers": [
-    "AMZN"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 24 12:59 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "3 EV Supply Chain Stocks Facing The China Threat In US Manufacturing",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/3-ev-supply-chain-stocks-161234798.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.8,
-   "tickers": [
-    "TSLA"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 24 12:59 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "Ukraine’s Starlink satellite speeds restored after a week of front-line disruption",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOGd5SnEtSm9xemFDa0s3MnhQUjFKOHZmcUxxcHVJU01FWk5aWWEzQWJKaG1DUGlqMFVIWVJrWXA0NUx6NTVQblRkb2lUNXJSWWdrd3A5VlNuc1BqbWM1TEdCZ0pJaHUwdWFpa1g3MVFkODMzWEZuS21WaGpqSldLTEZqT2xReDFQY1I3NEV6ZEZWTl9Pb2gzbG13?oc=5",
-   "source": "AP News",
-   "impact": 1.6,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 24 12:59 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Some US transit systems weigh whether to run trains without a human at the controls",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNWVRNTFUdTh1ck9pZW1CT05adFJqMnp1VDdWVDhWb2xmUFBYUHZ2UTlTU2lyV3NkTXRJZVJ4TmtlWEhjSC0tWDVQYUVTbHMxZmtmMEFvSEI5WTBadVM3cTJfaktOS1pUYnFHUE5DanR2RUZ6WWtrY1NIeUNUQTY5UnVpbGdvVkFHcUEzWFNQN3JmQmJ6UkxFSDh4S2l5S1Jsa2RfOFR3?oc=5",
-   "source": "AP News",
-   "impact": 1.4,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 24 12:59 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "British Embassy quashes Winnie-the-Pooh return rumors, keeping the famed bear in New York",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUXJkQ3ZxMHBnV2ViX3l2bmFKcVBFMlVSenpWUW1KU0xqWU9MWWc0cFRlNElrNGVXMXV2SDdHVDdMOXpHelR4aVJFY252SmY4NUdBRGhXb0FwbDdGS2FPXzFCelFPNjBpWXpPVk5YRC1jdTQ3VzB2LVJfLXBONjFDR3hQOEZfMFE5Q01Cd1dQUHRySmcxZHBVZkxhUQ?oc=5",
-   "source": "AP News",
-   "impact": 1.0,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 24 12:59 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Northern Trust ESG & Climate In (^IBDW-TC) latest stock news and headlines",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YdGd0VExpUU9ESmxDRXNabjA2ZDVTb1JjWFYyak9MX1VKUHppZm5BN2JYVmc1aXZ1OFZEcnVFSHRBbFNBMERzV1RrbWhwcVczZEdTbF9uMjNzSFJoYm1oSA?oc=5",
-   "source": "Yahoo Finance Australia",
-   "impact": 1.1,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 24 12:59 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Meet Wall Street's Newest Major Stock Split: It Has Soared 1,730% Since Its 2012 IPO, and There Is Plenty of Upside Left",
-   "link": "https://www.fool.com/investing/2026/10/24/meet-wall-street-s-newest-major-stock-split-it-has-soared-1-730-since-its-2012-ipo-and-there-is-plenty-of-upside-left/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.7,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 24 12:27 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Mass protests challenge Macron as French police use tear gas and water cannons",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWFhXb1VmdWxKRzJmZnRpSGpJTk40b3JoTldmR0FjTW9nWWxibmNBOTJCN1NNa1IyenIycmtueTVnVHhaR19YOUU3TkE2ODBHRFFlRWdDYVZzVWY0MVlqV0dTOHlkaTdEbmxkdnFNMnJicVFjSkhYUVdOaGFYYU5jVEQ5VEhRUU5tWlJjZ1pzOE5GQQ?oc=5",
-   "source": "AP News",
-   "impact": 1.9,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 24 12:27 PM ET",
    "consumer": false
   }
  ],
@@ -2782,24 +2781,24 @@
  "sentiment_validation": {
   "logged": 4000,
   "min_sample": 100,
-  "generated_et": "Oct 24 01:30 PM ET",
+  "generated_et": "Oct 24 01:56 PM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
-    "n_scored": 3842,
-    "n_directional": 3197,
-    "hit_rate": 47.9,
+    "n_scored": 3830,
+    "n_directional": 3188,
+    "hit_rate": 48.0,
     "ci95": 1.7,
-    "corr": 0.002,
+    "corr": 0.003,
     "status": "NO EDGE (≈ coin flip)"
    },
    "r1d": {
     "name": "+1 day",
-    "n_scored": 3370,
-    "n_directional": 2852,
-    "hit_rate": 45.2,
+    "n_scored": 3358,
+    "n_directional": 2843,
+    "hit_rate": 45.1,
     "ci95": 1.8,
-    "corr": -0.07,
+    "corr": -0.071,
     "status": "NO EDGE (≈ coin flip)"
    }
   },
@@ -2881,90 +2880,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 01:27 PM ET",
+   "fetched_et": "Oct 24 01:56 PM ET",
    "newest_et": "Oct 24 01:22 PM ET",
    "newest": "2026-10-24T17:22:21+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 01:27 PM ET",
+   "fetched_et": "Oct 24 01:56 PM ET",
    "newest_et": "Oct 23 04:49 PM ET",
    "newest": "2026-10-23T20:49:42+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 01:27 PM ET",
+   "fetched_et": "Oct 24 01:56 PM ET",
    "newest_et": "Oct 24 11:53 AM ET",
    "newest": "2026-10-24T15:53:30+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 24 01:27 PM ET",
-   "newest_et": "Oct 24 01:23 PM ET",
-   "newest": "2026-10-24T17:23:00+00:00"
+   "fetched_et": "Oct 24 01:56 PM ET",
+   "newest_et": "Oct 24 01:39 PM ET",
+   "newest": "2026-10-24T17:39:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 01:27 PM ET",
+   "fetched_et": "Oct 24 01:56 PM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
-   "count": 20,
-   "fetched_et": "Oct 24 01:27 PM ET",
-   "newest_et": "Oct 24 01:15 PM ET",
-   "newest": "2026-10-24T17:15:07+00:00"
+   "count": 19,
+   "fetched_et": "Oct 24 01:56 PM ET",
+   "newest_et": "Oct 24 01:50 PM ET",
+   "newest": "2026-10-24T17:50:00+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 55,
-   "fetched_et": "Oct 24 01:27 PM ET",
+   "fetched_et": "Oct 24 01:56 PM ET",
    "newest_et": "Oct 24 07:55 AM ET",
    "newest": "2026-10-24T11:55:35+00:00"
   },
   "Reuters (via Google News)": {
-   "ok": false,
-   "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:reuters.com+markets&hl=en-US&gl=US&ceid=US:en",
-   "fetched_et": "Oct 24 01:28 PM ET"
+   "ok": true,
+   "count": 60,
+   "fetched_et": "Oct 24 01:56 PM ET",
+   "newest_et": "Oct 23 07:46 PM ET",
+   "newest": "2026-10-23T23:46:35+00:00"
   },
   "AP Business (via Google News)": {
-   "ok": false,
-   "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:apnews.com+business&hl=en-US&gl=US&ceid=US:en",
-   "fetched_et": "Oct 24 01:28 PM ET"
+   "ok": true,
+   "count": 60,
+   "fetched_et": "Oct 24 01:56 PM ET",
+   "newest_et": "Oct 24 01:00 PM ET",
+   "newest": "2026-10-24T17:00:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
-   "ok": false,
-   "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(USPS+OR+UPS+OR+FedEx)+(rates+OR+surcharge+OR+postage+OR+shipping)+when:2d&hl=en-US&gl=US&ceid=US:en",
-   "fetched_et": "Oct 24 01:28 PM ET"
+   "ok": true,
+   "count": 19,
+   "fetched_et": "Oct 24 01:56 PM ET",
+   "newest_et": "Oct 24 02:28 AM ET",
+   "newest": "2026-10-24T06:28:07+00:00"
   },
   "Retail & E-commerce (via Google News)": {
-   "ok": false,
-   "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(retail+sales+OR+e-commerce+OR+retailers)+stocks+when:2d&hl=en-US&gl=US&ceid=US:en",
-   "fetched_et": "Oct 24 01:29 PM ET"
+   "ok": true,
+   "count": 41,
+   "fetched_et": "Oct 24 01:56 PM ET",
+   "newest_et": "Oct 24 10:45 AM ET",
+   "newest": "2026-10-24T14:45:00+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 24 01:29 PM ET",
+   "fetched_et": "Oct 24 01:56 PM ET",
    "newest_et": "Oct 16 11:00 AM ET",
    "newest": "2026-10-16T15:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 24 01:29 PM ET",
-   "newest_et": "Oct 24 12:40 PM ET",
-   "newest": "2026-10-24T16:40:37+00:00"
+   "fetched_et": "Oct 24 01:56 PM ET",
+   "newest_et": "Oct 24 01:28 PM ET",
+   "newest": "2026-10-24T17:28:00+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
-   "count": 26,
-   "fetched_et": "Oct 24 01:27 PM ET"
+   "count": 25,
+   "fetched_et": "Oct 24 01:56 PM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
