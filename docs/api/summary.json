@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 24 02:56 AM ET",
- "generated_at": "2026-10-24T02:56:28.607711-04:00",
+ "generated_et": "Oct 24 03:34 AM ET",
+ "generated_at": "2026-10-24T03:34:22.573773-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-24",
@@ -20,8 +20,8 @@
   {
    "symbol": "NQ=F",
    "label": "Nasdaq 100 Fut",
-   "price": 29175.0,
-   "pct": 0.11,
+   "price": 29117.75,
+   "pct": -0.08,
    "asof_et": "Oct 23 04:55 PM ET",
    "freshness": "closed"
   },
@@ -30,6 +30,14 @@
    "label": "Dow Fut",
    "price": 52451.0,
    "pct": -1.16,
+   "asof_et": "Oct 23 04:55 PM ET",
+   "freshness": "closed"
+  },
+  {
+   "symbol": "RTY=F",
+   "label": "Russell 2000 Fut",
+   "price": 2788.7,
+   "pct": -0.26,
    "asof_et": "Oct 23 04:55 PM ET",
    "freshness": "closed"
   },
@@ -108,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 80649.33,
-   "pct": -0.81,
-   "asof_et": "Oct 24 02:55 AM ET",
+   "price": 80712.44,
+   "pct": -0.45,
+   "asof_et": "Oct 24 03:30 AM ET",
    "freshness": "delayed"
   },
   {
@@ -371,6 +379,62 @@
  ],
  "breaking": [
   {
+   "title": "Pfizer's Dividend Yield Is One of the Highest in the S&P 500. Here's Why the Dividend Is Safer Than It Might Seem",
+   "link": "https://www.nasdaq.com/articles/pfizers-dividend-yield-one-highest-sp-500-heres-why-dividend-safer-it-might-seem",
+   "source": "Nasdaq Markets",
+   "impact": 2.9,
+   "tickers": [
+    "PFE",
+    "SPY"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 24 03:35 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Sony (TSE:6758) Stock Looks Fairly Valued Following Next Console Price Rumors",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/sony-tse-6758-stock-looks-071111548.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.5,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 24 03:35 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Ryder: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/ryder-3-key-takeaways-long-term-investors",
+   "source": "Nasdaq Markets",
+   "impact": 1.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 24 03:35 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Man who fatally struck deputy after his son was killed by Cincinnati police is convicted of murder",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT2g0ODROM0kxcVduS2pCT1FaVWlIdFVCTzZITmhISXFObzl6ZGJsbE45R1hMLUFTM0RQdGJnc0E1NFdNNkVlSzZKR3M3WVd0dzd6YTRneGxRRnhBb2UwbldYcWxNR01JS1liRktNTVhRTUJYX2VZMVVmZDBwVUJTWXl5Q3loSEFSNFlGZGJWa21aS2hENVBJWg?oc=5",
+   "source": "AP News",
+   "impact": 2.3,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 24 03:35 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Wall Street loses ground under pressure from rising oil prices",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNWpGTk1fbkF2SWY0S1Q2MHN6WjRqQ1R3VWp4WXFKd3VQUG5WSlI1ZXFDY1pSUGJyampWMGtwZ3dRQmxGRzlTbERHSnlraUZ4WmFCSXM4U3J1Z1VSdV81eTB2ck1lWElpSnR2Qi1FbWUwUmJBT1l5enVZLVpsYmMySnBhZ0FDWHZBTElJVEhGYl9tN2tXblE?oc=5",
+   "source": "AP News",
+   "impact": 2.9,
+   "tickers": [
+    "CL=F",
+    "XLE"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 24 03:35 AM ET",
+   "consumer": false
+  },
+  {
    "title": "Here's the AI Chip Stock That Hedge Funds Are Loading Up On",
    "link": "https://www.fool.com/investing/2026/10/24/heres-the-ai-chip-stock-that-hedge-funds-are-loadi/?.tsrc=rss",
    "source": "Yahoo Finance",
@@ -524,67 +588,6 @@
    "tickers": [],
    "sentiment_label": "bullish",
    "seen_et": "Oct 24 12:59 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "TSMC or Nvidia: If I Could Only Own 1 for the Next 5 Years, It Would Be This 1.",
-   "link": "https://www.fool.com/investing/2026/10/24/tsmc-or-nvidia-if-i-could-only-own-1-for-the-next/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.7,
-   "tickers": [
-    "NVDA",
-    "TSM"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 24 12:59 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Bolloré Q3 Revenue Jumps 49% On Higher Energy Prices",
-   "link": "https://www.nasdaq.com/articles/bollore-q3-revenue-jumps-49-higher-energy-prices",
-   "source": "Nasdaq Markets",
-   "impact": 1.6,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 24 12:26 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Wells Fargo, Arm and Intuit Reject Tokenized Shares on OKX-ICE",
-   "link": "https://www.cryptoprowl.com/releases/wells-fargo-arm-and-intuit-reject-tokenized-shares-on-okx-ice-7440?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.8,
-   "tickers": [
-    "ARM",
-    "INTU",
-    "QQQ",
-    "WFC"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 24 12:26 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Robin Yount and Brewers' broadcast team pay tribute to Bob Uecker by borrowing from his wardrobe",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdlEwQ3Y3OHhMbG9BdnBINmxZYW1DaHduaWhBeGZITE9tM0tEWUlmZ1hHYXhLekdXS2dTdklfQnIzQUM5Zk1iTkZVZ20yQlZONXFpRjlMSWRtbjFGYndEbkhCZWQ1VDRhNmtxVzZOYjRiSmkyTlpaQ041QjFfQUFSOUNuLVVTblJsVDBubl9uV0tYN1FLUEZuMHR0Yl8zcjA?oc=5",
-   "source": "AP News",
-   "impact": 2.8,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 24 12:26 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "How AI Power Board Launches At Navitas Semiconductor (NVTS) Has Changed Its Investment Story",
-   "link": "https://finance.yahoo.com/technology/ai/articles/ai-power-board-launches-navitas-031654170.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.6,
-   "tickers": [
-    "NVDA",
-    "NVTS"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 23 11:47 PM ET",
    "consumer": false
   }
  ],
@@ -803,7 +806,7 @@
  "movers": {
   "mode": "last session (market not in pre-market)",
   "basis": "opening gap (open vs prior close) of the last session; RVOL = session volume / 20-day avg",
-  "fetched_et": "Oct 24 12:25 AM ET",
+  "fetched_et": "Oct 24 03:34 AM ET",
   "gappers": [
    {
     "symbol": "CCI",
@@ -2790,12 +2793,12 @@
  "sentiment_validation": {
   "logged": 4000,
   "min_sample": 100,
-  "generated_et": "Oct 24 02:56 AM ET",
+  "generated_et": "Oct 24 03:35 AM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
-    "n_scored": 3924,
-    "n_directional": 3265,
+    "n_scored": 3921,
+    "n_directional": 3263,
     "hit_rate": 47.8,
     "ci95": 1.7,
     "corr": 0.001,
@@ -2803,8 +2806,8 @@
    },
    "r1d": {
     "name": "+1 day",
-    "n_scored": 3452,
-    "n_directional": 2921,
+    "n_scored": 3449,
+    "n_directional": 2918,
     "hit_rate": 45.4,
     "ci95": 1.8,
     "corr": -0.072,
@@ -2889,98 +2892,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 02:56 AM ET",
+   "fetched_et": "Oct 24 03:34 AM ET",
    "newest_et": "Oct 24 02:41 AM ET",
    "newest": "2026-10-24T06:41:14+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 02:56 AM ET",
+   "fetched_et": "Oct 24 03:34 AM ET",
    "newest_et": "Oct 23 04:49 PM ET",
    "newest": "2026-10-23T20:49:42+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 02:56 AM ET",
+   "fetched_et": "Oct 24 03:34 AM ET",
    "newest_et": "Oct 23 02:57 PM ET",
    "newest": "2026-10-23T18:57:48+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 24 02:56 AM ET",
-   "newest_et": "Oct 23 06:49 PM ET",
-   "newest": "2026-10-23T22:49:00+00:00"
+   "fetched_et": "Oct 24 03:34 AM ET",
+   "newest_et": "Oct 24 03:00 AM ET",
+   "newest": "2026-10-24T07:00:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 02:56 AM ET",
+   "fetched_et": "Oct 24 03:34 AM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 24 02:56 AM ET",
-   "newest_et": "Oct 24 02:50 AM ET",
-   "newest": "2026-10-24T06:50:00+00:00"
+   "fetched_et": "Oct 24 03:34 AM ET",
+   "newest_et": "Oct 24 03:11 AM ET",
+   "newest": "2026-10-24T07:11:11+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 55,
-   "fetched_et": "Oct 24 02:56 AM ET",
+   "fetched_et": "Oct 24 03:34 AM ET",
    "newest_et": "Oct 23 08:36 PM ET",
    "newest": "2026-10-24T00:36:47+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 24 02:56 AM ET",
+   "fetched_et": "Oct 24 03:34 AM ET",
    "newest_et": "Oct 23 07:46 PM ET",
    "newest": "2026-10-23T23:46:35+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 24 02:56 AM ET",
+   "fetched_et": "Oct 24 03:34 AM ET",
    "newest_et": "Oct 24 01:34 AM ET",
    "newest": "2026-10-24T05:34:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 25,
-   "fetched_et": "Oct 24 02:56 AM ET",
-   "newest_et": "Oct 23 08:58 PM ET",
-   "newest": "2026-10-24T00:58:14+00:00"
+   "count": 24,
+   "fetched_et": "Oct 24 03:34 AM ET",
+   "newest_et": "Oct 23 07:46 PM ET",
+   "newest": "2026-10-23T23:46:38+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
-   "count": 41,
-   "fetched_et": "Oct 24 02:56 AM ET",
+   "count": 38,
+   "fetched_et": "Oct 24 03:34 AM ET",
    "newest_et": "Oct 23 09:13 PM ET",
    "newest": "2026-10-24T01:13:07+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 24 02:56 AM ET",
+   "fetched_et": "Oct 24 03:34 AM ET",
    "newest_et": "Oct 16 11:00 AM ET",
    "newest": "2026-10-16T15:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 24 02:56 AM ET",
-   "newest_et": "Oct 24 02:05 AM ET",
-   "newest": "2026-10-24T06:05:00+00:00"
+   "fetched_et": "Oct 24 03:34 AM ET",
+   "newest_et": "Oct 24 03:20 AM ET",
+   "newest": "2026-10-24T07:20:00+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
-   "count": 25,
-   "fetched_et": "Oct 24 02:56 AM ET"
+   "count": 26,
+   "fetched_et": "Oct 24 03:34 AM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
