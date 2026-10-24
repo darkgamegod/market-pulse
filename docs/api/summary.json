@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 24 03:01 PM ET",
- "generated_at": "2026-10-24T15:01:41.339207-04:00",
+ "generated_et": "Oct 24 03:39 PM ET",
+ "generated_at": "2026-10-24T15:39:17.245994-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-24",
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 80376.95,
-   "pct": -0.86,
-   "asof_et": "Oct 24 03:00 PM ET",
+   "price": 80441.22,
+   "pct": -0.78,
+   "asof_et": "Oct 24 03:35 PM ET",
    "freshness": "delayed"
   },
   {
@@ -379,6 +379,104 @@
  ],
  "breaking": [
   {
+   "title": "Nvidia Credit Stress Could Lift Hannover Re Stock And Other AI Insurance Names",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-credit-stress-could-lift-190924644.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.2,
+   "tickers": [
+    "MSFT",
+    "NVDA"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 24 03:39 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Union Pacific Corporation: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/union-pacific-corporation-3-key-takeaways-long-term-investors",
+   "source": "Nasdaq Markets",
+   "impact": 2.4,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 24 03:39 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Advance Auto Parts vs. Booking Holdings: Which Consumer Stock Is a Better Buy in 2026?",
+   "link": "https://www.nasdaq.com/articles/advance-auto-parts-vs-booking-holdings-which-consumer-stock-better-buy-2026",
+   "source": "Nasdaq Markets",
+   "impact": 2.8,
+   "tickers": [
+    "BKNG"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 24 03:39 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Energy Transfer vs. Kinder Morgan: Which Natural Gas Pipeline Stock Is the Better Buy for the AI Power Boom?",
+   "link": "https://www.nasdaq.com/articles/energy-transfer-vs-kinder-morgan-which-natural-gas-pipeline-stock-better-buy-ai-power-boom",
+   "source": "Nasdaq Markets",
+   "impact": 2.6,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 24 03:39 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Advance Auto Parts vs. Dick's Sporting Goods: Are Consumers Focusing on Car Repair or Exercise More in 2026?",
+   "link": "https://www.nasdaq.com/articles/advance-auto-parts-vs-dicks-sporting-goods-are-consumers-focusing-car-repair-or-exercise",
+   "source": "Nasdaq Markets",
+   "impact": 1.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 24 03:39 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "UK police says letter with claims against Meghan's father was not shared with other law enforcement",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWDJvUlZ0NVhydk1kMy1FZHBkLXpQc3JELXFjNE9WZTRWMUdyR2IzWEVMT21iU3AyQ3ZUM29MQUV4NnhPQnFIX0oySzdkZTFtTlhyMFk5NkNENlZ5bEpyeUY5ZkNxSVpOSUx5TmNvSWhTTmtKWHhFTlJiSnNMamlnMkE0TmlpcC1qN21CU2J1ZFRkVXlDZHRxajZfdTRRWTlkOHlLUGdocXg?oc=5",
+   "source": "AP News",
+   "impact": 2.0,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 24 03:39 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Gulf markets fall as fresh Houthi strikes on Saudi Arabia raise regional risk",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQS1ESU5ra242UzdCbkxuVkNzUkV2NWZVTGlRcDZnSzJBeE5KTkFyMEZvaTd0ZEl4LWduc0lmbGZkRnV6REF1dV9VUkRESHpVM3lLUkt0SmtfQzJDLXdnZ0l6akwwOWZpS1lza2tSbHczcnlpU2JPSXo5eHNrY0c4aWNpWjNJSlFYa2M2UEhDNnVsUnQySGF6MVJSY1FPam1LSlliSkJUTzFKck9tZ2J6S2xlUnVSam1TTllJbUxQWmtTcjQ?oc=5",
+   "source": "Reuters",
+   "impact": 0.6,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 24 03:39 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "How oil-rich Alberta's economy might fare if it broke away from Canada",
+   "link": "https://www.bbc.co.uk/news/articles/cy745jznvxpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "impact": 1.4,
+   "tickers": [
+    "CL=F",
+    "XLE"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 24 03:39 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "The virtual worlds where robots are trained",
+   "link": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "impact": 0.8,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 24 03:39 PM ET",
+   "consumer": false
+  },
+  {
    "title": "SpaceX's \"Super Intelligence\" Segment Just Made the Stock a Must-Own",
    "link": "https://www.fool.com/investing/2026/10/24/spacexs-super-intelligence-segment-just-made-the-s/?.tsrc=rss",
    "source": "Yahoo Finance",
@@ -489,105 +587,6 @@
    "tickers": [],
    "sentiment_label": "neutral",
    "seen_et": "Oct 24 03:01 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Norway wealth fund slightly cautious on equities, tech companies",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNa3pHaTAydzc2dGxNdlNJQ2FkbDl0UF9BUjhGUkpsSEVmTF9nT0lJekdnTU9VV29lTzdTMU1wUmxwSUdxUDNpVVhZLUg3UHZHbXFmcnkyNEVTTGd1RnZlbFROaTBRcjVSSVdRNE1mblk1UFZoczJsemxrYlZyczNpMmUyMTFfakxqNVd3Rl8xd3hUYlJweXdzSG5OV3cwS1RPZUE?oc=5",
-   "source": "Reuters",
-   "impact": 0.8,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 24 03:01 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Retail Stocks To Consider - October 24th",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObWlRZG0td1ZOWjJENVIzMFFrNUZTNnRVbXJLc1NMazNlVGNrcFNCbGhqbDBLNzRpQlFRanlBdEJ4c2Z3SjA5VHRuTXRLRVZFemRhWVRPcTRPaVdXZ3FzOWl3VEVKN0gzT3ZiOVdBbTlRcGZBbmd6LWFibFRicjlrLWRPcUk0RWpLeUxOSUVnTEp2eUtEbDJsOWYzRFFUUQ?oc=5",
-   "source": "MarketBeat",
-   "impact": 1.5,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 24 02:26 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "Down Roughly 50% From Its Highs, Is Netflix Stock Finally a Buy?",
-   "link": "https://www.fool.com/investing/2026/10/24/down-roughly-50-from-its-highs-is-netflix-stock/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.8,
-   "tickers": [
-    "NFLX"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 24 02:26 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "CBRE: 3 Key Takeaways for Long-Term Investors",
-   "link": "https://www.nasdaq.com/articles/cbre-3-key-takeaways-long-term-investors",
-   "source": "Nasdaq Markets",
-   "impact": 1.5,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 24 02:26 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Airbnb vs. Chewy: Do Pets or Places Power One Stock More than the Other?",
-   "link": "https://www.nasdaq.com/articles/airbnb-vs-chewy-do-pets-or-places-power-one-stock-more-other",
-   "source": "Nasdaq Markets",
-   "impact": 2.9,
-   "tickers": [
-    "ABNB",
-    "CHWY"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 24 02:26 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "Abbott Laboratories vs. UnitedHealth: Does Health Innovation or Health Insurance Make for a Better Stock to Buy?",
-   "link": "https://www.nasdaq.com/articles/abbott-laboratories-vs-unitedhealth-does-health-innovation-or-health-insurance-make-better",
-   "source": "Nasdaq Markets",
-   "impact": 2.7,
-   "tickers": [
-    "UNH"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 24 02:26 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Republican billionaire Rick Jackson is walking a Trump tightrope in his quest to lead Georgia",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd1hETUlleWtGaDN1SlZjV1laZklpZGJaQXpodnFhWGhaSDhvMmZqelZOckc4UVdUb0RHYmZvS3RGcG5UQ0NwWk9Zdnp5aUNZTDJLeUxaeFhzM2NYS3VsdEdZVEU0SzQ4aXRNZFF6TzhlNjMzZzJEaVEybDRiT0pCMEI5TlV2a0JCUGJGVTNaYXh1T0J6UXF5TlNNRkhGTURYdTFzT3dPYndsTVdDN0o2cnFNcUpJOGM?oc=5",
-   "source": "AP News",
-   "impact": 1.5,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 24 02:26 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Inflation, earnings reports and the mood of consumers and the Federal Reserve fill out a busy week",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMWxOT1R0TTM5dHVRNlg1d1Q3dy1QbF9DZHpaejlCRlJIQjUxRDlmTTBWXzlXSnM3M2dWVWhtbF9YRml0SUtfU180amRQZGVITTdFSlYxak9vTGctV1lKXzZVekZ5WmpnZ25Rd2o1UjdITHc3d3FqY1ZpV0lnTkhmQzRtbXBuY2hTNTVmeFJmTXBITy04NVhkRVUzUUd2Xy1NbEkxaURjYw?oc=5",
-   "source": "AP News",
-   "impact": 6.0,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 24 02:26 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "US Treasury proposes a rule to crack down on high-tech investments in China, other adversaries",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSE5iNkpiZ2FiYnczNGJ4Z1NXUzQ2WU1OaVhXbjlRaXpHVy1HMHg5S1Q0dFgwS1Y3ajJIV1V4UjBIcWxodTMtZmJtbzZqVWZ1bVdVWEpicmI3dktxdzdfOTZkQW94bWVvR19tR01OZ3QyOFZiNGRrN0I4TFdVLWZNNWZkZk4zYzI5bk8ycjI5SExjdlVFUDNsMVJLQks?oc=5",
-   "source": "AP News",
-   "impact": 1.2,
-   "tickers": [
-    "^TNX"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 24 02:26 PM ET",
    "consumer": false
   }
  ],
@@ -1131,7 +1130,7 @@
  "economic_calendar": {
   "source": "RULE-BASED FALLBACK (approximate; live calendar unavailable)",
   "fallback": true,
-  "fetched_et": "Oct 24 02:26 PM ET",
+  "fetched_et": "Oct 24 03:39 PM ET",
   "events": [
    {
     "date": "2026-10-28",
@@ -2779,12 +2778,12 @@
  "sentiment_validation": {
   "logged": 4000,
   "min_sample": 100,
-  "generated_et": "Oct 24 03:02 PM ET",
+  "generated_et": "Oct 24 03:39 PM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
-    "n_scored": 3826,
-    "n_directional": 3184,
+    "n_scored": 3823,
+    "n_directional": 3181,
     "hit_rate": 48.0,
     "ci95": 1.7,
     "corr": 0.004,
@@ -2792,9 +2791,9 @@
    },
    "r1d": {
     "name": "+1 day",
-    "n_scored": 3354,
-    "n_directional": 2839,
-    "hit_rate": 45.1,
+    "n_scored": 3351,
+    "n_directional": 2836,
+    "hit_rate": 45.2,
     "ci95": 1.8,
     "corr": -0.07,
     "status": "NO EDGE (≈ coin flip)"
@@ -2878,96 +2877,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 03:01 PM ET",
+   "fetched_et": "Oct 24 03:39 PM ET",
    "newest_et": "Oct 24 02:56 PM ET",
    "newest": "2026-10-24T18:56:29+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 03:01 PM ET",
+   "fetched_et": "Oct 24 03:39 PM ET",
    "newest_et": "Oct 23 04:49 PM ET",
    "newest": "2026-10-23T20:49:42+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 03:01 PM ET",
+   "fetched_et": "Oct 24 03:39 PM ET",
    "newest_et": "Oct 24 11:53 AM ET",
    "newest": "2026-10-24T15:53:30+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 24 03:01 PM ET",
+   "fetched_et": "Oct 24 03:39 PM ET",
    "newest_et": "Oct 24 02:45 PM ET",
    "newest": "2026-10-24T18:45:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 03:01 PM ET",
+   "fetched_et": "Oct 24 03:39 PM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 19,
-   "fetched_et": "Oct 24 03:01 PM ET",
-   "newest_et": "Oct 24 02:56 PM ET",
-   "newest": "2026-10-24T18:56:00+00:00"
+   "fetched_et": "Oct 24 03:39 PM ET",
+   "newest_et": "Oct 24 03:09 PM ET",
+   "newest": "2026-10-24T19:09:24+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 55,
-   "fetched_et": "Oct 24 03:01 PM ET",
+   "fetched_et": "Oct 24 03:39 PM ET",
    "newest_et": "Oct 24 07:55 AM ET",
    "newest": "2026-10-24T11:55:35+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 24 03:01 PM ET",
+   "fetched_et": "Oct 24 03:39 PM ET",
    "newest_et": "Oct 23 07:46 PM ET",
    "newest": "2026-10-23T23:46:35+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 24 03:01 PM ET",
+   "fetched_et": "Oct 24 03:39 PM ET",
    "newest_et": "Oct 24 02:30 PM ET",
    "newest": "2026-10-24T18:30:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
    "count": 18,
-   "fetched_et": "Oct 24 03:01 PM ET",
+   "fetched_et": "Oct 24 03:39 PM ET",
    "newest_et": "Oct 24 02:28 AM ET",
    "newest": "2026-10-24T06:28:07+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
    "count": 42,
-   "fetched_et": "Oct 24 03:01 PM ET",
+   "fetched_et": "Oct 24 03:39 PM ET",
    "newest_et": "Oct 24 02:06 PM ET",
    "newest": "2026-10-24T18:06:51+00:00"
   },
   "Fed Press Releases": {
-   "ok": false,
-   "error": "404 Client Error: Not Found for url: https://www.federalreserve.gov/feeds/press_all.xml",
-   "fetched_et": "Oct 24 03:01 PM ET"
+   "ok": true,
+   "count": 20,
+   "fetched_et": "Oct 24 03:39 PM ET",
+   "newest_et": "Oct 16 11:00 AM ET",
+   "newest": "2026-10-16T15:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 24 03:01 PM ET",
-   "newest_et": "Oct 24 02:20 PM ET",
-   "newest": "2026-10-24T18:20:00+00:00"
+   "fetched_et": "Oct 24 03:39 PM ET",
+   "newest_et": "Oct 24 02:58 PM ET",
+   "newest": "2026-10-24T18:58:09+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Oct 24 03:01 PM ET"
+   "fetched_et": "Oct 24 03:39 PM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
@@ -2977,7 +2978,7 @@
   "Economic calendar": {
    "ok": false,
    "count": 3,
-   "fetched_et": "Oct 24 02:26 PM ET",
+   "fetched_et": "Oct 24 03:39 PM ET",
    "note": "RULE-BASED FALLBACK (approximate; live calendar unavailable)"
   }
  }
