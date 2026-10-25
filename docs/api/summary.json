@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 25 01:59 AM ET",
- "generated_at": "2026-10-25T01:59:01.292068-04:00",
+ "generated_et": "Oct 25 02:36 AM ET",
+ "generated_at": "2026-10-25T02:36:43.457074-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-25",
@@ -22,6 +22,14 @@
    "label": "Nasdaq 100 Fut",
    "price": 29117.75,
    "pct": -0.08,
+   "asof_et": "Oct 23 04:55 PM ET",
+   "freshness": "closed"
+  },
+  {
+   "symbol": "YM=F",
+   "label": "Dow Fut",
+   "price": 52394.0,
+   "pct": -1.27,
    "asof_et": "Oct 23 04:55 PM ET",
    "freshness": "closed"
   },
@@ -108,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 80498.29,
-   "pct": -0.71,
-   "asof_et": "Oct 25 01:55 AM ET",
+   "price": 80508.58,
+   "pct": -0.7,
+   "asof_et": "Oct 25 02:35 AM ET",
    "freshness": "delayed"
   },
   {
@@ -183,14 +191,6 @@
    "price": 42.59,
    "pct": -0.65,
    "asof_et": "Oct 23 07:35 PM ET",
-   "freshness": "closed"
-  },
-  {
-   "symbol": "XLRE",
-   "label": "Real Estate",
-   "price": 42.57,
-   "pct": 0.12,
-   "asof_et": "Oct 23 05:20 PM ET",
    "freshness": "closed"
   },
   {
@@ -374,6 +374,56 @@
  ],
  "breaking": [
   {
+   "title": "Budget 2026: No more fat to trim for 'squeezed middle'",
+   "link": "https://www.bbc.co.uk/news/articles/c6gel54940qno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "impact": 1.7,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 25 02:36 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "How Long Does It Take to Turn $300 per Month Into $1 Million in the Stock Market? Here's What History Says.",
+   "link": "https://www.fool.com/investing/2026/10/25/how-long-turn-300-per-month-into-1-million-dollars/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 1.8,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 25 02:36 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Four ways Labour could raise money in the Budget without hiking income tax",
+   "link": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "impact": 2.0,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 25 02:36 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Carrefour Brasil stock reflects Atacadao's 2.0 percent Q3 growth",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPS2tyQlBuNG9wVU8zcVlUU1RONEdZNFhIbG04bUthM3d1U0t6cGdLbUdzWlloLXRGd05qdVQzdERWdExjRVdLM2JlMEZYUF9NbzhIOEtndF9wRHFIOGxSOHNLeWZoWHNIX216bFRFd2g1SmloVERHX0lVek95dldxTktCTUZ2dUw2T2hPMHpuVTFCYk1BaEY0TktMVDJ4ZEZiQVppY282S1BLUjh4ekJEZDVXaHdpam1qM3YwTEVoMzE?oc=5",
+   "source": "ad-hoc-news.de",
+   "impact": 2.1,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 25 02:36 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "China urges US to halt proposed expansion of outbound investment curbs",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY3V2bWpZckhlWExlaDZRLTR0NG1MY3l4NmpfZzJCUkVpSkJGblR1S0RScmxSa2tWWVhtZFdBNzkyc0ZaUnlDU2lVNEh3WUpUTkw3d0tIdGlzeTNrRnpWNFhiUk9xTEw4bENXWmxuRlRYTXQtU2N4MXRLVURsUkVxYUpGMks3R0hUaXA4eUZHSXNBWXRLRUN4VVkyVW5WQlBVUFo1dnRSVGxPYmxqMXRXUnVn?oc=5",
+   "source": "Reuters",
+   "impact": 0.8,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 25 02:36 AM ET",
+   "consumer": false
+  },
+  {
    "title": "Meet the Ultra-High-Yield Dividend Stock That Has Doubled the S&P 500's Returns This Year",
    "link": "https://www.fool.com/investing/2026/10/25/meet-the-ultra-high-yield-dividend-stock-that-has/?.tsrc=rss",
    "source": "Yahoo Finance",
@@ -534,66 +584,6 @@
    "impact": 2.3,
    "tickers": [
     "META"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 25 12:07 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "What Does American Electric Power Company (AEP) Gain From Its 960 MW Nuclear Plan?",
-   "link": "https://finance.yahoo.com/energy/articles/does-american-electric-power-company-031436615.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.9,
-   "tickers": [
-    "AEP",
-    "AMZN"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 25 12:07 AM ET",
-   "consumer": true
-  },
-  {
-   "title": "Elon Musk Says Tesla’s Megapacks Are Nearly Sold Out Through 2027 as Energy Demand Surges: 'Ramping Production as Quickly as Possible'",
-   "link": "https://finance.yahoo.com/energy/articles/elon-musk-says-tesla-megapacks-023019501.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 4.0,
-   "tickers": [
-    "TSLA"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 25 12:07 AM ET",
-   "consumer": true
-  },
-  {
-   "title": "London close: FTSE falls amid worries about AI spending, surging oil prices",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeE13VTJWU1lWakVqMWZzdlRSaTBERUotZ09QYWxabWpFOHMtN2ttMFBIQW1MbHI4aEJKWm1CLWpJSlFGblRoYXJ4Tk5FZWdZcW5BWjNUWUxIcEIxdVEyc0c3ZWJwUkZkcmR2b01FNGlybERjNjJ5dDI0dk1XdGpzcmFweENoc1Y0cTRod29DRGEzRTRJQzZwS0IxZHlBY1lnbG9uRFFyT3VkaU5xVXl4b1MteWRNNXk0SmRwMERIWQ?oc=5",
-   "source": "Sharecast.com",
-   "impact": 1.9,
-   "tickers": [
-    "CL=F",
-    "XLE"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 25 12:07 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "London pre-open: Stocks to nudge up; retail sales fall more than expected",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQVY2ZUE0SUZrdzM2cWJWZ2E0czZ2cWR2MTk4d2VnSXhfZEpiR3JPeHBoc0VKNTRTcWJqVmpUcXFNLXZRNmV2ZlFaV0FxY2QtY1hUNS1laHJadjROTmQtWmZzU0RQNExOWDkwcFZUdE5XRmtiWjc3WGx0cjBSVUczNzl3V1JjcVQ1X09jR2N5SW9GTFRFV0YxMldlRklpXzVKUzNWNDJwclliQ01sUlFzaU1hTjZCTGkwdGo1OEJHamF4RmZvN0VPRkUtYnVZVElpbGRnNlhIYw?oc=5",
-   "source": "Sharecast.com",
-   "impact": 0.0,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 25 12:07 AM ET",
-   "consumer": true
-  },
-  {
-   "title": "What TJX Stock’s 4% Comparable Sales Growth Means For Shareholders",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWXpDcEJzRjNwQkNOMXZmeUJkdGZWSzBzQWo2NExqM2VVVlI1WFpvVzYzY19XOVhJWUhqZk9oWU5yQmVBbEpXM0MwdUpSOUNwOUp0d2tkUFBxU2NsZ0RwQmY3NVpiNnRxNnVwb0R6aS1HN1d6b3d0dVhmOTMyUTJjVlFPTm5OMng5eVpFeGEwa2FMU3JzZWFsTmo5bmRNWTgxeGdJaFVjTDlwb1I1SjBIZWdleEp0RkpvNlU0Vm1iNlFKOEV2VGfSAcsBQVVfeXFMT19tNUx0bE41R0t2R3RPR1pYbXJWR3lLcnZYY1dXdkkzamJaRnEzZEFJZ2h3OHQxQ3Z6Y0djNDNReUl2eXVDYWRjX19IRE8waV9MLXRvMVM0dkRKdUhMV2l2bmI4WHQxMkdOeHNFaWNZUXg3dTZSUjVHRW5sQVQ2YUFrdjJtNjFkamV5NHYxUEVJV0EtYklCd2xPRmFsUDFCYnI4emhqbUVmeFVzWnZvQzhzSGkxbFpmYUZ4cVBMU0ZOX2RfZDY1ektsblU?oc=5",
-   "source": "Simply Wall Street",
-   "impact": 0.9,
-   "tickers": [
-    "GOOGL"
    ],
    "sentiment_label": "bullish",
    "seen_et": "Oct 25 12:07 AM ET",
@@ -1140,7 +1130,7 @@
  "economic_calendar": {
   "source": "FairEconomy / ForexFactory weekly calendar (nfs.faireconomy.media)",
   "fallback": false,
-  "fetched_et": "Oct 25 01:25 AM ET",
+  "fetched_et": "Oct 25 02:36 AM ET",
   "events": [
    {
     "when_et": "Oct 27 08:15 AM ET",
@@ -2972,7 +2962,7 @@
  "sentiment_validation": {
   "logged": 4000,
   "min_sample": 100,
-  "generated_et": "Oct 25 01:59 AM ET",
+  "generated_et": "Oct 25 02:37 AM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
@@ -3071,98 +3061,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 25 01:59 AM ET",
+   "fetched_et": "Oct 25 02:36 AM ET",
    "newest_et": "Oct 24 10:17 PM ET",
    "newest": "2026-10-25T02:17:24+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 25 01:59 AM ET",
+   "fetched_et": "Oct 25 02:36 AM ET",
    "newest_et": "Oct 23 04:49 PM ET",
    "newest": "2026-10-23T20:49:42+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 25 01:59 AM ET",
+   "fetched_et": "Oct 25 02:36 AM ET",
    "newest_et": "Oct 24 11:53 AM ET",
    "newest": "2026-10-24T15:53:30+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 25 01:59 AM ET",
+   "fetched_et": "Oct 25 02:36 AM ET",
    "newest_et": "Oct 24 04:15 PM ET",
    "newest": "2026-10-24T20:15:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 25 01:59 AM ET",
+   "fetched_et": "Oct 25 02:36 AM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 19,
-   "fetched_et": "Oct 25 01:59 AM ET",
-   "newest_et": "Oct 25 01:38 AM ET",
-   "newest": "2026-10-25T05:38:00+00:00"
+   "fetched_et": "Oct 25 02:36 AM ET",
+   "newest_et": "Oct 25 02:05 AM ET",
+   "newest": "2026-10-25T06:05:00+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 55,
-   "fetched_et": "Oct 25 01:59 AM ET",
-   "newest_et": "Oct 24 10:57 PM ET",
-   "newest": "2026-10-25T02:57:30+00:00"
+   "fetched_et": "Oct 25 02:36 AM ET",
+   "newest_et": "Oct 25 02:21 AM ET",
+   "newest": "2026-10-25T06:21:23+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 25 01:59 AM ET",
-   "newest_et": "Oct 24 04:18 AM ET",
-   "newest": "2026-10-24T08:18:18+00:00"
+   "fetched_et": "Oct 25 02:36 AM ET",
+   "newest_et": "Oct 24 09:51 AM ET",
+   "newest": "2026-10-24T13:51:55+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 25 01:59 AM ET",
+   "fetched_et": "Oct 25 02:36 AM ET",
    "newest_et": "Oct 25 12:34 AM ET",
    "newest": "2026-10-25T04:34:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
    "count": 16,
-   "fetched_et": "Oct 25 01:59 AM ET",
+   "fetched_et": "Oct 25 02:36 AM ET",
    "newest_et": "Oct 24 02:58 PM ET",
    "newest": "2026-10-24T18:58:10+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
-   "count": 48,
-   "fetched_et": "Oct 25 01:59 AM ET",
-   "newest_et": "Oct 24 05:28 PM ET",
-   "newest": "2026-10-24T21:28:00+00:00"
+   "count": 23,
+   "fetched_et": "Oct 25 02:36 AM ET",
+   "newest_et": "Oct 24 10:34 PM ET",
+   "newest": "2026-10-25T02:34:30+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 25 01:59 AM ET",
+   "fetched_et": "Oct 25 02:36 AM ET",
    "newest_et": "Oct 16 11:00 AM ET",
    "newest": "2026-10-16T15:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 25 01:59 AM ET",
-   "newest_et": "Oct 25 01:01 AM ET",
-   "newest": "2026-10-25T05:01:01+00:00"
+   "fetched_et": "Oct 25 02:36 AM ET",
+   "newest_et": "Oct 25 02:05 AM ET",
+   "newest": "2026-10-25T06:05:00+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 25,
-   "fetched_et": "Oct 25 01:59 AM ET"
+   "fetched_et": "Oct 25 02:36 AM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
@@ -3172,7 +3162,7 @@
   "Economic calendar": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Oct 25 01:25 AM ET",
+   "fetched_et": "Oct 25 02:36 AM ET",
    "note": "FairEconomy / ForexFactory weekly calendar (nfs.faireconomy.media)"
   }
  }
