@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 25 12:06 AM ET",
- "generated_at": "2026-10-25T00:06:07.974082-04:00",
+ "generated_et": "Oct 25 12:46 AM ET",
+ "generated_at": "2026-10-25T00:46:37.123967-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-25",
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 80750.1,
-   "pct": -0.4,
-   "asof_et": "Oct 25 12:05 AM ET",
+   "price": 80832.34,
+   "pct": -0.3,
+   "asof_et": "Oct 25 12:45 AM ET",
    "freshness": "delayed"
   },
   {
@@ -382,6 +382,38 @@
  ],
  "breaking": [
   {
+   "title": "As AI Labs Burn Cash, the Real Question Is Which Suppliers Get Paid",
+   "link": "https://www.fool.com/investing/2026/10/25/as-ai-labs-burn-cash-the-real-question-is-which-su/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 1.7,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 25 12:46 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Budget to include £1bn for social and affordable housing",
+   "link": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "impact": 1.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 25 12:46 AM ET",
+   "consumer": true
+  },
+  {
+   "title": "Microsoft to lay off 650 people from videogame business: WSJ",
+   "link": "https://www.marketwatch.com/story/microsoft-to-lay-off-650-people-from-videogame-business-wsj-72135ba9?mod=mw_rss_marketpulse",
+   "source": "MarketWatch Pulse",
+   "impact": 0.5,
+   "tickers": [
+    "MSFT"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 25 12:46 AM ET",
+   "consumer": false
+  },
+  {
    "title": "Should Investors Buy the Meta Platforms Dip?",
    "link": "https://www.fool.com/investing/2026/10/24/should-investors-buy-the-meta-platforms-dip/?.tsrc=rss",
    "source": "Yahoo Finance",
@@ -568,40 +600,6 @@
    "sentiment_label": "bullish",
    "seen_et": "Oct 24 10:04 PM ET",
    "consumer": false
-  },
-  {
-   "title": "9 ‘Buy’ recommendations by JM Financial with 31% to 49% upside potential",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYncxR2VQX2RvUC12TUJBZHF1d2FCaWlNek9mX01sOVJuZERreXZTZ2IySUxuV1hYcnRBOWFCYlU5MENqb2p2dXJwMTNMc1ltT1BfaHJXU0FBa29hVlJLemNOdXRqR1dzZnVBR0JLWFB2TDl4SW5qbklGUjJLcVFGblJCWTJGdm1TYlFRQXFWNUJPdWVrZkxoTGgxQm5UUU84eEk2SjB0LU5XUnJZNVBHYUYyMnN3Y3R60gG_AUFVX3lxTE5CZEgzenhMM0dGaVJkQ2JoM1NBRU82b2RnMDZUZ0Y5Tml0LXo3VGdzVnFCZHJJYmVNUDFHbUFwdUlscVBLY3FoNU9ZdWduTkRWZldhSWNUTHV4Vll2TjdRTXFJa1FsdURaXy1PLTR3emV6UURoakgwdFYwX3pFUDg5UUhMTFR3Uk90YXBwb3JnZzhXNG1nY2w4UUtqQUM3bVh6MlBMZWJueWtnc0xtb3pZcWNzY045Um84Nk9EV0tv?oc=5",
-   "source": "The Financial Express",
-   "impact": 0.0,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 24 10:04 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Is Now a Good Time to Buy Lockheed Martin?",
-   "link": "https://www.fool.com/investing/2026/10/24/is-now-a-good-time-to-buy-lockheed-martin/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.0,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 24 09:28 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "How Investors May Respond To Qualcomm Stock Earnings Outlook Concerns",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-qualcomm-stock-011117867.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 4.4,
-   "tickers": [
-    "AAPL",
-    "AMZN",
-    "QCOM"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 24 09:28 PM ET",
-   "consumer": true
   }
  ],
  "high_impact": [],
@@ -2792,7 +2790,7 @@
  "sentiment_validation": {
   "logged": 4000,
   "min_sample": 100,
-  "generated_et": "Oct 25 12:07 AM ET",
+  "generated_et": "Oct 25 12:47 AM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
@@ -2891,98 +2889,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 25 12:06 AM ET",
+   "fetched_et": "Oct 25 12:46 AM ET",
    "newest_et": "Oct 24 10:17 PM ET",
    "newest": "2026-10-25T02:17:24+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 25 12:06 AM ET",
+   "fetched_et": "Oct 25 12:46 AM ET",
    "newest_et": "Oct 23 04:49 PM ET",
    "newest": "2026-10-23T20:49:42+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 25 12:06 AM ET",
+   "fetched_et": "Oct 25 12:46 AM ET",
    "newest_et": "Oct 24 11:53 AM ET",
    "newest": "2026-10-24T15:53:30+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 25 12:06 AM ET",
+   "fetched_et": "Oct 25 12:46 AM ET",
    "newest_et": "Oct 24 04:15 PM ET",
    "newest": "2026-10-24T20:15:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 25 12:06 AM ET",
+   "fetched_et": "Oct 25 12:46 AM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 25 12:06 AM ET",
-   "newest_et": "Oct 24 11:20 PM ET",
-   "newest": "2026-10-25T03:20:00+00:00"
+   "fetched_et": "Oct 25 12:46 AM ET",
+   "newest_et": "Oct 25 12:20 AM ET",
+   "newest": "2026-10-25T04:20:00+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 55,
-   "fetched_et": "Oct 25 12:06 AM ET",
-   "newest_et": "Oct 24 07:15 PM ET",
-   "newest": "2026-10-24T23:15:18+00:00"
+   "fetched_et": "Oct 25 12:46 AM ET",
+   "newest_et": "Oct 24 10:57 PM ET",
+   "newest": "2026-10-25T02:57:30+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 25 12:06 AM ET",
+   "fetched_et": "Oct 25 12:46 AM ET",
    "newest_et": "Oct 24 04:18 AM ET",
    "newest": "2026-10-24T08:18:18+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 25 12:06 AM ET",
-   "newest_et": "Oct 24 11:16 PM ET",
-   "newest": "2026-10-25T03:16:00+00:00"
+   "fetched_et": "Oct 25 12:46 AM ET",
+   "newest_et": "Oct 24 11:36 PM ET",
+   "newest": "2026-10-25T03:36:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 18,
-   "fetched_et": "Oct 25 12:06 AM ET",
+   "count": 17,
+   "fetched_et": "Oct 25 12:46 AM ET",
    "newest_et": "Oct 24 02:58 PM ET",
    "newest": "2026-10-24T18:58:10+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
    "count": 46,
-   "fetched_et": "Oct 25 12:06 AM ET",
+   "fetched_et": "Oct 25 12:46 AM ET",
    "newest_et": "Oct 24 05:28 PM ET",
    "newest": "2026-10-24T21:28:00+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 25 12:06 AM ET",
+   "fetched_et": "Oct 25 12:46 AM ET",
    "newest_et": "Oct 16 11:00 AM ET",
    "newest": "2026-10-16T15:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 25 12:06 AM ET",
-   "newest_et": "Oct 24 11:20 PM ET",
-   "newest": "2026-10-25T03:20:00+00:00"
+   "fetched_et": "Oct 25 12:46 AM ET",
+   "newest_et": "Oct 25 12:20 AM ET",
+   "newest": "2026-10-25T04:20:00+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Oct 25 12:06 AM ET"
+   "fetched_et": "Oct 25 12:46 AM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
