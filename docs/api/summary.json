@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 25 06:19 PM ET",
- "generated_at": "2026-10-25T18:19:58.292123-04:00",
+ "generated_et": "Oct 25 06:53 PM ET",
+ "generated_at": "2026-10-25T18:53:28.599005-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-25",
@@ -12,33 +12,33 @@
   {
    "symbol": "ES=F",
    "label": "S&P 500 Fut",
-   "price": 7691.25,
-   "pct": 0.41,
-   "asof_et": "Oct 25 06:10 PM ET",
+   "price": 7693.25,
+   "pct": 0.44,
+   "asof_et": "Oct 25 06:40 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "NQ=F",
    "label": "Nasdaq 100 Fut",
-   "price": 29291.25,
-   "pct": 0.6,
-   "asof_et": "Oct 25 06:10 PM ET",
+   "price": 29313.25,
+   "pct": 0.67,
+   "asof_et": "Oct 25 06:40 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "YM=F",
    "label": "Dow Fut",
-   "price": 52528.0,
-   "pct": 0.26,
-   "asof_et": "Oct 25 06:10 PM ET",
+   "price": 52547.0,
+   "pct": 0.29,
+   "asof_et": "Oct 25 06:40 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "RTY=F",
    "label": "Russell 2000 Fut",
-   "price": 2795.9,
-   "pct": 0.41,
-   "asof_et": "Oct 25 06:10 PM ET",
+   "price": 2797.8,
+   "pct": 0.48,
+   "asof_et": "Oct 25 06:40 PM ET",
    "freshness": "delayed"
   },
   {
@@ -84,17 +84,17 @@
   {
    "symbol": "CL=F",
    "label": "WTI Crude",
-   "price": 101.7,
-   "pct": -1.52,
-   "asof_et": "Oct 25 06:10 PM ET",
+   "price": 101.94,
+   "pct": -1.29,
+   "asof_et": "Oct 25 06:40 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "GC=F",
    "label": "Gold",
-   "price": 4010.5,
-   "pct": 0.06,
-   "asof_et": "Oct 25 06:10 PM ET",
+   "price": 4015.9,
+   "pct": 0.2,
+   "asof_et": "Oct 25 06:40 PM ET",
    "freshness": "delayed"
   },
   {
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 80475.49,
-   "pct": -0.39,
-   "asof_et": "Oct 25 06:20 PM ET",
+   "price": 80448.62,
+   "pct": -0.42,
+   "asof_et": "Oct 25 06:50 PM ET",
    "freshness": "delayed"
   },
   {
@@ -382,6 +382,109 @@
  ],
  "breaking": [
   {
+   "title": "Brazil's Lula takes early lead in presidential runoff vote",
+   "link": "https://www.cnbc.com/2026/10/25/brazil-lula-bolsonaro-presidential-election-runoff.html",
+   "source": "CNBC Top News",
+   "impact": 1.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 25 06:53 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Can Bitcoin Double in Value During the Next Crypto Bull Market?",
+   "link": "https://www.fool.com/investing/2026/10/25/can-crypto-double-in-value-during-the-next-crypto/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.3,
+   "tickers": [
+    "BTC-USD",
+    "COIN"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 25 06:53 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Stock Futures Are Rising Ahead of Fed Decision",
+   "link": "https://finance.yahoo.com/m/6aa0a251-3626-3c5e-9bb0-32356c21ae2b/stock-futures-are-rising.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 6.4,
+   "tickers": [
+    "SPY",
+    "^TNX"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 25 06:53 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Why Is Microsoft (MSFT) Central To AI Cyberattacks And Digital Patient Twins?",
+   "link": "https://finance.yahoo.com/technology/ai/articles/why-microsoft-msft-central-ai-220628516.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.1,
+   "tickers": [
+    "MSFT"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 25 06:53 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Elon Musk Says 200+ AI Cloud Firms Face Wipeout: Will CoreWeave Survive?",
+   "link": "https://beincrypto.com/musk-ai-cloud-firms-coreweave-debt/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.6,
+   "tickers": [
+    "TSLA"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 25 06:53 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Mexico orders that former state attorney general face trial on unusual treason charge",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZlE2REE0NjRIbEpTcGlPQzBNTEdrWFVvT1ZoZXFfWTE3MjhfSWVtOEIwdkp6RDNZN2lrLUpJc3pjcU5HVzd2SnVCM1pBc3VIbmNuSG1QQkJqM29oUXVQbjlRQXk2dFBjR3NnbVY1SGpISDE1QTF1bnhxdDJ0RDJUZmJ3SUtZODRLR1ZrTVVHc3Q4T1IzMHJIUzBsSkZETnUyVnJpQlhn?oc=5",
+   "source": "AP News",
+   "impact": 2.3,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 25 06:53 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Smith & Nephew orthopaedics deal talks with J&J fail over CEO choice, source says",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNEFJUEg3ZF9EUDdXNENKUTFJOWdDZHFTVkIzd0VTckhBQk1yTzl3dlpKSFExMFg5RUp4NGJLby0xQzFxVWhOeVJGN3JDRU1hM2RnNlUtcDV5d1JBQkh5dk9lUndabzZ3NGlHaGdwY1hnTGEwcW9kRG5aT2NhRzNuYTRfTVFtOGJlSlZRcHhNdnVEQlJXODJOTVBQUTI3S3pPNmdMVmd5NmNxR1RkYkxnUmpYYzhRTEZTWkZUSkpZNDBXa2tsM296YmkyMUdfQQ?oc=5",
+   "source": "Reuters",
+   "impact": 1.5,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 25 06:53 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "US authorizes emergency release of up to 400,000 oil barrels from strategic reserve",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN09NY3ROanZFXzE0MUt5cTZmYkozTFNRNng5X0tUUkhHeENpY3oxTlBYVG5HWmdVdnhYcFhmZnhaRTlxWlZMRXZmczNqZTRUbzlJWnJ3WFVURmJORklmeVd0WG03VzY1VVl3THUwT0pxTUNXQVRiLWFFSUU4ZnFKZXdjZHhzNXItQ0NWb1Y3N3NERW1IUHkyMjRoclBqRXZyN1dMVTZRblB6TGFXZTZuQ1hmb1lCeUtOQkhKY0RjdEE?oc=5",
+   "source": "Reuters",
+   "impact": 1.7,
+   "tickers": [
+    "CL=F",
+    "XLE"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 25 06:53 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "What is PHP and why did it spark a global cyber-security scramble?",
+   "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "impact": 0.3,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 25 06:53 PM ET",
+   "consumer": false
+  },
+  {
    "title": "Stock futures climb as traders try to recover from the S&P 500's losing week: Live updates",
    "link": "https://www.cnbc.com/2026/10/25/stock-market-today-live-updates.html",
    "source": "CNBC Top News",
@@ -498,102 +601,6 @@
    "tickers": [],
    "sentiment_label": "neutral",
    "seen_et": "Oct 25 06:20 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Retail investors pull back, but household stock demand remains strong: Goldman Sachs",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSERYdmdKYnpCYjRTcTdpT2FzaWlmYThQeXAyT2ZoT2NrOXJMV0J3cEt3OG42YVoxY3BMaXZxVVRRV0tsRFpxaldiUEtzRjFiZ2RxTkF2alBhYVNDU1JMSzNVQlNJZFpqcDl1c3RXM1VZMW92Z25weVJNY1U2dUdCSFh4YmZGNm5GblM4eEQyc1VqX2tKeTlzYXZaRkNsWHpVWVRRVUoyMG9Dek1hd1VMdXY1d3dCdVd2NEhENk1RUXdzUzczM2xuWlBKVDJNeTFlanRYbEtIZmQwSDMxYXc?oc=5",
-   "source": "TradingView",
-   "impact": 2.6,
-   "tickers": [
-    "GS"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 25 06:20 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "Trump invokes 9/11 in urging Michigan voters to oppose Muslim Senate candidate El-Sayed",
-   "link": "https://www.cnbc.com/2026/10/25/trump-invokes-911-in-urging-michigan-voters-to-oppose-el-sayed.html",
-   "source": "CNBC Top News",
-   "impact": 1.8,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 25 05:55 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Stock-Split Watch: Is Sandisk Next?",
-   "link": "https://www.fool.com/investing/2026/10/25/stock-split-watch-is-sandisk-next/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 1.5,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 25 05:55 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Serbia’s strongman leader Vucic concedes defeat to student-led movement in seismic political shift",
-   "link": "https://www.cnbc.com/2026/10/25/serbia-leader-vucic-concedes-defeat-to-student-led-movement.html",
-   "source": "CNBC Top News",
-   "impact": 1.9,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 25 05:55 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Brazil pauses presidential vote count after Supreme Court extends voting hours",
-   "link": "https://www.cnbc.com/2026/10/25/brazil-lula-bolsonaro-presidential-election-runoff.html",
-   "source": "CNBC Top News",
-   "impact": 2.2,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 25 05:55 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "‘You Can See Everything’ surges with $19.5M at box office; ‘Clayface’ takes No. 1",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdjd0U0NxT0FUZFNOMmFKekJCWlNBMjYwTHFyZE0talM4cFhmM1pHV1JwWTloRHlPOV9Dbk9tZ2t6WER5MXdHejVtYy13d0NBeXRlckxILXd4a01mQ3ZxcHZQQkZMbVFicEFSd3RaTmthTU9RenFHSDRnYlIyTE9BS1J0X1JuZFk4YTgtM2NvQmNuRGtleDdsc0ctYUdPTklYRnRGb05mbDB3Si1sWVE?oc=5",
-   "source": "AP News",
-   "impact": 3.3,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 25 05:55 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Buckle insider sells 2,500 shares, with a USD 46.00 target for Buckle stock",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYnFoakpsXzI5ekxHanFwTDlMRGcwZDluSjBGU3lHc0dtYldia3FjalRqSXpLbURab3pjM0lEbzZvNWU5RFQteXc5M1pjRE9xVTVndUsyekRPRmE5NXdwV21TcmI0SDlueUJKT3VMSFNKakU1U2VzUklkTXhWM1B6ZUtxQzdzQzg1UVd6SlZjTXdfbDY5OEJ0U0ZKQU0xa0VBeG9WMnlUTFhzNGppNW53QTBWeUNvVWhSQUZYb0pwRGI1WjZIN2N6amYwaVFoQQ?oc=5",
-   "source": "ad-hoc-news.de",
-   "impact": 1.7,
-   "tickers": [
-    "TGT"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 25 05:55 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "TSMC Faces Revenue 'Uncertainty' In 2028-29 As AI Investments Need To Prove Their Returns, Morningstar Analyst Says",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNmFsNzl4TU16dUxqTXhCMVlNcXZvSXJ0ZWJKSU1OcDRpTnJwdkZxN3RHTmpGSUV5Nnh0Um12SG5ibTJGZUhQUVN4ZmtXQUdheXJmcVVzRm9qZWdNQWdmTG02dFl5V2dQLXJuUUVBeTBjZ0hhZDdhc3FqRko2ZVg2TEljNE9lV0pTSjlIUVBvYllOY19BQmZDME9KMHduZ2RWVWM2b09XQlNveEYzQnBJUzFSWXRZU0ROUXNhbkZvTE5nbEFfSnc?oc=5",
-   "source": "Stocktwits",
-   "impact": 1.7,
-   "tickers": [
-    "TSM"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 25 05:55 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "More pain may be coming for the AI trade. Why I’m not giving up on it",
-   "link": "https://www.cnbc.com/investingclub/2026/10/25/jim-cramer-ai-trade-nvidia-coreweave.html",
-   "source": "CNBC Top News",
-   "impact": 2.3,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 25 05:23 PM ET",
    "consumer": false
   }
  ],
@@ -2983,21 +2990,21 @@
  "sentiment_validation": {
   "logged": 4000,
   "min_sample": 100,
-  "generated_et": "Oct 25 06:20 PM ET",
+  "generated_et": "Oct 25 06:53 PM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
-    "n_scored": 3645,
-    "n_directional": 3031,
+    "n_scored": 3640,
+    "n_directional": 3026,
     "hit_rate": 47.8,
     "ci95": 1.8,
-    "corr": 0.003,
+    "corr": 0.002,
     "status": "NO EDGE (≈ coin flip)"
    },
    "r1d": {
     "name": "+1 day",
-    "n_scored": 3173,
-    "n_directional": 2685,
+    "n_scored": 3168,
+    "n_directional": 2680,
     "hit_rate": 45.1,
     "ci95": 1.9,
     "corr": -0.067,
@@ -3082,98 +3089,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 25 06:19 PM ET",
-   "newest_et": "Oct 25 06:12 PM ET",
-   "newest": "2026-10-25T22:12:38+00:00"
+   "fetched_et": "Oct 25 06:53 PM ET",
+   "newest_et": "Oct 25 06:53 PM ET",
+   "newest": "2026-10-25T22:53:01+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 25 06:19 PM ET",
+   "fetched_et": "Oct 25 06:53 PM ET",
    "newest_et": "Oct 23 04:49 PM ET",
    "newest": "2026-10-23T20:49:42+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 25 06:19 PM ET",
+   "fetched_et": "Oct 25 06:53 PM ET",
    "newest_et": "Oct 25 08:00 AM ET",
    "newest": "2026-10-25T12:00:01+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 25 06:19 PM ET",
+   "fetched_et": "Oct 25 06:53 PM ET",
    "newest_et": "Oct 25 04:15 PM ET",
    "newest": "2026-10-25T20:15:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 25 06:19 PM ET",
+   "fetched_et": "Oct 25 06:53 PM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
-   "count": 20,
-   "fetched_et": "Oct 25 06:19 PM ET",
-   "newest_et": "Oct 25 06:05 PM ET",
-   "newest": "2026-10-25T22:05:15+00:00"
+   "count": 19,
+   "fetched_et": "Oct 25 06:53 PM ET",
+   "newest_et": "Oct 25 06:38 PM ET",
+   "newest": "2026-10-25T22:38:05+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 55,
-   "fetched_et": "Oct 25 06:19 PM ET",
+   "fetched_et": "Oct 25 06:53 PM ET",
    "newest_et": "Oct 25 06:03 AM ET",
    "newest": "2026-10-25T10:03:17+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 25 06:19 PM ET",
-   "newest_et": "Oct 25 06:12 PM ET",
-   "newest": "2026-10-25T22:12:09+00:00"
+   "fetched_et": "Oct 25 06:53 PM ET",
+   "newest_et": "Oct 25 06:15 PM ET",
+   "newest": "2026-10-25T22:15:11+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 25 06:20 PM ET",
+   "fetched_et": "Oct 25 06:53 PM ET",
    "newest_et": "Oct 25 05:11 PM ET",
    "newest": "2026-10-25T21:11:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
    "count": 33,
-   "fetched_et": "Oct 25 06:20 PM ET",
-   "newest_et": "Oct 25 05:14 PM ET",
-   "newest": "2026-10-25T21:14:40+00:00"
+   "fetched_et": "Oct 25 06:53 PM ET",
+   "newest_et": "Oct 25 05:21 PM ET",
+   "newest": "2026-10-25T21:21:57+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
-   "count": 57,
-   "fetched_et": "Oct 25 06:20 PM ET",
+   "count": 56,
+   "fetched_et": "Oct 25 06:53 PM ET",
    "newest_et": "Oct 25 02:43 PM ET",
    "newest": "2026-10-25T18:43:00+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 25 06:20 PM ET",
+   "fetched_et": "Oct 25 06:53 PM ET",
    "newest_et": "Oct 16 11:00 AM ET",
    "newest": "2026-10-16T15:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 25 06:20 PM ET",
+   "fetched_et": "Oct 25 06:53 PM ET",
    "newest_et": "Oct 25 05:49 PM ET",
    "newest": "2026-10-25T21:49:00+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Oct 25 06:19 PM ET"
+   "fetched_et": "Oct 25 06:53 PM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
