@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 24 07:38 PM ET",
- "generated_at": "2026-10-24T19:38:58.915019-04:00",
+ "generated_et": "Oct 24 08:01 PM ET",
+ "generated_at": "2026-10-24T20:01:34.695143-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-24",
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 80779.58,
-   "pct": -0.36,
-   "asof_et": "Oct 24 07:35 PM ET",
+   "price": 80712.09,
+   "pct": -0.45,
+   "asof_et": "Oct 24 08:00 PM ET",
    "freshness": "delayed"
   },
   {
@@ -379,6 +379,41 @@
  ],
  "breaking": [
   {
+   "title": "Flying Cars, Smart Homes, and Cracks in the AI Boom",
+   "link": "https://www.fool.com/investing/2026/10/24/flying-cars-smart-homes-and-cracks-in-the-ai-boom/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.0,
+   "tickers": [
+    "AAPL",
+    "TSLA"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 24 08:02 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "UPS Stock Is Down 57% From Its Record. Is It a Buy Before Its Oct. 27 Report?",
+   "link": "https://www.fool.com/investing/2026/10/24/ups-stock-is-down-57-from-its-record-is-it-a-buy-before-its-oct-27-report/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.0,
+   "tickers": [
+    "UPS"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 24 08:02 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Hoover's TD run lifts No. 6 Indiana to 13-6 OT win at Michigan, its 1st win at Big House since 1967",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONDdlVUF1Nl9lLWFIeEpnblp4MU1aVUpBYWFQWlA0LW9kb2ROQUlnWDlQSWRXNGRXdTRQMHR3THdwYTgxdktNSVRmcFJjV2lNenhDUnpLRmMtRC1CSW1JV3JVd0lXLW5IQk5LME9OdTBtOXdzTTY4QnExQTM3Vi1FcnBmMGJLR2dCRUE?oc=5",
+   "source": "AP News",
+   "impact": 2.5,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 24 08:02 PM ET",
+   "consumer": false
+  },
+  {
    "title": "Forget the FDA Delay: 3 Reasons Exelixis Is Still a Buy",
    "link": "https://www.fool.com/investing/2026/10/24/forget-the-fda-delay-3-reasons-exelixis-is-still-a/?.tsrc=rss",
    "source": "Yahoo Finance",
@@ -565,38 +600,6 @@
    "tickers": [],
    "sentiment_label": "neutral",
    "seen_et": "Oct 24 06:42 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Obama, in Ohio, assails 'cruelty' and indecency from Trump and his allies in the midterm campaign",
-   "link": "https://www.cnbc.com/2026/10/24/obama-ohio-midterm-elections.html",
-   "source": "CNBC Top News",
-   "impact": 2.2,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 24 06:08 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Netflix Stock Has Always Overcome the Odds. Has It Finally Hit a Wall?",
-   "link": "https://www.fool.com/investing/2026/10/24/netflix-stock-has-always-overcome-the-odds-has-it/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.0,
-   "tickers": [
-    "NFLX"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 24 06:08 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Jim Cramer warns investors against going all-in on Warren Buffett",
-   "link": "https://www.thestreet.com/investing/jim-cramer-berkshire-hathaway-inheritance?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.1,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 24 06:08 PM ET",
    "consumer": false
   }
  ],
@@ -801,7 +804,7 @@
  "movers": {
   "mode": "last session (market not in pre-market)",
   "basis": "opening gap (open vs prior close) of the last session; RVOL = session volume / 20-day avg",
-  "fetched_et": "Oct 24 04:41 PM ET",
+  "fetched_et": "Oct 24 08:01 PM ET",
   "gappers": [
    {
     "symbol": "CCI",
@@ -2788,12 +2791,12 @@
  "sentiment_validation": {
   "logged": 4000,
   "min_sample": 100,
-  "generated_et": "Oct 24 07:39 PM ET",
+  "generated_et": "Oct 24 08:02 PM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
-    "n_scored": 3798,
-    "n_directional": 3160,
+    "n_scored": 3795,
+    "n_directional": 3158,
     "hit_rate": 48.0,
     "ci95": 1.7,
     "corr": 0.003,
@@ -2801,8 +2804,8 @@
    },
    "r1d": {
     "name": "+1 day",
-    "n_scored": 3326,
-    "n_directional": 2815,
+    "n_scored": 3323,
+    "n_directional": 2813,
     "hit_rate": 45.3,
     "ci95": 1.8,
     "corr": -0.065,
@@ -2887,98 +2890,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 07:38 PM ET",
+   "fetched_et": "Oct 24 08:01 PM ET",
    "newest_et": "Oct 24 06:55 PM ET",
    "newest": "2026-10-24T22:55:06+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 07:38 PM ET",
+   "fetched_et": "Oct 24 08:01 PM ET",
    "newest_et": "Oct 23 04:49 PM ET",
    "newest": "2026-10-23T20:49:42+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 07:38 PM ET",
+   "fetched_et": "Oct 24 08:01 PM ET",
    "newest_et": "Oct 24 11:53 AM ET",
    "newest": "2026-10-24T15:53:30+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 24 07:38 PM ET",
+   "fetched_et": "Oct 24 08:01 PM ET",
    "newest_et": "Oct 24 04:15 PM ET",
    "newest": "2026-10-24T20:15:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 07:38 PM ET",
+   "fetched_et": "Oct 24 08:01 PM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 24 07:38 PM ET",
-   "newest_et": "Oct 24 07:20 PM ET",
-   "newest": "2026-10-24T23:20:00+00:00"
+   "fetched_et": "Oct 24 08:01 PM ET",
+   "newest_et": "Oct 24 07:50 PM ET",
+   "newest": "2026-10-24T23:50:02+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 55,
-   "fetched_et": "Oct 24 07:39 PM ET",
+   "fetched_et": "Oct 24 08:01 PM ET",
    "newest_et": "Oct 24 07:15 PM ET",
    "newest": "2026-10-24T23:15:18+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 24 07:39 PM ET",
+   "fetched_et": "Oct 24 08:01 PM ET",
    "newest_et": "Oct 24 04:18 AM ET",
    "newest": "2026-10-24T08:18:18+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 24 07:39 PM ET",
-   "newest_et": "Oct 24 05:05 PM ET",
-   "newest": "2026-10-24T21:05:00+00:00"
+   "fetched_et": "Oct 24 08:01 PM ET",
+   "newest_et": "Oct 24 05:31 PM ET",
+   "newest": "2026-10-24T21:31:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 17,
-   "fetched_et": "Oct 24 07:39 PM ET",
+   "count": 16,
+   "fetched_et": "Oct 24 08:01 PM ET",
    "newest_et": "Oct 24 02:03 PM ET",
    "newest": "2026-10-24T18:03:50+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
-   "count": 46,
-   "fetched_et": "Oct 24 07:39 PM ET",
+   "count": 45,
+   "fetched_et": "Oct 24 08:01 PM ET",
    "newest_et": "Oct 24 04:33 PM ET",
    "newest": "2026-10-24T20:33:58+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 24 07:39 PM ET",
+   "fetched_et": "Oct 24 08:01 PM ET",
    "newest_et": "Oct 16 11:00 AM ET",
    "newest": "2026-10-16T15:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 24 07:39 PM ET",
-   "newest_et": "Oct 24 07:20 PM ET",
-   "newest": "2026-10-24T23:20:00+00:00"
+   "fetched_et": "Oct 24 08:01 PM ET",
+   "newest_et": "Oct 24 07:38 PM ET",
+   "newest": "2026-10-24T23:38:01+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Oct 24 07:38 PM ET"
+   "fetched_et": "Oct 24 08:01 PM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
