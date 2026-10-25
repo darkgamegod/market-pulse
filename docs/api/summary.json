@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 24 10:03 PM ET",
- "generated_at": "2026-10-24T22:03:55.847200-04:00",
+ "generated_et": "Oct 24 10:46 PM ET",
+ "generated_at": "2026-10-24T22:46:19.261034-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-24",
@@ -12,8 +12,8 @@
   {
    "symbol": "ES=F",
    "label": "S&P 500 Fut",
-   "price": 7659.75,
-   "pct": -0.58,
+   "price": 7672.5,
+   "pct": -0.42,
    "asof_et": "Oct 23 05:00 PM ET",
    "freshness": "closed"
   },
@@ -28,16 +28,16 @@
   {
    "symbol": "YM=F",
    "label": "Dow Fut",
-   "price": 52394.0,
-   "pct": -1.27,
+   "price": 52451.0,
+   "pct": -1.16,
    "asof_et": "Oct 23 04:55 PM ET",
    "freshness": "closed"
   },
   {
    "symbol": "RTY=F",
    "label": "Russell 2000 Fut",
-   "price": 2784.5,
-   "pct": -0.41,
+   "price": 2788.7,
+   "pct": -0.26,
    "asof_et": "Oct 23 04:55 PM ET",
    "freshness": "closed"
   },
@@ -84,8 +84,8 @@
   {
    "symbol": "CL=F",
    "label": "WTI Crude",
-   "price": 103.27,
-   "pct": 3.82,
+   "price": 103.44,
+   "pct": 3.99,
    "asof_et": "Oct 23 04:55 PM ET",
    "freshness": "closed"
   },
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 80784.96,
-   "pct": -0.36,
-   "asof_et": "Oct 24 10:00 PM ET",
+   "price": 80863.61,
+   "pct": -0.26,
+   "asof_et": "Oct 24 10:45 PM ET",
    "freshness": "delayed"
   },
   {
@@ -379,6 +379,68 @@
  ],
  "breaking": [
   {
+   "title": "Constellation, Vistra, and GE Vernova Ranked From Worst to First for the AI Power Boom",
+   "link": "https://www.fool.com/investing/2026/10/24/constellation-vistra-and-ge-vernova-ranked-from-wo/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.0,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 24 10:46 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Trump announces Audi will build $4 billion U.S. factory in Georgia",
+   "link": "https://www.cnbc.com/2026/10/24/trump-audi-factory-georgia.html",
+   "source": "CNBC Top News",
+   "impact": 1.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 24 10:46 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Nvidia’s Jensen Huang Says AI Agents Have Sent Token, GPU Demand ‘Through the Roof’: Gene Munster Sees 15 Million Bot Users Soaring to Billions",
+   "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-jensen-huang-says-ai-013010925.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.7,
+   "tickers": [
+    "NVDA"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 24 10:46 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "New York's archdiocese and survivors of clergy abuse agree to $800 million legal settlement",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb2NYNmd4a3R2Z1ZrYmRQQW9sUkZ2ZmQtcUZYXzl3U25nT3R2bG5jM3IwOTFLTXdqRjV3QzFaaHpNNzAwQ294RDJHc21xZFYxeldTTHBQMzVLRTBWV3k0ZlUxU3hEeVNtY3VsbkpXQnRzVzhlRXRHQUc1MzNXbFFCQTBBUUw5Q3R3UVhUQ19pX0dEcEVXdnBzaXhodVdtUi1aQTdYSW0xUlJNUFpPX3hF?oc=5",
+   "source": "AP News",
+   "impact": 2.0,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 24 10:46 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "DPZ Stock Risks Ending Two-Week Rally: Domino’s CEO Flags ‘Items Per Order’ Pressure Amid Slowing Q3 Growth",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdGZVWGxXRjh1NGNtNWVTeF9QM1ZpczdOUTRUZEpTOEIyS3J0Qjg5QjhzVkRITktwaVBrTzNuMG9URnZFLW9SdDhueDlmRm1XejBtY2VaemRBcjdTS0RadmczN3U2bUp3OGJxYkdmNXNEckZxOVFuOEYtR21MamtwOW16VGs1Wk1JR29EeXRrcC1FLWFBdy1MdDF5a0tQMlZtdFR4eDhfVnFmeGRsWEpxaG0tRkhDamZibmF4c3g1M1RlMmRBVi1jb1RR?oc=5",
+   "source": "Stocktwits",
+   "impact": 2.4,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 24 10:46 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Why the UK is dithering over what to do about e-scooters",
+   "link": "https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "impact": 0.5,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 24 10:46 PM ET",
+   "consumer": false
+  },
+  {
    "title": "Rocket Lab Just Postponed Its Neutron Launch. Again.",
    "link": "https://www.fool.com/investing/2026/10/24/rocket-lab-just-postponed-its-neutron-launch-again/?.tsrc=rss",
    "source": "Yahoo Finance",
@@ -532,71 +594,6 @@
    "tickers": [],
    "sentiment_label": "bearish",
    "seen_et": "Oct 24 08:54 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Fire breaks out at Quaker Oats plant in Cedar Rapids, Iowa; no injuries",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTUR4Q2lYcUhWT05EYTdBLWVjWDgyOFpnYUE5TkVuelJXS245eGJjUGtnb1RXZmRKUUxNbFFhVkVJaWZaZ0dSV0JNSDBORUJQRHBtaTdzRHVlbUc1aUxwY3d2UUY4dnBqWGJVZ0pScC1NZEl3c1BQRURNM2FkMjJxcnFQYjhlek1vTzhGTVRaeGlHcE9ORDJUdGJ3?oc=5",
-   "source": "AP News",
-   "impact": 2.1,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 24 08:54 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Still more rain, evacuations remain in place from Four Corners region flooding",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVlh5NHFzcEpNNm00RzQzNnhXRjFzMl9BTUFjWGZhUGFHaVowcF9BeG1ZaXhpTWRTbzlJdHl3N3pWUHFpeUFEaXYtOUxNaHp0SmJCckgzakpxYTRDYUx5MDNiNlhVSHpTZmh4bEVtalI5YnFFOGtqbV9YNzMzMzVTZkRoVVVZelVqNnNQaU9NaHcySkZjWWlxOG1NdGNCU3RheGJkUWFneUp1NmE5b2FmSUx3?oc=5",
-   "source": "AP News",
-   "impact": 1.3,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 24 08:54 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Flying Cars, Smart Homes, and Cracks in the AI Boom",
-   "link": "https://www.fool.com/investing/2026/10/24/flying-cars-smart-homes-and-cracks-in-the-ai-boom/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.0,
-   "tickers": [
-    "AAPL",
-    "TSLA"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 24 08:02 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "UPS Stock Is Down 57% From Its Record. Is It a Buy Before Its Oct. 27 Report?",
-   "link": "https://www.fool.com/investing/2026/10/24/ups-stock-is-down-57-from-its-record-is-it-a-buy-before-its-oct-27-report/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.0,
-   "tickers": [
-    "UPS"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 24 08:02 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "Hoover's TD run lifts No. 6 Indiana to 13-6 OT win at Michigan, its 1st win at Big House since 1967",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONDdlVUF1Nl9lLWFIeEpnblp4MU1aVUpBYWFQWlA0LW9kb2ROQUlnWDlQSWRXNGRXdTRQMHR3THdwYTgxdktNSVRmcFJjV2lNenhDUnpLRmMtRC1CSW1JV3JVd0lXLW5IQk5LME9OdTBtOXdzTTY4QnExQTM3Vi1FcnBmMGJLR2dCRUE?oc=5",
-   "source": "AP News",
-   "impact": 2.5,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 24 08:02 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Forget the FDA Delay: 3 Reasons Exelixis Is Still a Buy",
-   "link": "https://www.fool.com/investing/2026/10/24/forget-the-fda-delay-3-reasons-exelixis-is-still-a/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 1.6,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 24 07:39 PM ET",
    "consumer": false
   }
  ],
@@ -2788,11 +2785,11 @@
  "sentiment_validation": {
   "logged": 4000,
   "min_sample": 100,
-  "generated_et": "Oct 24 10:04 PM ET",
+  "generated_et": "Oct 24 10:46 PM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
-    "n_scored": 3790,
+    "n_scored": 3789,
     "n_directional": 3156,
     "hit_rate": 48.0,
     "ci95": 1.7,
@@ -2801,7 +2798,7 @@
    },
    "r1d": {
     "name": "+1 day",
-    "n_scored": 3318,
+    "n_scored": 3317,
     "n_directional": 2811,
     "hit_rate": 45.2,
     "ci95": 1.8,
@@ -2887,98 +2884,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 10:03 PM ET",
-   "newest_et": "Oct 24 06:55 PM ET",
-   "newest": "2026-10-24T22:55:06+00:00"
+   "fetched_et": "Oct 24 10:46 PM ET",
+   "newest_et": "Oct 24 10:17 PM ET",
+   "newest": "2026-10-25T02:17:24+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 10:03 PM ET",
+   "fetched_et": "Oct 24 10:46 PM ET",
    "newest_et": "Oct 23 04:49 PM ET",
    "newest": "2026-10-23T20:49:42+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 10:03 PM ET",
+   "fetched_et": "Oct 24 10:46 PM ET",
    "newest_et": "Oct 24 11:53 AM ET",
    "newest": "2026-10-24T15:53:30+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 24 10:03 PM ET",
+   "fetched_et": "Oct 24 10:46 PM ET",
    "newest_et": "Oct 24 04:15 PM ET",
    "newest": "2026-10-24T20:15:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 24 10:03 PM ET",
+   "fetched_et": "Oct 24 10:46 PM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 24 10:03 PM ET",
-   "newest_et": "Oct 24 09:50 PM ET",
-   "newest": "2026-10-25T01:50:00+00:00"
+   "fetched_et": "Oct 24 10:46 PM ET",
+   "newest_et": "Oct 24 10:35 PM ET",
+   "newest": "2026-10-25T02:35:00+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 55,
-   "fetched_et": "Oct 24 10:03 PM ET",
+   "fetched_et": "Oct 24 10:46 PM ET",
    "newest_et": "Oct 24 07:15 PM ET",
    "newest": "2026-10-24T23:15:18+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 24 10:03 PM ET",
+   "fetched_et": "Oct 24 10:46 PM ET",
    "newest_et": "Oct 24 04:18 AM ET",
    "newest": "2026-10-24T08:18:18+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 24 10:03 PM ET",
-   "newest_et": "Oct 24 09:06 PM ET",
-   "newest": "2026-10-25T01:06:00+00:00"
+   "fetched_et": "Oct 24 10:46 PM ET",
+   "newest_et": "Oct 24 09:44 PM ET",
+   "newest": "2026-10-25T01:44:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 17,
-   "fetched_et": "Oct 24 10:03 PM ET",
-   "newest_et": "Oct 24 02:03 PM ET",
-   "newest": "2026-10-24T18:03:50+00:00"
+   "count": 16,
+   "fetched_et": "Oct 24 10:46 PM ET",
+   "newest_et": "Oct 24 10:25 AM ET",
+   "newest": "2026-10-24T14:25:58+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
-   "count": 44,
-   "fetched_et": "Oct 24 10:03 PM ET",
+   "count": 45,
+   "fetched_et": "Oct 24 10:46 PM ET",
    "newest_et": "Oct 24 04:13 PM ET",
    "newest": "2026-10-24T20:13:00+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 24 10:03 PM ET",
+   "fetched_et": "Oct 24 10:46 PM ET",
    "newest_et": "Oct 16 11:00 AM ET",
    "newest": "2026-10-16T15:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 24 10:04 PM ET",
-   "newest_et": "Oct 24 09:20 PM ET",
-   "newest": "2026-10-25T01:20:00+00:00"
+   "fetched_et": "Oct 24 10:46 PM ET",
+   "newest_et": "Oct 24 10:35 PM ET",
+   "newest": "2026-10-25T02:35:00+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Oct 24 10:03 PM ET"
+   "fetched_et": "Oct 24 10:46 PM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
