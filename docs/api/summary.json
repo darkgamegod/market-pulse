@@ -1,36 +1,44 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 25 11:30 PM ET",
- "generated_at": "2026-10-25T23:30:14.292061-04:00",
+ "generated_et": "Oct 26 12:12 AM ET",
+ "generated_at": "2026-10-26T00:12:31.241613-04:00",
  "session": "closed",
  "daily_report": {
-  "date": "2026-10-25",
-  "generated_et": "Sun Oct 25 2026, 12:07 AM ET"
+  "date": "2026-10-26",
+  "generated_et": "Mon Oct 26 2026, 12:13 AM ET"
  },
  "snapshot": [
   {
+   "symbol": "ES=F",
+   "label": "S&P 500 Fut",
+   "price": 7672.0,
+   "pct": 0.16,
+   "asof_et": "Oct 26 12:00 AM ET",
+   "freshness": "delayed"
+  },
+  {
    "symbol": "NQ=F",
    "label": "Nasdaq 100 Fut",
-   "price": 29076.5,
-   "pct": -0.14,
-   "asof_et": "Oct 25 11:20 PM ET",
+   "price": 29123.75,
+   "pct": 0.02,
+   "asof_et": "Oct 26 12:00 AM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "YM=F",
    "label": "Dow Fut",
-   "price": 52525.0,
-   "pct": 0.25,
-   "asof_et": "Oct 25 11:20 PM ET",
+   "price": 52541.0,
+   "pct": 0.28,
+   "asof_et": "Oct 26 12:00 AM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "RTY=F",
    "label": "Russell 2000 Fut",
-   "price": 2794.1,
-   "pct": 0.34,
-   "asof_et": "Oct 25 11:20 PM ET",
+   "price": 2793.0,
+   "pct": 0.31,
+   "asof_et": "Oct 26 12:00 AM ET",
    "freshness": "delayed"
   },
   {
@@ -78,23 +86,23 @@
    "label": "WTI Crude",
    "price": 100.9,
    "pct": -2.29,
-   "asof_et": "Oct 25 11:20 PM ET",
+   "asof_et": "Oct 26 12:00 AM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "GC=F",
    "label": "Gold",
-   "price": 4024.8,
-   "pct": 0.42,
-   "asof_et": "Oct 25 11:20 PM ET",
+   "price": 4022.0,
+   "pct": 0.35,
+   "asof_et": "Oct 26 12:00 AM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "DX-Y.NYB",
    "label": "Dollar Index",
-   "price": 101.6,
-   "pct": -0.21,
-   "asof_et": "Oct 25 11:20 PM ET",
+   "price": 101.64,
+   "pct": -0.16,
+   "asof_et": "Oct 26 12:00 AM ET",
    "freshness": "delayed"
   },
   {
@@ -108,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 79539.79,
-   "pct": -1.55,
-   "asof_et": "Oct 25 11:30 PM ET",
+   "price": 79776.02,
+   "pct": -1.26,
+   "asof_et": "Oct 26 12:10 AM ET",
    "freshness": "delayed"
   },
   {
@@ -213,15 +221,13 @@
  "top_themes": [
   {
    "name": "Fed & Rates",
-   "count": 31,
-   "sentiment": -0.07,
+   "count": 26,
+   "sentiment": -0.1,
    "tickers": [
     "^TNX",
     "SPY",
-    "AAPL",
-    "AMZN",
-    "QCOM",
-    "UPS"
+    "CL=F",
+    "XLE"
    ],
    "top_headline": {
     "title": "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
@@ -233,35 +239,54 @@
   },
   {
    "name": "Inflation & Macro Data",
-   "count": 39,
-   "sentiment": -0.19,
+   "count": 34,
+   "sentiment": -0.2,
    "tickers": [
-    "SPY",
-    "^TNX",
     "CL=F",
     "XLE",
-    "GOOGL",
-    "ONS"
+    "SPY",
+    "^TNX",
+    "TGT"
    ],
    "top_headline": {
-    "title": "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
-    "link": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html",
-    "source": "CNBC Markets",
-    "impact": 6.5,
-    "sentiment_label": "bearish"
+    "title": "3 Growth Stocks With Up To 66% Earnings Growth",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-66-earnings-002406226.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "impact": 8.1,
+    "sentiment_label": "bullish"
+   }
+  },
+  {
+   "name": "Earnings & Guidance",
+   "count": 47,
+   "sentiment": 0.08,
+   "tickers": [
+    "SPY",
+    "GOOGL",
+    "^TNX",
+    "TGT",
+    "AMZN",
+    "MSFT"
+   ],
+   "top_headline": {
+    "title": "3 Growth Stocks With Up To 66% Earnings Growth",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-66-earnings-002406226.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "impact": 8.1,
+    "sentiment_label": "bullish"
    }
   },
   {
    "name": "Consumer & Retail",
    "count": 43,
-   "sentiment": 0.1,
+   "sentiment": 0.2,
    "tickers": [
     "AMZN",
-    "CL=F",
-    "XLE",
     "GOOGL",
-    "WMT",
-    "QQQ"
+    "SPY",
+    "MSFT",
+    "UPS",
+    "DIA"
    ],
    "top_headline": {
     "title": "India’s retail inflation jumps to 5.54% in September, above estimates",
@@ -272,36 +297,16 @@
    }
   },
   {
-   "name": "Earnings & Guidance",
-   "count": 40,
-   "sentiment": 0.17,
-   "tickers": [
-    "^TNX",
-    "SPY",
-    "TSLA",
-    "GS",
-    "BRK-B",
-    "AAPL"
-   ],
-   "top_headline": {
-    "title": "Wall St Week Ahead: Earnings flood, Fed meeting will test rickety AI market rally",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPR3FjeUJFd2Z6ZFBxOEFlLUx4anZlN1BqeFkxQ1pFcTdXTENYc0tMdW9RbjJ1Vk91Y2tmSXVoRDFCTmZoQ2cxN3BaSlFfTXplZUNZTFIzVmR3OTVmUVYzWnBXVkxRNXAtOEpBSUpIVjlBMnJ6cVViYnFSSHZoaC1CbkR5TnBzZndWNEo5aFlkWTVKY0hSYzRuOTlzUjYwcGlrcFJKQXhlbmFOMHNWLTRiRHZaM21fWEF1SDl1Mg?oc=5",
-    "source": "Reuters",
-    "impact": 5.2,
-    "sentiment_label": "bullish"
-   }
-  },
-  {
    "name": "Banks & Credit",
-   "count": 32,
-   "sentiment": -0.13,
+   "count": 35,
+   "sentiment": -0.15,
    "tickers": [
+    "TSLA",
     "^TNX",
     "CL=F",
     "XLE",
-    "BRK-B",
-    "SPY",
-    "BAC"
+    "QQQ",
+    "SPCX"
    ],
    "top_headline": {
     "title": "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen",
@@ -312,39 +317,19 @@
    }
   },
   {
-   "name": "Other Market News",
-   "count": 159,
-   "sentiment": 0.03,
-   "tickers": [
-    "AAPL",
-    "TSLA",
-    "META",
-    "ABNB",
-    "BA",
-    "NFLX"
-   ],
-   "top_headline": {
-    "title": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
-    "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
-    "source": "Fed Press Releases",
-    "impact": 4.7,
-    "sentiment_label": "bearish"
-   }
-  },
-  {
    "name": "AI & Semiconductors",
-   "count": 46,
-   "sentiment": -0.09,
+   "count": 50,
+   "sentiment": -0.07,
    "tickers": [
     "SPY",
-    "^TNX",
-    "AAPL",
     "NVDA",
+    "QQQ",
     "TSLA",
-    "CL=F"
+    "^TNX",
+    "AMZN"
    ],
    "top_headline": {
-    "title": "Wall St Week Ahead: Earnings flood, Fed meeting will test rickety AI market rally",
+    "title": "Wall St Week Ahead Earnings flood, Fed meeting will test rickety AI market rally",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPR3FjeUJFd2Z6ZFBxOEFlLUx4anZlN1BqeFkxQ1pFcTdXTENYc0tMdW9RbjJ1Vk91Y2tmSXVoRDFCTmZoQ2cxN3BaSlFfTXplZUNZTFIzVmR3OTVmUVYzWnBXVkxRNXAtOEpBSUpIVjlBMnJ6cVViYnFSSHZoaC1CbkR5TnBzZndWNEo5aFlkWTVKY0hSYzRuOTlzUjYwcGlrcFJKQXhlbmFOMHNWLTRiRHZaM21fWEF1SDl1Mg?oc=5",
     "source": "Reuters",
     "impact": 5.2,
@@ -353,15 +338,15 @@
   },
   {
    "name": "Trade, Tariffs & Geopolitics",
-   "count": 56,
-   "sentiment": -0.06,
+   "count": 66,
+   "sentiment": -0.1,
    "tickers": [
-    "^TNX",
     "SPY",
+    "^TNX",
     "TSLA",
     "CL=F",
     "XLE",
-    "SBUX"
+    "FSD"
    ],
    "top_headline": {
     "title": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
@@ -370,9 +355,137 @@
     "impact": 5.5,
     "sentiment_label": "neutral"
    }
+  },
+  {
+   "name": "Energy & Commodities",
+   "count": 23,
+   "sentiment": -0.28,
+   "tickers": [
+    "CL=F",
+    "XLE",
+    "TGT",
+    "^TNX",
+    "DIA",
+    "WMT"
+   ],
+   "top_headline": {
+    "title": "3 Growth Stocks With Up To 66% Earnings Growth",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-66-earnings-002406226.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "impact": 8.1,
+    "sentiment_label": "bullish"
+   }
   }
  ],
  "breaking": [
+  {
+   "title": "Chip Stocks to Buy After Their Worst Day Since June",
+   "link": "https://www.fool.com/investing/2026/10/25/chip-stocks-to-buy-after-their-worst-day-since-june/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.5,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 26 12:13 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Australian Market Swings To Slight Gains In Mid-market",
+   "link": "https://www.nasdaq.com/articles/australian-market-swings-slight-gains-mid-market",
+   "source": "Nasdaq Markets",
+   "impact": 2.8,
+   "tickers": [
+    "SPY"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 26 12:13 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Asian Markets Track Wall Street Lower",
+   "link": "https://www.nasdaq.com/articles/asian-markets-track-wall-street-lower-12",
+   "source": "Nasdaq Markets",
+   "impact": 5.2,
+   "tickers": [
+    "CL=F",
+    "XLE"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 26 12:13 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Big Tech Earnings Are a No-Win Test as Investors Punish Both Capex Cuts and Hikes",
+   "link": "https://beincrypto.com/big-tech-earnings-no-win-test/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.6,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 26 12:13 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Indian shares open lower as oil concerns persist, IT leads losses",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMGYzcFZiRkE2TE1hWGJhSDY1UldIcGcyQlBJSmttbjVOSmNPcUNhWG5LWjdMcEZkRzVfSnd6MGVCc3RlZmpXLUI1Sm03REFQeEtCYVRUNTNHampNX21PQXl3YlZLNkgtWVhjX2dxOGwwZVF0WUhUMHh0TDJoQ0RKUHk4dFdlMnVleVo1UnJTcUNIWkxxdnhxYnAxbVZZMU5hZ18yQ1NBdDlvLXhKRjdNWUkwcw?oc=5",
+   "source": "Reuters",
+   "impact": 3.1,
+   "tickers": [
+    "CL=F",
+    "XLE"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 26 12:13 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Stocks trade cautiously in Asia, Brent off six-month top",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90MHowUDNReVJUUkkxWEZhTnAyYnZZNGNXQjJPVWt0QjgtaERfUHM4bERQd2k2NW5kMXR5dld0NHpsYnBhOENieXU1VU9saFBya202TXRjUktMa0l6OXF0OEZFUDdxR3FtSTdCLUxRVGpZNnBndExIcGVEZmtXZw?oc=5",
+   "source": "Reuters",
+   "impact": 1.8,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 26 12:13 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Pool Corporation Balances Growth and Margin Pressure",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYXY1RzJsa1BST2ZwVnlrdTR2UHNoZ1Z3MkpUU2UtYXd6c1Y2S0k1NUhiallfbmdTZFdHSzMyX0JrcFE2blJOX3ZzUVpjVEpNcGd5ZThfellfaE1qcndud2dmZk1CdWhiLVFhTk42T01zMlhtbnJMTzc0WFYxbWl2WVpiSER6T081Ym1lUmgyczc4U214bVdNRzcyaUZiS0x4UW0yVlVLNjJnV2V6TFJJcktQaENyS1A5aFRFRnc0TENLb0xBX0FLeElGYkkydzBCcC1jMDF3?oc=5",
+   "source": "The Globe and Mail",
+   "impact": 1.6,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 26 12:13 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "When it comes to Iowa football’s quarterbacks, what now?",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOd1pmSVVsb1lEc2ZCVGJ6TUdiOXhkenNyTXVoSG11ZEpleHFka3g4SUhLY0Zsb0g4N3BqaFg4cUxwRTdUV20yNUtud19aeUFqdHd3VXJMWHMzeU1tWk5PTUxnWXIxZXBnX01qRnhkcG5yUkNnN3hua0t4bDRXeGtObllYWWFIa2JYUm1Tc3d0dXcxbFdDTmdiRlhzR2xvclBMVTVubFdzc0dYTDRHcDVBZll4RHpET0RGTkZ5Ukx5VGhiTGpyajl4OFVwNExYWVM1MFRlR183bzBNOFdOYVlyTE1aaWF4MjAtalIySTBuT1hRQQ?oc=5",
+   "source": "The Gazette",
+   "impact": 1.3,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 26 12:13 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Thousands protest in Prague as government advances public media funding overhaul",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTFp3czlHMlpkaW04Y3FJX1RkbGh6aFBpTExBZDRDT2VHeHdRTDRwdVZfcU00ZGNwcHhFeFFTTmxSYThoMm11S3VCME4taHRpdE9DSFpidWt4Mzc4b1BpWEhXZ2V6WUJ5U1FnbmYwSGlNVk1Jek9xb1dqcnpDejBVcFBjaWZTWl92aUkzWDBiZk1ZeG1iUEZwTWwxRFdsZnZ4RGhaRw?oc=5",
+   "source": "AP News",
+   "impact": 1.6,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 26 12:13 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Drone strike on market town exposes reach of trade fuelling Sudan war",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTkZja2JVNUJZenJ5Wlg3cEVkWVkzQkZvSmN5WmVoOXUwVG5kbW0zcExRdHIwYm5NWDJhNDlOcXpnWGpxZm5RbDJrU2hxTFVRVzJCZGVnYW1MVVFDU0tmZHB6S2tRWFNObWZSa0tQNnphSjJseWM4X3BrSDR0b0F6Vlp4OVU1aUJBNXVZaG1uZzZnWDY4d3VqNl9NbTUzeUxraUktMkNxbDVibTd0bTJ6cnVR?oc=5",
+   "source": "Reuters",
+   "impact": 2.2,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 26 12:13 AM ET",
+   "consumer": false
+  },
   {
    "title": "United Parcel Service (UPS) reports earnings tomorrow: what to expect",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONWNEendVUU9VZXhGVEZkVXA2blpwRUlJUk9pWHJvZ2I4SFo2TkItRUNsSkdDbF9oNEtRZjVhTFFOeGkySUFKRV9RdjVmcGdCbmJQbi14ZlBTeThKcVFacjJuWjV2OTBMMWpoMzY3ZWNqQml4X0xpMnJFX2o1TzZKUUgwNFRudDZPSlVLMkhub1Q2S0lzX19ickdvdThXbjdscHJUaE44U0tHVFNLNldwQlVrUkFGTWFUWDExNlU4TmYya0FOVVV0WA?oc=5",
@@ -484,110 +597,6 @@
    "sentiment_label": "neutral",
    "seen_et": "Oct 25 11:30 PM ET",
    "consumer": false
-  },
-  {
-   "title": "Lightspeed Commerce Inc. (LSPD.TO) Stock Price, News, Quote & History",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GVnUxd2tpQkJuNzNGM1ZHV2FEY3BISWxTclEtNjFGQWNOQXV0MF9VekxlY0JqcWcxTzdBbFpvODhPdzYyX3BHdVd1NEFwM2Vsd2s4WUlB?oc=5",
-   "source": "Yahoo! Finance Canada",
-   "impact": 0.8,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 25 11:30 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Indian Shares Seen Opening On Muted Note",
-   "link": "https://www.nasdaq.com/articles/indian-shares-seen-opening-muted-note",
-   "source": "Nasdaq Markets",
-   "impact": 3.9,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 25 10:55 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Lindsay: 3 Key Takeaways for Long-Term Investors",
-   "link": "https://www.nasdaq.com/articles/lindsay-3-key-takeaways-long-term-investors",
-   "source": "Nasdaq Markets",
-   "impact": 1.5,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 25 10:55 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Stocktwits Pharma Pulse: Big Pharma Earnings, Cancer Updates And 2 FDA Deadlines — The Week’s Biotech Watchlist",
-   "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-pharma-pulse-big-pharma-earnings-cancer-updates-2-fda-deadlines/cZUdZVhRBUH?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.9,
-   "tickers": [
-    "LLY"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 25 10:55 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Stocks sink as traders brace for tech earnings, central bank decisions",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-sink-traders-brace-tech-022128987.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 4.4,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 25 10:55 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Netflix Just Posted a Record Margin. So Why Is Wall Street Panicking?",
-   "link": "https://www.fool.com/investing/2026/10/25/netflix-just-posted-a-record-margin-so-why-is-wall/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.9,
-   "tickers": [
-    "NFLX"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 25 10:55 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Brazil's Lula wins historic presidential election; Bolsonaro reportedly refuses to concede",
-   "link": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
-   "source": "CNBC Top News",
-   "impact": 2.3,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 25 10:55 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "3 Undervalued Stocks Trading Up To 46% Below Fair Value",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/3-undervalued-stocks-trading-46-020906330.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 1.8,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 25 10:55 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Dutch Bros vs. Hershey: Which Stock Is the Better Buy Before 2027?",
-   "link": "https://www.nasdaq.com/articles/dutch-bros-vs-hershey-which-stock-better-buy-2027",
-   "source": "Nasdaq Markets",
-   "impact": 2.3,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 25 10:55 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Lower Open Tipped For Thai Stock Market",
-   "link": "https://www.nasdaq.com/articles/lower-open-tipped-thai-stock-market",
-   "source": "Nasdaq Markets",
-   "impact": 1.6,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 25 10:55 PM ET",
-   "consumer": false
   }
  ],
  "high_impact": [
@@ -604,10 +613,10 @@
  ],
  "watchlist": [
   {
-   "ticker": "^TNX",
-   "pct": 0.71,
-   "mentions": 20,
-   "sentiment": -0.22,
+   "ticker": "SPY",
+   "pct": -0.37,
+   "mentions": 19,
+   "sentiment": -0.23,
    "why": {
     "title": "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
     "link": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html",
@@ -617,10 +626,10 @@
    }
   },
   {
-   "ticker": "SPY",
-   "pct": -0.37,
-   "mentions": 11,
-   "sentiment": -0.25,
+   "ticker": "^TNX",
+   "pct": 0.71,
+   "mentions": 17,
+   "sentiment": -0.28,
    "why": {
     "title": "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
     "link": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html",
@@ -631,178 +640,178 @@
   },
   {
    "ticker": "CL=F",
-   "pct": 3.82,
-   "mentions": 19,
-   "sentiment": -0.22,
+   "pct": -2.29,
+   "mentions": 21,
+   "sentiment": -0.32,
    "why": {
-    "title": "'Godzilla El Niño' is wreaking havoc with Philippine central bank's inflation forecasts",
-    "link": "https://www.cnbc.com/2026/10/14/godzilla-el-nino-asia-inflation-philippines.html",
-    "source": "CNBC Markets",
-    "impact": 5.3,
-    "sentiment_label": "bearish"
+    "title": "3 Growth Stocks With Up To 66% Earnings Growth",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-66-earnings-002406226.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "impact": 8.1,
+    "sentiment_label": "bullish"
    }
   },
   {
    "ticker": "XLE",
    "pct": 2.75,
-   "mentions": 19,
-   "sentiment": -0.22,
+   "mentions": 21,
+   "sentiment": -0.32,
    "why": {
-    "title": "'Godzilla El Niño' is wreaking havoc with Philippine central bank's inflation forecasts",
-    "link": "https://www.cnbc.com/2026/10/14/godzilla-el-nino-asia-inflation-philippines.html",
-    "source": "CNBC Markets",
-    "impact": 5.3,
-    "sentiment_label": "bearish"
-   }
-  },
-  {
-   "ticker": "AMZN",
-   "pct": null,
-   "mentions": 6,
-   "sentiment": 0.47,
-   "why": {
-    "title": "FitLife Brands Eyes Acquisitions, Margin Gains to Offset Organic Growth Headwinds",
-    "link": "https://www.marketbeat.com/instant-alerts/event-fitlife-brands-eyes-acquisitions-margin-gains-to-offset-organic-growth-headwinds-2026-10-24/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+    "title": "3 Growth Stocks With Up To 66% Earnings Growth",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-66-earnings-002406226.html?.tsrc=rss",
     "source": "Yahoo Finance",
-    "impact": 5.0,
-    "sentiment_label": "bullish"
-   }
-  },
-  {
-   "ticker": "TSLA",
-   "pct": null,
-   "mentions": 9,
-   "sentiment": 0.31,
-   "why": {
-    "title": "Elon Musk Says Tesla’s Megapacks Are Nearly Sold Out Through 2027 as Energy Demand Surges: 'Ramping Production as Quickly as Possible'",
-    "link": "https://finance.yahoo.com/energy/articles/elon-musk-says-tesla-megapacks-023019501.html?.tsrc=rss",
-    "source": "Yahoo Finance",
-    "impact": 4.0,
-    "sentiment_label": "bullish"
-   }
-  },
-  {
-   "ticker": "UPS",
-   "pct": null,
-   "mentions": 7,
-   "sentiment": 0.2,
-   "why": {
-    "title": "UPS Stock Under Pressure As Wall Street Weighs Amazon Shipping Cuts — But Retail Bulls Remain Unfazed",
-    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNVTlGUGJCZVVqa3RvcDItRnRreTVOc0hWUTlmcWhiU0FCOS1ETDMtaWxaT1AtcnJneWI5Tng2YllSQll6bkVaY1d2M29SM0RRc2hHbW1JNURPVW9aMVVQRTNVZy1DNW5GZ1pydHo2Y0pvU3k0MkNGOU1YdXBkMFJubC1wdG9CeEdiYVZIV0wyS0V3WlRreFF1OFNlSlJMTnA2aEdYcmJ4NXpHbEM3Q3htWXVzdmhUdVJ1b0dvbkxBdFZPQVg1WDZRVllLeGF5ZGxkallOYUlfZzVLREtrVDUwM0t5Z1ptSHZwcHlFWFlSa3ZJc2Q5blE?oc=5",
-    "source": "Stocktwits",
-    "impact": 4.6,
-    "sentiment_label": "bearish"
-   }
-  },
-  {
-   "ticker": "QQQ",
-   "pct": 0.06,
-   "mentions": 6,
-   "sentiment": -0.01,
-   "why": {
-    "title": "FitLife Brands Eyes Acquisitions, Margin Gains to Offset Organic Growth Headwinds",
-    "link": "https://www.marketbeat.com/instant-alerts/event-fitlife-brands-eyes-acquisitions-margin-gains-to-offset-organic-growth-headwinds-2026-10-24/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-    "source": "Yahoo Finance",
-    "impact": 5.0,
-    "sentiment_label": "bullish"
-   }
-  },
-  {
-   "ticker": "BRK-B",
-   "pct": null,
-   "mentions": 3,
-   "sentiment": 0.52,
-   "why": {
-    "title": "Is Berkshire Bending the Rules With Bending Spoons?",
-    "link": "https://www.fool.com/investing/2026/10/24/is-berkshire-bending-the-rules-with-bending-spoons/?.tsrc=rss",
-    "source": "Yahoo Finance",
-    "impact": 4.6,
-    "sentiment_label": "bullish"
-   }
-  },
-  {
-   "ticker": "AAPL",
-   "pct": null,
-   "mentions": 6,
-   "sentiment": 0.13,
-   "why": {
-    "title": "How Investors May Respond To Qualcomm Stock Earnings Outlook Concerns",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-qualcomm-stock-011117867.html?.tsrc=rss",
-    "source": "Yahoo Finance",
-    "impact": 4.3,
+    "impact": 8.1,
     "sentiment_label": "bullish"
    }
   },
   {
    "ticker": "GOOGL",
    "pct": null,
-   "mentions": 6,
-   "sentiment": 0.28,
+   "mentions": 12,
+   "sentiment": 0.14,
    "why": {
-    "title": "Canadian Stock Market Today: TSX Futures Edge Lower On Energy Inflation And Retail Focus",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPb041Y2x4WkJiSHpYYllOb2N4RHJQM0lnZDltSWVhMmJIVzctcEtpWGdrb0hEeVJGaHRDaFVNajBkd0FlWGc0N0RtU3liUzZzMUtPdWZrYzhNUWtxbmtpQ1Vtd0dNYmZNMUN2R1V0amVtVERaRURfWEVBbU5oSm5aUkN0WFFyc3ZUMlh1VjB6STRxNmt6d19kWklFQ1l0SHZQenM5SGp2UW1FbGdRMGdDWldQQm4zSGQxcmVUZmx0MFZnUFlJVUHSAcsBQVVfeXFMTUJDTkF5R1RYNjluaHFEQ0VnMEg0U256NlAtVVA5d1kydm9sSkZpby1RbmdqRFVCN3d6SnU1T09EMFFKZDI3UkZRWHNZeEdKR0JubzczRHNxeGdrV2tOVHRqWHJQQU9TRlphd3ZVZ0FfTGdpMXkwN1dHbExTaUF5dUpiTk80NW1XR3p0NGhHRS1IeWZPQUFldmN6ZEJsNE1jeHpGRjRBRllxdVlWLUdOc3ZvdjJsWnVsd0pFUHFtWThRMEJPYVJmMkZobXM?oc=5",
-    "source": "Simply Wall Street",
-    "impact": 4.0,
-    "sentiment_label": "neutral"
+    "title": "3 Big Tech Earnings Reports to Watch as AI Bills Keep Growing",
+    "link": "https://beincrypto.com/top-3-big-tech-earnings-reports-october-final-week/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "impact": 4.7,
+    "sentiment_label": "bullish"
    }
   },
   {
-   "ticker": "META",
+   "ticker": "AMZN",
+   "pct": null,
+   "mentions": 8,
+   "sentiment": 0.2,
+   "why": {
+    "title": "3 Big Tech Earnings Reports to Watch as AI Bills Keep Growing",
+    "link": "https://beincrypto.com/top-3-big-tech-earnings-reports-october-final-week/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "impact": 4.7,
+    "sentiment_label": "bullish"
+   }
+  },
+  {
+   "ticker": "TSLA",
+   "pct": null,
+   "mentions": 8,
+   "sentiment": -0.33,
+   "why": {
+    "title": "Musk says SpaceX raised $40 bln in debt, warns of neocloud collapse",
+    "link": "https://finance.yahoo.com/technology/ai/articles/musk-says-spacex-raised-40-015149993.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "impact": 4.9,
+    "sentiment_label": "bearish"
+   }
+  },
+  {
+   "ticker": "QQQ",
+   "pct": 0.06,
+   "mentions": 7,
+   "sentiment": -0.05,
+   "why": {
+    "title": "Musk says SpaceX raised $40 bln in debt, warns of neocloud collapse",
+    "link": "https://finance.yahoo.com/technology/ai/articles/musk-says-spacex-raised-40-015149993.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "impact": 4.9,
+    "sentiment_label": "bearish"
+   }
+  },
+  {
+   "ticker": "UPS",
+   "pct": null,
+   "mentions": 9,
+   "sentiment": 0.29,
+   "why": {
+    "title": "UPS Unveils Enhanced Shipping Options and Security for Holiday Rush",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORE5oY0NoZjJKT3NnS2Y4cXEySm9pdG9CM083R1lCa0p2M2pnRXBONF9GcGw1UUNFYTlpaF9ONFJXdFVFTXNUTXdHNEV3Ml9xcm5sNDlCQXdTcjM1VV83bGtNLWpBamVzQy14ZW1FWFBENnZYYUlLbmlIcGx4OGpaOFBhci1hWFZaR0VEUjZmMGpESHZ0Tkw0QW1yOA?oc=5",
+    "source": "Small Business Trends",
+    "impact": 4.0,
+    "sentiment_label": "bullish"
+   }
+  },
+  {
+   "ticker": "MSFT",
    "pct": null,
    "mentions": 5,
-   "sentiment": 0.11,
+   "sentiment": 0.09,
    "why": {
-    "title": "Should Investors Buy the Meta Platforms Dip?",
-    "link": "https://www.fool.com/investing/2026/10/24/should-investors-buy-the-meta-platforms-dip/?.tsrc=rss",
+    "title": "3 Big Tech Earnings Reports to Watch as AI Bills Keep Growing",
+    "link": "https://beincrypto.com/top-3-big-tech-earnings-reports-october-final-week/?.tsrc=rss",
     "source": "Yahoo Finance",
-    "impact": 2.3,
+    "impact": 4.7,
     "sentiment_label": "bullish"
    }
   },
   {
-   "ticker": "FDX",
+   "ticker": "TGT",
    "pct": null,
-   "mentions": 2,
-   "sentiment": 0.0,
+   "mentions": 5,
+   "sentiment": 0.28,
    "why": {
-    "title": "FedEx Overnight Shipping: Rates, Delivery Times & Options",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15Yl9EaXBralNHY3Q5T2p4UTBpQ0xfSGhZWXVfcU85WGY4Q29pQ3NZcWpwcW5NUktycElSUTVmOV95dTFqN3dqcWZHR0FKWS1MaXU2MkpabV93N2tXN1Z1S3h5V1VJNGFTZ1VrNg?oc=5",
-    "source": "ClickPost",
-    "impact": 3.9,
+    "title": "3 Growth Stocks With Up To 66% Earnings Growth",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-66-earnings-002406226.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "impact": 8.1,
+    "sentiment_label": "bullish"
+   }
+  },
+  {
+   "ticker": "NVDA",
+   "pct": null,
+   "mentions": 4,
+   "sentiment": 0.17,
+   "why": {
+    "title": "AI Stocks Surge, Then Plunge: Which of 4 Sectors Is Worth Buying?",
+    "link": "https://247wallst.com/investing/2026/10/25/ai-stocks-surge-then-plunge-which-of-4-sectors-is-worth-buying/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "impact": 4.8,
     "sentiment_label": "neutral"
    }
   },
   {
-   "ticker": "GM",
+   "ticker": "NFLX",
    "pct": null,
-   "mentions": 3,
-   "sentiment": 0.32,
+   "mentions": 4,
+   "sentiment": 0.39,
    "why": {
-    "title": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
-    "link": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
+    "title": "Netflix posts third-quarter earnings beat, but shares fall on advertising and revenue guidance",
+    "link": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
     "source": "CNBC Economy",
-    "impact": 3.3,
+    "impact": 3.4,
     "sentiment_label": "bullish"
    }
   },
   {
-   "ticker": "WMT",
+   "ticker": "GS",
    "pct": null,
    "mentions": 3,
-   "sentiment": 0.36,
+   "sentiment": 0.02,
    "why": {
-    "title": "Can Walmart (NASDAQ:WMT) Maintain Its Edge in Value Retail?",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUFBhX0tEc3BMWVZBS3hPUzZsaUJEdkVHMGcxU2lKSjJISDQxUWxCcUJZLTBQZ01yNWx6WTlKc3ZPVHpad2hFaG9kZXNzRlBWUjZFdzNXTzdaN2k0RGRjYzhDcFNxYXpzekhBM29IcnNPTGlyNk9TZlJXTEdKZFhVZFpYYnYtd1BqeDkwYnpXcGxQRW1WbGZGQ2lwSzZ5Zw?oc=5",
-    "source": "Kalkine Media",
-    "impact": 2.9,
-    "sentiment_label": "bullish"
+    "title": "Goldman Sachs slashes Kospi target to 9,000 but still sees over 60% upside",
+    "link": "https://www.cnbc.com/2026/10/26/goldman-slashes-kospi-target-korea-stocks.html",
+    "source": "CNBC Top News",
+    "impact": 2.8,
+    "sentiment_label": "bearish"
+   }
+  },
+  {
+   "ticker": "^VIX",
+   "pct": 2.21,
+   "mentions": 2,
+   "sentiment": -0.44,
+   "why": {
+    "title": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
+    "source": "Fed Press Releases",
+    "impact": 4.7,
+    "sentiment_label": "bearish"
    }
   }
  ],
  "movers": {
   "mode": "last session (market not in pre-market)",
   "basis": "opening gap (open vs prior close) of the last session; RVOL = session volume / 20-day avg",
-  "fetched_et": "Oct 25 10:55 PM ET",
+  "fetched_et": "Oct 26 12:12 AM ET",
   "gappers": [
    {
     "symbol": "CCI",
@@ -1141,7 +1150,7 @@
  "economic_calendar": {
   "source": "FairEconomy / ForexFactory weekly calendar (nfs.faireconomy.media)",
   "fallback": false,
-  "fetched_et": "Oct 25 11:30 PM ET",
+  "fetched_et": "Oct 26 12:12 AM ET",
   "events": [
    {
     "when_et": "Oct 27 08:15 AM ET",
@@ -1355,7 +1364,7 @@
  },
  "earnings": {
   "source": "Nasdaq earnings calendar API (api.nasdaq.com), filtered to S&P 500 + watchlist",
-  "fetched_et": "Oct 25 10:13 PM ET",
+  "fetched_et": "Oct 26 12:12 AM ET",
   "events": [
    {
     "date": "2026-10-26",
@@ -2973,21 +2982,21 @@
  "sentiment_validation": {
   "logged": 4000,
   "min_sample": 100,
-  "generated_et": "Oct 25 11:30 PM ET",
+  "generated_et": "Oct 26 12:13 AM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
-    "n_scored": 3596,
-    "n_directional": 2990,
+    "n_scored": 3594,
+    "n_directional": 2988,
     "hit_rate": 48.0,
     "ci95": 1.8,
-    "corr": 0.003,
+    "corr": 0.004,
     "status": "NO EDGE (≈ coin flip)"
    },
    "r1d": {
     "name": "+1 day",
-    "n_scored": 3124,
-    "n_directional": 2644,
+    "n_scored": 3122,
+    "n_directional": 2642,
     "hit_rate": 45.3,
     "ci95": 1.9,
     "corr": -0.066,
@@ -3072,108 +3081,108 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 25 11:30 PM ET",
-   "newest_et": "Oct 25 11:28 PM ET",
-   "newest": "2026-10-26T03:28:54+00:00"
+   "fetched_et": "Oct 26 12:12 AM ET",
+   "newest_et": "Oct 26 12:09 AM ET",
+   "newest": "2026-10-26T04:09:41+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 25 11:30 PM ET",
+   "fetched_et": "Oct 26 12:12 AM ET",
    "newest_et": "Oct 23 04:49 PM ET",
    "newest": "2026-10-23T20:49:42+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 25 11:30 PM ET",
+   "fetched_et": "Oct 26 12:12 AM ET",
    "newest_et": "Oct 25 08:00 AM ET",
    "newest": "2026-10-25T12:00:01+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 25 11:30 PM ET",
+   "fetched_et": "Oct 26 12:12 AM ET",
    "newest_et": "Oct 25 09:50 PM ET",
    "newest": "2026-10-26T01:50:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 25 11:30 PM ET",
+   "fetched_et": "Oct 26 12:12 AM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 25 11:30 PM ET",
-   "newest_et": "Oct 25 11:08 PM ET",
-   "newest": "2026-10-26T03:08:40+00:00"
+   "fetched_et": "Oct 26 12:12 AM ET",
+   "newest_et": "Oct 25 11:54 PM ET",
+   "newest": "2026-10-26T03:54:52+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 55,
-   "fetched_et": "Oct 25 11:30 PM ET",
+   "fetched_et": "Oct 26 12:12 AM ET",
    "newest_et": "Oct 25 10:16 PM ET",
    "newest": "2026-10-26T02:16:37+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 25 11:30 PM ET",
+   "fetched_et": "Oct 26 12:12 AM ET",
    "newest_et": "Oct 25 10:24 PM ET",
    "newest": "2026-10-26T02:24:00+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 25 11:30 PM ET",
+   "fetched_et": "Oct 26 12:12 AM ET",
    "newest_et": "Oct 25 10:48 PM ET",
    "newest": "2026-10-26T02:48:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
    "count": 34,
-   "fetched_et": "Oct 25 11:30 PM ET",
+   "fetched_et": "Oct 26 12:12 AM ET",
    "newest_et": "Oct 25 11:18 PM ET",
    "newest": "2026-10-26T03:18:00+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
-   "count": 55,
-   "fetched_et": "Oct 25 11:30 PM ET",
+   "count": 54,
+   "fetched_et": "Oct 26 12:12 AM ET",
    "newest_et": "Oct 25 10:02 PM ET",
    "newest": "2026-10-26T02:02:00+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 25 11:30 PM ET",
+   "fetched_et": "Oct 26 12:12 AM ET",
    "newest_et": "Oct 16 11:00 AM ET",
    "newest": "2026-10-16T15:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 25 11:30 PM ET",
-   "newest_et": "Oct 25 10:40 PM ET",
-   "newest": "2026-10-26T02:40:17+00:00"
+   "fetched_et": "Oct 26 12:12 AM ET",
+   "newest_et": "Oct 25 11:26 PM ET",
+   "newest": "2026-10-26T03:26:24+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
-   "count": 25,
-   "fetched_et": "Oct 25 11:30 PM ET"
+   "count": 26,
+   "fetched_et": "Oct 26 12:12 AM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
    "count": 179,
-   "fetched_et": "Oct 25 10:13 PM ET"
+   "fetched_et": "Oct 26 12:12 AM ET"
   },
   "Economic calendar": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Oct 25 11:30 PM ET",
+   "fetched_et": "Oct 26 12:12 AM ET",
    "note": "FairEconomy / ForexFactory weekly calendar (nfs.faireconomy.media)"
   }
  }
