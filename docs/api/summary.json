@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 27 12:10 AM ET",
- "generated_at": "2026-10-27T00:10:54.541975-04:00",
+ "generated_et": "Oct 27 12:48 AM ET",
+ "generated_at": "2026-10-27T00:48:58.438643-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-27",
@@ -12,34 +12,34 @@
   {
    "symbol": "ES=F",
    "label": "S&P 500 Fut",
-   "price": 7725.5,
-   "pct": 0.86,
-   "asof_et": "Oct 26 11:55 PM ET",
+   "price": 7723.0,
+   "pct": 0.11,
+   "asof_et": "Oct 27 12:39 AM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "NQ=F",
    "label": "Nasdaq 100 Fut",
-   "price": 29448.5,
-   "pct": 1.14,
-   "asof_et": "Oct 26 11:55 PM ET",
-   "freshness": "delayed"
-  },
-  {
-   "symbol": "YM=F",
-   "label": "Dow Fut",
-   "price": 52681.0,
-   "pct": 0.25,
-   "asof_et": "Oct 27 12:00 AM ET",
+   "price": 29413.25,
+   "pct": -0.08,
+   "asof_et": "Oct 27 12:39 AM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "RTY=F",
    "label": "Russell 2000 Fut",
-   "price": 2802.3,
-   "pct": 0.64,
-   "asof_et": "Oct 26 11:55 PM ET",
+   "price": 2801.6,
+   "pct": 0.15,
+   "asof_et": "Oct 27 12:35 AM ET",
    "freshness": "delayed"
+  },
+  {
+   "symbol": "SPY",
+   "label": "SPY",
+   "price": 766.4,
+   "pct": 0.85,
+   "asof_et": "Oct 26 07:55 PM ET",
+   "freshness": "closed"
   },
   {
    "symbol": "QQQ",
@@ -76,25 +76,25 @@
   {
    "symbol": "CL=F",
    "label": "WTI Crude",
-   "price": 100.78,
-   "pct": -0.96,
-   "asof_et": "Oct 27 12:00 AM ET",
+   "price": 100.77,
+   "pct": -0.97,
+   "asof_et": "Oct 27 12:35 AM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "GC=F",
    "label": "Gold",
-   "price": 4030.4,
-   "pct": -0.2,
-   "asof_et": "Oct 27 12:00 AM ET",
+   "price": 4030.9,
+   "pct": -0.19,
+   "asof_et": "Oct 27 12:35 AM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "DX-Y.NYB",
    "label": "Dollar Index",
-   "price": 102.03,
-   "pct": 0.07,
-   "asof_et": "Oct 27 12:00 AM ET",
+   "price": 102.05,
+   "pct": 0.08,
+   "asof_et": "Oct 27 12:35 AM ET",
    "freshness": "delayed"
   },
   {
@@ -108,9 +108,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 79681.79,
-   "pct": -0.43,
-   "asof_et": "Oct 27 12:10 AM ET",
+   "price": 79541.69,
+   "pct": -0.6,
+   "asof_et": "Oct 27 12:45 AM ET",
    "freshness": "delayed"
   },
   {
@@ -369,6 +369,131 @@
  ],
  "breaking": [
   {
+   "title": "HSBC announces share buyback of up to $1 billion as third-quarter profit meets estimates",
+   "link": "https://www.cnbc.com/2026/10/27/hsbc-third-quarter-profit-.html",
+   "source": "CNBC Top News",
+   "impact": 3.4,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 27 12:49 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "What is a Public Benefit Corporation? Anthropic's Unusual Legal Status and What It Means for Investors",
+   "link": "https://www.fool.com/investing/2026/10/27/what-is-a-public-benefit-corporation-anthropic-s-unusual-legal-status-and-what-it-means-for-investors/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.2,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 27 12:49 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "ServiceNow (NOW) Gains AI Traction As Valuation Debate Heats Up",
+   "link": "https://finance.yahoo.com/technology/ai/articles/servicenow-now-gains-ai-traction-042520833.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.1,
+   "tickers": [
+    "NOW",
+    "NVDA"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 27 12:49 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "3 Growth Stocks With Earnings Growth Up To 49%",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-earnings-growth-042510238.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 4.7,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 27 12:49 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Asia chipmaking, AI stocks surge on Anthropic IPO cheer",
+   "link": "https://finance.yahoo.com/technology/ai/articles/asia-chipmaking-ai-stocks-surge-040959441.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.6,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 27 12:49 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Sharp rise in sales of essential goods after government call to stock up",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kOGhtNmhmRFUwMjBEd1VibVM1WTB1Q0J1WC1lUk43Ulg5dlVJR3FGalh4ZFpOQ3ZBY3NXZm83SG5BRXl4VU0xV2xSNE5BNHJPVDZMOEpfSlNTZzloTVE?oc=5",
+   "source": "BBC",
+   "impact": 1.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 27 12:49 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "China's industrial profit growth picks up amid two-speed economy",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUHdJdXJZYTVUYzhMU3FQMV9NQklLQTJsck9tSG5tV09VNGxqMFRSZ3NRRU51aXhpNUw1YlZnU3FjU3pIUFBpSHZ2QjdpbEpRcnpubFlMRi1DVXV1bnFoak9lVmJtX3FvaUNBekxPTEloSXQtWi1PZ2pDV3g0Yk1PT2NQYmdNNFZnNDVWdGQ3bE5CWnVUcllYQmFXTjAtNzl6SjV6Y3FOMlQ4dFZrMjQxd21meGNLcjVBcXc?oc=5",
+   "source": "Reuters",
+   "impact": 2.4,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 27 12:49 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Jay-Z will headline the Super Bowl halftime show at SoFi Stadium in Southern California",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaEtiSHNjSXZUdTdNVm5pNE0wdEJoZ1d3eURQd3AzbTVDYnVlNEVmUDhwOWZrWHdiUXN0dnViSjZ1Y2FIR0ZUYTUwTnMwRElMMkwzWmE0ZTA2dXR0aXFQQ3pmZmtXTl85LXlRTUFiSmJzVDQyN2pIaVZCRFowZzU0VU1vU3Q5Z1dPNmc5amxQTTZqbHoy?oc=5",
+   "source": "AP News",
+   "impact": 2.4,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 27 12:49 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "UK Retail Body Warns of Rising Shop Prices as Costs Impact Retailers",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTDB4d3ZIMnFhZ3Y5SF81VVZUbDZhb2p2U2pWX19YQktmajk3dDRGbUFTLTFhd0JmdEx1Uk10SVVwOU9pQ1NFUFRIRzV3SVFUZ01BWndzelRUQzNnZE5ESGtoLU9hNTVjNS1Hdkk2NzRSSFk0U1pqT3BGNExjd0xNUmZpZEhZVWgwUHdVTnF6RGVOa3p0X3Bj?oc=5",
+   "source": "Global Banking & Finance Review",
+   "impact": 2.7,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 27 12:49 AM ET",
+   "consumer": true
+  },
+  {
+   "title": "Netflix posts third-quarter earnings beat, but shares fall on advertising and revenue guidance",
+   "link": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
+   "source": "CNBC Economy",
+   "impact": 3.4,
+   "tickers": [
+    "NFLX"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 27 12:49 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
+   "source": "Fed Press Releases",
+   "impact": 3.3,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 27 12:49 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Kazatomprom reports 17% increase in production during the third quarter",
+   "link": "https://www.marketwatch.com/story/kazatomprom-reports-17-increase-in-production-during-the-third-quarter-68742d5c?mod=mw_rss_marketpulse",
+   "source": "MarketWatch Pulse",
+   "impact": 0.4,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 27 12:49 AM ET",
+   "consumer": false
+  },
+  {
    "title": "What gave this city its ‘best place to retire’ crown? You can actually afford to live there.",
    "link": "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories",
    "source": "MarketWatch Top",
@@ -450,144 +575,6 @@
    ],
    "sentiment_label": "bullish",
    "seen_et": "Oct 27 12:11 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Kforce (KFRC) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/kforce-kfrc-q3-2026-earnings-call-transcript",
-   "source": "Nasdaq Markets",
-   "impact": 3.6,
-   "tickers": [
-    "KFRC"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 27 12:11 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "AudioEye (AEYE) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/audioeye-aeye-q3-2026-earnings-call-transcript",
-   "source": "Nasdaq Markets",
-   "impact": 3.6,
-   "tickers": [
-    "AEYE"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 27 12:11 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Greenbrier (GBX) Q4 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/greenbrier-gbx-q4-2026-earnings-call-transcript",
-   "source": "Nasdaq Markets",
-   "impact": 3.6,
-   "tickers": [
-    "GBX"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 27 12:11 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Simpson Manufacturing (SSD) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/simpson-manufacturing-ssd-q3-2026-earnings-call-transcript",
-   "source": "Nasdaq Markets",
-   "impact": 3.6,
-   "tickers": [
-    "SSD"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 27 12:11 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "The 1 Investing Mistake That Could Be Quietly Costing You Thousands of Dollars",
-   "link": "https://www.fool.com/investing/2026/10/26/1-investing-mistake-could-cost-thousands-dollars/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 1.9,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 27 12:11 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Anthropic IPO Filing Lifts Chips, but Valuation Doubts Split Wall Street",
-   "link": "https://beincrypto.com/anthropic-ipo-filing-lifts-chip-stocks/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.4,
-   "tickers": [
-    "NVDA",
-    "QQQ",
-    "TGT"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 27 12:11 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Tesla (TSLA) Is Nearing A Sellout Of Megapack Systems Through 2027",
-   "link": "https://finance.yahoo.com/energy/articles/tesla-tsla-nearing-sellout-megapack-031850274.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.3,
-   "tickers": [
-    "TSLA"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 27 12:11 AM ET",
-   "consumer": true
-  },
-  {
-   "title": "Rays put on the brink of World Series flop by Brewers’ historic 8-run, 2-out surge",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNN0FrUEd4eTZ0d3J5TlE3TlY2ZU5wYjM4NWswaUxPM1hWalFkR0FaQWNDT1NEYXRudDVpR3FfZTNYUUNrMzQ3bDVnWUdJWGs0NS10Tm8xN1djalpHWGZKN3RrcnAwaFJuRDJ0NkFpUjN1ZVE3NTZzb3BpUk16VFAwUERPWnNJeURSck1xM3JtSnhWUQ?oc=5",
-   "source": "AP News",
-   "impact": 3.0,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 27 12:11 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Tesla’s Cybercab Fleet Expands Tenfold in Just a Month, Elon Musk Says Driverless Mileage Is Growing ‘Like a Rocket Going to Orbit’",
-   "link": "https://finance.yahoo.com/technology/ai/articles/tesla-cybercab-fleet-expands-tenfold-023005579.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.6,
-   "tickers": [
-    "TSLA"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 27 12:11 AM ET",
-   "consumer": true
-  },
-  {
-   "title": "USPS Can Bill Sellers for Foreign Duties",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdVh5NHV0NjJuRDRMNUxnTldCT3B1dmdIanlLd2NvV1NReDJPRTFTVHUtb21xSndSMUxoT0tnOXZBbFZIeVFRVG5vUHVVb3EyVGtBX3V5QVNINEVjUjd0RW5VUkx3WmZpYkdSTEtMbTBDdWVKQU9keEFzbFpqQWFzQQ?oc=5",
-   "source": "Practical Ecommerce",
-   "impact": 0.0,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 27 12:11 AM ET",
-   "consumer": true
-  },
-  {
-   "title": "DirecTV to acquire EchoStar’s video distribution business including Dish TV and Sling TV",
-   "link": "https://www.marketwatch.com/story/directv-to-acquire-echostars-video-distribution-business-including-dish-tv-and-sling-tv-23349832?mod=mw_rss_marketpulse",
-   "source": "MarketWatch Pulse",
-   "impact": 1.2,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 27 12:11 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Amkor (AMKR) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/amkor-amkr-q3-2026-earnings-call-transcript",
-   "source": "Nasdaq Markets",
-   "impact": 3.6,
-   "tickers": [
-    "AMKR"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 26 11:30 PM ET",
    "consumer": false
   }
  ],
@@ -3060,12 +3047,12 @@
  "sentiment_validation": {
   "logged": 4000,
   "min_sample": 100,
-  "generated_et": "Oct 27 12:12 AM ET",
+  "generated_et": "Oct 27 12:49 AM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
-    "n_scored": 3858,
-    "n_directional": 3217,
+    "n_scored": 3856,
+    "n_directional": 3215,
     "hit_rate": 49.9,
     "ci95": 1.7,
     "corr": 0.003,
@@ -3073,8 +3060,8 @@
    },
    "r1d": {
     "name": "+1 day",
-    "n_scored": 3163,
-    "n_directional": 2689,
+    "n_scored": 3161,
+    "n_directional": 2687,
     "hit_rate": 46.0,
     "ci95": 1.9,
     "corr": -0.082,
@@ -3159,98 +3146,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 27 12:10 AM ET",
-   "newest_et": "Oct 26 11:44 PM ET",
-   "newest": "2026-10-27T03:44:53+00:00"
+   "fetched_et": "Oct 27 12:48 AM ET",
+   "newest_et": "Oct 27 12:45 AM ET",
+   "newest": "2026-10-27T04:45:39+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 27 12:10 AM ET",
+   "fetched_et": "Oct 27 12:48 AM ET",
    "newest_et": "Oct 26 02:33 PM ET",
    "newest": "2026-10-26T18:33:51+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 27 12:10 AM ET",
+   "fetched_et": "Oct 27 12:48 AM ET",
    "newest_et": "Oct 26 05:18 PM ET",
    "newest": "2026-10-26T21:18:07+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 27 12:10 AM ET",
+   "fetched_et": "Oct 27 12:48 AM ET",
    "newest_et": "Oct 27 12:01 AM ET",
    "newest": "2026-10-27T04:01:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 27 12:10 AM ET",
+   "fetched_et": "Oct 27 12:48 AM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 27 12:10 AM ET",
-   "newest_et": "Oct 27 12:00 AM ET",
-   "newest": "2026-10-27T04:00:02+00:00"
+   "fetched_et": "Oct 27 12:48 AM ET",
+   "newest_et": "Oct 27 12:35 AM ET",
+   "newest": "2026-10-27T04:35:01+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 44,
-   "fetched_et": "Oct 27 12:10 AM ET",
+   "fetched_et": "Oct 27 12:48 AM ET",
    "newest_et": "Oct 26 09:57 PM ET",
    "newest": "2026-10-27T01:57:48+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 27 12:10 AM ET",
-   "newest_et": "Oct 26 09:46 PM ET",
-   "newest": "2026-10-27T01:46:00+00:00"
+   "fetched_et": "Oct 27 12:48 AM ET",
+   "newest_et": "Oct 26 09:52 PM ET",
+   "newest": "2026-10-27T01:52:00+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 27 12:10 AM ET",
-   "newest_et": "Oct 26 11:39 PM ET",
-   "newest": "2026-10-27T03:39:00+00:00"
+   "fetched_et": "Oct 27 12:49 AM ET",
+   "newest_et": "Oct 27 12:02 AM ET",
+   "newest": "2026-10-27T04:02:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 27 12:10 AM ET",
+   "fetched_et": "Oct 27 12:49 AM ET",
    "newest_et": "Oct 26 10:21 PM ET",
    "newest": "2026-10-27T02:21:00+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
-   "count": 22,
-   "fetched_et": "Oct 27 12:10 AM ET",
+   "count": 46,
+   "fetched_et": "Oct 27 12:49 AM ET",
    "newest_et": "Oct 26 11:48 PM ET",
    "newest": "2026-10-27T03:48:21+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 27 12:10 AM ET",
+   "fetched_et": "Oct 27 12:49 AM ET",
    "newest_et": "Oct 16 11:00 AM ET",
    "newest": "2026-10-16T15:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 27 12:10 AM ET",
+   "fetched_et": "Oct 27 12:49 AM ET",
    "newest_et": "Oct 26 11:33 PM ET",
    "newest": "2026-10-27T03:33:56+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 25,
-   "fetched_et": "Oct 27 12:10 AM ET"
+   "fetched_et": "Oct 27 12:48 AM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
