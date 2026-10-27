@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 27 03:00 AM ET",
- "generated_at": "2026-10-27T03:00:42.279342-04:00",
+ "generated_et": "Oct 27 03:57 AM ET",
+ "generated_at": "2026-10-27T03:57:28.591459-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-27",
@@ -12,33 +12,33 @@
   {
    "symbol": "ES=F",
    "label": "S&P 500 Fut",
-   "price": 7708.5,
-   "pct": -0.08,
-   "asof_et": "Oct 27 02:50 AM ET",
+   "price": 7705.25,
+   "pct": -0.12,
+   "asof_et": "Oct 27 03:45 AM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "NQ=F",
    "label": "Nasdaq 100 Fut",
-   "price": 29324.25,
-   "pct": -0.38,
-   "asof_et": "Oct 27 02:50 AM ET",
+   "price": 29327.0,
+   "pct": -0.37,
+   "asof_et": "Oct 27 03:45 AM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "YM=F",
    "label": "Dow Fut",
-   "price": 52606.0,
-   "pct": 0.11,
-   "asof_et": "Oct 27 02:50 AM ET",
+   "price": 52561.0,
+   "pct": 0.02,
+   "asof_et": "Oct 27 03:45 AM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "RTY=F",
    "label": "Russell 2000 Fut",
-   "price": 2795.5,
-   "pct": -0.07,
-   "asof_et": "Oct 27 02:50 AM ET",
+   "price": 2792.9,
+   "pct": -0.16,
+   "asof_et": "Oct 27 03:45 AM ET",
    "freshness": "delayed"
   },
   {
@@ -76,33 +76,33 @@
   {
    "symbol": "^VIX",
    "label": "VIX",
-   "price": 18.39,
-   "pct": -5.45,
-   "asof_et": "Oct 26 04:15 PM ET",
-   "freshness": "stale"
+   "price": 18.45,
+   "pct": 0.33,
+   "asof_et": "Oct 27 03:40 AM ET",
+   "freshness": "delayed"
   },
   {
    "symbol": "CL=F",
    "label": "WTI Crude",
-   "price": 101.58,
-   "pct": -0.18,
-   "asof_et": "Oct 27 02:50 AM ET",
+   "price": 102.2,
+   "pct": 0.43,
+   "asof_et": "Oct 27 03:45 AM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "GC=F",
    "label": "Gold",
-   "price": 4010.0,
-   "pct": -0.7,
-   "asof_et": "Oct 27 02:50 AM ET",
+   "price": 4017.5,
+   "pct": -0.52,
+   "asof_et": "Oct 27 03:45 AM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "DX-Y.NYB",
    "label": "Dollar Index",
-   "price": 102.13,
-   "pct": 0.17,
-   "asof_et": "Oct 27 02:50 AM ET",
+   "price": 102.12,
+   "pct": 0.15,
+   "asof_et": "Oct 27 03:45 AM ET",
    "freshness": "delayed"
   },
   {
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 79496.57,
-   "pct": -0.66,
-   "asof_et": "Oct 27 03:00 AM ET",
+   "price": 79675.84,
+   "pct": -0.41,
+   "asof_et": "Oct 27 03:55 AM ET",
    "freshness": "delayed"
   },
   {
@@ -377,6 +377,199 @@
  ],
  "breaking": [
   {
+   "title": "Does Jensen Huang Know Something Wall Street Doesn't? Nvidia's CEO Sees No Signs of Memory Demand Fading by 2029",
+   "link": "https://www.fool.com/investing/2026/10/27/does-jensen-huang-know-something-wall-street-doesn/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.5,
+   "tickers": [
+    "NVDA"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 27 03:57 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Stock futures are mixed after Wall Street starts the week on a winning note: Live updates",
+   "link": "https://www.cnbc.com/2026/10/26/stock-market-today-live-updates.html",
+   "source": "CNBC Top News",
+   "impact": 2.4,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 27 03:57 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Nvidia Picks Up $3B Stock In Meta's Equity Offering, Will Help Improve Muse AI Platform",
+   "link": "https://stocktwits.com/news-articles/markets/equity/nvidia-picks-up-3-b-stock-in-meta-s-equity-offering-will-help-improve-muse-ai-platform/cZUeGE3RBzH?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.2,
+   "tickers": [
+    "META",
+    "NVDA"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 27 03:57 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Bitcoin and ETH Holders Could Face a Deeper Pullback, Ansem Warns",
+   "link": "https://beincrypto.com/ansem-bearish-on-bitcoin-eth-ai-stocks/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 4.3,
+   "tickers": [
+    "BTC-USD",
+    "COIN"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 27 03:57 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Opinion: UK bond investors want spending cuts. John Healey’s first Budget may disappoint",
+   "link": "https://www.cnbc.com/2026/10/27/uk-budget-2026-john-healey-bond-market.html",
+   "source": "CNBC Top News",
+   "impact": 2.5,
+   "tickers": [
+    "^TNX"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 27 03:57 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "The 'stablecoin sandwich': Why speeding up payments isn't so simple, according to Mastercard",
+   "link": "https://www.cnbc.com/2026/10/27/mastcard-stablecoin-bvnk-.html",
+   "source": "CNBC Top News",
+   "impact": 2.9,
+   "tickers": [
+    "MA"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 27 03:57 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Major Chinese brands drop Mbappé as backlash grows over Mao joke",
+   "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "impact": 1.6,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 27 03:57 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Alfa Laval Q3 Adj. EBITA Rises",
+   "link": "https://www.nasdaq.com/articles/alfa-laval-q3-adj-ebita-rises",
+   "source": "Nasdaq Markets",
+   "impact": 1.8,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 27 03:57 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Cadence Design Systems: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/cadence-design-systems-3-key-takeaways-long-term-investors",
+   "source": "Nasdaq Markets",
+   "impact": 2.5,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 27 03:57 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Microsoft Opens the Exit Door to 60,000 Staff Days Before Earnings",
+   "link": "https://beincrypto.com/microsoft-buyouts-60000-employees-earnings/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.1,
+   "tickers": [
+    "MSFT"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 27 03:57 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Elon Musk Says Robots Will Need More Memory Than 'Everything Else on Earth' — This Analyst Sees 'Much Bigger Volume Story' for Micron, SK Hynix",
+   "link": "https://finance.yahoo.com/technology/ai/articles/elon-musk-says-robots-more-063041305.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 4.7,
+   "tickers": [
+    "MU",
+    "QQQ",
+    "SKHY",
+    "TSLA"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 27 03:57 AM ET",
+   "consumer": true
+  },
+  {
+   "title": "Tesla Jumps 5% as Barclays Raises Its Target to $450 on SpaceX Merger Prospects",
+   "link": "https://www.tikr.com/blog/tesla-jumps-5-as-barclays-raises-its-target-to-450-on-spacex-merger-prospects?ref=yahoofinance&.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 4.7,
+   "tickers": [
+    "QQQ",
+    "TGT",
+    "TSLA"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 27 03:57 AM ET",
+   "consumer": true
+  },
+  {
+   "title": "Taylor Swift, Lyle Lovett and more inducted into Nashville Songwriters Hall of Fame",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdDRsRGRYOFdtX0FBYkxPMkhDb2Q0WExDb0lHNldZYjdodzlyaXVVUWZiX09Tc3pERkpKd1RRcHpndFhTU0Job21Cb1hxZmZJRkg4UEpFRDdQcXRmTlptajZKa2pHTkVycmJwcERNdnNocDk5WFVIYmhFRzhoMmZqc3Zlb25BZkV0c2Z5aFg4dUstUDVoMUNxSzN4OVg3UHBZcUs4Q0plN1B1YVU?oc=5",
+   "source": "AP News",
+   "impact": 2.2,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 27 03:57 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "China is back in the bull semen market, but only the best will do",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc3E0MjhoMHdkTDZyMktjbVJVY0c1cWNyUmJtN0tTSWRoSkc5WEZHeHZpTzdQSlhqcUE5NHE4M3A4ODFjdHp1N0NYUHhmQWF4b3p0MzZZS1p0MnV0cGJ3am0ySUJMcGJrVEFxejNrODBodTdURUs3MGppUVJHdGZ5Tm81MjZsUzg1b0hBY0p3NVF4WDAwTXpqNUNDbGhaUQ?oc=5",
+   "source": "Reuters",
+   "impact": 2.3,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 27 03:57 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Healey to shield low-income pensioners from income tax in the Budget",
+   "link": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "impact": 1.0,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 27 03:57 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Luxury stocks shed €251 billion as China and US demand cool",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeUtXNWZqQi1OMnBHU1FVaGo2Ung2N0p5RG4yaFFUa1Z6MmtyWTVvT2x6UTNndmNZVzhlXzVPT3JkUVgwOGtwRGFfNTl0ODhGLWZXUDlpRnNEdTg0Yl9tbVlkRWtuWkFYaVlNRlZxcVRTWUlpUUh5RXNnekZ4T1VYT0JvSTZ6V0c10gGcAUFVX3lxTFBCQnRLRkU3cGd5bkQ3QTVDVUNyUWVsaFo1M3NnNGlzY2pzTGFubERMSFp6T0ZtR1BveEVKTFR2M2NQS2RIZTM2ZFM4UzMzRFhzdGgtMVpIcS16SXVOemdhZ3VITlNmT3EzX2lpT1NnWE5mWFE0U2NUQkhMX1Q2T0wydWlrZVhNX1VsSG45djVfZ3pMNHFBbXpRRVBSVA?oc=5",
+   "source": "Chosunbiz",
+   "impact": 0.8,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 27 03:57 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Veteran Adviser: Buy Good Stocks When Others Fear Market",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZ0JuMVl4U1QxdHhpUzFxNWJiR2ctR3J4TnJfcUhndUt3OTZEWWJNVWQtOEV4RFhkQ2pvVTZsTTQwV19sSTgxMWxVMW05TmZGNVl0Q1YyUUhlVGEzSl9NRFkyTzU5TkxNQ2N6eXpyLWlWZ3Y3bFNNYjRfYnFiZkNSYWVJWnhBWExRdWIxdWNR?oc=5",
+   "source": "조선일보",
+   "impact": 0.3,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 27 03:57 AM ET",
+   "consumer": false
+  },
+  {
    "title": "NVIDIA To Invest $3 Bln In Meta; To Expand Muse AI Partnership",
    "link": "https://www.nasdaq.com/articles/nvidia-invest-3-bln-meta-expand-muse-ai-partnership",
    "source": "Nasdaq Markets",
@@ -408,199 +601,6 @@
    "impact": 2.7,
    "tickers": [],
    "sentiment_label": "neutral",
-   "seen_et": "Oct 27 03:00 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Nvidia to invest $3 bln in Meta share offering as part of bigger AI partnership",
-   "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-invest-3-bln-meta-064611851.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.8,
-   "tickers": [
-    "META",
-    "NVDA"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 27 03:00 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Bristol Myers Squibb’s Cancer Drug Just Doubled Survival Time Without Progression — Here’s Why It Matters",
-   "link": "https://www.fool.com/investing/2026/10/27/bristol-myers-squibbs-cancer-drug-just-doubled-survival-time-without-progression-heres-why-it-matters/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.0,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 27 03:00 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Elon built the most ridiculous Tesla yet",
-   "link": "https://myfirstmillion.videonest.co/videos/2346241/elon-built-the-most-ridiculous-tesla-yet-Ei3_0WSwUs?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.8,
-   "tickers": [
-    "TSLA"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 27 03:00 AM ET",
-   "consumer": true
-  },
-  {
-   "title": "HD Hyundai Electric Q3 Operating Profit Rises",
-   "link": "https://www.nasdaq.com/articles/hd-hyundai-electric-q3-operating-profit-rises",
-   "source": "Nasdaq Markets",
-   "impact": 2.5,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 27 03:00 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Novartis Q3 Profit Declines; Lifts FY26 Core Income View, Backs Sales Outlook",
-   "link": "https://www.nasdaq.com/articles/novartis-q3-profit-declines-lifts-fy26-core-income-view-backs-sales-outlook",
-   "source": "Nasdaq Markets",
-   "impact": 1.9,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 27 03:00 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Reddit vs. Snap: Which Social Media Stock Is a Better Buy in 2026?",
-   "link": "https://www.nasdaq.com/articles/reddit-vs-snap-which-social-media-stock-better-buy-2026",
-   "source": "Nasdaq Markets",
-   "impact": 2.5,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 27 03:00 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Agile Robots Launches Agile ONE SN Humanoid at NVIDIA GTC Berlin and Pilots Humanoids with Audi",
-   "link": "https://finance.yahoo.com/technology/ai/articles/agile-robots-launches-agile-one-062200731.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.0,
-   "tickers": [
-    "FCI",
-    "NVDA"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 27 03:00 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Warren Buffett Says Buy an S&P 500 Index Fund. Here's What $500 a Month Is Worth in 20 Years at 3 Different Return Rates.",
-   "link": "https://www.fool.com/investing/2026/10/27/warren-buffett-sp-500-etf-500-month-20-years/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.8,
-   "tickers": [
-    "ORCL",
-    "SPY"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 27 03:00 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Will the Budget pass Burnham's Makerfield test?",
-   "link": "https://www.bbc.co.uk/news/articles/cqzjx1e9ylv1o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "impact": 1.5,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 27 03:00 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Budget hopes for struggling first-time buyers",
-   "link": "https://www.bbc.co.uk/news/articles/c317kpqv4njno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "impact": 1.5,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 27 03:00 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Budget 2026: 'Surrey is a lovely place - but it can be stressful'",
-   "link": "https://www.bbc.co.uk/news/articles/c6e3xk7klnkwo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "impact": 2.5,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 27 03:00 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Apple To Replace IPhone Duo Units Affected By Display Defects",
-   "link": "https://www.nasdaq.com/articles/apple-replace-iphone-duo-units-affected-display-defects",
-   "source": "Nasdaq Markets",
-   "impact": 2.8,
-   "tickers": [
-    "AAPL"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 27 03:00 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Truelink Capital To Acquire Johnson Controls' Global Intrusion Products Business",
-   "link": "https://www.nasdaq.com/articles/truelink-capital-acquire-johnson-controls-global-intrusion-products-business",
-   "source": "Nasdaq Markets",
-   "impact": 3.7,
-   "tickers": [
-    "JCI"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 27 03:00 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "CSL FY26 Net Profit After Tax Down 3%; Reaffirms FY27 Outlook",
-   "link": "https://www.nasdaq.com/articles/csl-fy26-net-profit-after-tax-down-3-reaffirms-fy27-outlook",
-   "source": "Nasdaq Markets",
-   "impact": 2.3,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 27 03:00 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Airbnb vs. Coupang: Which Consumer Stock Is a Better Buy in 2026?",
-   "link": "https://www.nasdaq.com/articles/airbnb-vs-coupang-which-consumer-stock-better-buy-2026",
-   "source": "Nasdaq Markets",
-   "impact": 2.5,
-   "tickers": [
-    "ABNB"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 27 03:00 AM ET",
-   "consumer": true
-  },
-  {
-   "title": "Gold eases on firmer dollar ahead of Fed decision",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQWIyeWVhRnVBaHZfV05HanpZVFJzZDZiaC1MTEFVX0JEbWc5RVhRV3htMnJFMDNCVjBPWTJISkhha3ZWc3otaXBCTGloREJidmlqOWtXMTQ4Zks2aTA5czBzNC1OdGNuVXlqLVZ4TTk3M1VUSEZvdVdCLXV3bHJsZXBHSktGcXR0dk1wS2VYdWYxTm9ueGc?oc=5",
-   "source": "Reuters",
-   "impact": 5.2,
-   "tickers": [
-    "GC=F",
-    "SPY",
-    "^TNX"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 27 03:00 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Applied Materials To Increase Stake In BE Semiconductor Industries To About 20%",
-   "link": "https://www.nasdaq.com/articles/applied-materials-increase-stake-be-semiconductor-industries-about-20",
-   "source": "Nasdaq Markets",
-   "impact": 3.6,
-   "tickers": [
-    "AMAT"
-   ],
-   "sentiment_label": "bullish",
    "seen_et": "Oct 27 03:00 AM ET",
    "consumer": false
   }
@@ -806,7 +806,7 @@
  "movers": {
   "mode": "last session (market not in pre-market)",
   "basis": "opening gap (open vs prior close) of the last session; RVOL = session volume / 20-day avg",
-  "fetched_et": "Oct 27 12:11 AM ET",
+  "fetched_et": "Oct 27 03:57 AM ET",
   "gappers": [
    {
     "symbol": "FICO",
@@ -3058,12 +3058,12 @@
  "sentiment_validation": {
   "logged": 4000,
   "min_sample": 100,
-  "generated_et": "Oct 27 03:00 AM ET",
+  "generated_et": "Oct 27 03:58 AM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
-    "n_scored": 3828,
-    "n_directional": 3190,
+    "n_scored": 3818,
+    "n_directional": 3180,
     "hit_rate": 49.8,
     "ci95": 1.7,
     "corr": 0.002,
@@ -3071,8 +3071,8 @@
    },
    "r1d": {
     "name": "+1 day",
-    "n_scored": 3133,
-    "n_directional": 2663,
+    "n_scored": 3123,
+    "n_directional": 2653,
     "hit_rate": 45.9,
     "ci95": 1.9,
     "corr": -0.082,
@@ -3157,98 +3157,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 27 03:00 AM ET",
-   "newest_et": "Oct 27 02:51 AM ET",
-   "newest": "2026-10-27T06:51:16+00:00"
+   "fetched_et": "Oct 27 03:57 AM ET",
+   "newest_et": "Oct 27 03:48 AM ET",
+   "newest": "2026-10-27T07:48:36+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 27 03:00 AM ET",
+   "fetched_et": "Oct 27 03:57 AM ET",
    "newest_et": "Oct 26 02:33 PM ET",
    "newest": "2026-10-26T18:33:51+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 27 03:00 AM ET",
+   "fetched_et": "Oct 27 03:57 AM ET",
    "newest_et": "Oct 26 05:18 PM ET",
    "newest": "2026-10-26T21:18:07+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 27 03:00 AM ET",
+   "fetched_et": "Oct 27 03:57 AM ET",
    "newest_et": "Oct 27 12:01 AM ET",
    "newest": "2026-10-27T04:01:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 27 03:00 AM ET",
+   "fetched_et": "Oct 27 03:57 AM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 27 03:00 AM ET",
-   "newest_et": "Oct 27 02:50 AM ET",
-   "newest": "2026-10-27T06:50:02+00:00"
+   "fetched_et": "Oct 27 03:57 AM ET",
+   "newest_et": "Oct 27 03:51 AM ET",
+   "newest": "2026-10-27T07:51:00+00:00"
   },
   "BBC Business": {
    "ok": true,
-   "count": 44,
-   "fetched_et": "Oct 27 03:00 AM ET",
-   "newest_et": "Oct 27 02:49 AM ET",
-   "newest": "2026-10-27T06:49:19+00:00"
+   "count": 47,
+   "fetched_et": "Oct 27 03:57 AM ET",
+   "newest_et": "Oct 27 03:15 AM ET",
+   "newest": "2026-10-27T07:15:08+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 27 03:00 AM ET",
-   "newest_et": "Oct 27 01:46 AM ET",
-   "newest": "2026-10-27T05:46:00+00:00"
+   "fetched_et": "Oct 27 03:57 AM ET",
+   "newest_et": "Oct 27 01:02 AM ET",
+   "newest": "2026-10-27T05:02:00+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 27 03:00 AM ET",
-   "newest_et": "Oct 27 02:45 AM ET",
-   "newest": "2026-10-27T06:45:00+00:00"
+   "fetched_et": "Oct 27 03:57 AM ET",
+   "newest_et": "Oct 27 02:52 AM ET",
+   "newest": "2026-10-27T06:52:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 15,
-   "fetched_et": "Oct 27 03:00 AM ET",
+   "count": 14,
+   "fetched_et": "Oct 27 03:57 AM ET",
    "newest_et": "Oct 26 10:21 PM ET",
    "newest": "2026-10-27T02:21:00+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
-   "count": 18,
-   "fetched_et": "Oct 27 03:00 AM ET",
-   "newest_et": "Oct 26 11:48 PM ET",
-   "newest": "2026-10-27T03:48:21+00:00"
+   "count": 42,
+   "fetched_et": "Oct 27 03:57 AM ET",
+   "newest_et": "Oct 27 03:01 AM ET",
+   "newest": "2026-10-27T07:01:52+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 27 03:00 AM ET",
+   "fetched_et": "Oct 27 03:57 AM ET",
    "newest_et": "Oct 16 11:00 AM ET",
    "newest": "2026-10-16T15:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 27 03:00 AM ET",
-   "newest_et": "Oct 27 02:52 AM ET",
-   "newest": "2026-10-27T06:52:13+00:00"
+   "fetched_et": "Oct 27 03:57 AM ET",
+   "newest_et": "Oct 27 03:01 AM ET",
+   "newest": "2026-10-27T07:01:04+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Oct 27 03:00 AM ET"
+   "fetched_et": "Oct 27 03:57 AM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
