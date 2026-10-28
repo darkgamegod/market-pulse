@@ -1,9 +1,9 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 27 07:49 PM ET",
- "generated_at": "2026-10-27T19:49:35.067258-04:00",
- "session": "after-hours",
+ "generated_et": "Oct 27 08:42 PM ET",
+ "generated_at": "2026-10-27T20:42:35.680389-04:00",
+ "session": "closed",
  "daily_report": {
   "date": "2026-10-27",
   "generated_et": "Tue Oct 27 2026, 12:11 AM ET"
@@ -12,58 +12,66 @@
   {
    "symbol": "ES=F",
    "label": "S&P 500 Fut",
-   "price": 7761.75,
-   "pct": 0.61,
-   "asof_et": "Oct 27 07:35 PM ET",
+   "price": 7756.75,
+   "pct": 0.55,
+   "asof_et": "Oct 27 08:30 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "NQ=F",
    "label": "Nasdaq 100 Fut",
-   "price": 29839.25,
-   "pct": 1.37,
-   "asof_et": "Oct 27 07:35 PM ET",
+   "price": 29817.0,
+   "pct": 1.29,
+   "asof_et": "Oct 27 08:30 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "YM=F",
    "label": "Dow Fut",
-   "price": 52617.0,
-   "pct": 0.13,
-   "asof_et": "Oct 27 07:35 PM ET",
+   "price": 52561.0,
+   "pct": 0.02,
+   "asof_et": "Oct 27 08:30 PM ET",
+   "freshness": "delayed"
+  },
+  {
+   "symbol": "RTY=F",
+   "label": "Russell 2000 Fut",
+   "price": 2825.6,
+   "pct": 1.0,
+   "asof_et": "Oct 27 08:30 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "SPY",
    "label": "SPY",
-   "price": 770.26,
-   "pct": 0.64,
-   "asof_et": "Oct 27 07:40 PM ET",
-   "freshness": "delayed"
+   "price": 769.95,
+   "pct": 0.6,
+   "asof_et": "Oct 27 07:55 PM ET",
+   "freshness": "closed"
   },
   {
    "symbol": "QQQ",
    "label": "QQQ",
-   "price": 722.2,
-   "pct": 1.4,
-   "asof_et": "Oct 27 07:45 PM ET",
-   "freshness": "delayed"
+   "price": 722.26,
+   "pct": 1.41,
+   "asof_et": "Oct 27 07:55 PM ET",
+   "freshness": "closed"
   },
   {
    "symbol": "DIA",
    "label": "DIA",
-   "price": 523.65,
-   "pct": 0.13,
-   "asof_et": "Oct 27 07:25 PM ET",
-   "freshness": "delayed"
+   "price": 523.52,
+   "pct": 0.11,
+   "asof_et": "Oct 27 07:55 PM ET",
+   "freshness": "closed"
   },
   {
    "symbol": "IWM",
    "label": "IWM",
-   "price": 280.26,
-   "pct": 1.18,
-   "asof_et": "Oct 27 07:48 PM ET",
-   "freshness": "delayed"
+   "price": 280.16,
+   "pct": 1.14,
+   "asof_et": "Oct 27 07:55 PM ET",
+   "freshness": "closed"
   },
   {
    "symbol": "^VIX",
@@ -76,26 +84,26 @@
   {
    "symbol": "CL=F",
    "label": "WTI Crude",
-   "price": 100.05,
-   "pct": -1.68,
-   "asof_et": "Oct 27 07:35 PM ET",
+   "price": 100.63,
+   "pct": -1.11,
+   "asof_et": "Oct 27 08:30 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "GC=F",
    "label": "Gold",
-   "price": 4071.2,
-   "pct": 0.81,
-   "asof_et": "Oct 27 07:35 PM ET",
+   "price": 4075.3,
+   "pct": 0.91,
+   "asof_et": "Oct 27 08:30 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "DX-Y.NYB",
    "label": "Dollar Index",
-   "price": 102.36,
-   "pct": 0.4,
-   "asof_et": "Oct 27 06:00 PM ET",
-   "freshness": "stale"
+   "price": 102.34,
+   "pct": 0.37,
+   "asof_et": "Oct 27 08:30 PM ET",
+   "freshness": "delayed"
   },
   {
    "symbol": "^TNX",
@@ -108,42 +116,42 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 80869.61,
-   "pct": 1.08,
-   "asof_et": "Oct 27 07:45 PM ET",
+   "price": 80696.66,
+   "pct": 0.86,
+   "asof_et": "Oct 27 08:40 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "XLK",
    "label": "Technology",
-   "price": 189.51,
-   "pct": 1.71,
-   "asof_et": "Oct 27 07:25 PM ET",
-   "freshness": "delayed"
+   "price": 189.6,
+   "pct": 1.76,
+   "asof_et": "Oct 27 07:55 PM ET",
+   "freshness": "closed"
   },
   {
    "symbol": "XLF",
    "label": "Financials",
-   "price": 55.78,
-   "pct": -0.43,
-   "asof_et": "Oct 27 07:35 PM ET",
-   "freshness": "delayed"
+   "price": 55.75,
+   "pct": -0.48,
+   "asof_et": "Oct 27 07:55 PM ET",
+   "freshness": "closed"
   },
   {
    "symbol": "XLE",
    "label": "Energy",
-   "price": 68.1,
-   "pct": -2.21,
-   "asof_et": "Oct 27 07:48 PM ET",
-   "freshness": "delayed"
+   "price": 68.06,
+   "pct": -2.27,
+   "asof_et": "Oct 27 07:50 PM ET",
+   "freshness": "closed"
   },
   {
    "symbol": "XLV",
    "label": "Health Care",
-   "price": 179.18,
-   "pct": -0.06,
-   "asof_et": "Oct 27 06:30 PM ET",
-   "freshness": "stale"
+   "price": 179.06,
+   "pct": -0.12,
+   "asof_et": "Oct 27 07:20 PM ET",
+   "freshness": "closed"
   },
   {
    "symbol": "XLY",
@@ -151,15 +159,15 @@
    "price": 115.45,
    "pct": 1.04,
    "asof_et": "Oct 27 05:45 PM ET",
-   "freshness": "stale"
+   "freshness": "closed"
   },
   {
    "symbol": "XLP",
    "label": "Cons. Staples",
-   "price": 87.11,
-   "pct": -0.97,
-   "asof_et": "Oct 27 06:45 PM ET",
-   "freshness": "stale"
+   "price": 87.43,
+   "pct": -0.6,
+   "asof_et": "Oct 27 07:50 PM ET",
+   "freshness": "closed"
   },
   {
    "symbol": "XLI",
@@ -167,47 +175,47 @@
    "price": 167.52,
    "pct": 0.34,
    "asof_et": "Oct 27 06:25 PM ET",
-   "freshness": "stale"
+   "freshness": "closed"
   },
   {
    "symbol": "XLB",
    "label": "Materials",
-   "price": 51.78,
-   "pct": 0.78,
-   "asof_et": "Oct 27 05:05 PM ET",
-   "freshness": "stale"
+   "price": 51.95,
+   "pct": 1.11,
+   "asof_et": "Oct 27 07:35 PM ET",
+   "freshness": "closed"
   },
   {
    "symbol": "XLU",
    "label": "Utilities",
    "price": 42.83,
    "pct": 0.66,
-   "asof_et": "Oct 27 07:49 PM ET",
-   "freshness": "delayed"
+   "asof_et": "Oct 27 07:55 PM ET",
+   "freshness": "closed"
   },
   {
    "symbol": "XLRE",
    "label": "Real Estate",
-   "price": 42.41,
-   "pct": -0.9,
-   "asof_et": "Oct 27 06:55 PM ET",
-   "freshness": "stale"
+   "price": 42.46,
+   "pct": -0.79,
+   "asof_et": "Oct 27 07:20 PM ET",
+   "freshness": "closed"
   },
   {
    "symbol": "XLC",
    "label": "Communication",
-   "price": 103.58,
-   "pct": -0.26,
-   "asof_et": "Oct 27 05:05 PM ET",
-   "freshness": "stale"
+   "price": 103.85,
+   "pct": 0.0,
+   "asof_et": "Oct 27 07:55 PM ET",
+   "freshness": "closed"
   },
   {
    "symbol": "SMH",
    "label": "Semiconductors",
-   "price": 557.85,
-   "pct": 3.0,
-   "asof_et": "Oct 27 07:45 PM ET",
-   "freshness": "delayed"
+   "price": 558.9,
+   "pct": 3.19,
+   "asof_et": "Oct 27 07:55 PM ET",
+   "freshness": "closed"
   }
  ],
  "top_themes": [
@@ -369,243 +377,251 @@
  ],
  "breaking": [
   {
-   "title": "SK Hynix third-quarter profit sharply beats estimates on AI memory boost",
-   "link": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
-   "source": "CNBC Top News",
-   "impact": 3.6,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 27 07:50 PM ET",
+   "title": "RBC Says SpaceX Stock Has 50% Upside. S&P Global Just Warned About Its Hidden AI Debt. Here's Who I Think Is Right.",
+   "link": "https://www.fool.com/investing/2026/10/27/rbc-says-spacex-stock-has-50-upside-sp-global-just/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 4.1,
+   "tickers": [
+    "SPY"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 27 08:42 PM ET",
    "consumer": false
   },
   {
-   "title": "FedEx (FDX) Stock Trades 43% Below Fair Value On Fuel Surcharge News",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUVk1Njhtd3BVQ0Y3eTBHVDNFLXlMQ1hKMms2M0dXb1E1akYwaEY4cU95dDFjaEMxOXZyWHVVdnMxejFrTmduSEd2cDBHdjZwY2dtS0lnMXV3dTVVZG9jckVYLUY3c3I0Ym94Vk9VVUJRWjFtV3dHRVlkcVFsd0R6RzBOLVNyc2VjTzRMY2k5bkZBLWhVZVpobVlhTm5rUnhCU0hIbnZod1NHNDEzZlhzY3h4elBKX3dpSXBsMTI1bVZfSGNEcmfSAcsBQVVfeXFMTldrT2FfNHVob1BJbjlxMXpWdUVaV2xHUmI5UExWRDVMSkliM1BpaV9vcGpxR2VDZUZtTEJWTUlFN2VKU3dkR0FUVkJqWUdXT2VVTVZSeVgtSWRCWGN5LTlVdFFvajhLSkZnSkM4N0kzVms5YXc0VDJGVXEwMEs0MlhtVFpPRVhCeHdCejBZbklhbTJVSW05cHhZVFpSUjhVRlZlZHJDamdNdnFHOTlNbTNCR0N3THNDR0ZSZEk1VXlCVmxZRnlZYWU1YlU?oc=5",
-   "source": "Simply Wall Street",
-   "impact": 4.8,
+   "title": "British Growth Stocks To Watch In October 2026",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/british-growth-stocks-watch-october-001757969.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 4.5,
    "tickers": [
-    "FDX",
-    "GOOGL"
+    "META",
+    "NVDA"
    ],
    "sentiment_label": "bullish",
-   "seen_et": "Oct 27 07:50 PM ET",
+   "seen_et": "Oct 27 08:42 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Indian investors rush to Nvidia, SpaceX, Apple as local trading apps roll out access to U.S. stocks",
+   "link": "https://www.cnbc.com/2026/10/28/india-us-stocks-retail-access.html",
+   "source": "CNBC Top News",
+   "impact": 2.4,
+   "tickers": [
+    "AAPL",
+    "NVDA"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 27 08:42 PM ET",
    "consumer": true
   },
   {
-   "title": "The 5 moats that still matter in the AI era",
-   "link": "https://myfirstmillion.videonest.co/videos/2347825/the-5-moats-that-still-matter-in-the-ai-era-Dif7jRqA0Y?.tsrc=rss",
+   "title": "Why Hawkins Stock Crushed the Market on Tuesday",
+   "link": "https://www.fool.com/investing/2026/10/27/why-hawkins-stock-crushed-the-market-on-tuesday/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 1.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 27 08:42 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "I get £4,062 a year and am trying my best - here's what I want from the Budget",
+   "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "impact": 2.3,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 27 08:42 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "'An annoying buzz': The search for stealthier drones",
+   "link": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "impact": 2.0,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 27 08:42 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Earnings from Google and Microsoft and a Fed rate decision: What to Watch",
+   "link": "https://finance.yahoo.com/video/earnings-google-microsoft-fed-rate-000000143.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 8.1,
+   "tickers": [
+    "GOOG",
+    "GOOGL",
+    "MSFT",
+    "SPY",
+    "^TNX"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 27 08:42 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Camden National (CAC) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/camden-national-cac-q3-2026-earnings-call-transcript",
+   "source": "Nasdaq Markets",
+   "impact": 3.6,
+   "tickers": [
+    "CAC"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 27 08:42 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Nvidia Stock Is 10% Below Its Record. Does Anthropic's IPO Filing Make It a Buy?",
+   "link": "https://www.fool.com/investing/2026/10/27/nvidia-stock-is-10-below-its-record-does-anthropic-s-ipo-filing-make-it-a-buy/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.0,
+   "tickers": [
+    "NVDA"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 27 08:42 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "H2O America (HTO) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/h2o-america-hto-q3-2026-earnings-call-transcript",
+   "source": "Nasdaq Markets",
+   "impact": 3.6,
+   "tickers": [
+    "HTO"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 27 08:42 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "S&P 500, Nasdaq Jump On Chipmaker Strength As Investors Eye October Fed Decision — ORCL, HOOD, JBLU, RIVN, SMCI In Focus",
+   "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-jump-on-chipmaker-strength-as-investors-eye-october-fed-decision/cZUe8u8RB6G?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 5.2,
+   "tickers": [
+    "QQQ",
+    "SPY",
+    "^TNX"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 27 08:42 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Ecolab (ECL) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/ecolab-ecl-q3-2026-earnings-call-transcript",
+   "source": "Nasdaq Markets",
+   "impact": 3.6,
+   "tickers": [
+    "ECL"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 27 08:42 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Pulmonx (LUNG) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/pulmonx-lung-q3-2026-earnings-call-transcript",
+   "source": "Nasdaq Markets",
+   "impact": 3.6,
+   "tickers": [
+    "LUNG"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 27 08:42 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Ribbon (RBBN) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/ribbon-rbbn-q3-2026-earnings-call-transcript",
+   "source": "Nasdaq Markets",
+   "impact": 3.6,
+   "tickers": [
+    "RBBN"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 27 08:42 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Why Celestica Stock Jumped Today",
+   "link": "https://www.fool.com/investing/2026/10/27/why-celestica-stock-jumped-today/?.tsrc=rss",
    "source": "Yahoo Finance",
    "impact": 1.6,
    "tickers": [],
    "sentiment_label": "neutral",
-   "seen_et": "Oct 27 07:50 PM ET",
+   "seen_et": "Oct 27 08:42 PM ET",
    "consumer": false
   },
   {
-   "title": "Boeing's Backlog Grew to $745 Billion. The Question Remains How Fast It Can Fulfill It",
-   "link": "https://www.fool.com/investing/2026/10/27/boeing-s-backlog-grew-to-usd745-billion-the-question-remains-how-fast-it-can-fulfill-it/?.tsrc=rss",
-   "source": "Yahoo Finance",
+   "title": "Malaysia Stock Market May Add To Its Winnings On Wednesday",
+   "link": "https://www.nasdaq.com/articles/malaysia-stock-market-may-add-its-winnings-wednesday",
+   "source": "Nasdaq Markets",
+   "impact": 2.4,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 27 08:42 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Five Star Bancorp (FSBC) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/five-star-bancorp-fsbc-q3-2026-earnings-call-transcript",
+   "source": "Nasdaq Markets",
+   "impact": 3.6,
+   "tickers": [
+    "FSBC"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 27 08:42 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "T-wolves' Anthony Edwards needs procedure on right knee, will miss several weeks, AP source says",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS3FCdjVLLTlFWmFCU0N3TnlEeEhuM2tGSFBPMUdWejBiSE9ERmZOVUVtOGg0ZkJyLWRTVm9QMVZrdXNFSjhfV3Bpdl9SN3VqOWxQSDVZNDE2UFlZWnRsQzB3cmQ2a1pxQjA0cmVqSFVGYllMWUIwV09UZlY3ZG45aG5UVEhXclhzUVJEWjdFZkNzVW9SMHk4V2pxOA?oc=5",
+   "source": "AP News",
+   "impact": 3.3,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 27 08:42 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Wednesday's big stock stories: What’s likely to move the market in the next trading session",
+   "link": "https://www.cnbc.com/2026/10/27/wednesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+   "source": "CNBC Top News",
    "impact": 2.6,
    "tickers": [
-    "BA"
+    "SPY"
    ],
    "sentiment_label": "bullish",
-   "seen_et": "Oct 27 07:50 PM ET",
+   "seen_et": "Oct 27 08:42 PM ET",
    "consumer": false
   },
   {
-   "title": "$10,000 Invested in Eli Lilly 5 Years Ago Would Be Worth This Much Today",
-   "link": "https://www.fool.com/investing/2026/10/27/10000-invested-in-eli-lilly-5-years-ago-would-be-w/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.7,
-   "tickers": [
-    "LLY"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 27 07:50 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "What Is Fueling The Traffic Surge At Ross Stores (NASDAQ:ROST) This Quarter?",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeUlTMGJUV3lZaGs3aVYxVXRscE5teWJLXzNDbG9XUHdJWFZyWlMxdkR6ZzdGUXBmTFBvNVFuTFRqZk5yTWFjWElpcUE3STNSWGN2WHVhbkFmd2tXc1pKTlRGeFJxYWNGakJtS0dOU2pjU0dBckJMNEtVS3dKMUlBbXdRNkI5SDRWYTRUN29FTGRlUzRhY0Ric3d2Q2R6Z3NISVFNUFYyUjFvX3JYekFjdU5rVUY?oc=5",
-   "source": "Kalkine Media",
-   "impact": 4.5,
-   "tickers": [
-    "QQQ",
-    "ROST"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 27 07:50 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Is Broad Traffic Growth Keeping Dollar General (NYSE:DG) In The Spotlight?",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdzBRSG9vT1k2OENKUWI1TkxuS3B2enQyOURFeGNHVWdoYUhwdXZKdkVuS09rMHpFREJnOTJoMzE2eWxKaWtzY1ZLSDdheldack54cmtoVk1DeGpyenBTTUtFS0RZT3ViX1hoMG1HSU52UFNHUFd5dzBnZm04N0NkTHhFZ2o0UkVMN1VFbVVFbFZhZlg5czBTbjZQaWtDNkxZdC1vcFQwUU9ydWp6bXBDaV9n?oc=5",
-   "source": "Kalkine Media",
-   "impact": 2.8,
-   "tickers": [
-    "DG"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 27 07:50 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Best Buy keeps a key customer perk Target dropped",
-   "link": "https://www.thestreet.com/retail/best-buy-keeps-price-matching-customer-perk-target-dropped?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 4.4,
-   "tickers": [
-    "AMZN",
-    "BBY",
-    "TGT",
-    "WMT"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 27 07:50 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "Why Archer Aviation Stock Took Flight on Tuesday",
-   "link": "https://www.fool.com/investing/2026/10/27/why-archer-aviation-stock-took-flight-on-tuesday/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.1,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 27 07:50 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Volaris (VLRS) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/volaris-vlrs-q3-2026-earnings-call-transcript",
+   "title": "Rogers (ROG) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/rogers-rog-q3-2026-earnings-call-transcript",
    "source": "Nasdaq Markets",
    "impact": 3.6,
    "tickers": [
-    "VLRS"
+    "ROG"
    ],
    "sentiment_label": "bullish",
-   "seen_et": "Oct 27 07:50 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "USA Rare Earth Just Broke Ground on a $1.2 Billion Magnet Complex. Here's Why It Matters.",
-   "link": "https://www.fool.com/investing/2026/10/27/usa-rare-earth-just-broke-ground-on-a-12-billion-m/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.0,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 27 07:50 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Ascendion Expands AI Advisory Community with Four Global Business and Technology Leaders",
-   "link": "https://finance.yahoo.com/technology/ai/articles/ascendion-expands-ai-advisory-community-231000918.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.8,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 27 07:50 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Amazon Backup Power Deal Could Be A Turning Point For Generac Stock",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-backup-power-deal-could-230921348.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 4.5,
-   "tickers": [
-    "AMZN"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 27 07:50 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "Tech Shares Likely To Boost KOSPI On Wednesday",
-   "link": "https://www.nasdaq.com/articles/tech-shares-likely-boost-kospi-wednesday",
-   "source": "Nasdaq Markets",
-   "impact": 2.4,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 27 07:50 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Hanmi Financial (HAFC) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/hanmi-financial-hafc-q3-2026-earnings-call-transcript",
-   "source": "Nasdaq Markets",
-   "impact": 3.6,
-   "tickers": [
-    "HAFC"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 27 07:50 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "NRC Health (NRC) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/nrc-health-nrc-q3-2026-earnings-call-transcript",
-   "source": "Nasdaq Markets",
-   "impact": 3.6,
-   "tickers": [
-    "NRC"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 27 07:50 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Aritzia’s Upbeat Earnings Point to Resilient Consumers: 2 Canadian Retail Stocks to Consider",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSkdKYTNZWjMxTUtDcGt1Wk91ZnN5YnBPVEx6OHJhSE9SUFMyYnc3QWx5U0JOVUxxY0VMallxTTREVkxqWkNudVVuUmVuMHRMcFpFMERwTmpwTmZONGZlVnpTRlRBZ0Ziam1uRDMtSXlUWnIyYmJoX2JBZkpPTDZ3NGRuOUdfU0paMVdfeEQ0b1VYRDNxZ2RNQTJIQWhGQVNaTkpPR1RyQjNId19mQ3cwVW5Kc05KX0lCTXFKZ2dfUQ?oc=5",
-   "source": "The Motley Fool Canada",
-   "impact": 3.2,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 27 07:50 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "Trump plans to loosen restrictions on methane emissions from oil drilling",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSFNKN0ZYWlpwbTl6aV91dkRrYVpUZktMVzIta0hXb21GR1k0SURSb3lOZVFkTmhPR2Z4VUJXZm9WaC1rLWwtLXN0OVhYR3NobFhmTzhTSEVmRzkxWDdRSlVNVkNQTVpNSUduQXBDdC1pV1VzcGUxaXNtalJoYXFJVjUyQnFKUGV0QmJYQmVPbG15bVBOZXZF?oc=5",
-   "source": "AP News",
-   "impact": 2.4,
-   "tickers": [
-    "CL=F",
-    "XLE"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 27 07:50 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "'We're Trading Them Like Baseball Cards': Mark Cuban Warns ‘Everything’s a Meme Stock’ as AAPL, GOOGL and MU Fuel Market Bubble Fears",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/were-trading-them-baseball-cards-220034335.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.8,
-   "tickers": [
-    "AAPL",
-    "GOOGL"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 27 07:50 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "US woman convicted of getting Islamic State training after becoming teen bride to a fighter",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaFF3SlBBbzlmeTV2bGR3UnZLamVFNW5sMVNfc2FFbTBkLWdXWmJQYlB2V0RUc29pemlpRHNLeHd2UktkSlpiRGdtWTFmZGdqOVVITzNnVmx1QmVBTzVoaEp3ejJzWERSeEdQNjhhTjJNUHpXaTQ4N25uclFIMU5CbUxsUGxtN002Y0hoLXlnUWhVZUZkUkRXVnRwVFoxM2w1?oc=5",
-   "source": "AP News",
-   "impact": 1.8,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 27 07:50 PM ET",
+   "seen_et": "Oct 27 08:42 PM ET",
    "consumer": false
   }
  ],
  "high_impact": [
   {
-   "title": "How investors can position ahead of the Fed's next policy decision",
-   "link": "https://www.cnbc.com/2026/10/27/how-investors-can-position-ahead-of-into-the-feds-next-policy-decision.html",
-   "impact": 7.1,
+   "title": "Earnings from Google and Microsoft and a Fed rate decision: What to Watch",
+   "link": "https://finance.yahoo.com/video/earnings-google-microsoft-fed-rate-000000143.html?.tsrc=rss",
+   "impact": 8.1,
    "tickers": [
+    "GOOG",
+    "GOOGL",
+    "MSFT",
     "SPY",
     "^TNX"
    ]
@@ -1150,32 +1166,8 @@
  "economic_calendar": {
   "source": "FairEconomy / ForexFactory weekly calendar (nfs.faireconomy.media)",
   "fallback": false,
-  "fetched_et": "Oct 27 07:14 PM ET",
+  "fetched_et": "Oct 27 08:42 PM ET",
   "events": [
-   {
-    "when_et": "Oct 27 08:15 AM ET",
-    "date": "2026-10-27",
-    "event": "ADP Weekly Employment Change",
-    "importance": "low",
-    "forecast": "",
-    "previous": "18.5K"
-   },
-   {
-    "when_et": "Oct 27 08:30 AM ET",
-    "date": "2026-10-27",
-    "event": "Core Durable Goods Orders m/m",
-    "importance": "low",
-    "forecast": "0.6%",
-    "previous": "0.3%"
-   },
-   {
-    "when_et": "Oct 27 08:30 AM ET",
-    "date": "2026-10-27",
-    "event": "Durable Goods Orders m/m",
-    "importance": "low",
-    "forecast": "2.0%",
-    "previous": "0.0%"
-   },
    {
     "when_et": "Oct 27 09:00 AM ET",
     "date": "2026-10-27",
@@ -3063,21 +3055,21 @@
  "sentiment_validation": {
   "logged": 4000,
   "min_sample": 100,
-  "generated_et": "Oct 27 07:50 PM ET",
+  "generated_et": "Oct 27 08:42 PM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
-    "n_scored": 3907,
-    "n_directional": 3275,
-    "hit_rate": 51.3,
+    "n_scored": 3895,
+    "n_directional": 3266,
+    "hit_rate": 51.4,
     "ci95": 1.7,
     "corr": 0.011,
     "status": "NO EDGE (≈ coin flip)"
    },
    "r1d": {
     "name": "+1 day",
-    "n_scored": 3417,
-    "n_directional": 2916,
+    "n_scored": 3391,
+    "n_directional": 2891,
     "hit_rate": 49.2,
     "ci95": 1.8,
     "corr": -0.06,
@@ -3087,73 +3079,73 @@
   "status": "MEASURED",
   "recent": [
    {
-    "ticker": "GOOGL",
-    "sentiment": -0.052,
-    "title": "3 Stocks Retail Investors Are Watching As AI Data Centers Strain Power Grids",
-    "r1h": 0.0,
+    "ticker": "AMZN",
+    "sentiment": 0.848,
+    "title": "Amazon (AMZN) Q3 Earnings Preview: AWS Growth Takes Center Stage",
+    "r1h": -0.126,
     "r1d": null
    },
    {
-    "ticker": "CAKE",
-    "sentiment": 0.625,
-    "title": "The Cheesecake Factory Incorporated Q3 Income Rises",
-    "r1h": -0.719,
-    "r1d": null
-   },
-   {
-    "ticker": "EQT",
-    "sentiment": -0.178,
-    "title": "EQT Corporation Reports Retreat In Q3 Income",
-    "r1h": -0.374,
-    "r1d": null
-   },
-   {
-    "ticker": "MSFT",
-    "sentiment": 0.727,
-    "title": "Global Green Information Technology (IT) for Insurers Market Report 2026 | Capitalize on 13.6% CAGR as Microsoft, AWS, Google, and Dell Scal",
-    "r1h": -0.044,
-    "r1d": null
-   },
-   {
-    "ticker": "GOOGL",
-    "sentiment": 0.727,
-    "title": "Global Green Information Technology (IT) for Insurers Market Report 2026 | Capitalize on 13.6% CAGR as Microsoft, AWS, Google, and Dell Scal",
-    "r1h": 0.0,
+    "ticker": "COIN",
+    "sentiment": 0.681,
+    "title": "Robinhood misses quarterly profit estimates as softer crypto activity outweighs robust trading",
+    "r1h": -0.306,
     "r1d": null
    },
    {
     "ticker": "NVDA",
-    "sentiment": 0.912,
-    "title": "Global Emerging Technologies Market Report 2026: Size, Trends and Forecast to 2030 | Capitalize on 16% CAGR as AWS, Nvidia, Microsoft and Op",
-    "r1h": -0.005,
-    "r1d": null
-   },
-   {
-    "ticker": "MSFT",
-    "sentiment": 0.912,
-    "title": "Global Emerging Technologies Market Report 2026: Size, Trends and Forecast to 2030 | Capitalize on 16% CAGR as AWS, Nvidia, Microsoft and Op",
-    "r1h": -0.044,
+    "sentiment": -0.468,
+    "title": "Jensen Huang's Late-Night Calls With President Trump Come as Nvidia's China AI Chip Shipments Fall 44% in the First Half of 2026. Here's Why",
+    "r1h": 0.002,
     "r1d": null
    },
    {
     "ticker": "NVDA",
-    "sentiment": 0.296,
-    "title": "Global Edge Infrastructure Market Report 2026: Size, Share, Trends and Forecast to 2030 | Capitalize on 5G, AI and IoT with Microsoft, AWS, ",
-    "r1h": -0.005,
+    "sentiment": 0.586,
+    "title": "Nvidia’s New $3 Billion AI Bet Is on One of Its Own Customers",
+    "r1h": 0.002,
     "r1d": null
    },
    {
-    "ticker": "MSFT",
-    "sentiment": 0.296,
-    "title": "Global Edge Infrastructure Market Report 2026: Size, Share, Trends and Forecast to 2030 | Capitalize on 5G, AI and IoT with Microsoft, AWS, ",
-    "r1h": -0.044,
+    "ticker": "META",
+    "sentiment": 0.586,
+    "title": "Nvidia’s New $3 Billion AI Bet Is on One of Its Own Customers",
+    "r1h": 0.03,
     "r1d": null
    },
    {
-    "ticker": "TSLA",
-    "sentiment": 0.9,
-    "title": "Has Space Exploration Technologies (SPCX) Become Fully Valued Following Its $3.42b Shelf Filing?",
-    "r1h": -0.167,
+    "ticker": "DELL",
+    "sentiment": 0.44,
+    "title": "Why is Dell (DELL) stock soaring today",
+    "r1h": 0.129,
+    "r1d": null
+   },
+   {
+    "ticker": "BA",
+    "sentiment": -0.66,
+    "title": "Stock Market Today, Oct. 27: Boeing Plummets 11% on Lower Production Rates and Missed Delivery Targets",
+    "r1h": 0.054,
+    "r1d": null
+   },
+   {
+    "ticker": "CLS",
+    "sentiment": 0.437,
+    "title": "Celestica (CLS) Q3 2026 Earnings Call Transcript",
+    "r1h": -0.36,
+    "r1d": null
+   },
+   {
+    "ticker": "NVDA",
+    "sentiment": -0.307,
+    "title": "CoreWeave Stock Surges 6%, But Investors Are Still Worried",
+    "r1h": 0.002,
+    "r1d": null
+   },
+   {
+    "ticker": "SPY",
+    "sentiment": 0.67,
+    "title": "S&P Global vs. Toast: Which Financial Stock Is a Better Buy in 2026?",
+    "r1h": 0.025,
     "r1d": null
    }
   ]
@@ -3162,98 +3154,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 27 07:49 PM ET",
-   "newest_et": "Oct 27 07:45 PM ET",
-   "newest": "2026-10-27T23:45:49+00:00"
+   "fetched_et": "Oct 27 08:42 PM ET",
+   "newest_et": "Oct 27 08:14 PM ET",
+   "newest": "2026-10-28T00:14:24+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 27 07:49 PM ET",
+   "fetched_et": "Oct 27 08:42 PM ET",
    "newest_et": "Oct 27 12:15 PM ET",
    "newest": "2026-10-27T16:15:35+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 27 07:49 PM ET",
+   "fetched_et": "Oct 27 08:42 PM ET",
    "newest_et": "Oct 27 04:32 PM ET",
    "newest": "2026-10-27T20:32:24+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 27 07:49 PM ET",
+   "fetched_et": "Oct 27 08:42 PM ET",
    "newest_et": "Oct 27 06:51 PM ET",
    "newest": "2026-10-27T22:51:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 27 07:49 PM ET",
+   "fetched_et": "Oct 27 08:42 PM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 27 07:49 PM ET",
-   "newest_et": "Oct 27 07:39 PM ET",
-   "newest": "2026-10-27T23:39:11+00:00"
+   "fetched_et": "Oct 27 08:42 PM ET",
+   "newest_et": "Oct 27 08:31 PM ET",
+   "newest": "2026-10-28T00:31:48+00:00"
   },
   "BBC Business": {
    "ok": true,
-   "count": 49,
-   "fetched_et": "Oct 27 07:49 PM ET",
-   "newest_et": "Oct 27 07:04 PM ET",
-   "newest": "2026-10-27T23:04:12+00:00"
+   "count": 51,
+   "fetched_et": "Oct 27 08:42 PM ET",
+   "newest_et": "Oct 27 08:03 PM ET",
+   "newest": "2026-10-28T00:03:10+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 27 07:49 PM ET",
+   "fetched_et": "Oct 27 08:42 PM ET",
    "newest_et": "Oct 27 07:01 PM ET",
    "newest": "2026-10-27T23:01:33+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 27 07:49 PM ET",
-   "newest_et": "Oct 27 06:58 PM ET",
-   "newest": "2026-10-27T22:58:00+00:00"
+   "fetched_et": "Oct 27 08:42 PM ET",
+   "newest_et": "Oct 27 07:33 PM ET",
+   "newest": "2026-10-27T23:33:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 22,
-   "fetched_et": "Oct 27 07:49 PM ET",
+   "count": 26,
+   "fetched_et": "Oct 27 08:42 PM ET",
    "newest_et": "Oct 27 07:41 PM ET",
-   "newest": "2026-10-27T23:41:18+00:00"
+   "newest": "2026-10-27T23:41:19+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
-   "count": 43,
-   "fetched_et": "Oct 27 07:49 PM ET",
+   "count": 23,
+   "fetched_et": "Oct 27 08:42 PM ET",
    "newest_et": "Oct 27 07:25 PM ET",
    "newest": "2026-10-27T23:25:00+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 27 07:49 PM ET",
+   "fetched_et": "Oct 27 08:42 PM ET",
    "newest_et": "Oct 16 11:00 AM ET",
    "newest": "2026-10-16T15:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 27 07:49 PM ET",
-   "newest_et": "Oct 27 07:16 PM ET",
-   "newest": "2026-10-27T23:16:15+00:00"
+   "fetched_et": "Oct 27 08:42 PM ET",
+   "newest_et": "Oct 27 08:03 PM ET",
+   "newest": "2026-10-28T00:03:59+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
-   "count": 25,
-   "fetched_et": "Oct 27 07:49 PM ET"
+   "count": 26,
+   "fetched_et": "Oct 27 08:42 PM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
@@ -3262,8 +3254,8 @@
   },
   "Economic calendar": {
    "ok": true,
-   "count": 26,
-   "fetched_et": "Oct 27 07:14 PM ET",
+   "count": 23,
+   "fetched_et": "Oct 27 08:42 PM ET",
    "note": "FairEconomy / ForexFactory weekly calendar (nfs.faireconomy.media)"
   }
  }
