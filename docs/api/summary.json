@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 29 05:55 PM ET",
- "generated_at": "2026-10-29T17:55:14.924668-04:00",
+ "generated_et": "Oct 29 06:35 PM ET",
+ "generated_at": "2026-10-29T18:35:33.189853-04:00",
  "session": "after-hours",
  "daily_report": {
   "date": "2026-10-29",
@@ -12,65 +12,65 @@
   {
    "symbol": "ES=F",
    "label": "S&P 500 Fut",
-   "price": 7710.0,
-   "pct": -0.94,
-   "asof_et": "Oct 29 04:55 PM ET",
-   "freshness": "stale"
+   "price": 7703.25,
+   "pct": -1.03,
+   "asof_et": "Oct 29 06:25 PM ET",
+   "freshness": "delayed"
   },
   {
    "symbol": "NQ=F",
    "label": "Nasdaq 100 Fut",
-   "price": 29218.25,
-   "pct": -2.54,
-   "asof_et": "Oct 29 04:55 PM ET",
-   "freshness": "stale"
+   "price": 29128.0,
+   "pct": -2.84,
+   "asof_et": "Oct 29 06:25 PM ET",
+   "freshness": "delayed"
   },
   {
    "symbol": "YM=F",
    "label": "Dow Fut",
-   "price": 52509.0,
-   "pct": -0.35,
-   "asof_et": "Oct 29 04:55 PM ET",
-   "freshness": "stale"
+   "price": 52465.0,
+   "pct": -0.44,
+   "asof_et": "Oct 29 06:25 PM ET",
+   "freshness": "delayed"
   },
   {
    "symbol": "RTY=F",
    "label": "Russell 2000 Fut",
-   "price": 2868.0,
-   "pct": 1.0,
-   "asof_et": "Oct 29 04:55 PM ET",
-   "freshness": "stale"
+   "price": 2865.0,
+   "pct": 0.9,
+   "asof_et": "Oct 29 06:25 PM ET",
+   "freshness": "delayed"
   },
   {
    "symbol": "SPY",
    "label": "SPY",
-   "price": 764.39,
-   "pct": -1.03,
-   "asof_et": "Oct 29 05:55 PM ET",
+   "price": 764.14,
+   "pct": -1.06,
+   "asof_et": "Oct 29 06:35 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "QQQ",
    "label": "QQQ",
-   "price": 704.85,
-   "pct": -2.86,
-   "asof_et": "Oct 29 05:55 PM ET",
+   "price": 703.99,
+   "pct": -2.98,
+   "asof_et": "Oct 29 06:35 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "DIA",
    "label": "DIA",
-   "price": 521.81,
-   "pct": -0.55,
-   "asof_et": "Oct 29 05:50 PM ET",
+   "price": 522.22,
+   "pct": -0.47,
+   "asof_et": "Oct 29 06:32 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "IWM",
    "label": "IWM",
-   "price": 283.5,
-   "pct": 0.79,
-   "asof_et": "Oct 29 05:50 PM ET",
+   "price": 283.67,
+   "pct": 0.85,
+   "asof_et": "Oct 29 06:34 PM ET",
    "freshness": "delayed"
   },
   {
@@ -84,17 +84,25 @@
   {
    "symbol": "CL=F",
    "label": "WTI Crude",
-   "price": 102.86,
-   "pct": 0.08,
-   "asof_et": "Oct 29 04:55 PM ET",
-   "freshness": "stale"
+   "price": 102.87,
+   "pct": 0.09,
+   "asof_et": "Oct 29 06:25 PM ET",
+   "freshness": "delayed"
+  },
+  {
+   "symbol": "GC=F",
+   "label": "Gold",
+   "price": 4030.0,
+   "pct": -0.53,
+   "asof_et": "Oct 29 06:25 PM ET",
+   "freshness": "delayed"
   },
   {
    "symbol": "DX-Y.NYB",
    "label": "Dollar Index",
-   "price": 101.91,
-   "pct": -0.27,
-   "asof_et": "Oct 29 05:45 PM ET",
+   "price": 101.85,
+   "pct": -0.33,
+   "asof_et": "Oct 29 06:00 PM ET",
    "freshness": "delayed"
   },
   {
@@ -108,57 +116,57 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 78993.0,
-   "pct": -2.8,
-   "asof_et": "Oct 29 05:55 PM ET",
+   "price": 78853.18,
+   "pct": -2.97,
+   "asof_et": "Oct 29 06:35 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "XLK",
    "label": "Technology",
-   "price": 185.0,
-   "pct": -3.14,
-   "asof_et": "Oct 29 05:54 PM ET",
+   "price": 184.83,
+   "pct": -3.23,
+   "asof_et": "Oct 29 06:25 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "XLF",
    "label": "Financials",
-   "price": 57.13,
-   "pct": 1.78,
-   "asof_et": "Oct 29 05:52 PM ET",
+   "price": 57.19,
+   "pct": 1.89,
+   "asof_et": "Oct 29 06:26 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "XLE",
    "label": "Energy",
-   "price": 69.09,
-   "pct": 0.93,
-   "asof_et": "Oct 29 05:30 PM ET",
+   "price": 69.1,
+   "pct": 0.95,
+   "asof_et": "Oct 29 06:10 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "XLV",
    "label": "Health Care",
-   "price": 184.97,
-   "pct": 2.92,
-   "asof_et": "Oct 29 05:52 PM ET",
+   "price": 184.7,
+   "pct": 2.77,
+   "asof_et": "Oct 29 06:31 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "XLY",
    "label": "Cons. Discretionary",
-   "price": 114.89,
-   "pct": -0.38,
-   "asof_et": "Oct 29 05:15 PM ET",
+   "price": 116.2,
+   "pct": 0.75,
+   "asof_et": "Oct 29 05:35 PM ET",
    "freshness": "stale"
   },
   {
    "symbol": "XLP",
    "label": "Cons. Staples",
-   "price": 89.12,
-   "pct": 2.63,
-   "asof_et": "Oct 29 05:50 PM ET",
+   "price": 89.08,
+   "pct": 2.58,
+   "asof_et": "Oct 29 06:31 PM ET",
    "freshness": "delayed"
   },
   {
@@ -166,23 +174,23 @@
    "label": "Industrials",
    "price": 170.13,
    "pct": 0.97,
-   "asof_et": "Oct 29 05:37 PM ET",
-   "freshness": "delayed"
+   "asof_et": "Oct 29 05:35 PM ET",
+   "freshness": "stale"
   },
   {
    "symbol": "XLB",
    "label": "Materials",
-   "price": 52.55,
-   "pct": 1.34,
-   "asof_et": "Oct 29 05:40 PM ET",
-   "freshness": "delayed"
+   "price": 52.6,
+   "pct": 1.43,
+   "asof_et": "Oct 29 05:55 PM ET",
+   "freshness": "stale"
   },
   {
    "symbol": "XLU",
    "label": "Utilities",
-   "price": 43.29,
-   "pct": 1.88,
-   "asof_et": "Oct 29 05:50 PM ET",
+   "price": 43.34,
+   "pct": 2.0,
+   "asof_et": "Oct 29 06:24 PM ET",
    "freshness": "delayed"
   },
   {
@@ -191,7 +199,7 @@
    "price": 43.06,
    "pct": 2.21,
    "asof_et": "Oct 29 05:35 PM ET",
-   "freshness": "delayed"
+   "freshness": "stale"
   },
   {
    "symbol": "XLC",
@@ -204,9 +212,9 @@
   {
    "symbol": "SMH",
    "label": "Semiconductors",
-   "price": 543.03,
-   "pct": -4.34,
-   "asof_et": "Oct 29 05:50 PM ET",
+   "price": 542.68,
+   "pct": -4.4,
+   "asof_et": "Oct 29 06:30 PM ET",
    "freshness": "delayed"
   }
  ],
@@ -373,235 +381,227 @@
  ],
  "breaking": [
   {
-   "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
-   "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "impact": 4.2,
+   "title": "Nasdaq-100 futures fall as Amazon and Intel swoon after earnings: Live updates",
+   "link": "https://www.cnbc.com/2026/10/29/stock-market-today-live-updates.html",
+   "source": "CNBC Top News",
+   "impact": 5.9,
    "tickers": [
-    "GOOGL"
+    "AMZN",
+    "INTC",
+    "QQQ"
    ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 29 05:55 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Caterpillar Inc. Q3 2026 Earnings Call Summary",
-   "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-caterpillar-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.1,
-   "tickers": [
-    "CAT"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 29 05:55 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Carrier Global Corporation Q3 2026 Earnings Call Summary",
-   "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-carrier-global-corporation-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.7,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 29 05:55 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "XPO Logistics, Inc. Q3 2026 Earnings Call Summary",
-   "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-xpo-logistics-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.7,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 29 05:55 PM ET",
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 29 06:35 PM ET",
    "consumer": true
   },
   {
-   "title": "Amazon Stock Slides After Q3 Earnings Miss Despite Strong Cloud Growth",
-   "link": "https://finance.yahoo.com/m/e6509de9-7057-30f0-875d-3ca0249bc5d8/amazon-stock-slides-after-q3.html?.tsrc=rss",
+   "title": "Jensen Huang Says Nvidia Counted All GPUs At Firm Under Probe For Spying For China",
+   "link": "https://stocktwits.com/news-articles/markets/equity/jensen-huang-says-nvidia-counted-all-gp-us-at-firm-under-probe-for-spying-for-china/cZUXbd3R9Rg?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.0,
+   "tickers": [
+    "NVDA"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 29 06:35 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Establishment Labs Holdings Inc. Q3 2026 Earnings Call Summary",
+   "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-establishment-labs-holdings-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.7,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 29 06:35 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "The Marcus Corporation Q3 2026 Earnings Call Summary",
+   "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-the-marcus-corporation-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.7,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 29 06:35 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Amazon cloud business accelerates but shares drop on profit miss",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-cloud-business-accelerates-shares-222112520.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 4.7,
+   "tickers": [
+    "AMZN",
+    "GOOGL"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 29 06:35 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Monro, Inc. Q2 2027 Earnings Call Summary",
+   "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-monro-inc-q2-2027-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.7,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 29 06:35 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Billionaire Bill Gates Just Issued a Blunt Warning About Artificial Intelligence",
+   "link": "https://www.fool.com/investing/2026/10/29/billionaire-bill-gates-just-issued-a-blunt-warning/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.6,
+   "tickers": [
+    "MSFT"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 29 06:35 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Wabash National Corporation Q3 2026 Earnings Call Summary",
+   "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-wabash-national-corporation-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.7,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 29 06:35 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Circle, Tether freeze funds impacted by potential Binance 'security issue'",
+   "link": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
+   "source": "CNBC Top News",
+   "impact": 3.4,
+   "tickers": [
+    "BTC-USD",
+    "COIN"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 29 06:35 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Escalade, Incorporated Q3 2026 Earnings Call Summary",
+   "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-escalade-incorporated-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.7,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 29 06:35 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "L3Harris Technologies, Inc. Q3 2026 Earnings Call Summary",
+   "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-l3harris-technologies-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.7,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 29 06:35 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "IBM (IBM) Debuts AI Agent Security Controls For Hybrid Cloud",
+   "link": "https://finance.yahoo.com/technology/ai/articles/ibm-ibm-debuts-ai-agent-221557150.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.3,
+   "tickers": [
+    "AMZN",
+    "IBM",
+    "MSFT"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 29 06:35 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Eli Lilly and Company Q3 2026 Earnings Call Summary",
+   "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-eli-lilly-and-company-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.1,
+   "tickers": [
+    "LLY"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 29 06:35 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "TechnipFMC plc Q3 2026 Earnings Call Summary",
+   "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-technipfmc-plc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.7,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 29 06:35 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Merck & Co., Inc. Q3 2026 Earnings Call Summary",
+   "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-merck-co-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.7,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 29 06:35 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Mobileye Global Inc. Q3 2026 Earnings Call Summary",
+   "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-mobileye-global-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.7,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 29 06:35 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "AMZN Stock Drops 7% As AI Spending Soars Past Expectations, While E-Commerce Growth Cools",
+   "link": "https://stocktwits.com/news-articles/markets/equity/amzn-stock-drops-7-as-ai-spending-soars-past-expectations-while-e-commerce-growth-cools/cZUXG0SR9RX?.tsrc=rss",
    "source": "Yahoo Finance",
    "impact": 4.0,
    "tickers": [
     "AMZN"
    ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 29 05:55 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "'Workloads are moving': Amazon's Jassy says AWS still growing amid cloud move",
-   "link": "https://finance.yahoo.com/video/workloads-moving-amazons-jassy-says-214000126.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.7,
-   "tickers": [
-    "AMZN"
-   ],
    "sentiment_label": "bullish",
-   "seen_et": "Oct 29 05:55 PM ET",
+   "seen_et": "Oct 29 06:35 PM ET",
    "consumer": true
   },
   {
-   "title": "A Starbucks turnaround is brewing — but perhaps not quickly enough",
-   "link": "https://www.marketwatch.com/story/a-starbucks-turnaround-is-brewing-but-perhaps-not-quickly-enough-3b5f57ac?mod=mw_rss_topstories",
-   "source": "MarketWatch Top",
-   "impact": 2.1,
-   "tickers": [
-    "SBUX"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 29 05:55 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "FedEx Freight forecasts quarterly earnings above estimates on improving volumes, pricing",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMWRpZ1lRRkFCZklVanRZMUd4VzhlVWlKal8zQWU4NE9QcUp2Nmt5ZFdQY2RscFhSSHhKNWRVMktYRlZUc2xRTGlDVFdhcXotN0stUEV0OVl4V0NtTEJNR1hFMmpSUXB3aWJJdHQ4Rjg5LU5TRzlLYUZLa0xFRkxNOXNIemtVb1ZMUDNYV0dWV0Y0TTBGWXZQVi1XSG1tcHNCWlM1Qk81SU1VNFc0NVZiU1pkVjZHUzA?oc=5",
-   "source": "The Mighty 790 KFGO",
-   "impact": 5.7,
-   "tickers": [
-    "FDX"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 29 05:55 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "Sandisk sees revenue nearly quintuple — and a stock split is on the way",
-   "link": "https://www.marketwatch.com/story/sandisk-sees-revenue-nearly-quintuple-and-its-stock-is-heading-higher-b9318916?mod=mw_rss_topstories",
-   "source": "MarketWatch Top",
-   "impact": 2.0,
-   "tickers": [
-    "SPY"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 29 05:55 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Altisource Portfolio Solutions S.A. Q3 2026 Earnings Call Summary",
-   "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-altisource-portfolio-solutions-sa-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+   "title": "The Hidden Cost of AI: How Intapp is Saving Law Firms From Skyrocketing IT Bills",
+   "link": "https://www.fool.com/investing/2026/10/29/the-hidden-cost-of-ai-how-intapp-is-saving-law-firms-from-skyrocketing-it-bills/?.tsrc=rss",
    "source": "Yahoo Finance",
-   "impact": 3.1,
+   "impact": 1.7,
    "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 29 05:55 PM ET",
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 29 06:35 PM ET",
    "consumer": false
   },
   {
-   "title": "Google's AI chips could change what ChatGPT costs you",
-   "link": "https://www.thestreet.com/technology/googles-ai-chips-could-change-what-chatgpt-costs-you?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.2,
-   "tickers": [
-    "GOOGL",
-    "MSFT",
-    "NVDA"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 29 05:55 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Xcel Energy Inc. Q3 2026 Earnings Call Summary",
-   "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-xcel-energy-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.2,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 29 05:55 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Titan International Q3 Loss Widens",
-   "link": "https://www.nasdaq.com/articles/titan-international-q3-loss-widens",
+   "title": "History Says Adobe Stock Comes Back From Deep Drops. It's Now 64% Below Its 2021 Record.",
+   "link": "https://www.nasdaq.com/articles/history-says-adobe-stock-comes-back-deep-drops-its-now-64-below-its-2021-record",
    "source": "Nasdaq Markets",
    "impact": 2.6,
-   "tickers": [
-    "TWI"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 29 05:55 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Antero Resources (AR) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/antero-resources-ar-q3-2026-earnings-call-transcript",
-   "source": "Nasdaq Markets",
-   "impact": 3.6,
-   "tickers": [
-    "AR"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 29 05:55 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "FTI Consulting, Inc. Q3 2026 Earnings Call Summary",
-   "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-fti-consulting-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.7,
    "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 29 05:55 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Starbucks sales miss expectations, but its U.S. turnaround is gaining steam",
-   "link": "https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html",
-   "source": "CNBC Top News",
-   "impact": 2.5,
-   "tickers": [
-    "SBUX"
-   ],
    "sentiment_label": "bullish",
-   "seen_et": "Oct 29 05:55 PM ET",
+   "seen_et": "Oct 29 06:35 PM ET",
    "consumer": false
   },
   {
-   "title": "Enel Chile (ENIC) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/enel-chile-enic-q3-2026-earnings-call-transcript",
+   "title": "Southside Bancshares (SBSI) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/southside-bancshares-sbsi-q3-2026-earnings-call-transcript",
    "source": "Nasdaq Markets",
    "impact": 3.6,
    "tickers": [
-    "ENIC"
+    "SBSI"
    ],
    "sentiment_label": "bullish",
-   "seen_et": "Oct 29 05:55 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "MPT (MPT) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/mpt-mpt-q3-2026-earnings-call-transcript",
-   "source": "Nasdaq Markets",
-   "impact": 3.6,
-   "tickers": [
-    "MPT"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 29 05:55 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Marcus (MCS) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/marcus-mcs-q3-2026-earnings-call-transcript",
-   "source": "Nasdaq Markets",
-   "impact": 3.6,
-   "tickers": [
-    "MCS"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 29 05:55 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "TriMas (TRS) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/trimas-trs-q3-2026-earnings-call-transcript",
-   "source": "Nasdaq Markets",
-   "impact": 3.6,
-   "tickers": [
-    "TRS"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 29 05:55 PM ET",
+   "seen_et": "Oct 29 06:35 PM ET",
    "consumer": false
   }
  ],
@@ -1164,7 +1164,7 @@
  "economic_calendar": {
   "source": "FairEconomy / ForexFactory weekly calendar (nfs.faireconomy.media)",
   "fallback": false,
-  "fetched_et": "Oct 29 05:02 PM ET",
+  "fetched_et": "Oct 29 06:35 PM ET",
   "events": [
    {
     "when_et": "Oct 29 08:30 AM ET",
@@ -1258,7 +1258,7 @@
  },
  "earnings": {
   "source": "Nasdaq earnings calendar API (api.nasdaq.com), filtered to S&P 500 + watchlist",
-  "fetched_et": "Oct 29 02:25 PM ET",
+  "fetched_et": "Oct 29 06:35 PM ET",
   "events": [
    {
     "date": "2026-10-29",
@@ -2840,12 +2840,12 @@
  "sentiment_validation": {
   "logged": 4000,
   "min_sample": 100,
-  "generated_et": "Oct 29 05:55 PM ET",
+  "generated_et": "Oct 29 06:35 PM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
-    "n_scored": 3875,
-    "n_directional": 3257,
+    "n_scored": 3880,
+    "n_directional": 3265,
     "hit_rate": 49.4,
     "ci95": 1.7,
     "corr": 0.008,
@@ -2853,8 +2853,8 @@
    },
    "r1d": {
     "name": "+1 day",
-    "n_scored": 3333,
-    "n_directional": 2836,
+    "n_scored": 3318,
+    "n_directional": 2824,
     "hit_rate": 46.2,
     "ci95": 1.8,
     "corr": -0.055,
@@ -2864,73 +2864,73 @@
   "status": "MEASURED",
   "recent": [
    {
-    "ticker": "CAT",
-    "sentiment": -0.777,
-    "title": "Caterpillar Stock Falls Despite Record $78 Billion Order Backlog",
-    "r1h": -0.305,
+    "ticker": "MSFT",
+    "sentiment": -0.103,
+    "title": "Microsoft's cloud growth, cash flow offer respite from AI spending fears",
+    "r1h": 0.525,
+    "r1d": null
+   },
+   {
+    "ticker": "MSFT",
+    "sentiment": 0.178,
+    "title": "Jim Cramer: Why investors are punishing Alphabet and giving Microsoft a pass",
+    "r1h": 0.525,
     "r1d": null
    },
    {
     "ticker": "GOOGL",
-    "sentiment": -0.612,
-    "title": "Alphabet Stock Drops 12%. Can Its Dividend Survive the AI Spending Boom?",
-    "r1h": -0.315,
-    "r1d": null
-   },
-   {
-    "ticker": "AVGO",
-    "sentiment": 0.67,
-    "title": "Prediction: This Will Be Broadcom's Stock Price by the End of 2027",
-    "r1h": -0.905,
-    "r1d": null
-   },
-   {
-    "ticker": "NVDA",
-    "sentiment": 0.718,
-    "title": "SpaceX vs. Nvidia: The Best AI Stock to Buy Now",
-    "r1h": -0.356,
-    "r1d": null
-   },
-   {
-    "ticker": "GOOGL",
-    "sentiment": 0.477,
-    "title": "Gene Munster Flags Google Earnings As A Warning Sign To Amazon Investors",
-    "r1h": -0.315,
+    "sentiment": 0.178,
+    "title": "Jim Cramer: Why investors are punishing Alphabet and giving Microsoft a pass",
+    "r1h": 0.206,
     "r1d": null
    },
    {
     "ticker": "AMZN",
-    "sentiment": 0.477,
-    "title": "Gene Munster Flags Google Earnings As A Warning Sign To Amazon Investors",
-    "r1h": 0.573,
-    "r1d": null
-   },
-   {
-    "ticker": "QQQ",
-    "sentiment": -0.511,
-    "title": "Stock Market Today: Tech Stocks Slammed By Alphabet Report; Amazon Earnings Next (Live Coverage)",
-    "r1h": -0.356,
+    "sentiment": -0.382,
+    "title": "Amazon Stock Tanks After Earnings Miss",
+    "r1h": 0.907,
     "r1d": null
    },
    {
     "ticker": "GOOGL",
-    "sentiment": -0.511,
-    "title": "Stock Market Today: Tech Stocks Slammed By Alphabet Report; Amazon Earnings Next (Live Coverage)",
-    "r1h": -0.315,
+    "sentiment": -0.691,
+    "title": "Alphabet tanks nearly 13% for worst day ever, losing $500 billion in value",
+    "r1h": 0.206,
     "r1d": null
    },
    {
     "ticker": "AMZN",
-    "sentiment": -0.511,
-    "title": "Stock Market Today: Tech Stocks Slammed By Alphabet Report; Amazon Earnings Next (Live Coverage)",
-    "r1h": 0.573,
+    "sentiment": 0.34,
+    "title": "Amazon: Q3 Earnings Snapshot",
+    "r1h": 0.907,
     "r1d": null
    },
    {
-    "ticker": "GS",
-    "sentiment": 0.649,
-    "title": "5 Best Autonomous Vehicle Stocks To Buy backed by Hedge Funds",
-    "r1h": -0.51,
+    "ticker": "META",
+    "sentiment": 0.318,
+    "title": "S4 Capital's Monks Boosts Media Acceleration Offering with Executive Appointments in North America and Returning Global Partnership Leaders",
+    "r1h": 0.428,
+    "r1d": null
+   },
+   {
+    "ticker": "AMZN",
+    "sentiment": 0.318,
+    "title": "S4 Capital's Monks Boosts Media Acceleration Offering with Executive Appointments in North America and Returning Global Partnership Leaders",
+    "r1h": 0.907,
+    "r1d": null
+   },
+   {
+    "ticker": "LLY",
+    "sentiment": 0.637,
+    "title": "Lilly raised sales guidance for third time this year as Zepbound sales soar. Its stock closed at a record high.",
+    "r1h": 0.67,
+    "r1d": null
+   },
+   {
+    "ticker": "AMZN",
+    "sentiment": 0.665,
+    "title": "Amazon's 3Q results miss analysts' estimates, but posts solid sales gains in cloud computing unit",
+    "r1h": 0.907,
     "r1d": null
    }
   ]
@@ -2939,108 +2939,108 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 29 05:55 PM ET",
-   "newest_et": "Oct 29 05:54 PM ET",
-   "newest": "2026-10-29T21:54:54+00:00"
+   "fetched_et": "Oct 29 06:35 PM ET",
+   "newest_et": "Oct 29 06:31 PM ET",
+   "newest": "2026-10-29T22:31:36+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 29 05:55 PM ET",
+   "fetched_et": "Oct 29 06:35 PM ET",
    "newest_et": "Oct 29 02:06 PM ET",
    "newest": "2026-10-29T18:06:31+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 29 05:55 PM ET",
+   "fetched_et": "Oct 29 06:35 PM ET",
    "newest_et": "Oct 29 05:52 PM ET",
    "newest": "2026-10-29T21:52:27+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 29 05:55 PM ET",
-   "newest_et": "Oct 29 05:52 PM ET",
-   "newest": "2026-10-29T21:52:00+00:00"
+   "fetched_et": "Oct 29 06:35 PM ET",
+   "newest_et": "Oct 29 06:01 PM ET",
+   "newest": "2026-10-29T22:01:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 29 05:55 PM ET",
+   "fetched_et": "Oct 29 06:35 PM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 19,
-   "fetched_et": "Oct 29 05:55 PM ET",
-   "newest_et": "Oct 29 05:43 PM ET",
-   "newest": "2026-10-29T21:43:40+00:00"
+   "fetched_et": "Oct 29 06:35 PM ET",
+   "newest_et": "Oct 29 06:30 PM ET",
+   "newest": "2026-10-29T22:30:05+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 46,
-   "fetched_et": "Oct 29 05:55 PM ET",
-   "newest_et": "Oct 29 05:52 PM ET",
-   "newest": "2026-10-29T21:52:13+00:00"
+   "fetched_et": "Oct 29 06:35 PM ET",
+   "newest_et": "Oct 29 06:17 PM ET",
+   "newest": "2026-10-29T22:17:52+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 29 05:55 PM ET",
+   "fetched_et": "Oct 29 06:35 PM ET",
    "newest_et": "Oct 29 05:10 PM ET",
    "newest": "2026-10-29T21:10:40+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 29 05:55 PM ET",
-   "newest_et": "Oct 29 05:27 PM ET",
-   "newest": "2026-10-29T21:27:00+00:00"
+   "fetched_et": "Oct 29 06:35 PM ET",
+   "newest_et": "Oct 29 06:03 PM ET",
+   "newest": "2026-10-29T22:03:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 27,
-   "fetched_et": "Oct 29 05:55 PM ET",
+   "count": 42,
+   "fetched_et": "Oct 29 06:35 PM ET",
    "newest_et": "Oct 29 05:35 PM ET",
    "newest": "2026-10-29T21:35:17+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
-   "count": 48,
-   "fetched_et": "Oct 29 05:55 PM ET",
-   "newest_et": "Oct 29 04:13 PM ET",
-   "newest": "2026-10-29T20:13:00+00:00"
+   "count": 28,
+   "fetched_et": "Oct 29 06:35 PM ET",
+   "newest_et": "Oct 29 06:04 PM ET",
+   "newest": "2026-10-29T22:04:23+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 29 05:55 PM ET",
+   "fetched_et": "Oct 29 06:35 PM ET",
    "newest_et": "Oct 29 04:30 PM ET",
    "newest": "2026-10-29T20:30:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 29 05:55 PM ET",
-   "newest_et": "Oct 29 05:31 PM ET",
-   "newest": "2026-10-29T21:31:09+00:00"
+   "fetched_et": "Oct 29 06:35 PM ET",
+   "newest_et": "Oct 29 06:03 PM ET",
+   "newest": "2026-10-29T22:03:02+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
-   "count": 25,
-   "fetched_et": "Oct 29 05:55 PM ET"
+   "count": 26,
+   "fetched_et": "Oct 29 06:35 PM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
    "count": 175,
-   "fetched_et": "Oct 29 02:25 PM ET"
+   "fetched_et": "Oct 29 06:35 PM ET"
   },
   "Economic calendar": {
    "ok": true,
    "count": 11,
-   "fetched_et": "Oct 29 05:02 PM ET",
+   "fetched_et": "Oct 29 06:35 PM ET",
    "note": "FairEconomy / ForexFactory weekly calendar (nfs.faireconomy.media)"
   }
  }
