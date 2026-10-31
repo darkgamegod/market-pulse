@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 30 08:06 PM ET",
- "generated_at": "2026-10-30T20:06:50.559346-04:00",
+ "generated_et": "Oct 30 09:13 PM ET",
+ "generated_at": "2026-10-30T21:13:51.961692-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-30",
@@ -14,14 +14,6 @@
    "label": "S&P 500 Fut",
    "price": 7614.5,
    "pct": -1.8,
-   "asof_et": "Oct 30 04:55 PM ET",
-   "freshness": "closed"
-  },
-  {
-   "symbol": "NQ=F",
-   "label": "Nasdaq 100 Fut",
-   "price": 28543.0,
-   "pct": -3.45,
    "asof_et": "Oct 30 04:55 PM ET",
    "freshness": "closed"
   },
@@ -62,15 +54,15 @@
    "label": "DIA",
    "price": 517.65,
    "pct": -0.97,
-   "asof_et": "Oct 30 07:58 PM ET",
+   "asof_et": "Oct 30 07:55 PM ET",
    "freshness": "closed"
   },
   {
    "symbol": "IWM",
    "label": "IWM",
-   "price": 279.55,
-   "pct": -1.57,
-   "asof_et": "Oct 30 07:50 PM ET",
+   "price": 279.82,
+   "pct": -1.48,
+   "asof_et": "Oct 30 07:55 PM ET",
    "freshness": "closed"
   },
   {
@@ -116,9 +108,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 77152.31,
-   "pct": -0.8,
-   "asof_et": "Oct 30 08:05 PM ET",
+   "price": 77378.47,
+   "pct": -0.51,
+   "asof_et": "Oct 30 09:10 PM ET",
    "freshness": "delayed"
   },
   {
@@ -134,7 +126,7 @@
    "label": "Financials",
    "price": 56.58,
    "pct": -0.63,
-   "asof_et": "Oct 30 06:35 PM ET",
+   "asof_et": "Oct 30 06:38 PM ET",
    "freshness": "closed"
   },
   {
@@ -166,7 +158,7 @@
    "label": "Cons. Staples",
    "price": 89.47,
    "pct": 1.46,
-   "asof_et": "Oct 30 07:57 PM ET",
+   "asof_et": "Oct 30 07:55 PM ET",
    "freshness": "closed"
   },
   {
@@ -198,7 +190,7 @@
    "label": "Real Estate",
    "price": 42.85,
    "pct": -0.49,
-   "asof_et": "Oct 30 07:29 PM ET",
+   "asof_et": "Oct 30 07:25 PM ET",
    "freshness": "closed"
   },
   {
@@ -380,6 +372,216 @@
  ],
  "breaking": [
   {
+   "title": "Coinbase and Kraken Ramp Up Security After Massive Binance Hack",
+   "link": "https://www.cryptoprowl.com/releases/coinbase-and-kraken-ramp-up-security-after-massive-binance-hack-7584?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.8,
+   "tickers": [
+    "BTC-USD",
+    "COIN"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 30 09:14 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "‘Big Short’ trader says Anthropic slowdown tests AI boom",
+   "link": "https://www.thestreet.com/investing/big-short-trader-says-anthropic-slowdown-tests-ai-boom?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.0,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 30 09:14 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Cavco (CVCO) Q2 2027 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/cavco-cvco-q2-2027-earnings-call-transcript",
+   "source": "Nasdaq Markets",
+   "impact": 3.6,
+   "tickers": [
+    "CVCO"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 30 09:14 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Why Merck Stock Flew Higher on Friday",
+   "link": "https://www.fool.com/investing/2026/10/30/why-merck-stock-flew-higher-on-friday/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.7,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 30 09:14 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Stocktwits Zero To Sixty: Rivian Raises Delivery Guidance On R2 Demand, Tesla Expands Robotaxi Fleet, And Ford Advances Low-Cost EV Plans",
+   "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-zero-to-sixty-rivian-beats-q3-estimates-on-r2-strength-and-raises-guidance-tesla-expands-robotaxi-fleet-and-ford-advances-low-cost-ev-plans/cZUKK8sR9cB?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 5.6,
+   "tickers": [
+    "F",
+    "TSLA"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 30 09:14 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "S&P 500, Nasdaq End Third Straight Week Lower As Investors Move Away From Tech, AI — AMZN, INTC, LLY, RBLX In Focus",
+   "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-third-straight-week-lower-as-investors-move-away-from-tech-ai-amzn-intc-lly-rblx-in-focus/cZUKKlTR9cJ?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.7,
+   "tickers": [
+    "QQQ",
+    "SPY"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 30 09:14 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Investors Have Poured a Record $2.24 Trillion Into ETFs This Year. Three Firms Collected Nearly Half of It",
+   "link": "https://247wallst.com/investing/etf/2026/10/30/investors-have-poured-a-record-2-24-trillion-into-etfs-this-year-three-firms-collected-nearly-half-of-it/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.7,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 30 09:14 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Review & Preview: Ending on a Down Note",
+   "link": "https://finance.yahoo.com/m/b0499f52-933b-3c3a-a9fe-a4d478f02828/review-%26-preview%3A-ending-on-a.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 4.2,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 30 09:14 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Graphika finds China-linked Spamouflage accounts posing as US voters on X",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ3FDNW9WTmY5U1NndTFkaFRXVjJZSElBcWxTVnQtUWEzR21sTmVGZWVDV2t3NUtJQm0xeER2R2dCMV91VHVicWItWFhnREE5VU0wN2tURk4tSnNCNUFlY1RkT091OWdNUjdncUN4NzY4dEYwcC1Vd3QxOG00WklmVHY0ajhHTm9qbHN6VVZwMjU1QUxZQ0lpbTNLaXM?oc=5",
+   "source": "AP News",
+   "impact": 1.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 30 09:14 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Amazon Just Lost $42 Billion in Free Cash Flow. Is It a Red Flag for Investors?",
+   "link": "https://www.fool.com/investing/2026/10/30/amazon-just-lost-usd42-billion-in-free-cash-flow-is-it-a-red-flag-for-investors/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.3,
+   "tickers": [
+    "AMZN"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 30 09:14 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Margaret Qualley, Jack Antonoff file for divorce after 3 years of marriage",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYzZZSm5FWEVHOWp1N21vVXRmVVhycGF1bGdtTk0zb2VueW9sSHNFLUtLbWVfZ3QxMU1IcnRwbVRLOWo2WHhjMWJibndsVWJLY1pKSmE3cnhLcmxKUGVrZXFUQ1FzZTVfZjNMY2N5Zk5FbTZHa0x4UXR1YVhzUTV6bWk4TkdURkRmQVBvOQ?oc=5",
+   "source": "AP News",
+   "impact": 1.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 30 09:14 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Big Homes, Big Loans",
+   "link": "https://finance.yahoo.com/m/9aa518a9-bace-3e02-a215-82b14364d8d4/big-homes%2C-big-loans.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 1.8,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 30 09:14 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "October ends with a thud for Intel, Reddit, AI stalwarts",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdnVOYWtuZ0pscDhrZzNkRldHcFVCZmc2SHlBcDBhQ0JoSkQ4bURFRjBrWDlUb184bWFYcC1hR1c3SXpldTlvd3NBMkowX3loazVVdWlxUjhlYmwwSVhUVWdxamtMclpLTjV2WW5QSjM1YTl2b3hrOEkzclRmX19QSkp4a1FfckFTWWwtb0VfemJjUmVHNndxWU9fcXpWVVAwZThIbEF3OA?oc=5",
+   "source": "Reuters",
+   "impact": 3.0,
+   "tickers": [
+    "INTC"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 30 09:14 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Suspect in killings of Oberlin professor, wife held on $3 million bond",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWXpEa2psVkZtRkhnZ092b1c4aUMwaVRtbVAxc3lYVThqNEFiU29Xem5wUlVmV2wwX0J6UzZ4bjZua1d1SDA3b09MSkk1LUVHc3doUDJDckVwV05Za3pTd3lsdFQ5OG1GLXgxRjlDeVgyXzk5VmVNWGRyT1BlZXJVN2V1MEVWNzkzU1VMalRndEdGZHBoV0JESU56cmV5ZG9YSmtfUjZ6ZFRUZlc2Z0tGZw?oc=5",
+   "source": "AP News",
+   "impact": 2.8,
+   "tickers": [
+    "^TNX"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 30 09:14 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "At 90, Japanese bodybuilder is still competing, in photos",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUlZWNWJJQVI1b0t0b0NrVTRTSjU5V3BPdy05cWRSLUdCLU1zMkVVeGltWGliN1FrNTh2TThZbHdvWGZrVmwwVTRON3c3clhKUm5NZTgzdzY5RVZPaXpFbWpDYUpiNlNkVGNMZ1RYb21BTmtkc3hIT1Bta3M5a1l3VlFlelJYbVVQV3RoT3I5TTNCQXFWWHZhUnJ6WWpLYjYxZ1pSVDB2bDRTT0g2T3RKc1RR?oc=5",
+   "source": "AP News",
+   "impact": 1.3,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 30 09:14 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Prosecutor drops charges against man arrested in Ohio festival shooting that wounded 12",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaENZblNXcjVUVC1lREhOVjJFTEczZEZGVTNmV3FIZmZ5Mk9jNkVxUmpVNzgtNkVIZXdkSGtPUlgxdktQalUzQkE2M3VLMkNIdE5EM2FnQXJvU00yNWRMNURzQjNjQXBmbUpKSnBjNS1OTW9FUnNNT3h4cF9MVkpIQnpLWDdHU293LTRQQUwwdHdRZWNoaTViTHA2djgtNHlsZkE?oc=5",
+   "source": "AP News",
+   "impact": 2.1,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 30 09:14 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Binance's $6.3 billion hack: What we know and what comes next",
+   "link": "https://www.cnbc.com/2026/10/30/billions-in-crypto-frozen-in-binance-hack-heres-what-happens-next-.html",
+   "source": "CNBC Top News",
+   "impact": 2.6,
+   "tickers": [
+    "BTC-USD",
+    "COIN"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 30 09:14 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Heat unveil an updated Wade statue, after original was widely panned for not looking like him",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONXdlSXloVDZyWVA3ZlJuNzAtNXVVVWpRT3FCVV9kOG9LOTMyU2t1b1I1QjMwa2x0RHozQUhZNWZpaE5ZWmdUS09FdkZWZGVXWFBsVDl6bjB2ZFRBMjE1azRzODI4QmN4QjFmSHlqbFBrdEdMOE5oQjB6bDhsQ19TU001Tm92djltaUMw?oc=5",
+   "source": "AP News",
+   "impact": 1.3,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 30 09:14 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "The hawkish pause, Lula's market meltdown, and the Anthropic IPO bombshell: The financial week in five charts",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORzZSdUpvaFdlYlFMUDJUcVRQMktBM2IxSFo5dVlTWXBGZHc3bW9ncElFZHgwYzRGREJ4NlZUM21KSFRxN0pxYUllRkhLVS1tdmZCclF3RGNwVTFTMk42ZUlTUGdiS3Y5b1ZtRDFUNnp0aWlkai1Pd3RyQ29PS1lrRjl0OFpPNnVXSThCUERmNDBoOVhXUHJLVGlvblpUNWMySzE2TUVpenM3Q0k4dHJZZWMzbWtlaHM5ZFpJNUlfQUFyTk53dVVzSndsOXpsRUVnVWs0VG1qN2JVRXVGT3BBa3ln?oc=5",
+   "source": "Reuters",
+   "impact": 1.0,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 30 09:14 PM ET",
+   "consumer": false
+  },
+  {
    "title": "Why Arm Holdings Stock Plummeted by Nearly 10% Today",
    "link": "https://www.fool.com/investing/2026/10/30/why-arm-holdings-stock-plummeted-by-nearly-10-today/?.tsrc=rss",
    "source": "Yahoo Finance",
@@ -389,206 +591,6 @@
    ],
    "sentiment_label": "neutral",
    "seen_et": "Oct 30 08:07 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Justice Department seeks to isolate Alaska ballots as criminal probe underway over Senate candidate",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWU1SRDdzUXFZNm5UeU5nZzVvMkFYMXNwNUF6eXdsbWNtN3lveTdwNVlCS3BVWjFRQ0NjTjc4Rm1qdC0yUmVQMFVXb21nREdOM3F5NVFxdWtqODNvVFh6Q3hLU2N1MWZhUFJ4c1dlTXRrRGlTQ01iUTBEdlVNR0VYdTJWc0JRck93bThTSUNvellaY3JUaVNJRFdOY2RiUWVW?oc=5",
-   "source": "AP News",
-   "impact": 2.0,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 30 08:07 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Trump reshuffles plans as early voting surges, Alaska probe widens, and Democrats fight in Michigan",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdl9DbU9vMnRKcW9KazR5ODFUbWlYVkVjcFUtNTFhNUxaMGZyZnM3SjNRZUFDZUN3OGd4TTQ1YkluZjEzcldSRHhVTU1PNmItVmFIMG0ycFNDQVNVcjdDMFczai1WR2Nmd2VrS2V4ZWlILVVJc0E0eHhBdnhpSnp5UC03VEM3Z0REQkFicmlTbmxjc0lBLTRObDFB?oc=5",
-   "source": "AP News",
-   "impact": 2.9,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 30 08:07 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Is Intel Stock a Buy After Its Post-Earnings Plunge?",
-   "link": "https://www.fool.com/investing/2026/10/30/is-intel-stock-a-buy-after-its-post-earnings-plunge/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 4.4,
-   "tickers": [
-    "INTC"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 30 08:07 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "US approves a proposed $2.1 billion sale of Patriot interceptors to Ukraine after alleged holdup",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZGx4RUtRNkEya28zdk1wR3JiSFhtTDZGVFR0am5PSlZXRUZ6TmtQT2VLLXhSUzdoYjNoQ3ZSclB2T3pqTGFJWGJoOWRrZURNUXF4Q0g0T1NpNkVsN0V6cVlUTncyY1lPTFVvU1h1VGxmeFNxNWlKSm5FejE2d0tabHRjOU40dTFDbmNLTVVlbjZBYmtXNHQxd1Y5RHh3a1dROGM3Vg?oc=5",
-   "source": "AP News",
-   "impact": 2.1,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 30 08:07 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "USPS confirms the two items to NEVER put in the mail - or face a $250 fine",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTEM1ay12SjhVOHJ0bFMtVGhOZ1ZCRnlIbF9aX0JBSHJpOXhUY0JGU2dXMXJIMjhEdXJha0hVM1hmcm1lR0ZoV2NBUDVkMF9IaTg4bHdrZjFyQVNpcU9HOEdKYmxaUzJSN3NNS1J0RTVHcnpFeUFuUTFTd3NkcVVVeWdhb1dscGdR?oc=5",
-   "source": "The Sun",
-   "impact": 1.5,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 30 08:07 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "FedEx highlights cargo drive as it reports Q3 finacials",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTkJoTERUMW1malJIZ08tY1V2b25QcGlZeTM5X0NoaUpPaWRDSXhPUVBaQW82SnpoX2ZLNURZZXIyamItZ2s5TThoclRhTDEtQ2RjaGpQeTNNSXZVX2JRc0kyQnBBREZicEdlSDBiRmpIdE0tMDBvdlZWNDhOWW1YazU2MUl6cXp0ZmpYdGt0V1ZmRWR5VGFqeDNORXhYRUJaR0kw?oc=5",
-   "source": "Air Cargo News",
-   "impact": 3.2,
-   "tickers": [
-    "FDX"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 30 08:07 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "How many Americans have already voted in the 2026 midterm elections?",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiX1ZDVzFFTkcyLUpDaWpGYlRfdjNZR25udHBfdWJlSFh6eUVuNlV5eDVEZUk4QjRKeW5na1A5YnIzbS1LbG95UmlnWXVCd0lDN3dNMFItbl9Hc290NElFdFloRmNlREE?oc=5",
-   "source": "AP News",
-   "impact": 0.2,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 30 08:07 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Eternal Ltd Sees Exceptional Volume Surge, Signals Strong Market Interest",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQX1pOaS1xVVhMS2hrV01GS180bVYybVk0eDJaOFRZdVVqYTdfd2lURERhZmdEY1dkaEZYLU1IT1FwcURRb1NJVmpGaDU4Q3pHXzFNMDNLdTJQZHJySktNTmY1WEY3ajZkeEczbmpSUTV4ZGhRdXB3YVdjZVZYLVdRdkJJVElBY3JVOThnU0htcHE1X3phaHZBQ0pkak9scUxERjZpMkl3T3RLVnVJenF0aUFqZzY5bzVMT1pVRmdtWmN3VEVxbURScnFR?oc=5",
-   "source": "MarketsMojo",
-   "impact": 2.3,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 30 08:07 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Stellantis stock rises 13% as automaker's turnaround plan, cost cuts gain traction",
-   "link": "https://www.cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html",
-   "source": "CNBC Economy",
-   "impact": 1.2,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 30 08:07 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "Has the tech bubble burst? Why the Nasdaq’s rough ride looks eerily like 2000.",
-   "link": "https://www.marketwatch.com/story/has-the-tech-bubble-burst-why-the-nasdaqs-rough-ride-looks-eerily-like-2000-5bcefcb2?mod=mw_rss_topstories",
-   "source": "MarketWatch Top",
-   "impact": 3.8,
-   "tickers": [
-    "QQQ"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 30 07:29 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Alaska Senate election: DOJ wants to 'segregate' all ballots for 2nd Sullivan candidate",
-   "link": "https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html",
-   "source": "CNBC Top News",
-   "impact": 2.2,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 30 07:29 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Jim Cramer says it's time to look beyond tech. Here are 4 consumer stocks he likes",
-   "link": "https://www.cnbc.com/2026/10/30/jim-cramer-consumer-staples-stocks.html",
-   "source": "CNBC Top News",
-   "impact": 1.5,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 30 07:29 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "3 Dividend-Paying Value Stocks That Let You Rest Easy Even if the Stock Market Sell-Off Worsens in November.",
-   "link": "https://www.nasdaq.com/articles/3-dividend-paying-value-stocks-let-you-rest-easy-even-if-stock-market-sell-worsens",
-   "source": "Nasdaq Markets",
-   "impact": 4.4,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 30 07:29 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "Arista Networks vs. Monday.com: Which Technology Stock Is a Better Buy in 2026?",
-   "link": "https://www.nasdaq.com/articles/arista-networks-vs-mondaycom-which-technology-stock-better-buy-2026",
-   "source": "Nasdaq Markets",
-   "impact": 2.0,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 30 07:29 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Why Bright Horizons Family Solutions Stock Swooned on Friday",
-   "link": "https://www.fool.com/investing/2026/10/30/why-bright-horizons-family-solutions-stock-swooned-on-friday/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.4,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 30 07:29 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "What Are Dell Investors Betting On?",
-   "link": "https://www.trefis.com/stock/dell/articles/621542/what-are-dell-investors-betting-on/2026-10-30?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 1.5,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 30 07:29 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Strong Growth Momentum and Rising Revisions Fuel Bright Earnings Outlook",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/strong-growth-momentum-rising-revisions-221400708.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 5.0,
-   "tickers": [
-    "AAPL",
-    "PLTR",
-    "SPY"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 30 07:29 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "DEA approvals could bring big tax benefits for medical marijuana businesses",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeDBtNTBRcUVQVGdKT2RMRGRNZ1Q3cl9pa1lxRHhXNkpzQkJRX3hjbjJ4bUVnRF8yMVgtT3hnMjMtOE9oS3NTOXVDczdnaWpmajRtR0FqLUlfUFlQMGE3eGdjSjBrVnp3NlRBdDVLMDh4eGt0VjhYWXNxMlNiNHhhSnBpYlZ6WG02ZE0ydDk4d3UyS2FDd0VjSWJqZW94S1h0VG5FMUFR?oc=5",
-   "source": "AP News",
-   "impact": 2.2,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 30 07:29 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Judge puts off decision in Comey case as prosecutors pursue new indictment against ex-FBI head",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOUpkYjZwZTAwOXFhRnEta2JDaUE0azE2WndxcEdLN2NQaktHcHdwQXlrSS1YLUFfT0phcTNQTjk1dkNmcThZcXpLckhUMjc4M3JFMGQ2UmE3XzVPZllIVXQ5WkczbWJxZUZDTjRKa09lTHlTeG5oRTYtNDFlQkVBeVJ1UWxIMXJpcGdraHd5VXVIVTNfTmpGNjZn?oc=5",
-   "source": "AP News",
-   "impact": 1.5,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 30 07:29 PM ET",
    "consumer": false
   }
  ],
@@ -803,172 +805,172 @@
  "movers": {
   "mode": "last session (market not in pre-market)",
   "basis": "opening gap (open vs prior close) of the last session; RVOL = session volume / 20-day avg",
-  "fetched_et": "Oct 30 06:06 PM ET",
+  "fetched_et": "Oct 30 09:14 PM ET",
   "gappers": [
    {
     "symbol": "INTC",
     "name": "Intel",
     "sector": "Information Technology",
-    "price": 65.76,
-    "gap_pct": -25.76,
-    "day_pct": -28.58,
+    "price": 92.07,
+    "gap_pct": -28.45,
+    "day_pct": -3.62,
     "volume": 450884426,
     "rvol": 4.58,
-    "asof_et": "2026-10-30 close"
+    "asof_et": "2026-10-29 close"
+   },
+   {
+    "symbol": "NOW",
+    "name": "ServiceNow",
+    "sector": "Information Technology",
+    "price": 109.67,
+    "gap_pct": -27.31,
+    "day_pct": -26.95,
+    "volume": 34909917,
+    "rvol": 2.2,
+    "asof_et": "2026-10-29 close"
    },
    {
     "symbol": "TWLO",
     "name": "Twilio",
     "sector": "Information Technology",
-    "price": 205.03,
-    "gap_pct": -22.86,
-    "day_pct": -15.24,
+    "price": 241.9,
+    "gap_pct": -26.47,
+    "day_pct": -4.68,
     "volume": 7339001,
     "rvol": 1.74,
-    "asof_et": "2026-10-30 close"
+    "asof_et": "2026-10-29 close"
    },
    {
     "symbol": "RDDT",
     "name": "Reddit",
     "sector": "Communication Services",
-    "price": 91.73,
-    "gap_pct": -22.65,
-    "day_pct": -29.22,
+    "price": 129.6,
+    "gap_pct": -25.58,
+    "day_pct": -3.79,
     "volume": 33255690,
     "rvol": 6.74,
-    "asof_et": "2026-10-30 close"
+    "asof_et": "2026-10-29 close"
+   },
+   {
+    "symbol": "FTNT",
+    "name": "Fortinet",
+    "sector": "Information Technology",
+    "price": 139.1,
+    "gap_pct": -21.29,
+    "day_pct": -20.09,
+    "volume": 8668124,
+    "rvol": 1.83,
+    "asof_et": "2026-10-29 close"
+   },
+   {
+    "symbol": "MRVL",
+    "name": "Marvell Technology",
+    "sector": "Information Technology",
+    "price": 218.34,
+    "gap_pct": -18.39,
+    "day_pct": -13.24,
+    "volume": 42670557,
+    "rvol": 1.97,
+    "asof_et": "2026-10-29 close"
+   },
+   {
+    "symbol": "GEN",
+    "name": "Gen Digital",
+    "sector": "Information Technology",
+    "price": 28.2,
+    "gap_pct": 17.54,
+    "day_pct": 15.81,
+    "volume": 8793407,
+    "rvol": 1.1,
+    "asof_et": "2026-10-29 close"
    },
    {
     "symbol": "HPQ",
     "name": "HP Inc.",
     "sector": "Information Technology",
-    "price": 28.78,
-    "gap_pct": -14.23,
-    "day_pct": -9.58,
+    "price": 31.83,
+    "gap_pct": -15.87,
+    "day_pct": -1.91,
     "volume": 29891462,
     "rvol": 2.58,
-    "asof_et": "2026-10-30 close"
-   },
-   {
-    "symbol": "ILMN",
-    "name": "Illumina, Inc.",
-    "sector": "Health Care",
-    "price": 235.99,
-    "gap_pct": -12.49,
-    "day_pct": -18.64,
-    "volume": 5387505,
-    "rvol": 2.28,
-    "asof_et": "2026-10-30 close"
+    "asof_et": "2026-10-29 close"
    },
    {
     "symbol": "DELL",
     "name": "Dell Technologies",
     "sector": "Information Technology",
-    "price": 424.3,
-    "gap_pct": -11.88,
-    "day_pct": -10.77,
+    "price": 475.51,
+    "gap_pct": -15.14,
+    "day_pct": -3.7,
     "volume": 10469758,
     "rvol": 1.66,
-    "asof_et": "2026-10-30 close"
+    "asof_et": "2026-10-29 close"
    },
    {
-    "symbol": "AMD",
-    "name": "Advanced Micro Devices",
-    "sector": "Information Technology",
-    "price": 504.8,
-    "gap_pct": -10.22,
-    "day_pct": -10.88,
-    "volume": 39527010,
-    "rvol": 2.03,
-    "asof_et": "2026-10-30 close"
+    "symbol": "CVNA",
+    "name": "Carvana",
+    "sector": "Consumer Discretionary",
+    "price": 68.31,
+    "gap_pct": 15.04,
+    "day_pct": 15.68,
+    "volume": 16958182,
+    "rvol": 1.84,
+    "asof_et": "2026-10-29 close"
    },
    {
-    "symbol": "DVA",
-    "name": "DaVita",
-    "sector": "Health Care",
-    "price": 187.5,
-    "gap_pct": -9.47,
-    "day_pct": -3.01,
-    "volume": 1760622,
-    "rvol": 2.48,
-    "asof_et": "2026-10-30 close"
+    "symbol": "HII",
+    "name": "Huntington Ingalls Industries",
+    "sector": "Industrials",
+    "price": 316.21,
+    "gap_pct": 13.51,
+    "day_pct": 13.23,
+    "volume": 723664,
+    "rvol": 1.25,
+    "asof_et": "2026-10-29 close"
    },
    {
     "symbol": "SNDK",
     "name": "Sandisk",
     "sector": "Information Technology",
-    "price": 1150.89,
-    "gap_pct": -8.64,
-    "day_pct": -13.47,
+    "price": 1330.05,
+    "gap_pct": -13.5,
+    "day_pct": -5.32,
     "volume": 17340103,
     "rvol": 2.11,
-    "asof_et": "2026-10-30 close"
+    "asof_et": "2026-10-29 close"
    },
    {
-    "symbol": "BE",
-    "name": "Bloom Energy",
-    "sector": "Industrials",
-    "price": 203.17,
-    "gap_pct": -8.47,
-    "day_pct": -8.61,
-    "volume": 16555468,
-    "rvol": 1.11,
-    "asof_et": "2026-10-30 close"
+    "symbol": "GOOGL",
+    "name": "Alphabet Inc. (Class A)",
+    "sector": "Communication Services",
+    "price": 283.82,
+    "gap_pct": -13.48,
+    "day_pct": -12.64,
+    "volume": 65326584,
+    "rvol": 2.11,
+    "asof_et": "2026-10-29 close"
    },
    {
-    "symbol": "COHR",
-    "name": "Coherent Corp.",
-    "sector": "Information Technology",
-    "price": 210.32,
-    "gap_pct": -8.46,
-    "day_pct": -11.34,
-    "volume": 11906618,
-    "rvol": 1.62,
-    "asof_et": "2026-10-30 close"
+    "symbol": "GOOG",
+    "name": "Alphabet Inc. (Class C)",
+    "sector": "Communication Services",
+    "price": 282.32,
+    "gap_pct": -13.13,
+    "day_pct": -12.29,
+    "volume": 44858799,
+    "rvol": 2.23,
+    "asof_et": "2026-10-29 close"
    },
    {
-    "symbol": "COIN",
-    "name": "Coinbase",
-    "sector": "Financials",
-    "price": 143.54,
-    "gap_pct": -7.7,
-    "day_pct": -10.62,
-    "volume": 20781511,
-    "rvol": 2.66,
-    "asof_et": "2026-10-30 close"
-   },
-   {
-    "symbol": "SYK",
-    "name": "Stryker Corporation",
+    "symbol": "ILMN",
+    "name": "Illumina, Inc.",
     "sector": "Health Care",
-    "price": 291.86,
-    "gap_pct": -7.63,
-    "day_pct": -6.38,
-    "volume": 6437710,
-    "rvol": 2.57,
-    "asof_et": "2026-10-30 close"
-   },
-   {
-    "symbol": "WDC",
-    "name": "Western Digital",
-    "sector": "Information Technology",
-    "price": 366.11,
-    "gap_pct": -7.33,
-    "day_pct": -7.41,
-    "volume": 8889625,
-    "rvol": 0.87,
-    "asof_et": "2026-10-30 close"
-   },
-   {
-    "symbol": "STX",
-    "name": "Seagate Technology",
-    "sector": "Information Technology",
-    "price": 644.58,
-    "gap_pct": -7.06,
-    "day_pct": -7.98,
-    "volume": 5769883,
-    "rvol": 0.96,
-    "asof_et": "2026-10-30 close"
+    "price": 290.06,
+    "gap_pct": -12.1,
+    "day_pct": 0.44,
+    "volume": 5387505,
+    "rvol": 2.28,
+    "asof_et": "2026-10-29 close"
    }
   ],
   "volume_leaders": [
@@ -976,182 +978,174 @@
     "symbol": "GPN",
     "name": "Global Payments",
     "sector": "Financials",
-    "price": 96.84,
-    "gap_pct": 0.33,
-    "day_pct": 12.97,
+    "price": 85.72,
+    "gap_pct": 2.93,
+    "day_pct": 2.6,
     "volume": 16725396,
     "rvol": 8.67,
-    "asof_et": "2026-10-30 close"
+    "asof_et": "2026-10-29 close"
    },
    {
     "symbol": "RDDT",
     "name": "Reddit",
     "sector": "Communication Services",
-    "price": 91.73,
-    "gap_pct": -22.65,
-    "day_pct": -29.22,
+    "price": 129.6,
+    "gap_pct": -25.58,
+    "day_pct": -3.79,
     "volume": 33255690,
     "rvol": 6.74,
-    "asof_et": "2026-10-30 close"
+    "asof_et": "2026-10-29 close"
    },
    {
     "symbol": "INTC",
     "name": "Intel",
     "sector": "Information Technology",
-    "price": 65.76,
-    "gap_pct": -25.76,
-    "day_pct": -28.58,
+    "price": 92.07,
+    "gap_pct": -28.45,
+    "day_pct": -3.62,
     "volume": 450884426,
     "rvol": 4.58,
-    "asof_et": "2026-10-30 close"
+    "asof_et": "2026-10-29 close"
    },
    {
     "symbol": "REGN",
     "name": "Regeneron Pharmaceuticals",
     "sector": "Health Care",
-    "price": 927.89,
-    "gap_pct": 6.19,
-    "day_pct": 13.33,
+    "price": 818.77,
+    "gap_pct": 6.91,
+    "day_pct": 0.68,
     "volume": 2851725,
     "rvol": 4.51,
-    "asof_et": "2026-10-30 close"
+    "asof_et": "2026-10-29 close"
    },
    {
     "symbol": "ERIE",
     "name": "Erie Indemnity",
     "sector": "Financials",
-    "price": 261.39,
-    "gap_pct": 0.15,
-    "day_pct": 4.23,
+    "price": 250.79,
+    "gap_pct": 1.94,
+    "day_pct": 1.79,
     "volume": 719919,
     "rvol": 4.04,
-    "asof_et": "2026-10-30 close"
+    "asof_et": "2026-10-29 close"
    },
    {
     "symbol": "KVUE",
     "name": "Kenvue",
     "sector": "Consumer Staples",
-    "price": 19.31,
-    "gap_pct": 2.2,
-    "day_pct": -1.28,
+    "price": 19.56,
+    "gap_pct": 3.41,
+    "day_pct": 1.19,
     "volume": 66377525,
     "rvol": 3.63,
-    "asof_et": "2026-10-30 close"
+    "asof_et": "2026-10-29 close"
    },
    {
     "symbol": "FFIV",
     "name": "F5, Inc.",
     "sector": "Information Technology",
-    "price": 338.34,
-    "gap_pct": -1.98,
-    "day_pct": -6.91,
+    "price": 363.46,
+    "gap_pct": -2.54,
+    "day_pct": -0.57,
     "volume": 2511558,
     "rvol": 3.06,
-    "asof_et": "2026-10-30 close"
+    "asof_et": "2026-10-29 close"
    },
    {
     "symbol": "EL",
     "name": "Estée Lauder Companies (The)",
     "sector": "Consumer Staples",
-    "price": 109.23,
-    "gap_pct": 0.11,
-    "day_pct": 0.39,
+    "price": 108.81,
+    "gap_pct": -0.35,
+    "day_pct": -0.46,
     "volume": 8812047,
     "rvol": 3.05,
-    "asof_et": "2026-10-30 close"
+    "asof_et": "2026-10-29 close"
    },
    {
     "symbol": "RMD",
     "name": "ResMed|",
     "sector": "Health Care",
-    "price": 229.94,
-    "gap_pct": -2.48,
-    "day_pct": -9.05,
+    "price": 252.83,
+    "gap_pct": -1.44,
+    "day_pct": 1.06,
     "volume": 3445102,
     "rvol": 3.05,
-    "asof_et": "2026-10-30 close"
+    "asof_et": "2026-10-29 close"
    },
    {
     "symbol": "MPWR",
     "name": "Monolithic Power Systems",
     "sector": "Information Technology",
-    "price": 1211.63,
-    "gap_pct": -1.64,
-    "day_pct": 1.07,
+    "price": 1198.81,
+    "gap_pct": -2.65,
+    "day_pct": -1.02,
     "volume": 2132688,
     "rvol": 2.77,
-    "asof_et": "2026-10-30 close"
+    "asof_et": "2026-10-29 close"
    },
    {
     "symbol": "AMZN",
     "name": "Amazon",
     "sector": "Consumer Discretionary",
-    "price": 240.35,
-    "gap_pct": -4.62,
-    "day_pct": -1.41,
+    "price": 243.79,
+    "gap_pct": -8.67,
+    "day_pct": -4.25,
     "volume": 104652185,
     "rvol": 2.75,
-    "asof_et": "2026-10-30 close"
+    "asof_et": "2026-10-29 close"
    },
    {
     "symbol": "TER",
     "name": "Teradyne",
     "sector": "Information Technology",
-    "price": 274.37,
-    "gap_pct": -6.47,
-    "day_pct": -7.38,
+    "price": 296.23,
+    "gap_pct": -11.55,
+    "day_pct": -5.43,
     "volume": 8615779,
     "rvol": 2.67,
-    "asof_et": "2026-10-30 close"
+    "asof_et": "2026-10-29 close"
    },
    {
     "symbol": "COIN",
     "name": "Coinbase",
     "sector": "Financials",
-    "price": 143.54,
-    "gap_pct": -7.7,
-    "day_pct": -10.62,
+    "price": 160.59,
+    "gap_pct": -8.68,
+    "day_pct": -1.07,
     "volume": 20781511,
     "rvol": 2.66,
-    "asof_et": "2026-10-30 close"
+    "asof_et": "2026-10-29 close"
    },
    {
     "symbol": "EXC",
     "name": "Exelon",
     "sector": "Utilities",
-    "price": 46.16,
-    "gap_pct": 1.44,
-    "day_pct": 0.54,
+    "price": 45.91,
+    "gap_pct": 4.02,
+    "day_pct": 2.55,
     "volume": 18621606,
     "rvol": 2.65,
-    "asof_et": "2026-10-30 close"
+    "asof_et": "2026-10-29 close"
    },
    {
     "symbol": "ZBRA",
     "name": "Zebra Technologies",
     "sector": "Information Technology",
-    "price": 361.26,
-    "gap_pct": -2.09,
-    "day_pct": -4.27,
+    "price": 377.38,
+    "gap_pct": -3.95,
+    "day_pct": -1.9,
     "volume": 1196495,
     "rvol": 2.65,
-    "asof_et": "2026-10-30 close"
+    "asof_et": "2026-10-29 close"
    }
   ]
  },
  "economic_calendar": {
   "source": "FairEconomy / ForexFactory weekly calendar (nfs.faireconomy.media)",
   "fallback": false,
-  "fetched_et": "Oct 30 08:06 PM ET",
+  "fetched_et": "Oct 30 09:14 PM ET",
   "events": [
-   {
-    "when_et": "Oct 30 08:30 AM ET",
-    "date": "2026-10-30",
-    "event": "Employment Cost Index q/q",
-    "importance": "medium",
-    "forecast": "0.8%",
-    "previous": "0.9%"
-   },
    {
     "when_et": "Oct 30 09:45 AM ET",
     "date": "2026-10-30",
@@ -2563,21 +2557,21 @@
  "sentiment_validation": {
   "logged": 4000,
   "min_sample": 100,
-  "generated_et": "Oct 30 08:07 PM ET",
+  "generated_et": "Oct 30 09:14 PM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
-    "n_scored": 3915,
+    "n_scored": 3921,
     "n_directional": 3300,
-    "hit_rate": 49.4,
+    "hit_rate": 49.5,
     "ci95": 1.7,
     "corr": 0.001,
     "status": "NO EDGE (≈ coin flip)"
    },
    "r1d": {
     "name": "+1 day",
-    "n_scored": 3280,
-    "n_directional": 2815,
+    "n_scored": 3273,
+    "n_directional": 2808,
     "hit_rate": 49.7,
     "ci95": 1.8,
     "corr": 0.014,
@@ -2587,73 +2581,73 @@
   "status": "MEASURED",
   "recent": [
    {
-    "ticker": "RIVN",
-    "sentiment": 0.612,
-    "title": "Stock Market Today, Oct. 30: Rivian Raises Full-Year Guidance on Q3 Revenue Beat",
-    "r1h": -0.193,
-    "r1d": null
-   },
-   {
-    "ticker": "QQQ",
-    "sentiment": 0.612,
-    "title": "Stock Market Today, Oct. 30: Rivian Raises Full-Year Guidance on Q3 Revenue Beat",
-    "r1h": 0.102,
+    "ticker": "INTC",
+    "sentiment": -0.649,
+    "title": "The PC industry's painful path to an AI future",
+    "r1h": 0.239,
     "r1d": null
    },
    {
     "ticker": "INTC",
-    "sentiment": -0.832,
-    "title": "Nasdaq sheds more than 700 points as tech stocks slump",
-    "r1h": 0.201,
+    "sentiment": -0.527,
+    "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+    "r1h": 0.239,
+    "r1d": null
+   },
+   {
+    "ticker": "ABR",
+    "sentiment": 0.734,
+    "title": "Arbor Realty Trust (ABR) Q3 2026 Earnings Call Transcript",
+    "r1h": 0.014,
+    "r1d": null
+   },
+   {
+    "ticker": "VZ",
+    "sentiment": 0.66,
+    "title": "Learn Why The Bull Case For Verizon Communications (VZ) Could Change Following Raised Outlook",
+    "r1h": 0.179,
     "r1d": null
    },
    {
     "ticker": "GOOGL",
-    "sentiment": -0.832,
-    "title": "Nasdaq sheds more than 700 points as tech stocks slump",
-    "r1h": -0.017,
+    "sentiment": 0.66,
+    "title": "Learn Why The Bull Case For Verizon Communications (VZ) Could Change Following Raised Outlook",
+    "r1h": 0.172,
     "r1d": null
    },
    {
     "ticker": "AMZN",
-    "sentiment": -0.832,
-    "title": "Nasdaq sheds more than 700 points as tech stocks slump",
-    "r1h": 0.062,
+    "sentiment": 0.66,
+    "title": "Learn Why The Bull Case For Verizon Communications (VZ) Could Change Following Raised Outlook",
+    "r1h": 0.315,
     "r1d": null
    },
    {
-    "ticker": "INTC",
-    "sentiment": 0.273,
-    "title": "Stock Market Today, Oct. 30: Intel Plunges Nearly 29% as Weak Outlook Rattles Wall Street",
-    "r1h": 0.201,
+    "ticker": "AMD",
+    "sentiment": 0.218,
+    "title": "Cramer’s week ahead: Expect more volatility as tech earnings, midterms loom",
+    "r1h": 0.168,
+    "r1d": null
+   },
+   {
+    "ticker": "AAPL",
+    "sentiment": 0.218,
+    "title": "Cramer’s week ahead: Expect more volatility as tech earnings, midterms loom",
+    "r1h": 0.094,
+    "r1d": null
+   },
+   {
+    "ticker": "META",
+    "sentiment": 0.153,
+    "title": "Meta Settles With Teen In Social Media Addiction Lawsuit",
+    "r1h": 0.081,
     "r1d": null
    },
    {
     "ticker": "SPY",
-    "sentiment": -0.226,
-    "title": "These 3 Big Risks Could Cause the Next Bear Market. I'm Investing Anyway.",
-    "r1h": 0.071,
-    "r1d": null
-   },
-   {
-    "ticker": "SPY",
-    "sentiment": -0.382,
-    "title": "Warsh wants the Fed to say less. Two officials are pushing for more transparency.",
-    "r1h": 0.071,
-    "r1d": null
-   },
-   {
-    "ticker": "XLE",
-    "sentiment": -0.226,
-    "title": "Imperial Oil Limited Q3 2026 Earnings Call Summary",
-    "r1h": -0.014,
-    "r1d": null
-   },
-   {
-    "ticker": "VALE",
-    "sentiment": 0.437,
-    "title": "Vale (VALE) Q3 2026 Earnings Call Transcript",
-    "r1h": -0.437,
+    "sentiment": 0.527,
+    "title": "This cybersecurity stock will be the next to join the S&P 500",
+    "r1h": 0.103,
     "r1d": null
    }
   ]
@@ -2662,98 +2656,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 30 08:06 PM ET",
+   "fetched_et": "Oct 30 09:13 PM ET",
    "newest_et": "Oct 30 06:57 PM ET",
    "newest": "2026-10-30T22:57:55+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 30 08:06 PM ET",
+   "fetched_et": "Oct 30 09:13 PM ET",
    "newest_et": "Oct 30 07:16 AM ET",
    "newest": "2026-10-30T11:16:46+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 30 08:06 PM ET",
+   "fetched_et": "Oct 30 09:13 PM ET",
    "newest_et": "Oct 30 02:45 PM ET",
    "newest": "2026-10-30T18:45:35+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 30 08:06 PM ET",
+   "fetched_et": "Oct 30 09:13 PM ET",
    "newest_et": "Oct 30 07:14 PM ET",
    "newest": "2026-10-30T23:14:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 30 08:06 PM ET",
+   "fetched_et": "Oct 30 09:13 PM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
-   "count": 18,
-   "fetched_et": "Oct 30 08:06 PM ET",
-   "newest_et": "Oct 30 07:44 PM ET",
-   "newest": "2026-10-30T23:44:18+00:00"
+   "count": 17,
+   "fetched_et": "Oct 30 09:13 PM ET",
+   "newest_et": "Oct 30 08:46 PM ET",
+   "newest": "2026-10-31T00:46:00+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 50,
-   "fetched_et": "Oct 30 08:06 PM ET",
+   "fetched_et": "Oct 30 09:13 PM ET",
    "newest_et": "Oct 30 05:34 PM ET",
    "newest": "2026-10-30T21:34:32+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 30 08:06 PM ET",
-   "newest_et": "Oct 30 05:36 PM ET",
-   "newest": "2026-10-30T21:36:57+00:00"
+   "fetched_et": "Oct 30 09:13 PM ET",
+   "newest_et": "Oct 30 06:25 PM ET",
+   "newest": "2026-10-30T22:25:53+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 30 08:06 PM ET",
-   "newest_et": "Oct 30 07:40 PM ET",
-   "newest": "2026-10-30T23:40:00+00:00"
+   "fetched_et": "Oct 30 09:13 PM ET",
+   "newest_et": "Oct 30 09:04 PM ET",
+   "newest": "2026-10-31T01:04:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 38,
-   "fetched_et": "Oct 30 08:06 PM ET",
-   "newest_et": "Oct 30 05:40 PM ET",
-   "newest": "2026-10-30T21:40:44+00:00"
+   "count": 19,
+   "fetched_et": "Oct 30 09:13 PM ET",
+   "newest_et": "Oct 30 03:59 PM ET",
+   "newest": "2026-10-30T19:59:00+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
-   "count": 45,
-   "fetched_et": "Oct 30 08:06 PM ET",
+   "count": 43,
+   "fetched_et": "Oct 30 09:13 PM ET",
    "newest_et": "Oct 30 02:42 PM ET",
    "newest": "2026-10-30T18:42:51+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 30 08:06 PM ET",
+   "fetched_et": "Oct 30 09:13 PM ET",
    "newest_et": "Oct 29 04:30 PM ET",
    "newest": "2026-10-29T20:30:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 30 08:06 PM ET",
-   "newest_et": "Oct 30 06:50 PM ET",
-   "newest": "2026-10-30T22:50:00+00:00"
+   "fetched_et": "Oct 30 09:13 PM ET",
+   "newest_et": "Oct 30 08:23 PM ET",
+   "newest": "2026-10-31T00:23:23+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
-   "count": 26,
-   "fetched_et": "Oct 30 08:06 PM ET"
+   "count": 25,
+   "fetched_et": "Oct 30 09:13 PM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
@@ -2762,8 +2756,8 @@
   },
   "Economic calendar": {
    "ok": true,
-   "count": 5,
-   "fetched_et": "Oct 30 08:06 PM ET",
+   "count": 4,
+   "fetched_et": "Oct 30 09:14 PM ET",
    "note": "FairEconomy / ForexFactory weekly calendar (nfs.faireconomy.media)"
   }
  }
