@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 31 06:48 AM ET",
- "generated_at": "2026-10-31T06:48:54.282931-04:00",
+ "generated_et": "Oct 31 07:29 AM ET",
+ "generated_at": "2026-10-31T07:29:04.314068-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-31",
@@ -58,6 +58,14 @@
    "freshness": "closed"
   },
   {
+   "symbol": "DIA",
+   "label": "DIA",
+   "price": 517.65,
+   "pct": -0.97,
+   "asof_et": "Oct 30 07:55 PM ET",
+   "freshness": "closed"
+  },
+  {
    "symbol": "IWM",
    "label": "IWM",
    "price": 279.82,
@@ -108,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 77295.63,
+   "price": 77297.84,
    "pct": 0.13,
-   "asof_et": "Oct 31 06:45 AM ET",
+   "asof_et": "Oct 31 07:25 AM ET",
    "freshness": "delayed"
   },
   {
@@ -183,14 +191,6 @@
    "price": 43.44,
    "pct": 0.7,
    "asof_et": "Oct 30 07:40 PM ET",
-   "freshness": "closed"
-  },
-  {
-   "symbol": "XLRE",
-   "label": "Real Estate",
-   "price": 42.85,
-   "pct": -0.49,
-   "asof_et": "Oct 30 07:25 PM ET",
    "freshness": "closed"
   },
   {
@@ -373,6 +373,121 @@
  ],
  "breaking": [
   {
+   "title": "SpaceX Is Up 37% From Its August Low. A $5,000 Investment Could Be Worth This Much by 2028.",
+   "link": "https://www.fool.com/investing/2026/10/31/spacex-is-up-36-from-its-august-low-a-5000-investm/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.0,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 31 07:29 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Anthropic's Gross Margin Rocketed to 85% From 12% in a Year, but the S-1 Warns It Won't Last",
+   "link": "https://www.fool.com/investing/2026/10/31/anthropics-gross-margin-rocketed-to-85-from-12-in/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.4,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 31 07:29 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "3 Major Risks With Anthropic's IPO",
+   "link": "https://www.fool.com/investing/2026/10/31/3-major-risks-with-anthropics-ipo/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 1.6,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 31 07:29 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Anthropic's path to the Nasdaq just got a lot bumpier",
+   "link": "https://www.cnbc.com/2026/10/31/anthropic-ipo-ai-spending.html",
+   "source": "CNBC Top News",
+   "impact": 2.8,
+   "tickers": [
+    "QQQ"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 31 07:29 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Social Security's Trump Bump-Led 2027 COLA Is Doing Something That Hasn't Been Witnessed This Century",
+   "link": "https://www.fool.com/retirement/2026/10/31/social-security-trump-bump-led-2027-cola-do-something-not-witnessed-this-century/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 1.9,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 31 07:29 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Wall Street Thinks Archer Aviation Stock Is a Buy. Here's Why I Don't",
+   "link": "https://www.fool.com/investing/2026/10/31/wall-street-thinks-archer-aviation-stock-is-a-buy/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 1.7,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 31 07:29 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Your Retail Coach Launches Dead Stock Recovery Framework to Cut Overstock Without Deep Discounting",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNclViTXktd2I5eFdtU3VCd3JnaW16bzB6a0loNm1zS2t4dkRrZ0dHN2xsX044aXJlQnJqU1RjX1lENEZqdkFrSGdjUGNTMzJEbFRvSThuT0d5eXhwbjdpeFlTVG00RkplZHo3WUZBWTV2TGx6SVl1YVJBZmVvY1p2VEpYQ04yTjJEOVFuandpeHl2b3lXTTZYbGVTMkYzeHl0?oc=5",
+   "source": "openPR.com",
+   "impact": 2.6,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 31 07:29 AM ET",
+   "consumer": true
+  },
+  {
+   "title": "The rise of the 15-foot skeleton—how a viral novelty became a Halloween staple",
+   "link": "https://www.cnbc.com/make-it/2026/10/23/giant-halloween-skeleton-decorations.html",
+   "source": "CNBC Top News",
+   "impact": 1.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 31 07:29 AM ET",
+   "consumer": true
+  },
+  {
+   "title": "Police detain 3 protesters during overnight rally as Polish president backs suspended judge",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaVVIM1owQ1djXzREamhGRFhZUHl5ZTBxN1FYUjBuZW5HVG90TGZfY2R5c1lkVmplYkhGbUNIZ3Q5Z3NXUEdzWndIS29xZzFINmVlcmZOV3hFcDZnS3JBRDZUdFBhTUh6VlVFY19vOUNjXzluSzNXRV82NWlrNXpteTNDemRDMnlSTzgxdmdydWJOWkkwUmw5b1J0cHZnZXYwcXFqdlFfVnZTQQ?oc=5",
+   "source": "AP News",
+   "impact": 3.0,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 31 07:29 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Appellate court revives ‘Sunday Ticket’ antitrust verdict against the NFL",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSlAxX3drVVVTdHFVWm5Wdnp1MUMzdzJyM0JHaU9CLUlTMzNCSnowVGdiS2dlSGJkVlNDOU56OFJFakMzc2o3Szl2emJuTExwcnNDMm5lOFhpSWRCMnltU2RvaDh4Y09NUzcxTjlTTldHc2plQzlFeWhzNUZqRTNNRkVjbw?oc=5",
+   "source": "AP News",
+   "impact": 1.8,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 31 07:29 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "New economic data challenges Fed chief's not-too-hot perspective",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNV9seWt5MjlGeDJNRkdKLWxjUHQyb2R4QmUtM0ZvOU5hUExsYmpuVkhyZ2RnSGtPajEzZEFFRUluX0xHdTlaQ1NKc0JKcXhQTXB6NGJ4VXJ5NVhNWkZzTTU2WFplQl9zWUFtT3hmWG9FQXhyYVBWN1V4MEhoaGVEd2pfQWRDakQxcExBc3VjQmNNSzhEUDZjMEMwQnpVV1NTMEhZb0Q2LWF1SUZi?oc=5",
+   "source": "Reuters",
+   "impact": 3.3,
+   "tickers": [
+    "SPY",
+    "^TNX"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 31 07:29 AM ET",
+   "consumer": false
+  },
+  {
    "title": "If You Invest $5,000 in SOXX Today and Never Touch It, History Says It Could Be Worth This Much in 20 Years",
    "link": "https://www.fool.com/investing/2026/10/31/if-invest-5000-soxx-etf-history-says-worth-this/?.tsrc=rss",
    "source": "Yahoo Finance",
@@ -476,135 +591,6 @@
    "sentiment_label": "neutral",
    "seen_et": "Oct 31 06:49 AM ET",
    "consumer": true
-  },
-  {
-   "title": "ALGN Q3 Earnings & Revenues Beat, '26 Sales View Down, Stock Falls",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWmVCT3p2d2V6eWp4QU04Wng4dVM2VEFEVVNORmFzZkxoVUhwREx4MU8xOVQwRUQ1cDV5XzlyQ25JaEdQWU9PM0dvcm84SU9ySXVrSVNHX0szRUNnOW00Z2dZZm9IOFpjZGsybDJ6S3pDYnAxUEFRZGZJNmVRdnFMUGxxMEo4MEpxeExKMlZ0a0doeC0zU0w5SVpyM1lqbkI0SWlpLU5VX0lxemlmQzA5eGw2QmdmTXRz?oc=5",
-   "source": "TradingView",
-   "impact": 1.2,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 31 06:49 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "U.S. Treasury dismisses IMF debt warning and 'messy' forecasting",
-   "link": "https://www.cnbc.com/2026/10/15/zervos-imf-us-debt-warning.html",
-   "source": "CNBC Markets",
-   "impact": 4.2,
-   "tickers": [
-    "^TNX"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 31 06:49 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Geberit stock heads into November results with retail model in focus",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcHJfWVhzc1NKN1E4MC1faEtsVFhxYlRHbFd1Mm45WEJtbmVlWTY4TC1EaG9GSi1CMEJxSEdLVHVLRThfemw1T012TV9EV0p5b2JoWmVmbEQzclNfZnJkdXNqeGZOdDRXdG9yMkwxV042RGN1Z05lZUI5YnFwbF9Gek1FMmhTd25GaTd0R3l5T2JyMkw5TUpTa1dCbkxqaWdTMTUzZ3UtbGp3SEppN0VUb3N3NTZjWHlyNU1wTFhITkVCS1BPMGlqeC1LOA?oc=5",
-   "source": "ad-hoc-news.de",
-   "impact": 1.5,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 31 06:08 AM ET",
-   "consumer": true
-  },
-  {
-   "title": "Here's What $10,000 Invested Equally in SpaceX and Nvidia Could Be Worth in 2030",
-   "link": "https://www.fool.com/investing/2026/10/31/what-10k-invested-equally-spacex-nvidia-stock/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.2,
-   "tickers": [
-    "NVDA"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 31 06:08 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Zeta Global and Commerce stocks trade down, what you need to know",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/zeta-global-commerce-stocks-trade-093129865.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 4.3,
-   "tickers": [
-    "AMZN",
-    "GOOGL",
-    "INTC"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 31 06:08 AM ET",
-   "consumer": true
-  },
-  {
-   "title": "Jeff Bezos' father fled Cuba at 16 with three shirts — then invested $245,573 in life savings to help launch Amazon",
-   "link": "https://finance.yahoo.com/small-business/articles/jeff-bezos-father-fled-cuba-093000674.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.0,
-   "tickers": [
-    "AMZN"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 31 06:08 AM ET",
-   "consumer": true
-  },
-  {
-   "title": "Tech Stocks Are Selling Off. Here's Why I'd Rather Own MercadoLibre Than Any \"Magnificent Seven\" Stock.",
-   "link": "https://www.fool.com/investing/2026/10/31/tech-stocks-are-selling-off-heres-why-id-rather-ow/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.0,
-   "tickers": [
-    "MELI"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 31 06:08 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Cloudflare, Fastly, Oracle, JFrog, and Okta shares plummet, what you need to know",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-fastly-oracle-jfrog-okta-092329601.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 5.1,
-   "tickers": [
-    "AMZN",
-    "GOOGL",
-    "INTC",
-    "ORCL"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 31 06:08 AM ET",
-   "consumer": true
-  },
-  {
-   "title": "SpaceX Is Considering a Merger With Tesla. Here's Why That Would Be a Bad Move.",
-   "link": "https://www.fool.com/investing/2026/10/31/spacex-is-considering-a-merger-with-tesla-heres-wh/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.8,
-   "tickers": [
-    "TSLA"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 31 06:08 AM ET",
-   "consumer": true
-  },
-  {
-   "title": "US SEC's top cop says agency is monitoring AI corporate disclosures",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeXRhQ21VYXhpVHRJdXpvbmZiSTFZcExBQlVIc0VnQ1pPMW80Y3VCdFNDR2d5aGNwYXZrNExMRGZjeEx2cFJXRHVlcmU1VHFYbTdzREtucFFNV1dBSXBoNlNpZ0syZzJMYjFmOUJ2YmstWmtOYzdnY3ltamJSOG14ZUhJb3RQcVpFNnFTMVpPamhFYkNNNUtOZF9DYl9lTFV5QTFESjBkeEJVamRaSjdIbk90OGVaTUVFM0Fv?oc=5",
-   "source": "Reuters",
-   "impact": 1.3,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 31 06:08 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Renault Q3 revenue beats forecast as EV demand lifts shares",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaXFwZ2VwSDBZVUQ0S0ljTzZkUnV5VERleGhMNHk2Y0ZkY2NzYTFnWS1SVjY3ajg4Q3lUOWNWZE5zRTBnT012MnV5X25OYzZiSE5tdUxBcVZ0WlFHWU9nT1FQWGg0N0UxelN0elFmcWxWRThVYm5PNy13ajQ3SDhCQWNiVkxnNnhLRXR6ZVB4blRuekpTR3BCS043bXY4R2Yw?oc=5",
-   "source": "Reuters",
-   "impact": 0.9,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 31 06:08 AM ET",
-   "consumer": false
   }
  ],
  "high_impact": [],
@@ -2498,12 +2484,12 @@
  "sentiment_validation": {
   "logged": 4000,
   "min_sample": 100,
-  "generated_et": "Oct 31 06:49 AM ET",
+  "generated_et": "Oct 31 07:29 AM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
-    "n_scored": 3853,
-    "n_directional": 3242,
+    "n_scored": 3852,
+    "n_directional": 3240,
     "hit_rate": 49.4,
     "ci95": 1.7,
     "corr": -0.001,
@@ -2511,9 +2497,9 @@
    },
    "r1d": {
     "name": "+1 day",
-    "n_scored": 3205,
-    "n_directional": 2749,
-    "hit_rate": 49.9,
+    "n_scored": 3204,
+    "n_directional": 2747,
+    "hit_rate": 49.8,
     "ci95": 1.9,
     "corr": 0.014,
     "status": "NO EDGE (≈ coin flip)"
@@ -2597,98 +2583,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 31 06:48 AM ET",
-   "newest_et": "Oct 31 04:05 AM ET",
-   "newest": "2026-10-31T08:05:43+00:00"
+   "fetched_et": "Oct 31 07:29 AM ET",
+   "newest_et": "Oct 31 07:00 AM ET",
+   "newest": "2026-10-31T11:00:01+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 31 06:48 AM ET",
+   "fetched_et": "Oct 31 07:29 AM ET",
    "newest_et": "Oct 30 07:16 AM ET",
    "newest": "2026-10-30T11:16:46+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 31 06:48 AM ET",
+   "fetched_et": "Oct 31 07:29 AM ET",
    "newest_et": "Oct 30 02:45 PM ET",
    "newest": "2026-10-30T18:45:35+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 31 06:48 AM ET",
+   "fetched_et": "Oct 31 07:29 AM ET",
    "newest_et": "Oct 31 12:30 AM ET",
    "newest": "2026-10-31T04:30:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 31 06:48 AM ET",
+   "fetched_et": "Oct 31 07:29 AM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
-   "count": 19,
-   "fetched_et": "Oct 31 06:48 AM ET",
-   "newest_et": "Oct 31 06:35 AM ET",
-   "newest": "2026-10-31T10:35:00+00:00"
+   "count": 17,
+   "fetched_et": "Oct 31 07:29 AM ET",
+   "newest_et": "Oct 31 07:10 AM ET",
+   "newest": "2026-10-31T11:10:00+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 50,
-   "fetched_et": "Oct 31 06:48 AM ET",
+   "fetched_et": "Oct 31 07:29 AM ET",
    "newest_et": "Oct 30 05:34 PM ET",
    "newest": "2026-10-30T21:34:32+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 31 06:48 AM ET",
+   "fetched_et": "Oct 31 07:29 AM ET",
    "newest_et": "Oct 30 08:26 PM ET",
    "newest": "2026-10-31T00:26:00+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 31 06:48 AM ET",
-   "newest_et": "Oct 31 04:42 AM ET",
-   "newest": "2026-10-31T08:42:00+00:00"
+   "fetched_et": "Oct 31 07:29 AM ET",
+   "newest_et": "Oct 31 07:00 AM ET",
+   "newest": "2026-10-31T11:00:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 22,
-   "fetched_et": "Oct 31 06:48 AM ET",
+   "count": 39,
+   "fetched_et": "Oct 31 07:29 AM ET",
    "newest_et": "Oct 31 04:44 AM ET",
    "newest": "2026-10-31T08:44:54+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
-   "count": 46,
-   "fetched_et": "Oct 31 06:48 AM ET",
-   "newest_et": "Oct 31 05:49 AM ET",
-   "newest": "2026-10-31T09:49:06+00:00"
+   "count": 27,
+   "fetched_et": "Oct 31 07:29 AM ET",
+   "newest_et": "Oct 31 06:27 AM ET",
+   "newest": "2026-10-31T10:27:53+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 31 06:48 AM ET",
+   "fetched_et": "Oct 31 07:29 AM ET",
    "newest_et": "Oct 29 04:30 PM ET",
    "newest": "2026-10-29T20:30:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 31 06:48 AM ET",
+   "fetched_et": "Oct 31 07:29 AM ET",
    "newest_et": "Oct 31 05:25 AM ET",
    "newest": "2026-10-31T09:25:00+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 25,
-   "fetched_et": "Oct 31 06:48 AM ET"
+   "fetched_et": "Oct 31 07:29 AM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
