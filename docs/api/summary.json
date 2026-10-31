@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 31 09:54 AM ET",
- "generated_at": "2026-10-31T09:54:06.563860-04:00",
+ "generated_et": "Oct 31 10:29 AM ET",
+ "generated_at": "2026-10-31T10:29:59.990025-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-31",
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 77390.58,
-   "pct": 0.25,
-   "asof_et": "Oct 31 09:50 AM ET",
+   "price": 77336.22,
+   "pct": 0.18,
+   "asof_et": "Oct 31 10:30 AM ET",
    "freshness": "delayed"
   },
   {
@@ -142,6 +142,14 @@
    "label": "Energy",
    "price": 70.02,
    "pct": 1.91,
+   "asof_et": "Oct 30 07:55 PM ET",
+   "freshness": "closed"
+  },
+  {
+   "symbol": "XLV",
+   "label": "Health Care",
+   "price": 185.0,
+   "pct": 0.52,
    "asof_et": "Oct 30 07:55 PM ET",
    "freshness": "closed"
   },
@@ -373,6 +381,141 @@
  ],
  "breaking": [
   {
+   "title": "Binance, crypto and hacks: What to know about keeping coin safe as cyber criminals advance",
+   "link": "https://www.cnbc.com/2026/10/31/binance-crypto-hack-safety.html",
+   "source": "CNBC Top News",
+   "impact": 3.2,
+   "tickers": [
+    "BTC-USD",
+    "COIN"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 31 10:31 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "WisdomTree: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/wisdomtree-3-key-takeaways-long-term-investors",
+   "source": "Nasdaq Markets",
+   "impact": 2.7,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 31 10:31 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Rocket Lab's Backlog Is $2.36 Billion -- More Than Double Its 2026 Revenue -- and the Stock Still Fell 38% This Month. Here's the Disconnect.",
+   "link": "https://www.nasdaq.com/articles/rocket-labs-backlog-236-billion-more-double-its-2026-revenue-and-stock-still-fell-38-month",
+   "source": "Nasdaq Markets",
+   "impact": 2.1,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 31 10:31 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "If I Were In My 30s, I'd Make This 1 Investing Move and Never Look Back",
+   "link": "https://www.fool.com/investing/2026/10/31/if-i-were-in-my-30s-id-make-this-1-investing-move/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.2,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 31 10:31 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Your stock portfolio increasingly hinges on the bond market — and the midterm elections",
+   "link": "https://www.marketwatch.com/story/your-stock-portfolio-increasingly-hinges-on-the-bond-market-and-the-midterm-elections-dc1abadb?mod=mw_rss_topstories",
+   "source": "MarketWatch Top",
+   "impact": 2.2,
+   "tickers": [
+    "^TNX"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 31 10:31 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Pebblebrook Hotel: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/pebblebrook-hotel-3-key-takeaways-long-term-investors",
+   "source": "Nasdaq Markets",
+   "impact": 1.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 31 10:31 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "TFI International: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/tfi-international-3-key-takeaways-long-term-investors",
+   "source": "Nasdaq Markets",
+   "impact": 3.1,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 31 10:31 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "OpenAI’s CEO Thinks Your Laptop’s Memory Should Be in a Data Center",
+   "link": "https://247wallst.com/investing/2026/10/31/openais-ceo-thinks-your-laptops-memory-should-be-in-a-data-center/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.9,
+   "tickers": [
+    "MSFT",
+    "MU"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 31 10:31 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Big Tech’s Capex Needs “a Trillion Dollars of Revenue” by 2028. Barclays Sees About $400 Billion",
+   "link": "https://www.tikr.com/blog/barclays-ai-capex-trillion-dollars-revenue-2028-amazon-stock?ref=yahoofinance&tlnk=yf-261031-xfcr4c53&.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.0,
+   "tickers": [
+    "AMZN",
+    "GOOGL",
+    "META"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 31 10:31 AM ET",
+   "consumer": true
+  },
+  {
+   "title": "Will AI Provide a Boost for XRP? The XRP Blockchain Ledger Just Hit 14 Million in AI Agent Transactions.",
+   "link": "https://www.fool.com/investing/2026/10/31/will-ai-provide-a-boost-for-xrp-the-xrp-blockchain/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 1.8,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 31 10:31 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "What the Big Banks' Third-Quarter Reports Say About Credit Card Borrowers",
+   "link": "https://www.nasdaq.com/articles/what-big-banks-third-quarter-reports-say-about-credit-card-borrowers",
+   "source": "Nasdaq Markets",
+   "impact": 3.2,
+   "tickers": [
+    "C",
+    "JPM"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 31 10:31 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "ArcBest misses profit expectations, as soft rate environment weighed on revenue",
+   "link": "https://www.marketwatch.com/story/arcbest-misses-profit-expectations-as-soft-rate-environment-weighed-on-revenue-4461160b?mod=mw_rss_marketpulse",
+   "source": "MarketWatch Pulse",
+   "impact": 0.1,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 31 10:31 AM ET",
+   "consumer": false
+  },
+  {
    "title": "Microsoft Offers Voluntary Exits to 60,000 Workers. After 37 Years, He Risks Losing a 401(k) Tax Break With One IRA Rollover",
    "link": "https://247wallst.com/personal-finance/2026/10/31/microsoft-offers-voluntary-exits-to-60000-workers-after-37-years-he-risks-losing-a-401k-tax-break-with-one-ira-rollover/?.tsrc=rss",
    "source": "Yahoo Finance",
@@ -456,138 +599,6 @@
     "GOOGL"
    ],
    "sentiment_label": "bearish",
-   "seen_et": "Oct 31 09:54 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Pope Leo tells Villanova and Notre Dame basketball teams he is neutral. Prevost has other ideas",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeGw3Zm1VdjB6bGlhTElQR3huQmFMdG5YMG0tUHhuanV2UFFZTndBVno2TmhFTWpySWdianloRF9CSXdWVXRzcTZsSWpWbHVWQ0pxX2haLW1Jdi1MNmJYeWszaTZSd3RLZGFwYmtNN0pOQ1E5NGdnblphTThOZGpkeHBmWUV2bU5SNllVa2VyTTJyM3NvNkt4WUlab2E2eVhqRmZ6R1FSRTV0eXRsSnhPQVpNMUREX28?oc=5",
-   "source": "AP News",
-   "impact": 1.5,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 31 09:54 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "3 Capital Efficient Software Stocks For Steady Cash Flow",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/3-capital-efficient-software-stocks-131117371.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 4.2,
-   "tickers": [
-    "AMZN",
-    "INTC"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 31 09:54 AM ET",
-   "consumer": true
-  },
-  {
-   "title": "In the wake of Weil, a legal recruiter's advice for surviving a company wind-down",
-   "link": "https://www.cnbc.com/make-it/2026/10/31/weil-wind-down-career-advice.html",
-   "source": "CNBC Top News",
-   "impact": 2.5,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 31 09:54 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Bank of America says buy these stocks ahead of earnings before it's too late",
-   "link": "https://www.cnbc.com/2026/10/31/bank-of-america-stocks-to-buy-into-earnings.html",
-   "source": "CNBC Top News",
-   "impact": 3.1,
-   "tickers": [
-    "BAC"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 31 09:54 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Jensen Huang Just Announced Fantastic News for Nvidia Stock Investors",
-   "link": "https://www.fool.com/investing/2026/10/31/jensen-huang-just-announced-fantastic-news-for-nvidia-stock-investors/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.8,
-   "tickers": [
-    "NVDA"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 31 09:54 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "35-year-old took on $20K in debt to launch a business from her dining room—now it brings in 8 figures a year",
-   "link": "https://www.cnbc.com/make-it/2026/10/31/set-active-lindsey-carter-entrepreneurship.html",
-   "source": "CNBC Top News",
-   "impact": 1.6,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 31 09:54 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Crypto industry pours more than $200 million into 2026 midterms to pressure Congress on favorable rules",
-   "link": "https://www.cnbc.com/2026/10/31/crypto-industry-spends-more-than-200-million-to-sway-the-midterms.html",
-   "source": "CNBC Top News",
-   "impact": 3.4,
-   "tickers": [
-    "BTC-USD",
-    "COIN"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 31 09:54 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Intel stock plunges 29%. Analysts urge caution on buying the dip",
-   "link": "https://www.cnbc.com/2026/10/31/intel-not-a-buy-after-drop.html",
-   "source": "CNBC Top News",
-   "impact": 4.9,
-   "tickers": [
-    "INTC"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 31 09:54 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "The stock market’s front-runners stumbled in October. Here’s where the smart money is moving now.",
-   "link": "https://www.marketwatch.com/story/the-stock-markets-front-runners-stumbled-in-october-heres-where-the-smart-money-is-moving-now-f901472a?mod=mw_rss_topstories",
-   "source": "MarketWatch Top",
-   "impact": 3.5,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 31 09:54 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "If you really want to help your adult kids and grandkids, give them money while you’re still alive",
-   "link": "https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories",
-   "source": "MarketWatch Top",
-   "impact": 2.3,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 31 09:54 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "How to start an art collection on any budget",
-   "link": "https://www.cnbc.com/2026/10/31/how-to-invest-in-art-collecting.html",
-   "source": "CNBC Top News",
-   "impact": 1.5,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 31 09:54 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Cavco: 3 Key Takeaways for Long-Term Investors",
-   "link": "https://www.nasdaq.com/articles/cavco-3-key-takeaways-long-term-investors",
-   "source": "Nasdaq Markets",
-   "impact": 1.5,
-   "tickers": [],
-   "sentiment_label": "neutral",
    "seen_et": "Oct 31 09:54 AM ET",
    "consumer": false
   }
@@ -2493,24 +2504,24 @@
  "sentiment_validation": {
   "logged": 4000,
   "min_sample": 100,
-  "generated_et": "Oct 31 09:54 AM ET",
+  "generated_et": "Oct 31 10:31 AM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
-    "n_scored": 3828,
-    "n_directional": 3222,
+    "n_scored": 3820,
+    "n_directional": 3214,
     "hit_rate": 49.5,
     "ci95": 1.7,
-    "corr": -0.0,
+    "corr": 0.001,
     "status": "NO EDGE (≈ coin flip)"
    },
    "r1d": {
     "name": "+1 day",
-    "n_scored": 3180,
-    "n_directional": 2729,
+    "n_scored": 3172,
+    "n_directional": 2721,
     "hit_rate": 49.9,
     "ci95": 1.9,
-    "corr": 0.013,
+    "corr": 0.016,
     "status": "NO EDGE (≈ coin flip)"
    }
   },
@@ -2592,98 +2603,90 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 31 09:54 AM ET",
-   "newest_et": "Oct 31 09:47 AM ET",
-   "newest": "2026-10-31T13:47:03+00:00"
+   "fetched_et": "Oct 31 10:30 AM ET",
+   "newest_et": "Oct 31 10:26 AM ET",
+   "newest": "2026-10-31T14:26:29+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 31 09:54 AM ET",
+   "fetched_et": "Oct 31 10:30 AM ET",
    "newest_et": "Oct 30 07:16 AM ET",
    "newest": "2026-10-30T11:16:46+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 31 09:54 AM ET",
+   "fetched_et": "Oct 31 10:30 AM ET",
    "newest_et": "Oct 31 08:00 AM ET",
    "newest": "2026-10-31T12:00:01+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 31 09:54 AM ET",
-   "newest_et": "Oct 31 09:15 AM ET",
-   "newest": "2026-10-31T13:15:00+00:00"
+   "fetched_et": "Oct 31 10:30 AM ET",
+   "newest_et": "Oct 31 10:26 AM ET",
+   "newest": "2026-10-31T14:26:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 31 09:54 AM ET",
+   "fetched_et": "Oct 31 10:30 AM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 31 09:54 AM ET",
-   "newest_et": "Oct 31 09:33 AM ET",
-   "newest": "2026-10-31T13:33:51+00:00"
+   "fetched_et": "Oct 31 10:30 AM ET",
+   "newest_et": "Oct 31 10:05 AM ET",
+   "newest": "2026-10-31T14:05:00+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 50,
-   "fetched_et": "Oct 31 09:54 AM ET",
+   "fetched_et": "Oct 31 10:30 AM ET",
    "newest_et": "Oct 30 05:34 PM ET",
    "newest": "2026-10-30T21:34:32+00:00"
   },
   "Reuters (via Google News)": {
-   "ok": true,
-   "count": 60,
-   "fetched_et": "Oct 31 09:54 AM ET",
-   "newest_et": "Oct 30 08:26 PM ET",
-   "newest": "2026-10-31T00:26:00+00:00"
+   "ok": false,
+   "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:reuters.com+markets&hl=en-US&gl=US&ceid=US:en",
+   "fetched_et": "Oct 31 10:30 AM ET"
   },
   "AP Business (via Google News)": {
-   "ok": true,
-   "count": 60,
-   "fetched_et": "Oct 31 09:54 AM ET",
-   "newest_et": "Oct 31 09:31 AM ET",
-   "newest": "2026-10-31T13:31:00+00:00"
+   "ok": false,
+   "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:apnews.com+business&hl=en-US&gl=US&ceid=US:en",
+   "fetched_et": "Oct 31 10:30 AM ET"
   },
   "Shipping & Postage (via Google News)": {
-   "ok": true,
-   "count": 40,
-   "fetched_et": "Oct 31 09:54 AM ET",
-   "newest_et": "Oct 31 07:34 AM ET",
-   "newest": "2026-10-31T11:34:15+00:00"
+   "ok": false,
+   "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(USPS+OR+UPS+OR+FedEx)+(rates+OR+surcharge+OR+postage+OR+shipping)+when:2d&hl=en-US&gl=US&ceid=US:en",
+   "fetched_et": "Oct 31 10:31 AM ET"
   },
   "Retail & E-commerce (via Google News)": {
-   "ok": true,
-   "count": 26,
-   "fetched_et": "Oct 31 09:54 AM ET",
-   "newest_et": "Oct 31 06:27 AM ET",
-   "newest": "2026-10-31T10:27:53+00:00"
+   "ok": false,
+   "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(retail+sales+OR+e-commerce+OR+retailers)+stocks+when:2d&hl=en-US&gl=US&ceid=US:en",
+   "fetched_et": "Oct 31 10:31 AM ET"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 31 09:54 AM ET",
+   "fetched_et": "Oct 31 10:31 AM ET",
    "newest_et": "Oct 29 04:30 PM ET",
    "newest": "2026-10-29T20:30:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 31 09:54 AM ET",
-   "newest_et": "Oct 31 09:26 AM ET",
-   "newest": "2026-10-31T13:26:01+00:00"
+   "fetched_et": "Oct 31 10:31 AM ET",
+   "newest_et": "Oct 31 10:22 AM ET",
+   "newest": "2026-10-31T14:22:57+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
-   "count": 25,
-   "fetched_et": "Oct 31 09:54 AM ET"
+   "count": 26,
+   "fetched_et": "Oct 31 10:29 AM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
