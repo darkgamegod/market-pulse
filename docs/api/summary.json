@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 31 06:08 PM ET",
- "generated_at": "2026-10-31T18:08:01.162973-04:00",
+ "generated_et": "Oct 31 06:46 PM ET",
+ "generated_at": "2026-10-31T18:46:52.182087-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-31",
@@ -116,10 +116,18 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 77557.3,
-   "pct": 0.47,
-   "asof_et": "Oct 31 06:05 PM ET",
+   "price": 77480.34,
+   "pct": 0.37,
+   "asof_et": "Oct 31 06:45 PM ET",
    "freshness": "delayed"
+  },
+  {
+   "symbol": "XLK",
+   "label": "Technology",
+   "price": 180.15,
+   "pct": -4.55,
+   "asof_et": "Oct 30 07:50 PM ET",
+   "freshness": "closed"
   },
   {
    "symbol": "XLF",
@@ -373,6 +381,125 @@
  ],
  "breaking": [
   {
+   "title": "OPEC+ agrees in principle to keep oil output targets steady in December, sources say",
+   "link": "https://www.cnbc.com/2026/10/31/opec-oil-output-targets-december.html",
+   "source": "CNBC Top News",
+   "impact": 5.0,
+   "tickers": [
+    "CL=F",
+    "XLE"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 31 06:46 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "After Eli Lilly’s Explosive Earnings Report, Is It Too Late to Buy the Stock?",
+   "link": "https://www.fool.com/investing/2026/10/31/after-eli-lilly-s-explosive-earnings-report-is-it-too-late-to-buy-the-stock/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 4.1,
+   "tickers": [
+    "LLY"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 31 06:46 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Nvidia (NVDA) CEO Jensen Huang Reportedly Targeted In Chinese Espionage Plot",
+   "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-ceo-jensen-huang-220818674.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.3,
+   "tickers": [
+    "NVDA"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 31 06:46 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Shopify Stock Is More Than 10% Below Its Record. Should You Buy Before Its Nov. 3 Report?",
+   "link": "https://www.fool.com/investing/2026/10/31/shopify-stock-is-more-than-10-below-its-record-should-you-buy-before-its-nov-3-report/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.8,
+   "tickers": [
+    "SHOP"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 31 06:46 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Paxton and Talarico tussle for Texas Senate seat as Trump campaigns via telephone",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNHloVEIzZEI3TmxoR0JDdWdRWWhlTHB3eFBtcDRnZDFDMEl6RkpzSlRZd3NHM0EtUnRqX1F4Vlh0OGxvaUkyM21RdGlWdlNPT1Q4Mlh1X2ZtbjZqRi1GdWY2TFlCYjdpVDNVaHhQR25WY29MbWdybFFmb3ZXc0ZqSExhS3VRVElxdU9Wa3BjRlY5YVJkdWp2QTh4ZDhQNWZHaGxYbWhkU2M0QQ?oc=5",
+   "source": "AP News",
+   "impact": 1.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 31 06:46 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "GoDaddy: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/godaddy-3-key-takeaways-long-term-investors",
+   "source": "Nasdaq Markets",
+   "impact": 1.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 31 06:46 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Over 40% of names on DOJ list of alleged noncitizens are not on Calif. voter rolls, analysis finds",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQjUwTHRGWWVLSHotdzBTellKb2pwRHFtcjRYb2pFaUlHcmN4WXdYaDVhVHAxQ3lyOUt4eG1yYzBfX2NGOUozNEpPUkd3Znk5eUhvR2xhMGlrRDJfNndOWFNuczhXRS1uTjdmcXltRVQweEpJQUJKWE9lRDlseFlMdFVPTVpsYVdNeUVlU3FJcU53OEhKb2U1SW5Vb0g4b1FXZTdpelNHYWxCXzBOMWI0bl82eWtqZkU?oc=5",
+   "source": "AP News",
+   "impact": 1.4,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 31 06:46 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Tusk defends suspension of Poland’s Constitutional Tribunal president as protesters gather again",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaVVIM1owQ1djXzREamhGRFhZUHl5ZTBxN1FYUjBuZW5HVG90TGZfY2R5c1lkVmplYkhGbUNIZ3Q5Z3NXUEdzWndIS29xZzFINmVlcmZOV3hFcDZnS3JBRDZUdFBhTUh6VlVFY19vOUNjXzluSzNXRV82NWlrNXpteTNDemRDMnlSTzgxdmdydWJOWkkwUmw5b1J0cHZnZXYwcXFqdlFfVnZTQQ?oc=5",
+   "source": "AP News",
+   "impact": 1.9,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 31 06:46 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Why Does India Want To Make Its Own Shipping Containers",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVnNwVFU1RjRVMjJWNHB4MjF6QmQyWlA3ZXE5N2pfOUxQNG1DU3dwbVprZE5fOVZfcV9MSExkeG96TnlfcFZIbk40OW90S2xEdW5tN3NyMlFVRkpwLWZiRkpkZGE4eGRrNUpXUm9PNElVcS1XT1pjQ2UxU1loeTF4LVV1eUNXZldJc194SnQ5cF9uZkE5RFo0TGw3MmpWUXBYYVBvQXF4c1V0NlRVajE3Mm93M2FoT19ONjNhLQ?oc=5",
+   "source": "Upstox",
+   "impact": 1.9,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 31 06:46 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Japanese Retail Sales (Sep MM) -0.7% (Prev. -1.2%)",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQY1VjSGxERy0tRVFHU3hNQ3BhRlRadU1PTGhBNE1hWWZyT0RFLWNFQVl1YXFuU0p0SWpmY1pKQW9mOWxoRHFDYUtaWGVJbXFwQlVhTDBtX0QtNTg3dGdBWFBuRG9SNk1CUW45SnF3Z0kwb191MFdyamRucTFWSEdRSUZHUQ?oc=5",
+   "source": "Newsquawk",
+   "impact": 0.0,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 31 06:46 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "From salmonberry harvests to traditional tattoos, Native American culture is spotlighted in November",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNVI0YmxyVm9idTdUWG1Zb1dZeHQzQkFnamJXaXJsQXYxRHZFWmpvZWlrTHpkdnFCX3ZTSzhRVC0wMkJKVXd3VjN2VVB6NGhDNjNvc0taQnZNTW4tUW5aSDRyS2t1Qnh4WFVLUDhuLWdNYlFrckNlcXBGT0lpOGE2a0dkMVA4eEJtSk9YSHBwTzQ0OFJxelpMVzdHUnlzdXN6emZ0cHlzLUlvUE1BOEFRWjRNNA?oc=5",
+   "source": "AP News",
+   "impact": 0.0,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 31 06:46 PM ET",
+   "consumer": false
+  },
+  {
    "title": "Want $1,000 a Month in Passive Income? Start With This Brilliant Dividend ETF.",
    "link": "https://www.fool.com/investing/2026/10/31/want-1000-month-passive-income-schd-dividend-etf/?.tsrc=rss",
    "source": "Yahoo Finance",
@@ -468,120 +595,6 @@
    "tickers": [],
    "sentiment_label": "neutral",
    "seen_et": "Oct 31 06:08 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Real Wages 2026: Why Consumer Stocks Feel It First",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNT292VzRUbE5EdUZCR0ZDOUM2N09EQzU5ZV9ETl9yQ2xjLXNwei1mcTF0ZGRiWmZoZG1xQ2R5eEtQbmRIRUdWRW90MDNlOE1VNTJOemt4aTZQbkx4a0x4M3VQOTg1UlJkWlVfN09taVN5dDhUWWFUUHlxdFkwWU1GZ0ljQmV3alVxS1BJaUJQcGZhbVVuV1hzNGFiME1GeC1vaGc0Ul93?oc=5",
-   "source": "Real Investment Advice",
-   "impact": 0.0,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 31 06:08 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "New DA rates under 5th and 6th pay commissions: How much extra employees may get before Diwali 2026",
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcThPcWt2U0xhX0U1T1BKMU9scGs1ZjBUMW9MTnE5NDZLd3l1aUgzY0U5bTFySlZlTldfSUhESWxLOGdtTEVvLU02S1UzLTU3TnBmUGk5cDhPcEplcDdrZGV2aWxBdExNc2lFdjZLN0NOUUwxdndGQnVJMlJ1WjhDY2VJcWZBRzJuWjF5U280bU1nUlhDMDFENE0zSE5rR2szbmptWkJIelV3S1Q0d0JuYVYtQXM2VUtfSlhSbTJHdWhJQUxiRHg4TDlPYlR1RGlDQ1M2cEs0cWdmT01CMmphdkNrUkhjLUJYWnlZdEhBdnJna25xRnhmR2Qzc2psYU0?oc=5",
-   "source": "Upstox",
-   "impact": 0.2,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 31 06:08 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Japan's industrial production growth hits fastest pace since January; retail sales slow to 2.3% Y/Y",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQaEx6a2hPdTFCRm44MXNIdjNGeldPTEgwYzd1YTlpLWNHQ2ZnY1YtMzVPOGtKS1VpY1FERXFEejBha2lKYXV2c1hoTDR1YmU0NWRDbDZPM1NJVGVaYW9mNlVVVjFsVUR0aVQybFp4eWVUczhreHhZb3doZXNpYzhVRUlUV0MxN1Q2eU1ZTjdZcWRDMWI3NlQtVlA1cWJmNVJ5VlB1dDVTN1V2V1UzeTV6QWEtNlViWlFiVDZIT1IyTUsyS09tN2JGUDFMYXpqd2tIdE1nQURQTU13NFluM0JZOGtEdWRQSWp0eXZ2X3A3ZHZ2UQ?oc=5",
-   "source": "TradingView",
-   "impact": 0.7,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 31 06:08 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "Amazon Sinks as AI Spending Surpasses Cloud Growth, Shares Drop",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVjZhdmtXU0lZOTZnaGY5NUxDTEVyZDczdmlRblNjMzdzUUJKWWpsT3FXeFA1d0gwc19kR0dWVkRXQU5CcUljNTN5SjN0ZzZpQnl6dnBfYUljbERSMWxfaGp1ZjRXTjZDa180TjRpQW9sZDNQUHRFRjRGZ09iUTJHWGI5cVp5MXotY0NXLU00Ukk?oc=5",
-   "source": "Global Banking & Finance Review",
-   "impact": 1.4,
-   "tickers": [
-    "AMZN"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 31 06:08 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "Tommy Castellanos earns start, leads No. 13 Texas Tech to 34-26 win over No. 22 Arizona",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOWhHamZGTmZIZzllNWZGUWNDVW15eVQ5enBZTEF2bkpFNXViNnpWMzR0aU1xbDJvcndobEhJZFluVV9nVzhERzBjZUJ4T2ozaXlRckFTYUZqTWNRNEtMb0NYb0hUZmhaSmZuSUluRjdNR210OWFfMFQwQjhKX3dSR1F3?oc=5",
-   "source": "AP News",
-   "impact": 2.5,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 31 05:30 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "After Meta, Could These Be Wall Street’s Next Blockbuster Stock Splits?",
-   "link": "https://www.fool.com/investing/2026/10/31/after-meta-could-these-be-wall-street-s-next-blockbuster-stock-splits/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.8,
-   "tickers": [
-    "META"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 31 05:30 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Paxton and Talarico tussle for Texas Senate seat. Trump to campaign virtually instead of in person",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNHloVEIzZEI3TmxoR0JDdWdRWWhlTHB3eFBtcDRnZDFDMEl6RkpzSlRZd3NHM0EtUnRqX1F4Vlh0OGxvaUkyM21RdGlWdlNPT1Q4Mlh1X2ZtbjZqRi1GdWY2TFlCYjdpVDNVaHhQR25WY29MbWdybFFmb3ZXc0ZqSExhS3VRVElxdU9Wa3BjRlY5YVJkdWp2QTh4ZDhQNWZHaGxYbWhkU2M0QQ?oc=5",
-   "source": "AP News",
-   "impact": 1.4,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 31 05:30 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Gamble on democracy: Inside suspicious election-contracts trading on prediction markets",
-   "link": "https://www.cnbc.com/2026/10/30/gamble-on-democracy-inside-suspicious-election-contracts-trading-on-prediction-markets-.html",
-   "source": "CNBC Top News",
-   "impact": 1.0,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 31 05:30 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "KOSPI plunges 3.5% as foreign investors sell 1.8 trillion won worth of shares despite retail buying",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wb0Y5UlY3TGtHVGN4OUE3cS0zVUlaZ1J1eVdWYnAyTWZZXzJQYVo2RFN6TGQ0SEJtRTQwQVJ5a3JaR2hTWnhrRnQ2SkNqSWc1czRUNWwyUFVZV1F6TVBaZmNhX05lSWh1eGNGQw?oc=5",
-   "source": "머니투데이",
-   "impact": 1.9,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 31 05:30 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "Living with a stink? Technology might help",
-   "link": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "impact": 0.3,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 31 05:30 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice",
-   "link": "https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html",
-   "source": "CNBC Top News",
-   "impact": 2.4,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 31 04:48 PM ET",
    "consumer": false
   }
  ],
@@ -2476,12 +2489,12 @@
  "sentiment_validation": {
   "logged": 4000,
   "min_sample": 100,
-  "generated_et": "Oct 31 06:08 PM ET",
+  "generated_et": "Oct 31 06:47 PM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
-    "n_scored": 3761,
-    "n_directional": 3163,
+    "n_scored": 3757,
+    "n_directional": 3160,
     "hit_rate": 49.5,
     "ci95": 1.7,
     "corr": 0.0,
@@ -2489,8 +2502,8 @@
    },
    "r1d": {
     "name": "+1 day",
-    "n_scored": 3113,
-    "n_directional": 2670,
+    "n_scored": 3109,
+    "n_directional": 2667,
     "hit_rate": 50.1,
     "ci95": 1.9,
     "corr": 0.015,
@@ -2575,98 +2588,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 31 06:08 PM ET",
-   "newest_et": "Oct 31 05:05 PM ET",
-   "newest": "2026-10-31T21:05:53+00:00"
+   "fetched_et": "Oct 31 06:46 PM ET",
+   "newest_et": "Oct 31 06:44 PM ET",
+   "newest": "2026-10-31T22:44:11+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 31 06:08 PM ET",
+   "fetched_et": "Oct 31 06:46 PM ET",
    "newest_et": "Oct 30 07:16 AM ET",
    "newest": "2026-10-30T11:16:46+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 31 06:08 PM ET",
+   "fetched_et": "Oct 31 06:46 PM ET",
    "newest_et": "Oct 31 08:00 AM ET",
    "newest": "2026-10-31T12:00:01+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 31 06:08 PM ET",
+   "fetched_et": "Oct 31 06:46 PM ET",
    "newest_et": "Oct 31 04:15 PM ET",
    "newest": "2026-10-31T20:15:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 31 06:08 PM ET",
+   "fetched_et": "Oct 31 06:46 PM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 31 06:08 PM ET",
-   "newest_et": "Oct 31 05:50 PM ET",
-   "newest": "2026-10-31T21:50:00+00:00"
+   "fetched_et": "Oct 31 06:46 PM ET",
+   "newest_et": "Oct 31 06:30 PM ET",
+   "newest": "2026-10-31T22:30:02+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 50,
-   "fetched_et": "Oct 31 06:08 PM ET",
+   "fetched_et": "Oct 31 06:46 PM ET",
    "newest_et": "Oct 30 05:34 PM ET",
    "newest": "2026-10-30T21:34:32+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 31 06:08 PM ET",
+   "fetched_et": "Oct 31 06:46 PM ET",
    "newest_et": "Oct 30 09:48 PM ET",
    "newest": "2026-10-31T01:48:00+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 31 06:08 PM ET",
-   "newest_et": "Oct 31 05:37 PM ET",
-   "newest": "2026-10-31T21:37:00+00:00"
+   "fetched_et": "Oct 31 06:46 PM ET",
+   "newest_et": "Oct 31 06:03 PM ET",
+   "newest": "2026-10-31T22:03:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 39,
-   "fetched_et": "Oct 31 06:08 PM ET",
+   "count": 40,
+   "fetched_et": "Oct 31 06:46 PM ET",
    "newest_et": "Oct 31 03:51 PM ET",
    "newest": "2026-10-31T19:51:44+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
    "count": 29,
-   "fetched_et": "Oct 31 06:08 PM ET",
+   "fetched_et": "Oct 31 06:46 PM ET",
    "newest_et": "Oct 31 05:30 PM ET",
    "newest": "2026-10-31T21:30:26+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 31 06:08 PM ET",
+   "fetched_et": "Oct 31 06:46 PM ET",
    "newest_et": "Oct 29 04:30 PM ET",
    "newest": "2026-10-29T20:30:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 31 06:08 PM ET",
-   "newest_et": "Oct 31 04:53 PM ET",
-   "newest": "2026-10-31T20:53:02+00:00"
+   "fetched_et": "Oct 31 06:46 PM ET",
+   "newest_et": "Oct 31 06:07 PM ET",
+   "newest": "2026-10-31T22:07:02+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
-   "count": 25,
-   "fetched_et": "Oct 31 06:08 PM ET"
+   "count": 26,
+   "fetched_et": "Oct 31 06:46 PM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
