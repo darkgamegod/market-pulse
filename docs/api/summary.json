@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 31 06:46 PM ET",
- "generated_at": "2026-10-31T18:46:52.182087-04:00",
+ "generated_et": "Oct 31 07:29 PM ET",
+ "generated_at": "2026-10-31T19:29:26.013863-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-31",
@@ -70,7 +70,7 @@
    "label": "IWM",
    "price": 279.82,
    "pct": -1.48,
-   "asof_et": "Oct 30 07:55 PM ET",
+   "asof_et": "Oct 30 07:57 PM ET",
    "freshness": "closed"
   },
   {
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 77480.34,
-   "pct": 0.37,
-   "asof_et": "Oct 31 06:45 PM ET",
+   "price": 77391.25,
+   "pct": 0.25,
+   "asof_et": "Oct 31 07:30 PM ET",
    "freshness": "delayed"
   },
   {
@@ -134,7 +134,7 @@
    "label": "Financials",
    "price": 56.58,
    "pct": -0.63,
-   "asof_et": "Oct 30 06:38 PM ET",
+   "asof_et": "Oct 30 06:35 PM ET",
    "freshness": "closed"
   },
   {
@@ -381,6 +381,26 @@
  ],
  "breaking": [
   {
+   "title": "1 Big Winner and 1 Loser From the Upcoming Anthropic IPO",
+   "link": "https://www.fool.com/investing/2026/10/31/1-big-winner-and-1-loser-from-the-anthropic-ipo/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 1.6,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 31 07:30 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "What we know about Binance's $6.3bn hack",
+   "link": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "impact": 0.3,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 31 07:30 PM ET",
+   "consumer": false
+  },
+  {
    "title": "OPEC+ agrees in principle to keep oil output targets steady in December, sources say",
    "link": "https://www.cnbc.com/2026/10/31/opec-oil-output-targets-december.html",
    "source": "CNBC Top News",
@@ -576,26 +596,6 @@
    "sentiment_label": "neutral",
    "seen_et": "Oct 31 06:08 PM ET",
    "consumer": true
-  },
-  {
-   "title": "Best Retail Stocks Worth Watching - October 30th",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcWJ4aGNLd2JIWlZ0TFRQVmtsazVLUUpQbkRwWEY1aGc1UEJHR2ZKN3g4T0lEX3dZZ0hrQzUtaEZLa3FVeGh3TVhXZ0hhZUVoSW8xSmpaNldIb3NuenUwbFptVE1KR0w1NDV0YU1nNFpKT044YS11ZUtNZ1hiRFZwZWZiYUFMamYybWs0TDFSNTJGMERQeTJVWDJlT1Q2dHpqeC1pX3o5ZTY?oc=5",
-   "source": "MarketBeat",
-   "impact": 1.4,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 31 06:08 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "What to Look Out for in Economic Data This Week (November 2-6)",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ?oc=5",
-   "source": "Kiplinger",
-   "impact": 0.2,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 31 06:08 PM ET",
-   "consumer": false
   }
  ],
  "high_impact": [],
@@ -1138,7 +1138,7 @@
  "economic_calendar": {
   "source": "RULE-BASED FALLBACK (approximate; live calendar unavailable)",
   "fallback": true,
-  "fetched_et": "Oct 31 06:08 PM ET",
+  "fetched_et": "Oct 31 07:30 PM ET",
   "events": [
    {
     "date": "2026-11-04",
@@ -2489,7 +2489,7 @@
  "sentiment_validation": {
   "logged": 4000,
   "min_sample": 100,
-  "generated_et": "Oct 31 06:47 PM ET",
+  "generated_et": "Oct 31 07:31 PM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
@@ -2588,98 +2588,90 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 31 06:46 PM ET",
+   "fetched_et": "Oct 31 07:29 PM ET",
    "newest_et": "Oct 31 06:44 PM ET",
    "newest": "2026-10-31T22:44:11+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 31 06:46 PM ET",
+   "fetched_et": "Oct 31 07:29 PM ET",
    "newest_et": "Oct 30 07:16 AM ET",
    "newest": "2026-10-30T11:16:46+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 31 06:46 PM ET",
+   "fetched_et": "Oct 31 07:29 PM ET",
    "newest_et": "Oct 31 08:00 AM ET",
    "newest": "2026-10-31T12:00:01+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 31 06:46 PM ET",
+   "fetched_et": "Oct 31 07:29 PM ET",
    "newest_et": "Oct 31 04:15 PM ET",
    "newest": "2026-10-31T20:15:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 31 06:46 PM ET",
+   "fetched_et": "Oct 31 07:29 PM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 31 06:46 PM ET",
-   "newest_et": "Oct 31 06:30 PM ET",
-   "newest": "2026-10-31T22:30:02+00:00"
+   "fetched_et": "Oct 31 07:29 PM ET",
+   "newest_et": "Oct 31 07:05 PM ET",
+   "newest": "2026-10-31T23:05:02+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 50,
-   "fetched_et": "Oct 31 06:46 PM ET",
+   "fetched_et": "Oct 31 07:29 PM ET",
    "newest_et": "Oct 30 05:34 PM ET",
    "newest": "2026-10-30T21:34:32+00:00"
   },
   "Reuters (via Google News)": {
-   "ok": true,
-   "count": 60,
-   "fetched_et": "Oct 31 06:46 PM ET",
-   "newest_et": "Oct 30 09:48 PM ET",
-   "newest": "2026-10-31T01:48:00+00:00"
+   "ok": false,
+   "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:reuters.com+markets&hl=en-US&gl=US&ceid=US:en",
+   "fetched_et": "Oct 31 07:29 PM ET"
   },
   "AP Business (via Google News)": {
-   "ok": true,
-   "count": 60,
-   "fetched_et": "Oct 31 06:46 PM ET",
-   "newest_et": "Oct 31 06:03 PM ET",
-   "newest": "2026-10-31T22:03:00+00:00"
+   "ok": false,
+   "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:apnews.com+business&hl=en-US&gl=US&ceid=US:en",
+   "fetched_et": "Oct 31 07:30 PM ET"
   },
   "Shipping & Postage (via Google News)": {
-   "ok": true,
-   "count": 40,
-   "fetched_et": "Oct 31 06:46 PM ET",
-   "newest_et": "Oct 31 03:51 PM ET",
-   "newest": "2026-10-31T19:51:44+00:00"
+   "ok": false,
+   "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(USPS+OR+UPS+OR+FedEx)+(rates+OR+surcharge+OR+postage+OR+shipping)+when:2d&hl=en-US&gl=US&ceid=US:en",
+   "fetched_et": "Oct 31 07:30 PM ET"
   },
   "Retail & E-commerce (via Google News)": {
-   "ok": true,
-   "count": 29,
-   "fetched_et": "Oct 31 06:46 PM ET",
-   "newest_et": "Oct 31 05:30 PM ET",
-   "newest": "2026-10-31T21:30:26+00:00"
+   "ok": false,
+   "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(retail+sales+OR+e-commerce+OR+retailers)+stocks+when:2d&hl=en-US&gl=US&ceid=US:en",
+   "fetched_et": "Oct 31 07:30 PM ET"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 31 06:46 PM ET",
+   "fetched_et": "Oct 31 07:30 PM ET",
    "newest_et": "Oct 29 04:30 PM ET",
    "newest": "2026-10-29T20:30:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 31 06:46 PM ET",
+   "fetched_et": "Oct 31 07:30 PM ET",
    "newest_et": "Oct 31 06:07 PM ET",
    "newest": "2026-10-31T22:07:02+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Oct 31 06:46 PM ET"
+   "fetched_et": "Oct 31 07:29 PM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
@@ -2689,7 +2681,7 @@
   "Economic calendar": {
    "ok": false,
    "count": 3,
-   "fetched_et": "Oct 31 06:08 PM ET",
+   "fetched_et": "Oct 31 07:30 PM ET",
    "note": "RULE-BASED FALLBACK (approximate; live calendar unavailable)"
   }
  }
