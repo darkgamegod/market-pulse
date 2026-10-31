@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 31 12:26 AM ET",
- "generated_at": "2026-10-31T00:26:31.011275-04:00",
+ "generated_et": "Oct 31 01:14 AM ET",
+ "generated_at": "2026-10-31T01:14:51.322458-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-31",
@@ -70,7 +70,7 @@
    "label": "IWM",
    "price": 279.82,
    "pct": -1.48,
-   "asof_et": "Oct 30 07:57 PM ET",
+   "asof_et": "Oct 30 07:55 PM ET",
    "freshness": "closed"
   },
   {
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 77145.38,
-   "pct": -0.81,
-   "asof_et": "Oct 31 12:25 AM ET",
+   "price": 77068.97,
+   "pct": -0.91,
+   "asof_et": "Oct 31 01:10 AM ET",
    "freshness": "delayed"
   },
   {
@@ -127,6 +127,14 @@
    "price": 180.15,
    "pct": -4.55,
    "asof_et": "Oct 30 07:50 PM ET",
+   "freshness": "closed"
+  },
+  {
+   "symbol": "XLF",
+   "label": "Financials",
+   "price": 56.58,
+   "pct": -0.63,
+   "asof_et": "Oct 30 06:38 PM ET",
    "freshness": "closed"
   },
   {
@@ -373,6 +381,83 @@
  ],
  "breaking": [
   {
+   "title": "Grand Theft Callout: ‘GTA 6’ fans are missing work on the game’s release day because they ‘don’t want to wait’ anymore",
+   "link": "https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories",
+   "source": "MarketWatch Top",
+   "impact": 1.8,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 31 01:15 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Is SpaceX Stock a Buy After Plummeting 28%?",
+   "link": "https://www.fool.com/investing/2026/10/31/is-spacex-stock-a-buy-after-plummeting-28/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.5,
+   "tickers": [
+    "TSLA"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 31 01:15 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Nikita Kucherov tells Lightning he won’t re-sign and asks for a trade, AP source says",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb05JaUtackdkeVlHclJxVWY1UFp6blB4dTFCbDF5MlVWVjE4aVNaWnBXMm00dnBnU1J6cXE3TkJCYUtIY3gyWmNWc1ZGVDZQQ1FSbGVReXhPaU9RQXZ1dXVaM0hTdDJrdU1BZlcwbFV6ZHl1V0dQaU4zVlRqWmJsRllsTDRoa003MDlQLTlLYnNKSDV1dWw4NGNNdkNiNFMt?oc=5",
+   "source": "AP News",
+   "impact": 1.4,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 31 01:15 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "ProShares Online Retail ETF (ONLN) Stock Price, News, Quote & History",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtTVhsSVpRYW1yWFE5MGRKVk41MEZLUjJ4THQxaktZR0duX2Z0bHhnNi1FTWVtVnB4ZkVtbXdQVGRnSEtDRVRrWFVEaUJhT1JUYUE?oc=5",
+   "source": "Yahoo! Finance Canada",
+   "impact": 1.5,
+   "tickers": [
+    "ONLN"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 31 01:15 AM ET",
+   "consumer": true
+  },
+  {
+   "title": "Cuba welcomes home diplomat expelled from US after unusual altercation at the UN",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN1ZPNWFMM0h2c0ZVQVc4ZS1WcFRXSGxvRVlqbmRkOTNzajVzd1RVWGVMYm83MHpMeXpuUy1vNEJ3TWszNlBqOFBTYzhOUFpWNmlSa0VHQ0NDZm5tTnVJYUo2eHdmUzVBVFFVZjRNTFV1aFpOVDRzTVo1QTcwakJvRVlKTHlXMlltNlNJUjFjcTBmN05V?oc=5",
+   "source": "AP News",
+   "impact": 1.4,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 31 01:15 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "TSX futures slip as AI worries, elevated oil prices weigh",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZnBybFZIbDVRQkI2RWRBMjctOHlDNFN3RndQUVltSExsX3hFVVdVY0dqNFRmalRCOFpYRWxQVGxNSUlJZ2VZbFFheDdMdEJCdElwTEd4Z0Z4WTU3NHBSa3I2QzQyVmJhRVBqblV2elhxUEp1enAwb25EcWFaaXMwb01wQWhfS2RDa2FmU2hoNDJ0UGFieVVYRVV4QnF1MHM?oc=5",
+   "source": "Reuters",
+   "impact": 2.5,
+   "tickers": [
+    "CL=F",
+    "XLE"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 31 01:15 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Midterms meet earnings",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORzJ5RF9XWncxal9sWkV5MS05ek4tS3psYmd1NFh5dkF3V1BxaXdlN0FFZzBabllhX2FnNVVjOWhTTllpbkRKeGNsNGFlYUE4SWw1RDd2QjdlZTZ0Wk9VM2laNUhpdGRnbUp5My1CRUlhOEU1VzM5Z3JkMExTVDgtQ0h3?oc=5",
+   "source": "Reuters",
+   "impact": 1.8,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 31 01:15 AM ET",
+   "consumer": false
+  },
+  {
    "title": "Vanguard's Tech ETF Is About 10% Below Its Record. History Says What Usually Comes Next.",
    "link": "https://www.fool.com/investing/2026/10/30/vanguard-s-tech-etf-is-about-10-below-its-record-history-says-what-usually-comes-next/?.tsrc=rss",
    "source": "Yahoo Finance",
@@ -517,83 +602,6 @@
    "sentiment_label": "bearish",
    "seen_et": "Oct 30 10:58 PM ET",
    "consumer": false
-  },
-  {
-   "title": "NEXE Innovations Inc. Q1 Sales Increase",
-   "link": "https://www.nasdaq.com/articles/nexe-innovations-inc-q1-sales-increase",
-   "source": "Nasdaq Markets",
-   "impact": 1.5,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 30 10:58 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "300 Sit Ups A Day - Inside the 300 Workout The Exact Training Regimen That Forged Hollywood s Most Iconic Warrior",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPRkhROTRJZTNXNjBVQ0Q4b3pzbTJHa3doVE5xb1ExWHQtWTBaNnAxckdoV2E2VGlqa2JoaXJaY3RvTjZheHlDd3Y3TldPUWFreDI0?oc=5",
-   "source": "auroradesio.it",
-   "impact": 3.1,
-   "tickers": [
-    "UPS"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 30 10:58 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "DoubleVerify Holdings, Inc. Q3 Income Rises",
-   "link": "https://www.nasdaq.com/articles/doubleverify-holdings-inc-q3-income-rises",
-   "source": "Nasdaq Markets",
-   "impact": 2.7,
-   "tickers": [
-    "DV"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 30 10:58 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Celsius vs. Kimberly-Clark: Which Stock Matches Your Investing Style?",
-   "link": "https://www.nasdaq.com/articles/celsius-vs-kimberly-clark-which-stock-matches-your-investing-style",
-   "source": "Nasdaq Markets",
-   "impact": 2.3,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 30 10:58 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Forvia Hella 9-month Operating Income Down, Maintains FY26 Outlook",
-   "link": "https://www.nasdaq.com/articles/forvia-hella-9-month-operating-income-down-maintains-fy26-outlook",
-   "source": "Nasdaq Markets",
-   "impact": 3.0,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 30 10:58 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Axon Enterprise vs. Fastly: Which Industrials Stock Is a Better Buy in 2026?",
-   "link": "https://www.nasdaq.com/articles/axon-enterprise-vs-fastly-which-industrials-stock-better-buy-2026",
-   "source": "Nasdaq Markets",
-   "impact": 3.4,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 30 10:58 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "‘Hard to Know If We’re in an AI Bubble’ Jeff Bezos Says, But Should a Retiree Buy AI Stocks? — ‘I Would Usually Tell a Retiree to Buy the S&P 500’",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/hard-know-ai-bubble-jeff-013019732.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.0,
-   "tickers": [
-    "AMZN",
-    "SPY"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 30 10:58 PM ET",
-   "consumer": true
   }
  ],
  "high_impact": [],
@@ -2479,12 +2487,12 @@
  "sentiment_validation": {
   "logged": 4000,
   "min_sample": 100,
-  "generated_et": "Oct 31 12:27 AM ET",
+  "generated_et": "Oct 31 01:15 AM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
-    "n_scored": 3911,
-    "n_directional": 3291,
+    "n_scored": 3909,
+    "n_directional": 3289,
     "hit_rate": 49.5,
     "ci95": 1.7,
     "corr": 0.001,
@@ -2492,9 +2500,9 @@
    },
    "r1d": {
     "name": "+1 day",
-    "n_scored": 3263,
-    "n_directional": 2799,
-    "hit_rate": 49.7,
+    "n_scored": 3261,
+    "n_directional": 2797,
+    "hit_rate": 49.8,
     "ci95": 1.9,
     "corr": 0.014,
     "status": "NO EDGE (≈ coin flip)"
@@ -2578,98 +2586,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 31 12:26 AM ET",
+   "fetched_et": "Oct 31 01:14 AM ET",
    "newest_et": "Oct 30 06:57 PM ET",
    "newest": "2026-10-30T22:57:55+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 31 12:26 AM ET",
+   "fetched_et": "Oct 31 01:14 AM ET",
    "newest_et": "Oct 30 07:16 AM ET",
    "newest": "2026-10-30T11:16:46+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 31 12:26 AM ET",
+   "fetched_et": "Oct 31 01:14 AM ET",
    "newest_et": "Oct 30 02:45 PM ET",
    "newest": "2026-10-30T18:45:35+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 31 12:26 AM ET",
-   "newest_et": "Oct 30 07:14 PM ET",
-   "newest": "2026-10-30T23:14:00+00:00"
+   "fetched_et": "Oct 31 01:14 AM ET",
+   "newest_et": "Oct 31 12:30 AM ET",
+   "newest": "2026-10-31T04:30:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 31 12:26 AM ET",
+   "fetched_et": "Oct 31 01:14 AM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
-   "count": 18,
-   "fetched_et": "Oct 31 12:26 AM ET",
-   "newest_et": "Oct 30 11:46 PM ET",
-   "newest": "2026-10-31T03:46:02+00:00"
+   "count": 19,
+   "fetched_et": "Oct 31 01:14 AM ET",
+   "newest_et": "Oct 31 12:20 AM ET",
+   "newest": "2026-10-31T04:20:00+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 50,
-   "fetched_et": "Oct 31 12:26 AM ET",
+   "fetched_et": "Oct 31 01:14 AM ET",
    "newest_et": "Oct 30 05:34 PM ET",
    "newest": "2026-10-30T21:34:32+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 31 12:26 AM ET",
+   "fetched_et": "Oct 31 01:14 AM ET",
    "newest_et": "Oct 30 06:25 PM ET",
    "newest": "2026-10-30T22:25:53+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 31 12:26 AM ET",
-   "newest_et": "Oct 30 10:49 PM ET",
-   "newest": "2026-10-31T02:49:00+00:00"
+   "fetched_et": "Oct 31 01:14 AM ET",
+   "newest_et": "Oct 31 12:29 AM ET",
+   "newest": "2026-10-31T04:29:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 31 12:26 AM ET",
+   "fetched_et": "Oct 31 01:14 AM ET",
    "newest_et": "Oct 30 10:14 PM ET",
    "newest": "2026-10-31T02:14:20+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
-   "count": 44,
-   "fetched_et": "Oct 31 12:26 AM ET",
+   "count": 43,
+   "fetched_et": "Oct 31 01:14 AM ET",
    "newest_et": "Oct 30 11:00 PM ET",
    "newest": "2026-10-31T03:00:00+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 31 12:26 AM ET",
+   "fetched_et": "Oct 31 01:14 AM ET",
    "newest_et": "Oct 29 04:30 PM ET",
    "newest": "2026-10-29T20:30:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 31 12:26 AM ET",
-   "newest_et": "Oct 30 11:20 PM ET",
-   "newest": "2026-10-31T03:20:01+00:00"
+   "fetched_et": "Oct 31 01:14 AM ET",
+   "newest_et": "Oct 31 12:20 AM ET",
+   "newest": "2026-10-31T04:20:00+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
-   "count": 25,
-   "fetched_et": "Oct 31 12:26 AM ET"
+   "count": 26,
+   "fetched_et": "Oct 31 01:14 AM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
