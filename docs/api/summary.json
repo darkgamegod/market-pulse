@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 31 08:07 AM ET",
- "generated_at": "2026-10-31T08:07:11.488062-04:00",
+ "generated_et": "Oct 31 09:00 AM ET",
+ "generated_at": "2026-10-31T09:00:23.197217-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-31",
@@ -14,7 +14,7 @@
    "label": "S&P 500 Fut",
    "price": 7614.0,
    "pct": -1.81,
-   "asof_et": "Oct 30 04:55 PM ET",
+   "asof_et": "Oct 30 05:00 PM ET",
    "freshness": "closed"
   },
   {
@@ -70,7 +70,7 @@
    "label": "IWM",
    "price": 279.82,
    "pct": -1.48,
-   "asof_et": "Oct 30 07:57 PM ET",
+   "asof_et": "Oct 30 07:55 PM ET",
    "freshness": "closed"
   },
   {
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 77474.8,
-   "pct": 0.36,
-   "asof_et": "Oct 31 08:05 AM ET",
+   "price": 77388.03,
+   "pct": 0.25,
+   "asof_et": "Oct 31 09:00 AM ET",
    "freshness": "delayed"
   },
   {
@@ -134,7 +134,7 @@
    "label": "Financials",
    "price": 56.58,
    "pct": -0.63,
-   "asof_et": "Oct 30 06:35 PM ET",
+   "asof_et": "Oct 30 06:38 PM ET",
    "freshness": "closed"
   },
   {
@@ -159,6 +159,14 @@
    "price": 115.5,
    "pct": -0.6,
    "asof_et": "Oct 30 07:13 PM ET",
+   "freshness": "closed"
+  },
+  {
+   "symbol": "XLP",
+   "label": "Cons. Staples",
+   "price": 89.47,
+   "pct": 1.46,
+   "asof_et": "Oct 30 07:55 PM ET",
    "freshness": "closed"
   },
   {
@@ -373,222 +381,225 @@
  ],
  "breaking": [
   {
-   "title": "Automakers like Rivian and Ford are ‘democratizing 3D printing’ to reduce costs and increase speed",
-   "link": "https://www.cnbc.com/2026/10/31/automakers-3d-printing-ford-rivian-gm.html",
-   "source": "CNBC Economy",
-   "impact": 2.4,
+   "title": "Pfizer Just Hit a 52-Week High. Is the Turnaround Finally Real?",
+   "link": "https://www.nasdaq.com/articles/pfizer-just-hit-52-week-high-turnaround-finally-real",
+   "source": "Nasdaq Markets",
+   "impact": 2.3,
    "tickers": [
-    "F"
+    "PFE"
    ],
    "sentiment_label": "bullish",
-   "seen_et": "Oct 31 08:07 AM ET",
+   "seen_et": "Oct 31 09:00 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Texas Instruments Has Raised Its Dividend for 23 Years. Here Are 3 More Tech Income Stocks",
+   "link": "https://247wallst.com/investing/2026/10/31/texas-instruments-has-raised-its-dividend-for-23-years-here-are-3-more-tech-income-stocks/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.8,
+   "tickers": [
+    "QQQ"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 31 09:00 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Rivian Q3 Earnings: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/rivian-q3-earnings-3-key-takeaways-long-term-investors",
+   "source": "Nasdaq Markets",
+   "impact": 3.8,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 31 09:00 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Coca-Cola and Procter & Gamble Are Up This Month. Which Dow Dividend Stock Is the Better Buy Now?",
+   "link": "https://www.fool.com/investing/2026/10/31/coca-cola-and-procter-gamble-are-up-this-mont/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.9,
+   "tickers": [
+    "DIA"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 31 09:00 AM ET",
    "consumer": true
   },
   {
-   "title": "These 10 megadonors have spent a total of $1 billion on the midterm elections",
-   "link": "https://www.marketwatch.com/story/these-10-megadonors-have-spent-a-total-of-1-billion-on-the-midterm-elections-0dc279cf?mod=mw_rss_topstories",
+   "title": "This Halloween, are full-size candy bars a better deal than fun-sized ones?",
+   "link": "https://www.marketwatch.com/story/this-halloween-are-king-sized-candy-bars-a-better-deal-than-fun-sized-ones-992da0d9?mod=mw_rss_topstories",
    "source": "MarketWatch Top",
-   "impact": 2.1,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 31 08:07 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "OpenAI Cuts Funding Target Amid Meta, Microsoft Offerings, Anthropic IPO",
-   "link": "https://finance.yahoo.com/m/9f64f875-35a4-3cac-86e3-a7d06eb54605/openai-cuts-funding-target.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.4,
-   "tickers": [
-    "META",
-    "MSFT",
-    "TGT"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 31 08:07 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Rocket Lab Reports Nov. 9. Here's What I'd Need to See Before Buying the Stock.",
-   "link": "https://www.fool.com/investing/2026/10/31/rocket-lab-reports-nov-9-here-s-what-i-d-need-to-see-before-buying-the-stock/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 1.7,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 31 08:07 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "1 Unstoppable ETF I'm Buying and Holding for Decades -- Even if the Stock Market Crashes",
-   "link": "https://www.fool.com/investing/2026/10/31/unstoppable-etf-buy-hold-decade-vug-stock/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 4.1,
-   "tickers": [
-    "^VIX"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 31 08:07 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "$10,000 Invested in Robinhood at Its IPO Would Be Worth About $27,160 Today",
-   "link": "https://www.fool.com/investing/2026/10/31/10000-invested-in-robinhood-at-its-ipo-would-be-wo/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 1.8,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 31 08:07 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Golden Dome Is a $185 Billion Program, but Anduril Is Private. Here Are the 3 Public Companies Building It.",
-   "link": "https://www.fool.com/investing/2026/10/31/golden-dome-is-a-185-billion-program-but-anduril-i/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.3,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 31 08:07 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Meta builds bipartisan influence team ahead of midterms",
-   "link": "https://www.axios.com/2026/10/31/meta-bipartisan-influence-team-midterms#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.0,
-   "tickers": [
-    "META"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 31 08:07 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Meet the Brilliant AI Stock Obliterating Nvidia in 2026 With a Return of 44%",
-   "link": "https://www.fool.com/investing/2026/10/31/meet-brilliant-ai-stock-nvidia-in-2026-return-44/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 4.0,
-   "tickers": [
-    "NVDA"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 31 08:07 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "I Boosted My SCHD Position by 50%. Here’s What I Checked First.",
-   "link": "https://www.nasdaq.com/articles/i-boosted-my-schd-position-50-heres-what-i-checked-first",
-   "source": "Nasdaq Markets",
-   "impact": 3.5,
-   "tickers": [
-    "^TNX"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 31 08:07 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Anthropic IPO: Why There Could Be More Than One AI Winner",
-   "link": "https://www.nasdaq.com/articles/anthropic-ipo-why-there-could-be-more-one-ai-winner",
-   "source": "Nasdaq Markets",
-   "impact": 2.2,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 31 08:07 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Schwab International Equity ETF vs. Vanguard Total International Stock ETF: Two Low-Cost International ETFs, but One Offers More Growth Potential for the Next Decade",
-   "link": "https://www.nasdaq.com/articles/schwab-international-equity-etf-vs-vanguard-total-international-stock-etf-two-low-cost",
-   "source": "Nasdaq Markets",
-   "impact": 2.1,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 31 08:07 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Shooting leaves 1 dead and 6 wounded at Solano Town Center in Fairfield, California police say",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbW5kTnNwaXhRRlJ3UjMxc0NMRk1zdVEyWXlqT3hIUmNEZWFVbzk2SzBwSlUyNXBKMzdrNlROUHFmV0dDcEJGUEcyWkZpcGoxQm1hMFdfWWRHcWxfNWE4Wld3bnNXdEFEbnVNbzUyQmdnS2JzLTU3OU04X1h6am4xdUdxX2pjbEZKbE9Lc0ZqSVN2T013TWdSeEo2bzk0NUdXN3RBOWZfWE43MW1t?oc=5",
-   "source": "AP News",
-   "impact": 2.3,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 31 08:07 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "In Alaska race, Trump targets a long, sometimes sordid political tradition of 'spoiler' candidates",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN2U3WmFfaUNFelF5d1ZGM1VOOWdCUkY4a3Axc3JQWE1CX2FjMDlYaURWa2owZTlRcm5xZEUtZ3A2UG9IWGRzd1VhbkRvYXlZSExPN0VwdE5KMEpBbkVSMFp5UnJ5VFYxbVhMSldIczl3WlNMaGE3R05sZjItVjJWaWdfbTFDOVNROVJnWXZ2U1BibVY5bGxWZ1pBSmIwRTdQYmpxYVBKYkZ4b0U?oc=5",
-   "source": "AP News",
-   "impact": 0.9,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 31 08:07 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Polaris Industries (PII) Halts Stock Buyback Amid Retail Challen",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcWNrU2xMQ0FBUkdwVVpESFFXSFRiZ1RaTVdSR2dHNTZmd2VncjdnUmsxcmFZajNrRnFrYzJyeTZiR0ZGZDJCT2RZVnY4MzVQcjVtdzZoT1dQSXppcDRDRzR6WTVORFZEb0RPcXFmSm9sWDFRdjZpWVREQUd0RVVhazhxWFFnNXFRUnZnUTBIQUFBV05lbnhCUWtOT0dxU3p4dExEcUszbw?oc=5",
-   "source": "GuruFocus",
-   "impact": 1.2,
-   "tickers": [
-    "PII"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 31 08:07 AM ET",
-   "consumer": true
-  },
-  {
-   "title": "FedEx stock gains outlook after quarterly earnings beat estimates",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZXg0NXlEclFqUEZzZEJuNzVGR3I4UWdiY1NITVJqS2U1dEZfSTlqdmxibi1SQ2FUUHdfN2IxaGVKcllkYlJkTFJDWkd3ZG9kZUU2V19LTzQyNW56UUljcXlPZDV0VUFnOHRabHdmYjhsNU5qVmtpUDhCaGhqU0plcEphZmtiVDhuNTY4Y2NBM1ZuSExtUEt3WkFZanMwQUpDMXp6Z0hBUElYb3p5eVg4NEVmODVhYkY5UVQ4ZHNlSDNMT3pRZXVJ?oc=5",
-   "source": "ad-hoc-news.de",
-   "impact": 4.7,
-   "tickers": [
-    "FDX"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 31 08:07 AM ET",
-   "consumer": true
-  },
-  {
-   "title": "The Smart Shopper's Guide to Holiday Shipping: When To Pay and When To Wait",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPN3c4eEdDR0FFS2RCdWkya0FRaWgzaDU2RmZDNmhYYl9yZFBDbTRVZGFRVWtINU9rSnI1U00tamZfUWNlb1pLeFBQakh1LXRmR28zNXozeGFZcUUtTmlDdTdQc21QMDRjb2lPYXVVbzBmN1JDUXhyNXRrYldOR0IxUzBvbWtfV2M?oc=5",
-   "source": "AOL.ca",
    "impact": 2.7,
    "tickers": [],
    "sentiment_label": "bullish",
-   "seen_et": "Oct 31 08:07 AM ET",
+   "seen_et": "Oct 31 09:00 AM ET",
    "consumer": false
   },
   {
-   "title": "COMMENTARY: Natural gas is losing its grip across key power markets",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNlVuNTFqX1F2UmRxa3N2ZHhEbmREYUVfY0hsRjEwbmNxSmQtVVpZc1BhbGhVQmtpeVY3ekdiNlNxWlQtTmFEdm9QZS1TcWtUZldtQlQ1VE5ZM1RaRl9hTGFtTUc2LUtNSkE1QmwxbUk2TmowaXJBVTZWbHFKVkN2YWxSc0w4N1dzaXQyWENGeUhKRzJKNkl2SE9PcmU0d0pkaTN1dmJrWUc2REpwdnNncnZKbEpBZXp4ZVUyVnRNM2xlQQ?oc=5",
-   "source": "Reuters",
-   "impact": 0.1,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 31 08:07 AM ET",
+   "title": "If a Bear Market Is Coming, History Says This 1 Investing Move Can Build Life-Changing Wealth",
+   "link": "https://www.nasdaq.com/articles/if-bear-market-coming-history-says-1-investing-move-can-build-life-changing-wealth",
+   "source": "Nasdaq Markets",
+   "impact": 2.8,
+   "tickers": [
+    "SPY"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 31 09:00 AM ET",
    "consumer": false
   },
   {
-   "title": "DirecTV to acquire EchoStar’s video distribution business including Dish TV and Sling TV",
-   "link": "https://www.marketwatch.com/story/directv-to-acquire-echostars-video-distribution-business-including-dish-tv-and-sling-tv-23349832?mod=mw_rss_marketpulse",
-   "source": "MarketWatch Pulse",
-   "impact": 1.2,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 31 08:07 AM ET",
+   "title": "Nvidia’s Megaspeed ties show potential blind spots in the U.S. effort to block China from accessing advanced chips",
+   "link": "https://www.marketwatch.com/story/nvidias-megaspeed-ties-show-potential-blind-spots-in-the-u-s-effort-to-block-china-from-accessing-advanced-chips-e75d541a?mod=mw_rss_topstories",
+   "source": "MarketWatch Top",
+   "impact": 2.8,
+   "tickers": [
+    "NVDA"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 31 09:00 AM ET",
    "consumer": false
   },
   {
-   "title": "SpaceX Is Up 37% From Its August Low. A $5,000 Investment Could Be Worth This Much by 2028.",
-   "link": "https://www.fool.com/investing/2026/10/31/spacex-is-up-36-from-its-august-low-a-5000-investm/?.tsrc=rss",
+   "title": "Berkshire ekes out some new highs, but October rally stalls",
+   "link": "https://www.cnbc.com/2026/10/31/berkshire-ekes-out-some-new-highs-but-october-rally-stalls.html",
+   "source": "CNBC Top News",
+   "impact": 3.5,
+   "tickers": [
+    "BRK-B"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 31 09:00 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Starlink's Consumer Business Is Booming. This Business Is Growing Even Faster.",
+   "link": "https://www.fool.com/investing/2026/10/31/starlink-consumer-business-booming-spacex-stock/?.tsrc=rss",
    "source": "Yahoo Finance",
    "impact": 2.0,
    "tickers": [],
    "sentiment_label": "bullish",
-   "seen_et": "Oct 31 07:29 AM ET",
+   "seen_et": "Oct 31 09:00 AM ET",
+   "consumer": true
+  },
+  {
+   "title": "Prediction: Here's What a $1,000 Investment in Bitcoin Will Be Worth in 2030",
+   "link": "https://www.fool.com/investing/2026/10/31/prediction-heres-what-a-1000-investment-in-crypto/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.2,
+   "tickers": [
+    "BTC-USD",
+    "COIN"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 31 09:00 AM ET",
    "consumer": false
+  },
+  {
+   "title": "Qatari mediators held talks in Tehran aimed at restarting direct U.S.-Iran negotiations, source says",
+   "link": "https://www.cnbc.com/2026/10/31/qatar-iran-us-talks-mediation.html",
+   "source": "CNBC Top News",
+   "impact": 2.8,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 31 09:00 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Amazon CEO Andy Jassy makes a strong prediction on Amazon stock",
+   "link": "https://www.thestreet.com/investing/stocks/amazon-ceo-andy-jassy-predicts-two-trillion-dollar-businesses-amazon-stock?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.8,
+   "tickers": [
+    "AMZN"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 31 09:00 AM ET",
+   "consumer": true
+  },
+  {
+   "title": "Stock-Split Watch: GE Vernova Trades Above $890 With a $176 Billion Backlog. Is a Split Next?",
+   "link": "https://www.fool.com/investing/2026/10/31/stock-split-watch-ge-vernova-trades-above-890/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 1.8,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 31 09:00 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "EBay Leads Five Stocks Near Buy Points From Resilient Sectors",
+   "link": "https://finance.yahoo.com/m/4b4a36ef-aafb-35f1-9224-e8262bfa6459/ebay-leads-five-stocks-near.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.1,
+   "tickers": [
+    "EBAY"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 31 09:00 AM ET",
+   "consumer": true
+  },
+  {
+   "title": "‘Pop-up’ super PACs pour $637 million into 2026 midterm races",
+   "link": "https://www.cnbc.com/2026/10/31/2026-midterm-election-super-pacs-donor-disclosure.html",
+   "source": "CNBC Top News",
+   "impact": 2.5,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 31 09:00 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Alabama Republicans thought they had drawn a safe US House seat. A Black congressman had other ideas",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZzV5WWE5RlcxaFd3SU13WUw2Y3FLRHI0YXlWUEV4cWpzTy1jc3h2NHZwdWJ6cm5nNFZISldxZXJnSW9Gb2RGZnYwZHlkMHlHVzZVdng0NGZ4NVNxMzNiWk9lelpralZKRzE5Z0xOOTdQUGdUaVYtT0FKaXB4ZmxrME9EcHdxVmtHYTdrV2Q1YmNaM0ZEbkRVc1VzREQ3WndiYWdCYVpheUZSZ0FMaGtzVTNSbGdpazlYaGVz?oc=5",
+   "source": "AP News",
+   "impact": 2.3,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 31 09:00 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Other women contacted police about previous incidents with Packers' Josh Jacobs after his arrest",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUWxSVkFxSmxvSVlYWmpUSXlJNVhLMk1jVE1vTXhOdjlLNGFHZHJkWl91d1ZyQWxHRi0xMV9EYVU4akdmWEg2Q0hFZ2hUMkRWTFY1UmxXZFYwS21DQmhkRWE5eEpOekliZkN1dEVqYUpGTUZUcnFhbE5iTS1tdG1GNWY0OA?oc=5",
+   "source": "AP News",
+   "impact": 1.9,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 31 09:00 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Scott Clifton and Tamara Tunie earn lead acting Daytime Emmys. 'General Hospital' wins again",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ0xGOG8wbjU1WWwxbXU2SHJxb3VRN3NTRFdNczNKdGNINldDYWNVUE05MnpRZ0FVdUtJdHZ4OXJZbUxCYUs1eTBLWUhuUTNFTmtLMG1pdF81eDg0bHhFZkdPV0lDdXhuc1dmQ2JKd0cwS3BWTnFmejJiWEItMUtDM3E2aTQwVGhY?oc=5",
+   "source": "AP News",
+   "impact": 2.1,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 31 09:00 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "UPS aims to double RFID-labeled volume from customer locations",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUE9MYk8xQ0ZIU3ktWjBnNmVjcmVrNzRuVVFfbkhVci1lUFctVjFvcXhueUxjQlo0djVzZUtnbnpoTjZPaElSWW93SGhWVHk3Tkc0aHV4YzREY1pta2NOT2lsX2dzMXpER2tabkRxVkhiOUpYMEdQaTBEYlpEX2VUSXJuQ29LTXAtS25uN0J3Sm9JQjdxX0xSaFZNS2xTR003WHo2R3hXeGRFVnc?oc=5",
+   "source": "Supply Chain Dive",
+   "impact": 1.1,
+   "tickers": [
+    "UPS"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 31 09:00 AM ET",
+   "consumer": true
+  },
+  {
+   "title": "Why Is ASX 100 Property Stock Mirvac Keeping Guidance as Housing Sales Cool (ASX:MGR)?",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObW9UZHNsSzdqUHFxSHRDenVqUkhfcXdUazFkUFRBTUJJR21IVjN5QjQ2REFGWnk5eW1aVDNKcWVOcWNqenB2WV9mVlVsbjAtN1VpOUlTakh6UFoxcXVJSjRpaVU3cGJGNFRMVmotMmlwSTJ2ZzU0OFliZllXSWxlSVZsS1Y5Y3pKSVZIWU52TmlpWHVEOV8xRE56LWs4NHV6bVhVMGNyR0VobC1DUlRzdHdOODNjb2czMjloZVJhSDMxQWw2RXZnNEthZzNCZHdXUXJ3bGZUbXlQbWtmaHVTeG9R?oc=5",
+   "source": "Kalkine Media",
+   "impact": 2.0,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 31 09:00 AM ET",
+   "consumer": true
   }
  ],
  "high_impact": [],
@@ -1161,7 +1172,7 @@
  },
  "earnings": {
   "source": "Nasdaq earnings calendar API (api.nasdaq.com), filtered to S&P 500 + watchlist",
-  "fetched_et": "Oct 31 04:39 AM ET",
+  "fetched_et": "Oct 31 09:00 AM ET",
   "events": [
    {
     "date": "2026-11-02",
@@ -2482,21 +2493,21 @@
  "sentiment_validation": {
   "logged": 4000,
   "min_sample": 100,
-  "generated_et": "Oct 31 08:07 AM ET",
+  "generated_et": "Oct 31 09:00 AM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
-    "n_scored": 3847,
-    "n_directional": 3237,
-    "hit_rate": 49.4,
+    "n_scored": 3839,
+    "n_directional": 3229,
+    "hit_rate": 49.5,
     "ci95": 1.7,
-    "corr": -0.001,
+    "corr": -0.0,
     "status": "NO EDGE (≈ coin flip)"
    },
    "r1d": {
     "name": "+1 day",
-    "n_scored": 3199,
-    "n_directional": 2744,
+    "n_scored": 3191,
+    "n_directional": 2736,
     "hit_rate": 49.9,
     "ci95": 1.9,
     "corr": 0.014,
@@ -2581,103 +2592,103 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 31 08:07 AM ET",
-   "newest_et": "Oct 31 07:00 AM ET",
-   "newest": "2026-10-31T11:00:01+00:00"
+   "fetched_et": "Oct 31 09:00 AM ET",
+   "newest_et": "Oct 31 08:26 AM ET",
+   "newest": "2026-10-31T12:26:00+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 31 08:07 AM ET",
+   "fetched_et": "Oct 31 09:00 AM ET",
    "newest_et": "Oct 30 07:16 AM ET",
    "newest": "2026-10-30T11:16:46+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 31 08:07 AM ET",
+   "fetched_et": "Oct 31 09:00 AM ET",
    "newest_et": "Oct 31 08:00 AM ET",
    "newest": "2026-10-31T12:00:01+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 31 08:07 AM ET",
-   "newest_et": "Oct 31 08:00 AM ET",
-   "newest": "2026-10-31T12:00:00+00:00"
+   "fetched_et": "Oct 31 09:00 AM ET",
+   "newest_et": "Oct 31 08:37 AM ET",
+   "newest": "2026-10-31T12:37:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 31 08:07 AM ET",
+   "fetched_et": "Oct 31 09:00 AM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
-   "count": 17,
-   "fetched_et": "Oct 31 08:07 AM ET",
-   "newest_et": "Oct 31 07:55 AM ET",
-   "newest": "2026-10-31T11:55:01+00:00"
+   "count": 18,
+   "fetched_et": "Oct 31 09:00 AM ET",
+   "newest_et": "Oct 31 08:47 AM ET",
+   "newest": "2026-10-31T12:47:36+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 50,
-   "fetched_et": "Oct 31 08:07 AM ET",
+   "fetched_et": "Oct 31 09:00 AM ET",
    "newest_et": "Oct 30 05:34 PM ET",
    "newest": "2026-10-30T21:34:32+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 31 08:07 AM ET",
+   "fetched_et": "Oct 31 09:00 AM ET",
    "newest_et": "Oct 30 08:26 PM ET",
    "newest": "2026-10-31T00:26:00+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 31 08:07 AM ET",
-   "newest_et": "Oct 31 07:00 AM ET",
-   "newest": "2026-10-31T11:00:00+00:00"
+   "fetched_et": "Oct 31 09:00 AM ET",
+   "newest_et": "Oct 31 07:48 AM ET",
+   "newest": "2026-10-31T11:48:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 40,
-   "fetched_et": "Oct 31 08:07 AM ET",
+   "count": 39,
+   "fetched_et": "Oct 31 09:00 AM ET",
    "newest_et": "Oct 31 04:44 AM ET",
    "newest": "2026-10-31T08:44:54+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
-   "count": 28,
-   "fetched_et": "Oct 31 08:07 AM ET",
+   "count": 46,
+   "fetched_et": "Oct 31 09:00 AM ET",
    "newest_et": "Oct 31 06:27 AM ET",
    "newest": "2026-10-31T10:27:53+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 31 08:07 AM ET",
+   "fetched_et": "Oct 31 09:00 AM ET",
    "newest_et": "Oct 29 04:30 PM ET",
    "newest": "2026-10-29T20:30:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 31 08:07 AM ET",
-   "newest_et": "Oct 31 07:54 AM ET",
-   "newest": "2026-10-31T11:54:02+00:00"
+   "fetched_et": "Oct 31 09:00 AM ET",
+   "newest_et": "Oct 31 08:50 AM ET",
+   "newest": "2026-10-31T12:50:00+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
-   "count": 25,
-   "fetched_et": "Oct 31 08:07 AM ET"
+   "count": 26,
+   "fetched_et": "Oct 31 09:00 AM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
    "count": 146,
-   "fetched_et": "Oct 31 04:39 AM ET"
+   "fetched_et": "Oct 31 09:00 AM ET"
   },
   "Economic calendar": {
    "ok": false,
