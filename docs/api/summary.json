@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 31 04:48 PM ET",
- "generated_at": "2026-10-31T16:48:02.625846-04:00",
+ "generated_et": "Oct 31 05:29 PM ET",
+ "generated_at": "2026-10-31T17:29:50.928500-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-31",
@@ -70,7 +70,7 @@
    "label": "IWM",
    "price": 279.82,
    "pct": -1.48,
-   "asof_et": "Oct 30 07:55 PM ET",
+   "asof_et": "Oct 30 07:57 PM ET",
    "freshness": "closed"
   },
   {
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 77432.08,
-   "pct": 0.3,
-   "asof_et": "Oct 31 04:45 PM ET",
+   "price": 77380.8,
+   "pct": 0.24,
+   "asof_et": "Oct 31 05:30 PM ET",
    "freshness": "delayed"
   },
   {
@@ -134,7 +134,7 @@
    "label": "Financials",
    "price": 56.58,
    "pct": -0.63,
-   "asof_et": "Oct 30 06:38 PM ET",
+   "asof_et": "Oct 30 06:35 PM ET",
    "freshness": "closed"
   },
   {
@@ -381,6 +381,68 @@
  ],
  "breaking": [
   {
+   "title": "Tommy Castellanos earns start, leads No. 13 Texas Tech to 34-26 win over No. 22 Arizona",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOWhHamZGTmZIZzllNWZGUWNDVW15eVQ5enBZTEF2bkpFNXViNnpWMzR0aU1xbDJvcndobEhJZFluVV9nVzhERzBjZUJ4T2ozaXlRckFTYUZqTWNRNEtMb0NYb0hUZmhaSmZuSUluRjdNR210OWFfMFQwQjhKX3dSR1F3?oc=5",
+   "source": "AP News",
+   "impact": 2.5,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 31 05:30 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "After Meta, Could These Be Wall Street’s Next Blockbuster Stock Splits?",
+   "link": "https://www.fool.com/investing/2026/10/31/after-meta-could-these-be-wall-street-s-next-blockbuster-stock-splits/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.8,
+   "tickers": [
+    "META"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 31 05:30 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Paxton and Talarico tussle for Texas Senate seat. Trump to campaign virtually instead of in person",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNHloVEIzZEI3TmxoR0JDdWdRWWhlTHB3eFBtcDRnZDFDMEl6RkpzSlRZd3NHM0EtUnRqX1F4Vlh0OGxvaUkyM21RdGlWdlNPT1Q4Mlh1X2ZtbjZqRi1GdWY2TFlCYjdpVDNVaHhQR25WY29MbWdybFFmb3ZXc0ZqSExhS3VRVElxdU9Wa3BjRlY5YVJkdWp2QTh4ZDhQNWZHaGxYbWhkU2M0QQ?oc=5",
+   "source": "AP News",
+   "impact": 1.4,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 31 05:30 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Gamble on democracy: Inside suspicious election-contracts trading on prediction markets",
+   "link": "https://www.cnbc.com/2026/10/30/gamble-on-democracy-inside-suspicious-election-contracts-trading-on-prediction-markets-.html",
+   "source": "CNBC Top News",
+   "impact": 1.0,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 31 05:30 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "KOSPI plunges 3.5% as foreign investors sell 1.8 trillion won worth of shares despite retail buying",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wb0Y5UlY3TGtHVGN4OUE3cS0zVUlaZ1J1eVdWYnAyTWZZXzJQYVo2RFN6TGQ0SEJtRTQwQVJ5a3JaR2hTWnhrRnQ2SkNqSWc1czRUNWwyUFVZV1F6TVBaZmNhX05lSWh1eGNGQw?oc=5",
+   "source": "머니투데이",
+   "impact": 1.9,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 31 05:30 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Living with a stink? Technology might help",
+   "link": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "impact": 0.3,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 31 05:30 PM ET",
+   "consumer": false
+  },
+  {
    "title": "Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice",
    "link": "https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html",
    "source": "CNBC Top News",
@@ -532,78 +594,6 @@
    "tickers": [],
    "sentiment_label": "neutral",
    "seen_et": "Oct 31 04:48 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "O'Reilly Automotive Q3 Earnings Call Highlights",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbnNob2U1MXF0Z1FhaWU1UkRHWVdOSUlmQWtuSXlsb0FGV1kzOUptalVhb2pvX0Q2dERTVEFaNGhNbFcwS3N2Ukd6b2s3RzNlLXBleThhY0ROU1RZQlNJWTVMZlVUYnpyRjV6ZnNzLW4taURNY1FlTHA5VHR3ZW5McmFEbTNjdTdKdm5teGpBdzd4NFFqX1J6X0xZNVExVzNSbllRazlZYk56eGht?oc=5",
-   "source": "TradingView",
-   "impact": 1.2,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 31 04:48 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "FedEx: 3 Key Takeaways for Long-Term Investors",
-   "link": "https://www.nasdaq.com/articles/fedex-3-key-takeaways-long-term-investors",
-   "source": "Nasdaq Markets",
-   "impact": 6.4,
-   "tickers": [
-    "FDX"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 31 04:00 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "Microsoft just gave Nvidia shareholders a reason to pay attention",
-   "link": "https://www.thestreet.com/investing/stocks/microsoft-just-gave-nvidia-shareholders-a-reason-to-pay-attention?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.7,
-   "tickers": [
-    "MSFT",
-    "NVDA"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 31 04:00 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Boeing Stock Slumps Again; Time to Buy or Throw in the Towel?",
-   "link": "https://www.fool.com/investing/2026/10/31/boeing-stock-slumps-again-time-to-buy-or-throw-in/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.4,
-   "tickers": [
-    "BA"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 31 04:00 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "3 Numbers to Watch to Know if Meta Platforms' AI Spending Is Paying Off",
-   "link": "https://www.fool.com/investing/2026/10/31/3-numbers-meta-platforms-ai-spend-pay-off/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.5,
-   "tickers": [
-    "META"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 31 04:00 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Better Dividend ETF: iShares HDV's High Yields vs. ProShares NOBL's Dividend Growth",
-   "link": "https://www.nasdaq.com/articles/better-dividend-etf-ishares-hdvs-high-yields-vs-proshares-nobls-dividend-growth",
-   "source": "Nasdaq Markets",
-   "impact": 4.2,
-   "tickers": [
-    "SPY",
-    "^TNX"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 31 04:00 PM ET",
    "consumer": false
   }
  ],
@@ -1177,7 +1167,7 @@
  },
  "earnings": {
   "source": "Nasdaq earnings calendar API (api.nasdaq.com), filtered to S&P 500 + watchlist",
-  "fetched_et": "Oct 31 01:15 PM ET",
+  "fetched_et": "Oct 31 05:30 PM ET",
   "events": [
    {
     "date": "2026-11-02",
@@ -2498,12 +2488,12 @@
  "sentiment_validation": {
   "logged": 4000,
   "min_sample": 100,
-  "generated_et": "Oct 31 04:49 PM ET",
+  "generated_et": "Oct 31 05:30 PM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
-    "n_scored": 3765,
-    "n_directional": 3167,
+    "n_scored": 3764,
+    "n_directional": 3166,
     "hit_rate": 49.5,
     "ci95": 1.7,
     "corr": 0.0,
@@ -2511,9 +2501,9 @@
    },
    "r1d": {
     "name": "+1 day",
-    "n_scored": 3117,
-    "n_directional": 2674,
-    "hit_rate": 50.0,
+    "n_scored": 3116,
+    "n_directional": 2673,
+    "hit_rate": 50.1,
     "ci95": 1.9,
     "corr": 0.014,
     "status": "NO EDGE (≈ coin flip)"
@@ -2597,103 +2587,103 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 31 04:48 PM ET",
-   "newest_et": "Oct 31 04:43 PM ET",
-   "newest": "2026-10-31T20:43:30+00:00"
+   "fetched_et": "Oct 31 05:29 PM ET",
+   "newest_et": "Oct 31 05:05 PM ET",
+   "newest": "2026-10-31T21:05:53+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 31 04:48 PM ET",
+   "fetched_et": "Oct 31 05:29 PM ET",
    "newest_et": "Oct 30 07:16 AM ET",
    "newest": "2026-10-30T11:16:46+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 31 04:48 PM ET",
+   "fetched_et": "Oct 31 05:29 PM ET",
    "newest_et": "Oct 31 08:00 AM ET",
    "newest": "2026-10-31T12:00:01+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 31 04:48 PM ET",
+   "fetched_et": "Oct 31 05:29 PM ET",
    "newest_et": "Oct 31 04:15 PM ET",
    "newest": "2026-10-31T20:15:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 31 04:48 PM ET",
+   "fetched_et": "Oct 31 05:29 PM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 31 04:48 PM ET",
-   "newest_et": "Oct 31 04:22 PM ET",
-   "newest": "2026-10-31T20:22:56+00:00"
+   "fetched_et": "Oct 31 05:29 PM ET",
+   "newest_et": "Oct 31 04:53 PM ET",
+   "newest": "2026-10-31T20:53:02+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 50,
-   "fetched_et": "Oct 31 04:48 PM ET",
+   "fetched_et": "Oct 31 05:29 PM ET",
    "newest_et": "Oct 30 05:34 PM ET",
    "newest": "2026-10-30T21:34:32+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 31 04:48 PM ET",
+   "fetched_et": "Oct 31 05:29 PM ET",
    "newest_et": "Oct 30 09:48 PM ET",
    "newest": "2026-10-31T01:48:00+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 31 04:48 PM ET",
-   "newest_et": "Oct 31 03:35 PM ET",
-   "newest": "2026-10-31T19:35:00+00:00"
+   "fetched_et": "Oct 31 05:29 PM ET",
+   "newest_et": "Oct 31 04:59 PM ET",
+   "newest": "2026-10-31T20:59:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 40,
-   "fetched_et": "Oct 31 04:48 PM ET",
-   "newest_et": "Oct 31 03:51 PM ET",
-   "newest": "2026-10-31T19:51:44+00:00"
+   "count": 21,
+   "fetched_et": "Oct 31 05:29 PM ET",
+   "newest_et": "Oct 31 11:02 AM ET",
+   "newest": "2026-10-31T15:02:05+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
-   "count": 44,
-   "fetched_et": "Oct 31 04:48 PM ET",
+   "count": 43,
+   "fetched_et": "Oct 31 05:29 PM ET",
    "newest_et": "Oct 31 06:27 AM ET",
    "newest": "2026-10-31T10:27:53+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 31 04:48 PM ET",
+   "fetched_et": "Oct 31 05:29 PM ET",
    "newest_et": "Oct 29 04:30 PM ET",
    "newest": "2026-10-29T20:30:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 31 04:48 PM ET",
-   "newest_et": "Oct 31 04:20 PM ET",
-   "newest": "2026-10-31T20:20:00+00:00"
+   "fetched_et": "Oct 31 05:29 PM ET",
+   "newest_et": "Oct 31 04:53 PM ET",
+   "newest": "2026-10-31T20:53:02+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Oct 31 04:48 PM ET"
+   "fetched_et": "Oct 31 05:29 PM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
    "count": 146,
-   "fetched_et": "Oct 31 01:15 PM ET"
+   "fetched_et": "Oct 31 05:30 PM ET"
   },
   "Economic calendar": {
    "ok": false,
