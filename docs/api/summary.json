@@ -1,14 +1,22 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Nov 01 01:17 AM ET",
- "generated_at": "2026-11-01T01:17:58.982586-04:00",
+ "generated_et": "Nov 01 01:12 AM ET",
+ "generated_at": "2026-11-01T01:12:58.655715-05:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-11-01",
   "generated_et": "Sun Nov 01 2026, 12:23 AM ET"
  },
  "snapshot": [
+  {
+   "symbol": "ES=F",
+   "label": "S&P 500 Fut",
+   "price": 7614.0,
+   "pct": -1.81,
+   "asof_et": "Oct 30 05:00 PM ET",
+   "freshness": "closed"
+  },
   {
    "symbol": "NQ=F",
    "label": "Nasdaq 100 Fut",
@@ -108,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 77686.18,
-   "pct": 0.63,
-   "asof_et": "Nov 01 01:15 AM ET",
+   "price": 77849.99,
+   "pct": 0.84,
+   "asof_et": "Nov 01 01:10 AM ET",
    "freshness": "delayed"
   },
   {
@@ -372,6 +380,95 @@
  ],
  "breaking": [
   {
+   "title": "Cybercab Expansion Might Change The Case For Investing In Tesla Stock (TSLA)",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/cybercab-expansion-might-change-case-051614061.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.4,
+   "tickers": [
+    "TSLA"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Nov 01 01:13 AM ET",
+   "consumer": true
+  },
+  {
+   "title": "No. 2 Ohio State continues season of chaos with 38-10 loss to Southern California",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOWhHamZGTmZIZzllNWZGUWNDVW15eVQ5enBZTEF2bkpFNXViNnpWMzR0aU1xbDJvcndobEhJZFluVV9nVzhERzBjZUJ4T2ozaXlRckFTYUZqTWNRNEtMb0NYb0hUZmhaSmZuSUluRjdNR210OWFfMFQwQjhKX3dSR1F3?oc=5",
+   "source": "AP News",
+   "impact": 2.5,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Nov 01 01:13 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Ecommerce Stocks To Follow Now - October 31st",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM1BiYVNPNFdPYVRIUUpEU2NTYm95YUdaWFRsVnZBQVRMN2hRV2Ezd0RmNDJsd2hwRlhKMGRrRWZ1UXNMd0tzZ21USnN0VUpDRF95Y0xIaEJmbDdzMk93bnZ6UjZHUTZPODdfNjNXeFgxUjd6YmJ2ZS1LOGJXUVZsMXNMZ2w2Y2FIdXVwTC1wUTIwR2xCemJsazhuY0dFSzc1MmhiQg?oc=5",
+   "source": "MarketBeat",
+   "impact": 1.0,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 01 01:13 AM ET",
+   "consumer": true
+  },
+  {
+   "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+   "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "impact": 1.1,
+   "tickers": [
+    "BTC-USD",
+    "COIN"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 01 01:13 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "$1,000 in UPS Stock 10 Years Ago: Did the Dividends Offset the Decline?",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcDVqNTdZWlU1Sk4tWUE0ejBuRFRQVGxfeDhGWFhaQmVyZWZUMkZQN1NjRV9Ea1ZHS0ZOOW42bGQtbWlIUFFjT1dfQ01md0txSWFReDBzb0pjeEkzcHdBazVCdllqUldzNnFNWUJhcnVkVUtNR2JNR0xQQ2QtOUlGWDFyUzhFZmMzMUhn?oc=5",
+   "source": "Yahoo Finance",
+   "impact": 0.5,
+   "tickers": [
+    "UPS"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 01 01:13 AM ET",
+   "consumer": true
+  },
+  {
+   "title": "India's FX reserves dip for seventh straight week to hit over two-month low",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMVdhVU9LVWhlNTdlQmJFYjdoWS15Nzd4YW1uZFM0UDlDbTNUcnFQMmtLWFRtU3A0WWN3S2pjd25KR1Vfc3NucHBMSGs2UDZJSVRhM0dETTg0WDlQcjRVUjNfWXc0eG1hOVY2Yk9KNl9PX2swM3lpR0J3cWxXZklZUl9acDFsQng4aHR5bi1JUEpBeVpZZzhUMUtIMEZoRWF3Nnpkdzd1ZlQ5bjZZckxwRmtSeXBsUQ?oc=5",
+   "source": "Reuters",
+   "impact": 0.1,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 01 01:13 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Someone Listed a 300-Rack AI Supercomputer on eBay for $60 Million With Just $50 Overnight Shipping",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU2hSV1hROGtUT0F5WmpEaTFNclo0THlTTHBsN09JSDBDWkVyLUZtSGVhWnRzOGxjakw0b2xEaHFPSHJCa0tRWFBuS1l4dThnNFdIWDNIZUduVlJjR1BtR1VOcWgxSmFpWDBjbHF3ZUtFaUZ1N3NUblBSTnl4MDItTkgtcENCWWFm?oc=5",
+   "source": "www.techtimes.co.uk",
+   "impact": 2.2,
+   "tickers": [
+    "EBAY"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 01 01:13 AM ET",
+   "consumer": true
+  },
+  {
+   "title": "Tracking Competitive Races in the House and Senate",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZ0ZhWGZlU2pYdmYwbk9SNk9JMWd6aTN1SjNudktsVkFoWEt3T3FJR1RjTC1ZU3Q3YU9ReTV0WUJJQkdDOWpzTWJ1X0liWk91MlpFdmxvX2F2THY3VnBVRDlRQlZFY19fYjRrZDQ1UlN6TGRueERkdmNIQkVveEZHMjd3eFVlM0VFWVN6WDEzcFBDSzdt?oc=5",
+   "source": "The New York Times",
+   "impact": 0.4,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 01 01:13 AM ET",
+   "consumer": false
+  },
+  {
    "title": "NIO October Vehicle Deliveries Down 15.2%",
    "link": "https://www.nasdaq.com/articles/nio-october-vehicle-deliveries-down-152",
    "source": "Nasdaq Markets",
@@ -505,94 +602,6 @@
    "sentiment_label": "neutral",
    "seen_et": "Nov 01 01:18 AM ET",
    "consumer": true
-  },
-  {
-   "title": "Sit Ups For Seniors - 830 Older Person Doing Sit Ups Photos Stock Photos Pictures Royalty Free Images iStock",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zNENwblVjYjM1ZnY2OUo2ZUtKMGFFYlZlWHpweURxblpiSm8wbS0wSjE5YTBPdkZ6Tmd4ckF1a2hvemJ2SmhEZ0xDVnVFM29BNWlZ?oc=5",
-   "source": "auroradesio.it",
-   "impact": 1.3,
-   "tickers": [
-    "UPS"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 01 01:18 AM ET",
-   "consumer": true
-  },
-  {
-   "title": "Central banks take a breather, though more hikes are to come",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQV0g2T005bVN1RWZoZGN4MHc5dU5naW5rWjFTSFo1MWUzOGdueDRMMnI0WGt2aTJTZDJSaHlPc2tweUFHTXZUU3A2YjRLRFdtU0ZOWmxtNVFQeW1zc2R3ZFZ2TXU0SnJkVFVfWmc0aGc3ZVIxMzlaWFZSZTZYUU1teG5aVmY4Q3lyWEJwVVFzZUtCZzdRN2c?oc=5",
-   "source": "Reuters",
-   "impact": 0.0,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 01 01:18 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "FedEx Corp (FDX) (Q3 2026) Earnings Call Highlights: Double-Digit Revenue Growth, Raised EPS ...",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZE9yVFRzR1VYcW1ZUDdtOS1XaVlyM0dYRVJBZGtHZVBMNmpPOWtPNE52aDVzRlJWNlZXZlRaeUxHMUpEb19ETUNEckRmMUVGRjNIMzJlWFRDUkRRc0RUYU5tM2VfdHY3Q0NpUTBTaVNMX25CZ1E0aGhxeGRKU1F2c0JxbnZTLWVSbHVwa2dtZWk?oc=5",
-   "source": "Yahoo Finance",
-   "impact": 4.1,
-   "tickers": [
-    "FDX"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 01 01:18 AM ET",
-   "consumer": true
-  },
-  {
-   "title": "What we now know about the UK economy in four charts",
-   "link": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "impact": 0.7,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 01 01:18 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "UPS PAL Dog Halloween Costume khorasantimes.com",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XQVRXeFE2Z0hrYmlIMi1qVGRuaTdKUF9OYkd3RURibVExYTNtd0pQaXVoU2JsZDhtVzhtTG9oUnVpTl94dHc1V1l4dFR0Rmh6Q29xTmcxc0hxWFFmNTFhZFZjVjY4Vk8tdmRySm1FOFVXWE00SFE4eTln?oc=5",
-   "source": "khorasantimes.com",
-   "impact": 2.0,
-   "tickers": [
-    "UPS"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 01 12:23 AM ET",
-   "consumer": true
-  },
-  {
-   "title": "Gabby Williams leads Valkyries to WNBA championship in second season, beating Dream 68-63 in Game 7",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON2lBQVM2dU1OS3Nvb21jTmphSEdXdGhfdGp4Z2pIT1RwSWRybmJSZC1neV9WQ0pqMTNsUmRPd2hJdmd6NUREV3o0akVCODUxQ2lvaThjMjUxcGJNRUw0RjlBTmFGS1hRN3Rjd3Vha19lRlR3X3U4VS1fWmIzYjZFNnBhbGNMY3p2eGdiNEVPNTRKRzlrRmFnYm53?oc=5",
-   "source": "AP News",
-   "impact": 2.0,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 01 12:23 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Micron's Chinese Rival CXMT Just Grew Its Sales More Than Sevenfold. I'd Buy Micron Stock Now.",
-   "link": "https://www.fool.com/investing/2026/10/31/micron-s-chinese-rival-cxmt-just-grew-its-sales-more-than-sevenfold-i-d-buy-micron-stock-now/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.0,
-   "tickers": [
-    "MU"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 01 12:23 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Li Auto October Vehicle Deliveries Down",
-   "link": "https://www.nasdaq.com/articles/li-auto-october-vehicle-deliveries-down",
-   "source": "Nasdaq Markets",
-   "impact": 1.8,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 01 12:23 AM ET",
-   "consumer": false
   }
  ],
  "high_impact": [],
@@ -1133,33 +1142,273 @@
   ]
  },
  "economic_calendar": {
-  "source": "RULE-BASED FALLBACK (approximate; live calendar unavailable)",
-  "fallback": true,
-  "fetched_et": "Nov 01 12:23 AM ET",
+  "source": "FairEconomy / ForexFactory weekly calendar (nfs.faireconomy.media)",
+  "fallback": false,
+  "fetched_et": "Nov 01 01:13 AM ET",
   "events": [
    {
-    "date": "2026-11-04",
-    "event": "EIA crude oil inventories, 10:30am ET",
+    "when_et": "Nov 01 02:00 AM ET",
+    "date": "2026-11-01",
+    "event": "Daylight Saving Time Shift",
     "importance": "medium",
-    "when_et": "2026-11-04",
     "forecast": "",
     "previous": ""
    },
    {
-    "date": "2026-11-05",
-    "event": "Weekly initial jobless claims, 8:30am ET",
+    "when_et": "Nov 02 09:45 AM ET",
+    "date": "2026-11-02",
+    "event": "Final Manufacturing PMI",
+    "importance": "low",
+    "forecast": "56.0",
+    "previous": "56.0"
+   },
+   {
+    "when_et": "Nov 02 10:00 AM ET",
+    "date": "2026-11-02",
+    "event": "ISM Manufacturing PMI",
     "importance": "medium",
-    "when_et": "2026-11-05",
+    "forecast": "54.7",
+    "previous": "54.5"
+   },
+   {
+    "when_et": "Nov 02 10:00 AM ET",
+    "date": "2026-11-02",
+    "event": "Construction Spending m/m",
+    "importance": "low",
+    "forecast": "0.3%",
+    "previous": "0.9%"
+   },
+   {
+    "when_et": "Nov 02 10:00 AM ET",
+    "date": "2026-11-02",
+    "event": "ISM Manufacturing Prices",
+    "importance": "low",
+    "forecast": "77.2",
+    "previous": "77.9"
+   },
+   {
+    "when_et": "Nov 02 02:03 PM ET",
+    "date": "2026-11-02",
+    "event": "Loan Officer Survey",
+    "importance": "low",
     "forecast": "",
     "previous": ""
    },
    {
-    "date": "2026-11-06",
-    "event": "Monthly jobs report (NFP) – typical first-Friday release, 8:30am ET",
+    "when_et": "Nov 03 10:00 AM ET",
+    "date": "2026-11-03",
+    "event": "JOLTS Job Openings",
+    "importance": "medium",
+    "forecast": "7.11M",
+    "previous": "7.08M"
+   },
+   {
+    "when_et": "Nov 03 10:00 AM ET",
+    "date": "2026-11-03",
+    "event": "Factory Orders m/m",
+    "importance": "low",
+    "forecast": "1.2%",
+    "previous": "0.1%"
+   },
+   {
+    "when_et": "Nov 03 10:10 AM ET",
+    "date": "2026-11-03",
+    "event": "RCM/TIPP Economic Optimism",
+    "importance": "low",
+    "forecast": "46.2",
+    "previous": "46.8"
+   },
+   {
+    "when_et": "Nov 03 10:15 AM ET",
+    "date": "2026-11-03",
+    "event": "Omdia Total Vehicle Sales",
+    "importance": "low",
+    "forecast": "15.9M",
+    "previous": "16.0M"
+   },
+   {
+    "when_et": "Nov 03 10:16 AM ET",
+    "date": "2026-11-03",
+    "event": "Congressional Elections",
     "importance": "high",
-    "when_et": "2026-11-06",
     "forecast": "",
     "previous": ""
+   },
+   {
+    "when_et": "Nov 03 04:30 PM ET",
+    "date": "2026-11-03",
+    "event": "API Weekly Statistical Bulletin",
+    "importance": "low",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "when_et": "Nov 04 08:15 AM ET",
+    "date": "2026-11-04",
+    "event": "ADP Non-Farm Employment Change",
+    "importance": "low",
+    "forecast": "68K",
+    "previous": "90K"
+   },
+   {
+    "when_et": "Nov 04 08:30 AM ET",
+    "date": "2026-11-04",
+    "event": "Trade Balance",
+    "importance": "low",
+    "forecast": "-107.9B",
+    "previous": "-105.6B"
+   },
+   {
+    "when_et": "Nov 04 09:45 AM ET",
+    "date": "2026-11-04",
+    "event": "Final Services PMI",
+    "importance": "low",
+    "forecast": "57.9",
+    "previous": "57.9"
+   },
+   {
+    "when_et": "Nov 04 10:00 AM ET",
+    "date": "2026-11-04",
+    "event": "ISM Services PMI",
+    "importance": "medium",
+    "forecast": "54.9",
+    "previous": "54.9"
+   },
+   {
+    "when_et": "Nov 04 10:30 AM ET",
+    "date": "2026-11-04",
+    "event": "Crude Oil Inventories",
+    "importance": "low",
+    "forecast": "",
+    "previous": "-1.9M"
+   },
+   {
+    "when_et": "Nov 05 05:30 AM ET",
+    "date": "2026-11-05",
+    "event": "Challenger Job Cuts y/y",
+    "importance": "low",
+    "forecast": "",
+    "previous": "-19.9%"
+   },
+   {
+    "when_et": "Nov 05 08:30 AM ET",
+    "date": "2026-11-05",
+    "event": "Unemployment Claims",
+    "importance": "medium",
+    "forecast": "197K",
+    "previous": "194K"
+   },
+   {
+    "when_et": "Nov 05 08:30 AM ET",
+    "date": "2026-11-05",
+    "event": "Prelim Nonfarm Productivity q/q",
+    "importance": "low",
+    "forecast": "2.8%",
+    "previous": "1.4%"
+   },
+   {
+    "when_et": "Nov 05 08:30 AM ET",
+    "date": "2026-11-05",
+    "event": "Prelim Unit Labor Costs q/q",
+    "importance": "low",
+    "forecast": "0.3%",
+    "previous": "1.3%"
+   },
+   {
+    "when_et": "Nov 05 08:50 AM ET",
+    "date": "2026-11-05",
+    "event": "FOMC Member Hammack Speaks",
+    "importance": "low",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "when_et": "Nov 05 09:10 AM ET",
+    "date": "2026-11-05",
+    "event": "FOMC Member Barkin Speaks",
+    "importance": "low",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "when_et": "Nov 05 10:30 AM ET",
+    "date": "2026-11-05",
+    "event": "Natural Gas Storage",
+    "importance": "low",
+    "forecast": "",
+    "previous": "80B"
+   },
+   {
+    "when_et": "Nov 06 04:30 AM ET",
+    "date": "2026-11-06",
+    "event": "FOMC Member Williams Speaks",
+    "importance": "low",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "when_et": "Nov 06 08:30 AM ET",
+    "date": "2026-11-06",
+    "event": "Average Hourly Earnings m/m",
+    "importance": "high",
+    "forecast": "0.3%",
+    "previous": "0.1%"
+   },
+   {
+    "when_et": "Nov 06 08:30 AM ET",
+    "date": "2026-11-06",
+    "event": "Non-Farm Employment Change",
+    "importance": "high",
+    "forecast": "63K",
+    "previous": "29K"
+   },
+   {
+    "when_et": "Nov 06 08:30 AM ET",
+    "date": "2026-11-06",
+    "event": "Unemployment Rate",
+    "importance": "high",
+    "forecast": "4.2%",
+    "previous": "4.2%"
+   },
+   {
+    "when_et": "Nov 06 09:10 AM ET",
+    "date": "2026-11-06",
+    "event": "FOMC Member Musalem Speaks",
+    "importance": "low",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "when_et": "Nov 06 10:00 AM ET",
+    "date": "2026-11-06",
+    "event": "Prelim UoM Consumer Sentiment",
+    "importance": "medium",
+    "forecast": "47.8",
+    "previous": "46.3"
+   },
+   {
+    "when_et": "Nov 06 10:00 AM ET",
+    "date": "2026-11-06",
+    "event": "Prelim UoM Inflation Expectations",
+    "importance": "medium",
+    "forecast": "",
+    "previous": "4.7%"
+   },
+   {
+    "when_et": "Nov 06 12:15 PM ET",
+    "date": "2026-11-06",
+    "event": "FOMC Member Bowman Speaks",
+    "importance": "low",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "when_et": "Nov 06 03:00 PM ET",
+    "date": "2026-11-06",
+    "event": "Consumer Credit m/m",
+    "importance": "low",
+    "forecast": "12.0B",
+    "previous": "8.3B"
    }
   ]
  },
@@ -2486,11 +2735,11 @@
  "sentiment_validation": {
   "logged": 4000,
   "min_sample": 100,
-  "generated_et": "Nov 01 01:18 AM ET",
+  "generated_et": "Nov 01 01:13 AM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
-    "n_scored": 3723,
+    "n_scored": 3722,
     "n_directional": 3137,
     "hit_rate": 49.5,
     "ci95": 1.7,
@@ -2499,7 +2748,7 @@
    },
    "r1d": {
     "name": "+1 day",
-    "n_scored": 3075,
+    "n_scored": 3074,
     "n_directional": 2644,
     "hit_rate": 50.0,
     "ci95": 1.9,
@@ -2585,98 +2834,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 01 01:17 AM ET",
+   "fetched_et": "Nov 01 01:12 AM ET",
    "newest_et": "Oct 31 07:56 PM ET",
    "newest": "2026-10-31T23:56:40+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 01 01:17 AM ET",
+   "fetched_et": "Nov 01 01:12 AM ET",
    "newest_et": "Oct 30 07:16 AM ET",
    "newest": "2026-10-30T11:16:46+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 01 01:18 AM ET",
+   "fetched_et": "Nov 01 01:12 AM ET",
    "newest_et": "Oct 31 08:00 AM ET",
    "newest": "2026-10-31T12:00:01+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Nov 01 01:18 AM ET",
+   "fetched_et": "Nov 01 01:12 AM ET",
    "newest_et": "Oct 31 04:15 PM ET",
    "newest": "2026-10-31T20:15:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 01 01:18 AM ET",
+   "fetched_et": "Nov 01 01:12 AM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 19,
-   "fetched_et": "Nov 01 01:18 AM ET",
-   "newest_et": "Nov 01 12:41 AM ET",
-   "newest": "2026-11-01T04:41:00+00:00"
+   "fetched_et": "Nov 01 01:12 AM ET",
+   "newest_et": "Nov 01 01:16 AM ET",
+   "newest": "2026-11-01T05:16:14+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 50,
-   "fetched_et": "Nov 01 01:18 AM ET",
+   "fetched_et": "Nov 01 01:13 AM ET",
    "newest_et": "Oct 31 09:59 PM ET",
    "newest": "2026-11-01T01:59:57+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Nov 01 01:18 AM ET",
+   "fetched_et": "Nov 01 01:13 AM ET",
    "newest_et": "Oct 30 09:48 PM ET",
    "newest": "2026-10-31T01:48:00+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Nov 01 01:18 AM ET",
+   "fetched_et": "Nov 01 01:13 AM ET",
    "newest_et": "Nov 01 12:45 AM ET",
    "newest": "2026-11-01T04:45:23+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 51,
-   "fetched_et": "Nov 01 01:18 AM ET",
+   "count": 52,
+   "fetched_et": "Nov 01 01:13 AM ET",
    "newest_et": "Nov 01 12:12 AM ET",
    "newest": "2026-11-01T04:12:47+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
    "count": 29,
-   "fetched_et": "Nov 01 01:18 AM ET",
-   "newest_et": "Oct 31 09:40 PM ET",
-   "newest": "2026-11-01T01:40:51+00:00"
+   "fetched_et": "Nov 01 01:13 AM ET",
+   "newest_et": "Oct 31 07:40 PM ET",
+   "newest": "2026-10-31T23:40:00+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Nov 01 01:18 AM ET",
+   "fetched_et": "Nov 01 01:13 AM ET",
    "newest_et": "Oct 29 04:30 PM ET",
    "newest": "2026-10-29T20:30:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Nov 01 01:18 AM ET",
+   "fetched_et": "Nov 01 01:13 AM ET",
    "newest_et": "Nov 01 12:47 AM ET",
    "newest": "2026-11-01T04:47:55+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
-   "count": 25,
-   "fetched_et": "Nov 01 01:17 AM ET"
+   "count": 26,
+   "fetched_et": "Nov 01 01:12 AM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
@@ -2684,10 +2933,10 @@
    "fetched_et": "Nov 01 12:23 AM ET"
   },
   "Economic calendar": {
-   "ok": false,
-   "count": 3,
-   "fetched_et": "Nov 01 12:23 AM ET",
-   "note": "RULE-BASED FALLBACK (approximate; live calendar unavailable)"
+   "ok": true,
+   "count": 33,
+   "fetched_et": "Nov 01 01:13 AM ET",
+   "note": "FairEconomy / ForexFactory weekly calendar (nfs.faireconomy.media)"
   }
  }
 }
