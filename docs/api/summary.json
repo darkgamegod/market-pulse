@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Nov 01 01:56 PM ET",
- "generated_at": "2026-11-01T13:56:57.561497-05:00",
+ "generated_et": "Nov 01 02:37 PM ET",
+ "generated_at": "2026-11-01T14:37:13.377358-05:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-11-01",
@@ -42,14 +42,6 @@
    "freshness": "closed"
   },
   {
-   "symbol": "SPY",
-   "label": "SPY",
-   "price": 757.12,
-   "pct": -1.59,
-   "asof_et": "Oct 30 07:55 PM ET",
-   "freshness": "closed"
-  },
-  {
    "symbol": "QQQ",
    "label": "QQQ",
    "price": 692.74,
@@ -70,7 +62,7 @@
    "label": "IWM",
    "price": 279.82,
    "pct": -1.48,
-   "asof_et": "Oct 30 07:57 PM ET",
+   "asof_et": "Oct 30 07:55 PM ET",
    "freshness": "closed"
   },
   {
@@ -86,6 +78,14 @@
    "label": "WTI Crude",
    "price": 104.12,
    "pct": 2.08,
+   "asof_et": "Oct 30 04:55 PM ET",
+   "freshness": "closed"
+  },
+  {
+   "symbol": "GC=F",
+   "label": "Gold",
+   "price": 3898.9,
+   "pct": -3.29,
    "asof_et": "Oct 30 04:55 PM ET",
    "freshness": "closed"
   },
@@ -108,9 +108,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 77776.7,
-   "pct": 0.44,
-   "asof_et": "Nov 01 01:55 PM ET",
+   "price": 77649.37,
+   "pct": 0.28,
+   "asof_et": "Nov 01 02:35 PM ET",
    "freshness": "delayed"
   },
   {
@@ -126,7 +126,7 @@
    "label": "Financials",
    "price": 56.58,
    "pct": -0.63,
-   "asof_et": "Oct 30 06:35 PM ET",
+   "asof_et": "Oct 30 06:38 PM ET",
    "freshness": "closed"
   },
   {
@@ -372,6 +372,209 @@
  ],
  "breaking": [
   {
+   "title": "Ecommerce Stocks To Follow Today - November 1st",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNUc5Yl9IdlFWVGV3UnFVUmJ4WXQzeFhmWHFPclF0UzZIRTh5RFVEMUNtQ3UyLTdtb2I2cE1vV0hZVEVZNVdGTjBDbFdJZTVyRnY5U3JrZGZxc1JaRHFiV2dvc2kwb2lFMG43c1doZl93cnZvZHZhaDNIR25uMVdJa25VYTBqbzE5UTgtbUM3bUpIcGdTaXVOOFUyMXRMZ1ZXYkJMMWNWYw?oc=5",
+   "source": "MarketBeat",
+   "impact": 1.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 01 02:37 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Banner: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/banner-3-key-takeaways-long-term-investors",
+   "source": "Nasdaq Markets",
+   "impact": 2.7,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 01 02:37 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Civista Bancshares: 2 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/civista-bancshares-2-key-takeaways-long-term-investors",
+   "source": "Nasdaq Markets",
+   "impact": 1.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 01 02:37 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Is the Vanguard S&P 500 ETF Still a Buy for Long-Term Investors? Here's My Honest Take.",
+   "link": "https://www.fool.com/investing/2026/11/01/is-vanguard-sp-500-etf-still-buy-for-long-term/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.7,
+   "tickers": [
+    "SPY"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 01 02:37 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Nu Stock Just Cratered, and It's 36% off Its High. Is This a Buying Opportunity?",
+   "link": "https://www.fool.com/investing/2026/11/01/nu-stock-just-cratered-and-its-35-off-its-high-is/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.1,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 01 02:37 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "QuantumScape Stock: Buy or Sell?",
+   "link": "https://www.nasdaq.com/articles/quantumscape-stock-buy-or-sell",
+   "source": "Nasdaq Markets",
+   "impact": 2.5,
+   "tickers": [
+    "NVDA"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Nov 01 02:37 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Apple to report Q4 earnings Monday, with iPhone 18 sales in the spotlight",
+   "link": "https://finance.yahoo.com/technology/article/apple-to-report-q4-earnings-monday-with-iphone-18-sales-in-the-spotlight-190138409.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.1,
+   "tickers": [
+    "AAPL"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 01 02:37 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Walmart's $120 Walmart+ and Sam's Club Plus bundle undercuts Amazon Prime's $139 fee with gas, grocery and more perks",
+   "link": "https://finance.yahoo.com/media-advertising/articles/walmarts-120-walmart-sams-club-190000608.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.3,
+   "tickers": [
+    "AMZN",
+    "WMT"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 01 02:37 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Abdul El-Sayed’s Democratic rival, Haley Stevens, endorses GOP's Mike Rogers in Michigan Senate race",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZTZaeEZ3WHhrS2s0VVVXSWpRLVVLb185QTR6djh1R3UtZ1F0SFJCS1BWbDBaUmZxeEI4ekkyMVBObTV3R1RyZktuX0dISE9rTmFVd2tVY3NnMm8xTUQ5SGo1VFc1bWoySVdkNHp2c2JmR0g4a2hQOEJfdFVVaFZTQ2hSZWwwMHc1Sm81clYxelpTN1JGbFJZOEpEMlRVWkRBSTdCU0RzX1VWdDRrQXc?oc=5",
+   "source": "AP News",
+   "impact": 2.2,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 01 02:37 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Why Netflix Stock Could Double From This Dip",
+   "link": "https://www.fool.com/investing/2026/11/01/why-netflix-stock-could-double-from-this-dip/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.3,
+   "tickers": [
+    "NFLX"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 01 02:37 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Exit polls suggest that Yotova wins runoff to become Bulgaria’s first elected female president",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSUpHTEVONW0yRVJoVzhBci1rTVpaUXZwR2JmTUFwYy1zSzdpa0lsdTMyVGV3WnNoUmJoVkkxcWZJQTJzN3NSby1MSF96TGFNcUhERjZlekhTZDhSdXpjbEF5Qm9XZWdfV1hEUENLM1d6dUx1cU5HTE55MWFaZ0dMN1VLRHprT2FZTlVTOTQtVWdFS3BmQjgzSHE1S2xFd2V1UlhLeXE2ZHFGalN2R0J2dw?oc=5",
+   "source": "AP News",
+   "impact": 2.4,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 01 02:37 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Packaging Corporation of America: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/packaging-corporation-america-3-key-takeaways-long-term-investors",
+   "source": "Nasdaq Markets",
+   "impact": 1.6,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 01 02:37 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "You Won't Believe My Shocking Update for Rivian Stock Investors",
+   "link": "https://www.nasdaq.com/articles/you-wont-believe-my-shocking-update-rivian-stock-investors",
+   "source": "Nasdaq Markets",
+   "impact": 2.1,
+   "tickers": [
+    "NVDA"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 01 02:37 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Ohio State falls out of top 10, UCLA cracks top 5 and New Mexico earns its first-ever AP ranking",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5UZjgxQ05mNWE2aEpubW0zVE5oZnlkLXV0SjBab05UUGZHc3dMcHlvNzlGV0ZpNnJhLURJZ3FQZTB3aDRud1NBUndCVlpCM2VXSk9wTFNxTlVmMTRvSjhienVta2d1UXg3UXl1d2JTOHp5a01rSk9UNQ?oc=5",
+   "source": "AP News",
+   "impact": 1.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 01 02:37 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Sheila Chepkirui wins matchup of past champions in NYC Marathon, Andreas Almgren makes winning debut",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Tc1JoaUlacXFSWFBuOW52aS16U0tJOVFiOEhaaWhySTFRYjBKZ3hraGFKeExRR21qN0RCTzNNN3pKal9vQlJINEFfRTByOEg5SDBfdzFCbHFUWmZNRDhBeXBCMFFZRmlmV0xmWnd4QlpJWmNwbUVrNEFsWkI?oc=5",
+   "source": "AP News",
+   "impact": 2.6,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 01 02:37 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "VSXY Slides Toward Worst Week Since March: CEO Says 'We Are Not Done' As Retail Bulls Hold Firm",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUldHamxmUW5mTjZhaG91dHZYS21hYTJ6a01xMkR3TUY5NHdybmZyMkZlTVhCc0tLbWV6UkVVLVJ4c1pialNNejBhbFc0XzlVcXJ0UnlDTVhDcUhjUm1lLVN1RFBGenFTdFVOd1VxRDRNdlhYMkYyRlhxX0c0bnNsOUNPVUpTSmMyT2VsZXFpRTV2eGRYQTl5ZlAwRG8xQkpuZzEtZkRvMVNlZ1N4ZFlnZ0QxblB3em9SUVM0UFFvSVBfa1RHQ0NYblRCdXFuaDRGbDNmYnF5MzkwU2wzRkVKdHRyRkxiUEZGNTk4Ug?oc=5",
+   "source": "Stocktwits",
+   "impact": 3.0,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Nov 01 02:37 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "DECK, DKS Stocks In Focus: BMO Warns Athletic Retailers Face A ‘Messy’ Road Ahead",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWTU2WFRsTlJOX0diX3BNRGlnVGRSejQxVm9VWERVWUp4SHI2TThVVDQ5OGhZbmJsNEh2LTZ3ak5oOWJvNHhaUFZGOGFhSW9xQlQxLWc2Uk0xR1BITGdlV3h2ck1pUXJsZ0dtNXJJd0ZGNHFMLTFIQVlLQXA0UDRydUl0REE0YVlPdVRwVDh0cURXb191Z05uaktUVFlVaURNeEtCMHNSSGJJUkZweXJ4ckppMVlyTzVjSEJWMEdUVnVHTHNFeExvaFR3Z1B0OFIzaWFlSTJmYVQ?oc=5",
+   "source": "Stocktwits",
+   "impact": 2.1,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 01 02:37 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Shimamura stock in focus as Sanrio merchandise launches nationwide",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeXFJUmJILXJEVnhvOU9waUJOei0xSlUzbEliWDB4YXFzVHJtWkZBak9vWkRQUXI0QlRFcFo4QXczeHdCLS1LaldFNmFUMW1hUTlnbjhaWDNjZEY5cGM4NF9kNEtuVU5LdjJZRTh6RGhIdVhZb0Jkdi1sUmd5YVVJekwxVi1Qa2tSRkU0V3NaR2VOdVVCWVZLb2FFSTVLcmdYQ0R2NEFGbUgzSTZVcUVRVWpYRzd2Mlh5a2UwaUxkNFFKWE0?oc=5",
+   "source": "ad-hoc-news.de",
+   "impact": 0.7,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 01 02:37 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "USPS Hosts Job Fairs in Northern Virginia",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLXJGVGNSaUE5eE1GYWlOZFRHMjdkYXA3SG1Mb3RNYzVRSFoxUnlwZFdtZ000WFk5bmgwbHJsMUF6aW5VZ0s0a2hFOFFjUXRDU2FlZXl1Z002TU0tU1h0alNESVBhMUgzNDAzMGxtQnBubXpZRDZ1Q1NsSm1LSzdDeTFHUjNoVEliSFRKWDVkVEZXcVV0SlRzQU1jRl9wLVdYSmQtek5jZVI?oc=5",
+   "source": "USPS",
+   "impact": 0.0,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 01 02:37 PM ET",
+   "consumer": true
+  },
+  {
    "title": "Judge dismisses DOJ lawsuit over Alaska Senate election",
    "link": "https://www.cnbc.com/2026/11/01/alaska-senate-doj-lawsuit-dismissed-sullivan-peltola.html",
    "source": "CNBC Top News",
@@ -379,214 +582,6 @@
    "tickers": [],
    "sentiment_label": "neutral",
    "seen_et": "Nov 01 01:57 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "10 Tips for Harvesting Investment Losses",
-   "link": "https://www.fool.com/investing/2026/11/01/10-tips-for-harvesting-investment-losses/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.4,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Nov 01 01:57 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Should You Sell Your Stocks Right Now? Here's What a Century's Worth of History Suggests.",
-   "link": "https://www.fool.com/investing/2026/11/01/should-you-sell-your-stocks-right-now-heres-what-a/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.9,
-   "tickers": [
-    "SPY"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 01 01:57 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Here's What $6,000 Invested in Micron Could Be Worth in 2028",
-   "link": "https://www.fool.com/investing/2026/11/01/heres-what-6000-invested-in-micron-could-be-worth/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.7,
-   "tickers": [
-    "MU"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 01 01:57 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Here are 3 big things we're watching in the stock market in the week ahead",
-   "link": "https://www.cnbc.com/investingclub/2026/11/01/3-big-things-were-watching-in-the-stock-market-this-week.html",
-   "source": "CNBC Top News",
-   "impact": 2.7,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 01 01:57 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "1 Reason to Buy Microsoft Stock for 10 Years",
-   "link": "https://www.fool.com/investing/2026/11/01/1-reason-to-buy-microsoft-stock-for-10-years/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.4,
-   "tickers": [
-    "MSFT"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 01 01:57 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Democrat Haley Stevens endorses GOP's Mike Rogers in Michigan Senate race 2 days before election",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZTZaeEZ3WHhrS2s0VVVXSWpRLVVLb185QTR6djh1R3UtZ1F0SFJCS1BWbDBaUmZxeEI4ekkyMVBObTV3R1RyZktuX0dISE9rTmFVd2tVY3NnMm8xTUQ5SGo1VFc1bWoySVdkNHp2c2JmR0g4a2hQOEJfdFVVaFZTQ2hSZWwwMHc1Sm81clYxelpTN1JGbFJZOEpEMlRVWkRBSTdCU0RzX1VWdDRrQXc?oc=5",
-   "source": "AP News",
-   "impact": 2.1,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 01 01:57 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "For JPMorgan, Amazon, fighting AI bots like Meta Muse may not be a winning long-term strategy",
-   "link": "https://www.cnbc.com/2026/11/01/jpmorgan-amazon-ai-agents-meta-muse.html",
-   "source": "CNBC Top News",
-   "impact": 4.4,
-   "tickers": [
-    "AMZN",
-    "JPM",
-    "META"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 01 01:57 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "There's a $12,000 Reason to Consider Investing in QQQ Over SPY, but It Comes With a Caveat",
-   "link": "https://www.kiplinger.com/what-1000-invested-in-qqq-etf-spy-etf-is-worth-now?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.4,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 01 01:57 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "The UK’s stance on its role in the slave trade is shifting, but reparations remain off the table",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZlE4dXBSNXNIRlR3U1ZfS2hXam11aWp1cWpLUzgxVUVxemRoeUczdnZuU21BaGFkaWtMa1BfYWRNZ0JDeGNFQkg3am5yaVQ2VEljZlduRGhlT3pBVUpESDNWcW05OU5BVXhBTW5BU3VxdjRHS0NjdW1MY1FFc0ZKV3BkUTNOYkd0NHE5d3V0R2FvcXA4NWJ2U0tQN0o4bnhaNGc?oc=5",
-   "source": "AP News",
-   "impact": 1.4,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 01 01:57 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Qatar surges, bucking Gulf market slide on Iran war concerns",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU3lNbXVYLVNtdGZwSDFpT0ZvTHVaWmp3bi1abjBPelhQbDQ4bmNST1VyRGktWHRJXy1yTnhMMGREWUVPdjRJS3BxXzJYOGVGSkZvdk5YYTJpbU5JM215MUxWTE12R01nTldxbnpETXliMExhV3g5eHB2dFdEb1dYd3ZnTkNULTdoWXk0Y2dHOWNPTVJ4MldXUU5xMkxNeU8yQnhiVlRma1RBN2NUbElR?oc=5",
-   "source": "Reuters",
-   "impact": 4.1,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Nov 01 01:57 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Democratic Rep. Stevens endorses Rogers over El-Sayed in Michigan Senate election",
-   "link": "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html",
-   "source": "CNBC Top News",
-   "impact": 1.6,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 01 01:04 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "How Many AGNC Shares It Takes to Earn $500 a Month in Dividends",
-   "link": "https://www.fool.com/investing/2026/11/01/how-many-agnc-shares-it-takes-to-earn-500-a-month/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.0,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 01 01:04 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Copper Is Priced Like an AI Stock Now. What the Sell-off Means for Freeport-McMoRan.",
-   "link": "https://www.fool.com/investing/2026/11/01/copper-is-priced-like-an-ai-stock-what-the-sell/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.9,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 01 01:04 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Could Apple's Latest iPhone Be Its Biggest Growth Catalyst in Years?",
-   "link": "https://www.fool.com/investing/2026/11/01/could-apple-s-latest-iphone-be-its-biggest-growth-catalyst-in-years/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.4,
-   "tickers": [
-    "AAPL"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 01 01:04 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "PulteGroup: 3 Key Takeaways for Long-Term Investors",
-   "link": "https://www.nasdaq.com/articles/pultegroup-3-key-takeaways-long-term-investors",
-   "source": "Nasdaq Markets",
-   "impact": 1.5,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 01 01:04 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "GE & GM Earnings, Plus Deals, Deals, Deals",
-   "link": "https://www.fool.com/investing/2026/11/01/ge-and-gm-earnings-plus-deals-deals-deals/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 4.8,
-   "tickers": [
-    "CRM"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 01 01:04 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Colgate-Palmolive vs. Lululemon Athletica: Which Consumer Goods Stock Is a Better Buy in 2026?",
-   "link": "https://www.nasdaq.com/articles/colgate-palmolive-vs-lululemon-athletica-which-consumer-goods-stock-better-buy-2026",
-   "source": "Nasdaq Markets",
-   "impact": 2.9,
-   "tickers": [
-    "LULU"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 01 01:04 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "Youth Olympics open in Senegal marking the first Olympic event in Africa",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYUp2Y2VBQ0IwLTJjMDd0TzZsclI1ZFdETjlKMnFVZmRkMEc0WlVEYnJvQjhoMm40OVJWa2tDRm51ekdPYjhaOGZWTlgtY19SX2IzNDJvRDRjYTB1cjRNZkJwMFZVRXk4b0tLa1k2NlpES2Z2X01renlkc0JvbXBtVGNEQ2pPY2kybWc?oc=5",
-   "source": "AP News",
-   "impact": 0.8,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 01 01:04 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "MP Dy CM pushes telemedicine to bridge rural healthcare gap",
-   "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQcEU3Ukw2bThhZkV2S0VQZWtMVzVER2pCc2VoakJXSnVna3Q4bG1Hc0tmWF9pV255dTN1QVJNcFA1czlRdFBUMWhwdlRLWnA4STUxeW1hUmE4cDdYMlNaXzM1S0RxbHBZSkVpMzNfRGtFTXBjaTkwdHd3eDBxeFJkSU51Z3RwUllQbm9kQnJBVWRyMC13MHg5SVRsY0hWZnFSV2lMUHdsdTZpSjhMZHRuNXFlR21uWE80WE9jMm56WTJ6cXZsSjNPNlZqa0xYOGJldENDNlNmeTd4RmI2UEZXcE1RSHR5UGtoVDhZOWZpTFlFc2MxN1lhaU9DV3JWbHNlZzZ2LUhMTEx4S0lnb2hTSHM4aFVnS0FWU3BvcWE5aWM5LUhvNEFLV9IBqAJBVV95cUxQcEU3Ukw2bThhZkV2S0VQZWtMVzVER2pCc2VoakJXSnVna3Q4bG1Hc0tmWF9pV255dTN1QVJNcFA1czlRdFBUMWhwdlRLWnA4STUxeW1hUmE4cDdYMlNaXzM1S0RxbHBZSkVpMzNfRGtFTXBjaTkwdHd3eDBxeFJkSU51Z3RwUllQbm9kQnJBVWRyMC13MHg5SVRsY0hWZnFSV2lMUHdsdTZpSjhMZHRuNXFlR21uWE80WE9jMm56WTJ6cXZsSjNPNlZqa0xYOGJldENDNlNmeTd4RmI2UEZXcE1RSHR5UGtoVDhZOWZpTFlFc2MxN1lhaU9DV3JWbHNlZzZ2LUhMTEx4S0lnb2hTSHM4aFVnS0FWU3BvcWE5aWM5LUhvNEFLVw?oc=5",
-   "source": "Social News XYZ",
-   "impact": 0.5,
-   "tickers": [
-    "GOOGL"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 01 01:04 PM ET",
    "consumer": false
   }
  ],
@@ -1141,16 +1136,8 @@
  "economic_calendar": {
   "source": "FairEconomy / ForexFactory weekly calendar (nfs.faireconomy.media)",
   "fallback": false,
-  "fetched_et": "Nov 01 01:04 PM ET",
+  "fetched_et": "Nov 01 02:37 PM ET",
   "events": [
-   {
-    "when_et": "Nov 01 02:00 AM ET",
-    "date": "2026-11-01",
-    "event": "Daylight Saving Time Shift",
-    "importance": "medium",
-    "forecast": "",
-    "previous": ""
-   },
    {
     "when_et": "Nov 02 09:45 AM ET",
     "date": "2026-11-02",
@@ -2732,12 +2719,12 @@
  "sentiment_validation": {
   "logged": 4000,
   "min_sample": 100,
-  "generated_et": "Nov 01 01:57 PM ET",
+  "generated_et": "Nov 01 02:37 PM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
-    "n_scored": 3609,
-    "n_directional": 3045,
+    "n_scored": 3603,
+    "n_directional": 3039,
     "hit_rate": 49.3,
     "ci95": 1.8,
     "corr": -0.003,
@@ -2745,8 +2732,8 @@
    },
    "r1d": {
     "name": "+1 day",
-    "n_scored": 2961,
-    "n_directional": 2553,
+    "n_scored": 2955,
+    "n_directional": 2547,
     "hit_rate": 50.3,
     "ci95": 1.9,
     "corr": 0.016,
@@ -2831,98 +2818,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 01 01:56 PM ET",
-   "newest_et": "Nov 01 01:53 PM ET",
-   "newest": "2026-11-01T18:53:33+00:00"
+   "fetched_et": "Nov 01 02:37 PM ET",
+   "newest_et": "Nov 01 02:23 PM ET",
+   "newest": "2026-11-01T19:23:50+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 01 01:56 PM ET",
+   "fetched_et": "Nov 01 02:37 PM ET",
    "newest_et": "Oct 30 07:16 AM ET",
    "newest": "2026-10-30T11:16:46+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 01 01:56 PM ET",
+   "fetched_et": "Nov 01 02:37 PM ET",
    "newest_et": "Oct 31 08:00 AM ET",
    "newest": "2026-10-31T12:00:01+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Nov 01 01:56 PM ET",
-   "newest_et": "Nov 01 12:30 PM ET",
-   "newest": "2026-11-01T17:30:00+00:00"
+   "fetched_et": "Nov 01 02:37 PM ET",
+   "newest_et": "Nov 01 02:20 PM ET",
+   "newest": "2026-11-01T19:20:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 01 01:56 PM ET",
+   "fetched_et": "Nov 01 02:37 PM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Nov 01 01:56 PM ET",
-   "newest_et": "Nov 01 01:35 PM ET",
-   "newest": "2026-11-01T18:35:02+00:00"
+   "fetched_et": "Nov 01 02:37 PM ET",
+   "newest_et": "Nov 01 02:20 PM ET",
+   "newest": "2026-11-01T19:20:00+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 53,
-   "fetched_et": "Nov 01 01:56 PM ET",
+   "fetched_et": "Nov 01 02:37 PM ET",
    "newest_et": "Nov 01 11:57 AM ET",
    "newest": "2026-11-01T16:57:14+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Nov 01 01:57 PM ET",
+   "fetched_et": "Nov 01 02:37 PM ET",
    "newest_et": "Nov 01 09:03 AM ET",
    "newest": "2026-11-01T14:03:04+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Nov 01 01:57 PM ET",
-   "newest_et": "Nov 01 12:19 PM ET",
-   "newest": "2026-11-01T17:19:00+00:00"
+   "fetched_et": "Nov 01 02:37 PM ET",
+   "newest_et": "Nov 01 01:58 PM ET",
+   "newest": "2026-11-01T18:58:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 26,
-   "fetched_et": "Nov 01 01:57 PM ET",
+   "count": 25,
+   "fetched_et": "Nov 01 02:37 PM ET",
    "newest_et": "Nov 01 12:02 PM ET",
    "newest": "2026-11-01T17:02:13+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
-   "count": 28,
-   "fetched_et": "Nov 01 01:57 PM ET",
-   "newest_et": "Nov 01 11:26 AM ET",
-   "newest": "2026-11-01T16:26:56+00:00"
+   "count": 57,
+   "fetched_et": "Nov 01 02:37 PM ET",
+   "newest_et": "Nov 01 02:27 PM ET",
+   "newest": "2026-11-01T19:27:01+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Nov 01 01:57 PM ET",
+   "fetched_et": "Nov 01 02:37 PM ET",
    "newest_et": "Oct 29 04:30 PM ET",
    "newest": "2026-10-29T20:30:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Nov 01 01:57 PM ET",
-   "newest_et": "Nov 01 12:29 PM ET",
-   "newest": "2026-11-01T17:29:01+00:00"
+   "fetched_et": "Nov 01 02:37 PM ET",
+   "newest_et": "Nov 01 02:20 PM ET",
+   "newest": "2026-11-01T19:20:02+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 25,
-   "fetched_et": "Nov 01 01:56 PM ET"
+   "fetched_et": "Nov 01 02:37 PM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
@@ -2931,8 +2918,8 @@
   },
   "Economic calendar": {
    "ok": true,
-   "count": 33,
-   "fetched_et": "Nov 01 01:04 PM ET",
+   "count": 32,
+   "fetched_et": "Nov 01 02:37 PM ET",
    "note": "FairEconomy / ForexFactory weekly calendar (nfs.faireconomy.media)"
   }
  }
