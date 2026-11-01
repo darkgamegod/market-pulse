@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Nov 01 01:12 AM ET",
- "generated_at": "2026-11-01T01:12:58.655715-05:00",
+ "generated_et": "Nov 01 02:22 AM ET",
+ "generated_at": "2026-11-01T02:22:53.781711-05:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-11-01",
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 77849.99,
-   "pct": 0.84,
-   "asof_et": "Nov 01 01:10 AM ET",
+   "price": 77693.89,
+   "pct": 0.33,
+   "asof_et": "Nov 01 02:20 AM ET",
    "freshness": "delayed"
   },
   {
@@ -380,6 +380,66 @@
  ],
  "breaking": [
   {
+   "title": "Energy bills help 'doesn't go far enough'",
+   "link": "https://www.bbc.co.uk/news/articles/cqgkvpnj7l7yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "impact": 2.2,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 01 02:23 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Diwali hampers to bring hope to families in need",
+   "link": "https://www.bbc.co.uk/news/articles/cm20wyg8j121o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "impact": 2.2,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 01 02:23 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Companies promised AI gains— here's how the payoff showed up in earnings",
+   "link": "https://www.cnbc.com/2026/11/01/ai-investments-company-earnings.html",
+   "source": "CNBC Top News",
+   "impact": 3.6,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 01 02:23 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Arizona freshman R.J. Mosley taken off on cart with left leg injury against Texas Tech",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPM0tqamxENllFa242dHpOUm1HQkE5aHFNaUFlUVdjUUtWTzNWekh1ZVdDN0JsZzdzMUJfRVo5NlQ5Z1ZzWE5STDVYRzFHMlZubFlkT2hSSDRJcUhhZ1pIYThSLWhuZW5ka3VkOUZSWlRSLUx6cDZnN2RhWHd3c0hzMG1KVEFkY0RGRWVjOVVCMA?oc=5",
+   "source": "AP News",
+   "impact": 1.9,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Nov 01 02:23 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "ECB governors see December hike likely followed by pause, sources say",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMXJsZnJoaDBVczhVVHlHVktscUlEVzhTcGtnX25CS2F4c2FHVGpxOE02UHBudjRiRm02UmV6anhHX05mLWJSbHQ0ZmJqQV9fVDU0eVhmNXZjX0gtYXNWQzlrcXR1bHB5THJxVXVjWGM3bjN5VUdOTEJzUktnWHcyWUo2ZUIteER2MUVtb1VYaVU4NUQ1VWNDbU5aMy1URWtndFNEcmp3azNBRDNhdlZIa2FyeUlzS1UxU3V4Y0ln?oc=5",
+   "source": "Reuters",
+   "impact": 0.0,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 01 02:23 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "In China, the AI bubble has already burst",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTnhLb1ZGYUdnbENkWmMyZDZqTHlsckJwbEsxWVZGTnI5U2lPcFNXLXFoYmRRZm1rU2NWREZrWGVRblRES2FmdkwtUVIzMDlTS2N4ZW5vNno1Y2JCR1FzclhmdUVBOU5jMElCd2FwTlN1VzdfOU94YXlFc2VSWmRObXZyMVhyNnlf?oc=5",
+   "source": "Reuters",
+   "impact": 0.0,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 01 02:23 AM ET",
+   "consumer": false
+  },
+  {
    "title": "Cybercab Expansion Might Change The Case For Investing In Tesla Stock (TSLA)",
    "link": "https://finance.yahoo.com/markets/stocks/articles/cybercab-expansion-might-change-case-051614061.html?.tsrc=rss",
    "source": "Yahoo Finance",
@@ -532,76 +592,6 @@
    "sentiment_label": "neutral",
    "seen_et": "Nov 01 01:18 AM ET",
    "consumer": false
-  },
-  {
-   "title": "USPS Updates Address Format for International Shipping",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTlVFWEUzMXNDU3J6QkgxM0FyS2VMb0NRVHlnMDVHYU1pZFFsSThJM1BVdzhCTkdyZTBCQlZiWG9GR3gxY0hOeGNqeEVXWThBQmFKMm1Pd3Ytel91ZXJHcWNtNHhyWWRfLUgyaEJIdXZvZ3JreUhqc2daX216VkFLNmVkOWJFaGpR?oc=5",
-   "source": "SSBCrack",
-   "impact": 3.0,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 01 01:18 AM ET",
-   "consumer": true
-  },
-  {
-   "title": "IN OUR VIEW: Don’t be afraid of your neighbours",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORFlmaDljYWlSRDU4bXhpdFkzTFJDMDNFMlYyVE45TktvcnQyQkFKeFZaOEltcFVZcUMwcUNwYk41bjNaTHZBVzNzX2NOYS1OM0FWUWtxRUdsZzVOYVA4WlRoeW92Z0FwcTZLekRoWl8xdEdkaUVlQ0VwQjAzWWdHMGtpRS0zS24xVmhLZg?oc=5",
-   "source": "Maple Ridge News",
-   "impact": 1.1,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 01 01:18 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "United Parcel Service Inc (UPS) (Q3 2026) Earnings Call Highlights: Revenue Climbs 6. ...",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUGJHOHh5TzlnYlNsZzIyVi02LWJqSjJEVHZ4ZHczbktaU0tfbFU5UkRUSkZfYWhmX3U5aHJlYmdwRHk5bC1UMWtYTzB5WjFPUGVsY0I2VDZ0c0QtOWR2b3FoVTA5elRVVjdIcXQ1MjlNOUxFN0J5dDZ3NVVGNGdCaEVwVWJoVXllWWsyVVM5eE5PbHc?oc=5",
-   "source": "Yahoo Finance",
-   "impact": 3.2,
-   "tickers": [
-    "UPS"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 01 01:18 AM ET",
-   "consumer": true
-  },
-  {
-   "title": "FedEx, UPS: Holiday Volume Shows Impact of Slowing Economy",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWG5PV29SWHJ3TjNJeDAxWUp4bVI4WTkzemVvLWdScHduQXowVWMwdFBZTnZqYnFKN0VfaTNMUW5hVllBWFJlRE15N29YbUQ3VFNOaGxtWER4aDdBTnZzU3Nrd21PX0hJWWs3MFZ0SkVKb1ZoTkoxZ3dITk1FSlc1YjFheVpReUY0M19LQklPSTBmRUdK?oc=5",
-   "source": "Heavy Duty Trucking",
-   "impact": 3.7,
-   "tickers": [
-    "FDX",
-    "UPS"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 01 01:18 AM ET",
-   "consumer": true
-  },
-  {
-   "title": "FedEx Freight Jumps After Inaugural Standalone Results and Higher Outlook",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWjkwdjBhNXFiem93SXBpWmFhMlk5UWFvdlV3Q3E4T0pZa1ZCbWZLWGxQRXhCbG85SGdzV09JVGJtQlF1OHVDWEszVHdpZ05ORU1fOFJTak5NR3V2ZjJyc2J3YkVWcmE5TlpVeHV4RmVLMXhkdU95dXpzT1RkVkVwOWV6UlNIT3J3UUxSYTNUdFVmeHhzTDZLcHJad0lGZmI3OTNkYl90S3R1Zw?oc=5",
-   "source": "Quiver Quantitative",
-   "impact": 3.0,
-   "tickers": [
-    "FDX"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 01 01:18 AM ET",
-   "consumer": true
-  },
-  {
-   "title": "FedEx Freight forecasts quarterly earnings above estimates",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNa2dEaHhBT0hMTmc5RXVoUVpYUlRMdDhMZDFlN0p2UlBpXzNwZGU0N3pHdDFEMzMwM1BYY3FpWUJGTHlmTEN3dGRaRFN3ZkpDc0JQQ203MTdORXoybGx2akluaTYwanc5aWdmdDhVZTJpSzl2cG1fbGsxNER3bGYzcXFXaUg1QnVyT3R6VXVLV3JhcHJuMWRzYTFwWjNscVhCRWk3NXpacXAxWFBGOElud2ZXVGRKTGFYLUw4Y2lheVpBeUI5WjNGV3o5NEZVak5W0gHQAUFVX3lxTE1rZ0RoeEFPSExOZzlFdWhRWlhSVEx0OExkMWU3SnZSUGlfM3BkZTQ3ekd0MUQzMzAzUFhjcWlZQkZMeWZMQ3d0ZFpEU3dmSkNzQlBDbTcxN05FejJsbHZqSW5pNjBqdzlpZ2Z0OFVlMmlLOXZwbV9sazE0RHdsZjNxcVdpSDVCdXJPdHpVdUtXcmFwcm4xZHNhMXBaM2xxWEJFaTc1elpxcDFYUEY4SW53ZldUZEpMYVgtTDhjaWF5WkF5QjlaM0ZXejk0RlVqTlY?oc=5",
-   "source": "The Manila Times",
-   "impact": 3.8,
-   "tickers": [
-    "FDX",
-    "GOOGL"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 01 01:18 AM ET",
-   "consumer": true
   }
  ],
  "high_impact": [],
@@ -805,7 +795,7 @@
  "movers": {
   "mode": "last session (market not in pre-market)",
   "basis": "opening gap (open vs prior close) of the last session; RVOL = session volume / 20-day avg",
-  "fetched_et": "Nov 01 12:22 AM ET",
+  "fetched_et": "Nov 01 02:23 AM ET",
   "gappers": [
    {
     "symbol": "INTC",
@@ -1144,7 +1134,7 @@
  "economic_calendar": {
   "source": "FairEconomy / ForexFactory weekly calendar (nfs.faireconomy.media)",
   "fallback": false,
-  "fetched_et": "Nov 01 01:13 AM ET",
+  "fetched_et": "Nov 01 02:23 AM ET",
   "events": [
    {
     "when_et": "Nov 01 02:00 AM ET",
@@ -2735,7 +2725,7 @@
  "sentiment_validation": {
   "logged": 4000,
   "min_sample": 100,
-  "generated_et": "Nov 01 01:13 AM ET",
+  "generated_et": "Nov 01 02:23 AM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
@@ -2834,98 +2824,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 01 01:12 AM ET",
-   "newest_et": "Oct 31 07:56 PM ET",
-   "newest": "2026-10-31T23:56:40+00:00"
+   "fetched_et": "Nov 01 02:22 AM ET",
+   "newest_et": "Nov 01 01:00 AM ET",
+   "newest": "2026-11-01T06:00:01+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 01 01:12 AM ET",
+   "fetched_et": "Nov 01 02:22 AM ET",
    "newest_et": "Oct 30 07:16 AM ET",
    "newest": "2026-10-30T11:16:46+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 01 01:12 AM ET",
+   "fetched_et": "Nov 01 02:22 AM ET",
    "newest_et": "Oct 31 08:00 AM ET",
    "newest": "2026-10-31T12:00:01+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Nov 01 01:12 AM ET",
+   "fetched_et": "Nov 01 02:22 AM ET",
    "newest_et": "Oct 31 04:15 PM ET",
    "newest": "2026-10-31T20:15:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 01 01:12 AM ET",
+   "fetched_et": "Nov 01 02:22 AM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
-   "count": 19,
-   "fetched_et": "Nov 01 01:12 AM ET",
+   "count": 18,
+   "fetched_et": "Nov 01 02:22 AM ET",
    "newest_et": "Nov 01 01:16 AM ET",
    "newest": "2026-11-01T05:16:14+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 50,
-   "fetched_et": "Nov 01 01:13 AM ET",
-   "newest_et": "Oct 31 09:59 PM ET",
-   "newest": "2026-11-01T01:59:57+00:00"
+   "fetched_et": "Nov 01 02:22 AM ET",
+   "newest_et": "Nov 01 02:15 AM ET",
+   "newest": "2026-11-01T07:15:06+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Nov 01 01:13 AM ET",
+   "fetched_et": "Nov 01 02:22 AM ET",
    "newest_et": "Oct 30 09:48 PM ET",
    "newest": "2026-10-31T01:48:00+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Nov 01 01:13 AM ET",
-   "newest_et": "Nov 01 12:45 AM ET",
-   "newest": "2026-11-01T04:45:23+00:00"
+   "fetched_et": "Nov 01 02:22 AM ET",
+   "newest_et": "Nov 01 02:02 AM ET",
+   "newest": "2026-11-01T07:02:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 52,
-   "fetched_et": "Nov 01 01:13 AM ET",
+   "count": 25,
+   "fetched_et": "Nov 01 02:22 AM ET",
    "newest_et": "Nov 01 12:12 AM ET",
    "newest": "2026-11-01T04:12:47+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
    "count": 29,
-   "fetched_et": "Nov 01 01:13 AM ET",
-   "newest_et": "Oct 31 07:40 PM ET",
-   "newest": "2026-10-31T23:40:00+00:00"
+   "fetched_et": "Nov 01 02:22 AM ET",
+   "newest_et": "Oct 31 08:32 PM ET",
+   "newest": "2026-11-01T00:32:39+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Nov 01 01:13 AM ET",
+   "fetched_et": "Nov 01 02:22 AM ET",
    "newest_et": "Oct 29 04:30 PM ET",
    "newest": "2026-10-29T20:30:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Nov 01 01:13 AM ET",
+   "fetched_et": "Nov 01 02:22 AM ET",
    "newest_et": "Nov 01 12:47 AM ET",
    "newest": "2026-11-01T04:47:55+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Nov 01 01:12 AM ET"
+   "fetched_et": "Nov 01 02:22 AM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
@@ -2935,7 +2925,7 @@
   "Economic calendar": {
    "ok": true,
    "count": 33,
-   "fetched_et": "Nov 01 01:13 AM ET",
+   "fetched_et": "Nov 01 02:23 AM ET",
    "note": "FairEconomy / ForexFactory weekly calendar (nfs.faireconomy.media)"
   }
  }
