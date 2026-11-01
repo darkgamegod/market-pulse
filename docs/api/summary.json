@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 31 08:04 PM ET",
- "generated_at": "2026-10-31T20:04:21.161035-04:00",
+ "generated_et": "Oct 31 09:23 PM ET",
+ "generated_at": "2026-10-31T21:23:21.155918-04:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-10-31",
@@ -70,7 +70,7 @@
    "label": "IWM",
    "price": 279.82,
    "pct": -1.48,
-   "asof_et": "Oct 30 07:55 PM ET",
+   "asof_et": "Oct 30 07:57 PM ET",
    "freshness": "closed"
   },
   {
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 77403.92,
-   "pct": 0.27,
-   "asof_et": "Oct 31 08:00 PM ET",
+   "price": 77564.99,
+   "pct": 0.48,
+   "asof_et": "Oct 31 09:20 PM ET",
    "freshness": "delayed"
   },
   {
@@ -134,7 +134,7 @@
    "label": "Financials",
    "price": 56.58,
    "pct": -0.63,
-   "asof_et": "Oct 30 06:38 PM ET",
+   "asof_et": "Oct 30 06:35 PM ET",
    "freshness": "closed"
   },
   {
@@ -381,214 +381,226 @@
  ],
  "breaking": [
   {
-   "title": "SPC Samlip stock expands health bread range amid softer demand",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNDVENXR1MVI5WWdmWnpaV3E3cmx3U3VJUmJ4NWFjbXd4R2RxeHg1cURnUmExOFhaUzcxbUotYWZQbkEteTdFSld1T3hqUkd4MUJmTVpfLXRWQ0d3ZGJWU242d0xHZ3IzNFhVMUR1SUZ4R1R0R2Nxa3JTaVdfLVl4QnpqXzduTXczTFQ5NmFFeUMxbkRxbUl5YUw3NkhQM1F6cXEtT2JZN0JyaVR3M3J3dUxCTUFMM0NZN3g5eEpn?oc=5",
-   "source": "ad-hoc-news.de",
-   "impact": 1.6,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 31 08:05 PM ET",
+   "title": "Microsoft (MSFT) Lands $25 Billion Bond Deal As AI Push Deepens",
+   "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-lands-25-billion-011021686.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 4.3,
+   "tickers": [
+    "MSFT",
+    "^TNX"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 31 09:23 PM ET",
    "consumer": false
   },
   {
-   "title": "Shooting at Spirit Halloween store in California leaves pregnant woman dead and 6 wounded",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbW5kTnNwaXhRRlJ3UjMxc0NMRk1zdVEyWXlqT3hIUmNEZWFVbzk2SzBwSlUyNXBKMzdrNlROUHFmV0dDcEJGUEcyWkZpcGoxQm1hMFdfWWRHcWxfNWE4Wld3bnNXdEFEbnVNbzUyQmdnS2JzLTU3OU04X1h6am4xdUdxX2pjbEZKbE9Lc0ZqSVN2T013TWdSeEo2bzk0NUdXN3RBOWZfWE43MW1t?oc=5",
+   "title": "Tesla's Cybercab Reaches Dallas in November, and Nevada Just Cleared 5,000 Robotaxis in Las Vegas. Here's the Number That Makes the Bulls Right.",
+   "link": "https://www.fool.com/investing/2026/10/31/teslas-cybercab-reaches-dallas-in-november-and-nev/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.0,
+   "tickers": [
+    "TGT",
+    "TSLA"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 31 09:23 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Republicans on defense in Texas while Democrats in Michigan can’t get on the same page",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNHloVEIzZEI3TmxoR0JDdWdRWWhlTHB3eFBtcDRnZDFDMEl6RkpzSlRZd3NHM0EtUnRqX1F4Vlh0OGxvaUkyM21RdGlWdlNPT1Q4Mlh1X2ZtbjZqRi1GdWY2TFlCYjdpVDNVaHhQR25WY29MbWdybFFmb3ZXc0ZqSExhS3VRVElxdU9Wa3BjRlY5YVJkdWp2QTh4ZDhQNWZHaGxYbWhkU2M0QQ?oc=5",
+   "source": "AP News",
+   "impact": 1.8,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 31 09:23 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Berkshire Hathaway Shares Just Rallied to Their Highest Level Since Warren Buffett Announced He Would Step Down as CEO, Closing Within 1.5% of Their All-Time High. Does That Rally Validate His Succession Plan?",
+   "link": "https://www.fool.com/investing/2026/10/31/berkshire-hathaway-shares-just-rallied-to-their-hi/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 4.7,
+   "tickers": [
+    "BRK-B"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 31 09:23 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Lark Distilling stock: Q1 sales fall 4.5% on export delays",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb2NuakVvWWZJLXVmQ2tUSlo4NjdVdDdpY3BxWnByeVV3TUZzdkticnFXWlQ4aEtWb3hKQmtfa0RlOVlkbjE5cFZ0U2NrTkxCT3kxNF9SUXpLUm0yeU9Oc2xmX0l6S1ZubVM0emJLRkJaTHgxRUlLdEFRQ0h5MWl4LU9sNVJCa1VGNWRoWlhub3d0Y3dubHRaOEljVlVRb0d1QkZPNllBckIzVklyWGZmUlAxTWlIZw?oc=5",
+   "source": "ad-hoc-news.de",
+   "impact": 1.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 31 09:23 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Prediction: This Will Be Palantir's Stock Price by the End of 2027",
+   "link": "https://www.fool.com/investing/2026/10/31/prediction-palantirs-price-by-the-end-of-2027/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 1.9,
+   "tickers": [
+    "PLTR"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 31 09:23 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "History Says Energy Beat Every Sector in the Last Bear Market. Here's the Catch if Another One Is Coming.",
+   "link": "https://www.nasdaq.com/articles/history-says-energy-beat-every-sector-last-bear-market-heres-catch-if-another-one-coming",
+   "source": "Nasdaq Markets",
+   "impact": 2.6,
+   "tickers": [
+    "SPY"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 31 09:23 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Andy Jassy Says West Is 'Very Hungry' For More Western Open Source AI Models as Amazon Adds China's Kimi and GLM to Bedrock",
+   "link": "https://finance.yahoo.com/technology/ai/articles/andy-jassy-says-west-very-233005253.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.3,
+   "tickers": [
+    "AMZN"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 31 09:23 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "FBI blames North Korea for stolen billions from Binance in biggest hack in history",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQkM3dmhycV92Tk5Oa2xmTVhpMUI3RnluVVRpV1dlUGtIVXo4NjBqX0RDcjlLVW5FaGN4TGhZOXpEMlhBbzhzZ0gteVMwWUx2dVFoVzhnMzkxeU5tZzlDaHpZZE5LUVMxYllLTVBfTzhTcEZMaTl4eXhKT2l4ekwxWFFWOHc3bjJrWXhHRkVQQTFhOUNXMzlJSGQyZw?oc=5",
+   "source": "AP News",
+   "impact": 2.5,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 31 09:23 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Pressure piles on Carrick as 10-man Man United beaten at Chelsea and Man City lose again",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSzJ2VTZBYTBzYmMxRWtYSGtWdzNyVm9neTNDTEtHQnN6LVdjUlVDLUQwX2x0amtJRjUzR1NpNUUxM3UzRHRtMGRKQV9UdUdXWWZnSV82WXRwSGUyRlUtWGd1SHk2SVhxTjRHbUJDbXRsMlBfU3pLZjdsOFlmeF91b2FnSTJMRWxkblhRQlhYSFVJTjdfNzNpR2p3YmR4emVUeTdGU19lY3pLYkQyT3JuTUIzZGQxZw?oc=5",
    "source": "AP News",
    "impact": 2.4,
    "tickers": [],
    "sentiment_label": "bearish",
-   "seen_et": "Oct 31 08:05 PM ET",
+   "seen_et": "Oct 31 09:23 PM ET",
    "consumer": false
   },
   {
-   "title": "Rubio says the US government did not facilitate Bolsonaro’s flight to the US",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRVg0V2VkUXZFZ2RqeDZXUE82RnFiS1NqTzhDSG5HZjU4QnNtTWFJMGtzelgySGU1ZndRX1NLU1pVelIwS1RDMDlyczAxU1hpQmhVUnc2Rzl3WHhPbXM3a2p0LUMyNzZjUnVJcWpuNEV2dS1PMW1la2xNdFRRd3EtWGNHUmF1M24wTHBOZ1g4QWZCMDBpMFE?oc=5",
-   "source": "AP News",
-   "impact": 1.4,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 31 08:05 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Federal officials investigate fire at beleaguered police department in Mississippi",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbU5MbXRmeFNhTFoxNmNDeGVHeWQyX08tREttblVoMDg2ZjB5dU90dC1XNXdDaGh6MGE1TXdGVnNlQ1NZMzZDZXAzWDFnbDVLeVRHeDZvR3AyakN5aXBvZjNpd21YT0pKSkVCQ3ZqTVdDN1Zsb0dGekRqZXhVVzhNbGxFR0lJeTBhbDVPSUp3cmFqdVVMeTY1SEZ5Q09qTUZ5dlFERFBOR3c?oc=5",
-   "source": "AP News",
-   "impact": 5.5,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 31 08:05 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "November highlights Native American cultures, from salmonberry picking to traditional tattoos",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNVI0YmxyVm9idTdUWG1Zb1dZeHQzQkFnamJXaXJsQXYxRHZFWmpvZWlrTHpkdnFCX3ZTSzhRVC0wMkJKVXd3VjN2VVB6NGhDNjNvc0taQnZNTW4tUW5aSDRyS2t1Qnh4WFVLUDhuLWdNYlFrckNlcXBGT0lpOGE2a0dkMVA4eEJtSk9YSHBwTzQ0OFJxelpMVzdHUnlzdXN6emZ0cHlzLUlvUE1BOEFRWjRNNA?oc=5",
-   "source": "AP News",
-   "impact": 1.4,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 31 08:05 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Heavy rains expected to bring flooding risk to already saturated parts of the US Southwest",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ0hITmxKR0lIeDgxSVFIcXBOUTFDZlFUVVNlLVhScjVlZUZKTWZVZTd3WUZQc0ZvYWFiZnpmbmNZMFpxZy1EaGpORm1vdVZYR2ZfSlNiOU5pRTVHUl9GMlZpamw3QWpkdUlJYktXUDZJRmpSVHVZeTNKM09iT1l1MmVoZkstd190VTd6U0RlMkNZejE2VEFfOVRSU3BQSnowU1JrZ0RMUQ?oc=5",
-   "source": "AP News",
-   "impact": 2.0,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 31 08:05 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Harley-Davidson Q3 Earnings Call Highlights",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRXpwQ0RsdUFGU1RGZnNQeE1ZekU3RmpaMkdmbXN5V1o3TDkxNTdWcHZyS0UyXzBjTnFkVW11UjVUR1ZNSWh3UXN4dnVNNlZjTDgxOVE5emQ3bjhneHlTX1hWV3VmeW84R2FPeXVvX0p4WGZMNEhuYjZBZlpjSk16TTVzNmVTUkVGYzlHU2pSYldDVDk4VFU2NzktaUlPUQ?oc=5",
-   "source": "Yahoo Finance",
-   "impact": 1.5,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 31 08:05 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Tech rout drives gold to one-year low, white metals sink deep into oversold zone",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMFY2WEZOWHhyVDVPMkM2ZVUxM01TR09lcUZ0RlBWNF96QkJzWXhUZWpIbmlRSUlxN3FiZ0pEYWVXOW1YcVBQcHQ4cjU1NFpCQVlnS3pneWlKeTZIRjJzWkJuek9OeDhNSGxTU1ozV1g0czltbldNNkJORWRWS0ZBU25WdURjNWNpREdpdmZoV1c2ZzBnUmM5cm5HTG16OFpEdVhLWC13RkxHM3IxX1E?oc=5",
+   "title": "Binance says it has covered 90% of losses from $6.3 billion hack",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV05QRmVQbjJDUTZkNzRFaTA5VVp5RE9Bd2ctMkxITEVaZnNLZVVzdkx5aHBUUFZYOTJCb19YRFJRM2I1RW5QS0JJUmowaUtsVjlnaTExaWJDM2NsLVJINlJQZ0JHdlUyb05LS0kyRGdRMHlyVWdYRHFJOTNlbFRZc0plbkc2SE1nOHB1SklPVVNUVnhFY3lYdWtR?oc=5",
    "source": "Reuters",
-   "impact": 1.3,
+   "impact": 2.2,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 31 09:23 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Mamdani says Trump agrees to grant visa to mother of Ghanian teen killed in Bronx shooting",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMjUxQ1BrZmdmemFaS3RCY2dfeVF0c0pWaTVfSFkzU2lqMkp6OUNqVUgwVUhYM1dGOW1yQ25QMDA1UWJxQ0VsejB2Y3hfTFd0b0FGNzQ3WThMc2g4bXlrcnR3RVVMTWNSVTFZOEpTSWtCZ2wzYzZmM2ZDY1k2NlJZTUFDUGE4bC1XRGMwYVA3TUZNcE1jcGp1QVRGS0kzR2xVR01oTzdMRTZWbmhZWlF3?oc=5",
+   "source": "AP News",
+   "impact": 2.5,
    "tickers": [
-    "GC=F"
+    "V"
    ],
    "sentiment_label": "bearish",
-   "seen_et": "Oct 31 08:05 PM ET",
+   "seen_et": "Oct 31 09:23 PM ET",
    "consumer": false
   },
   {
-   "title": "China conducts combat readiness patrols around disputed shoal in South China Sea",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLVZHNlp6YnVjYmw4N0c2cjlxQ3hCcEZuR1pLUko3aXp3SE9jdEtiVXZqeC1UZTRhMzZaTTdWTVo2Rmdyck1scDFMVk5Ga1U5WkZVZm4zUWVzZVptV09zUVhHdUdQYnJ0YlVzV3NmWVVna3IwRVhBOU5BcHRyUHk0eDh5bUhTaWVpMlhvNG9CU0h2OG9vWWhtdmFhdnVLbzRtTVk0MkNFM1lXVWtTUmZOQ0Zwcnpld2lkU0kwa1oyeGNQRlE?oc=5",
-   "source": "Reuters",
-   "impact": 0.8,
+   "title": "Mexico comes alive during annual Day of the Dead celebrations",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQzBQTDZUakxvUmladWlway1jeFNxLWVDRk5hNW1SN3JYbDRGZ0QzaUpwTDFKX1c0ZGM4RUxESHN4czJWaThQcWItNzI3ODl5RzRhWVdwZ0pXd0VXeW01Z2JJd1YteWFjcHJ4WXV0LTNaOUtBSlczSEV2WHRGQkhCNGRsbFk?oc=5",
+   "source": "AP News",
+   "impact": 1.8,
    "tickers": [],
    "sentiment_label": "bearish",
-   "seen_et": "Oct 31 08:05 PM ET",
+   "seen_et": "Oct 31 09:23 PM ET",
    "consumer": false
   },
   {
-   "title": "1 Big Winner and 1 Loser From the Upcoming Anthropic IPO",
-   "link": "https://www.fool.com/investing/2026/10/31/1-big-winner-and-1-loser-from-the-anthropic-ipo/?.tsrc=rss",
-   "source": "Yahoo Finance",
+   "title": "Is Kroger (KR) Still Worth A Look As Its Giant Eagle Deal Raises Valuation Questions?",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTTE1UUwtU1BHdzBNWl9hcTlwUFpQVWo0VjZzdWotc1hjQlNoMVFxVHJXMGxHSmlpSV9TeUNKV0tJRE5FaHlnOVZHWEFTbWxzN0RvUkZtWGVMd2ltUlRoamhWcnNYOE10US14bGJlUVYzbzYxcGdHOVVhc3dYUGh5QkdjRHRtWkVrSFB3d0hGWkRyN2dJaGZTOURvb2xXRHlmbHR2Wm5PY2FWeW1vSWVuYVVjd282SkhsNjY3MG5QQmkzSC03V08zcFpBWdIB0AFBVV95cUxQRm1CcFc5RVZ0N0sxN0thLVBqeTB0S1FUaUlWbUdfdnBPX2g1cm00Q3FNLWlvUWZxQUtNSll3V3JZLVdqOThVc2RHakNLS0t5dnFtNENjRG0waDNNUjV3S1E3OUJNd0ZwTVFEVHY0dVBiUWFzeDNSQ1BpQ01NMWtZNkNpaVBJZGd4bHRpVnEtejdyZkR5Y0I0ZHdoS08zZ3JRb0dtUGNkOUZRV2pjQ3lDUlVFRDBzTHZTX1ZpdGEtd1J3U1ZHMHBhLWJ4NGI3cWRj?oc=5",
+   "source": "Simply Wall St",
+   "impact": 2.7,
+   "tickers": [
+    "GOOGL",
+    "KR"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Oct 31 09:23 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "ESDIAC Launches Telecoms App, Offers eSIM Service, Claims Lowest International Call Rates",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSzdyUm9WcTdyVW11ZFBScU44R1dwWnEwd2xsSTFVRVRHNUVVUXg0dkpnNDIzM2xCZ1NBaTQ2V0hoVGFWZjNJZWwtM2czZ2NqV2RSRUIwUGh5VGRsSUNkYXRjdlg2bXVMaE0xOGtoVW5UekFmZWQ4M0t2eENPUXQxYTFEanBOSnFLdU1kZGVpZjFOZUZkVnFjOUFYa2VyZjMtRlpnT1k0LW5wcWhZRENzVG03akxHY1BHRzluUWQ2T0NQclhBTExN?oc=5",
+   "source": "The Guardian Nigeria News",
    "impact": 1.6,
    "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 31 07:30 PM ET",
+   "sentiment_label": "bearish",
+   "seen_et": "Oct 31 09:23 PM ET",
    "consumer": false
   },
   {
-   "title": "What we know about Binance's $6.3bn hack",
-   "link": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "impact": 0.3,
+   "title": "Birch vs Nolah: Natural Materials or More Foam Choices?",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5saDRoX2tNT0tvd2U5RFRHN29DN3FwQjFrenBiTWI0MW5oZFpUS3ZRTl9LUzl6am1jZ01ZSENmcG5ST2lZekdMSmpVR1JNeU1ZUUhQdVRDVTNUTEVheW15Y3Q5WmhNRTg?oc=5",
+   "source": "Journée Mondiale",
+   "impact": 1.6,
    "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 31 07:30 PM ET",
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 31 09:23 PM ET",
    "consumer": false
   },
   {
-   "title": "OPEC+ agrees in principle to keep oil output targets steady in December, sources say",
-   "link": "https://www.cnbc.com/2026/10/31/opec-oil-output-targets-december.html",
-   "source": "CNBC Top News",
-   "impact": 5.0,
-   "tickers": [
-    "CL=F",
-    "XLE"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 31 06:46 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "After Eli Lilly’s Explosive Earnings Report, Is It Too Late to Buy the Stock?",
-   "link": "https://www.fool.com/investing/2026/10/31/after-eli-lilly-s-explosive-earnings-report-is-it-too-late-to-buy-the-stock/?.tsrc=rss",
+   "title": "What UPS Earnings Beat Means For Shareholders",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTWNVR3poVXVwTU5ieVg2a3FOd3VMZzZOOXVyMjFfdTdBOEM1dnZzand4T096ZmNmTXEwVmRXVzY4QVpRN29fMGUyLXVkLXVNREh2WUNjMDhFRlBKR1I0Y2lyM05sYjV4MUQ0cFEwVlhiYTlmbmxWano4Q3p0VXJNMm1WeVY1bll0S3pvMmt2dFJsaHNtY3lEcHZ0bWlwUTd1Y09Z?oc=5",
    "source": "Yahoo Finance",
-   "impact": 4.1,
+   "impact": 3.0,
    "tickers": [
-    "LLY"
+    "UPS"
    ],
    "sentiment_label": "bullish",
-   "seen_et": "Oct 31 06:46 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Nvidia (NVDA) CEO Jensen Huang Reportedly Targeted In Chinese Espionage Plot",
-   "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-ceo-jensen-huang-220818674.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.3,
-   "tickers": [
-    "NVDA"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 31 06:46 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Shopify Stock Is More Than 10% Below Its Record. Should You Buy Before Its Nov. 3 Report?",
-   "link": "https://www.fool.com/investing/2026/10/31/shopify-stock-is-more-than-10-below-its-record-should-you-buy-before-its-nov-3-report/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.8,
-   "tickers": [
-    "SHOP"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 31 06:46 PM ET",
+   "seen_et": "Oct 31 09:23 PM ET",
    "consumer": true
   },
   {
-   "title": "Paxton and Talarico tussle for Texas Senate seat as Trump campaigns via telephone",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNHloVEIzZEI3TmxoR0JDdWdRWWhlTHB3eFBtcDRnZDFDMEl6RkpzSlRZd3NHM0EtUnRqX1F4Vlh0OGxvaUkyM21RdGlWdlNPT1Q4Mlh1X2ZtbjZqRi1GdWY2TFlCYjdpVDNVaHhQR25WY29MbWdybFFmb3ZXc0ZqSExhS3VRVElxdU9Wa3BjRlY5YVJkdWp2QTh4ZDhQNWZHaGxYbWhkU2M0QQ?oc=5",
-   "source": "AP News",
-   "impact": 1.5,
+   "title": "TFI International Q3 Earnings Call Highlights",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMzdSdzFrYzV5VTZwTUM2NW1XUGozYmVRQUx1dWt3am1NSlE0bkEwSzZSZGw5ZnNkbk1yREdSb0RBS1BVTVNNbUNGNTVjczc0Y3pxNTlTQkh4YkV1WGZaVFZMNFMwc0JwYjlneTVkdUlZZE1qX01iYkM0R3dQczR6VE9ZRDR6SV8wUHRWUG9YUjktdV95TjJwaU5FTjY3dFd6NjRPcEFMOUtpUQ?oc=5",
+   "source": "TradingView",
+   "impact": 1.7,
    "tickers": [],
    "sentiment_label": "neutral",
-   "seen_et": "Oct 31 06:46 PM ET",
+   "seen_et": "Oct 31 09:23 PM ET",
    "consumer": false
   },
   {
-   "title": "GoDaddy: 3 Key Takeaways for Long-Term Investors",
-   "link": "https://www.nasdaq.com/articles/godaddy-3-key-takeaways-long-term-investors",
-   "source": "Nasdaq Markets",
-   "impact": 1.5,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 31 06:46 PM ET",
-   "consumer": false
+   "title": "FedEx revenue rises 12% as international freight business grows",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLVJhLWV3VEN4U09QQlExVkRNN3N2QkYtdWlrRlNfcjdRb1EzS3lHM1U5bjlLZ2lSWFJTb1JYVkxFZ0p4aDJlaVZjZmtBY2pSOUNSUWNxVEEzSmZTeUdwaGstV196bVB4NVpvZUtJRHZ6aXgwQ2tmMHVZWENUa2FWWGozWXpObHNyZ19rUVBvajIzVjlw?oc=5",
+   "source": "Container News",
+   "impact": 3.1,
+   "tickers": [
+    "FDX"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Oct 31 09:23 PM ET",
+   "consumer": true
   },
   {
-   "title": "Over 40% of names on DOJ list of alleged noncitizens are not on Calif. voter rolls, analysis finds",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQjUwTHRGWWVLSHotdzBTellKb2pwRHFtcjRYb2pFaUlHcmN4WXdYaDVhVHAxQ3lyOUt4eG1yYzBfX2NGOUozNEpPUkd3Znk5eUhvR2xhMGlrRDJfNndOWFNuczhXRS1uTjdmcXltRVQweEpJQUJKWE9lRDlseFlMdFVPTVpsYVdNeUVlU3FJcU53OEhKb2U1SW5Vb0g4b1FXZTdpelNHYWxCXzBOMWI0bl82eWtqZkU?oc=5",
-   "source": "AP News",
-   "impact": 1.4,
+   "title": "Will Democrats Take Control of Congress? Here’s What the Latest Polls Show",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPN1JfT2dUNWJsdkhNU1hhWDBocUlUWEhnS1hJMURaaEVYV2NXZndhUjFNVkoxU3haUm95WkNaQnlBYjFLcHhxTmY4UWd0MzFJRHB0TkFYUWVydHA1SGFINGR6TGZZV2QxYjM2VmIyak9lTkUtUEVrX0tvS3ZrMUhfZm85bWZaNVhoamhoSVdaME5nbEw4VXcwSHN2MmljbGRhczczMWdn?oc=5",
+   "source": "GV Wire",
+   "impact": 0.1,
    "tickers": [],
    "sentiment_label": "neutral",
-   "seen_et": "Oct 31 06:46 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Tusk defends suspension of Poland’s Constitutional Tribunal president as protesters gather again",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaVVIM1owQ1djXzREamhGRFhZUHl5ZTBxN1FYUjBuZW5HVG90TGZfY2R5c1lkVmplYkhGbUNIZ3Q5Z3NXUEdzWndIS29xZzFINmVlcmZOV3hFcDZnS3JBRDZUdFBhTUh6VlVFY19vOUNjXzluSzNXRV82NWlrNXpteTNDemRDMnlSTzgxdmdydWJOWkkwUmw5b1J0cHZnZXYwcXFqdlFfVnZTQQ?oc=5",
-   "source": "AP News",
-   "impact": 1.9,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 31 06:46 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Why Does India Want To Make Its Own Shipping Containers",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVnNwVFU1RjRVMjJWNHB4MjF6QmQyWlA3ZXE5N2pfOUxQNG1DU3dwbVprZE5fOVZfcV9MSExkeG96TnlfcFZIbk40OW90S2xEdW5tN3NyMlFVRkpwLWZiRkpkZGE4eGRrNUpXUm9PNElVcS1XT1pjQ2UxU1loeTF4LVV1eUNXZldJc194SnQ5cF9uZkE5RFo0TGw3MmpWUXBYYVBvQXF4c1V0NlRVajE3Mm93M2FoT19ONjNhLQ?oc=5",
-   "source": "Upstox",
-   "impact": 1.9,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 31 06:46 PM ET",
+   "seen_et": "Oct 31 09:23 PM ET",
    "consumer": false
   }
  ],
@@ -1132,7 +1144,7 @@
  "economic_calendar": {
   "source": "RULE-BASED FALLBACK (approximate; live calendar unavailable)",
   "fallback": true,
-  "fetched_et": "Oct 31 07:30 PM ET",
+  "fetched_et": "Oct 31 09:23 PM ET",
   "events": [
    {
     "date": "2026-11-04",
@@ -2483,24 +2495,24 @@
  "sentiment_validation": {
   "logged": 4000,
   "min_sample": 100,
-  "generated_et": "Oct 31 08:05 PM ET",
+  "generated_et": "Oct 31 09:23 PM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
-    "n_scored": 3757,
-    "n_directional": 3160,
+    "n_scored": 3743,
+    "n_directional": 3151,
     "hit_rate": 49.5,
     "ci95": 1.7,
-    "corr": 0.0,
+    "corr": -0.0,
     "status": "NO EDGE (≈ coin flip)"
    },
    "r1d": {
     "name": "+1 day",
-    "n_scored": 3109,
-    "n_directional": 2667,
+    "n_scored": 3095,
+    "n_directional": 2658,
     "hit_rate": 50.1,
     "ci95": 1.9,
-    "corr": 0.015,
+    "corr": 0.014,
     "status": "NO EDGE (≈ coin flip)"
    }
   },
@@ -2582,98 +2594,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 31 08:04 PM ET",
+   "fetched_et": "Oct 31 09:23 PM ET",
    "newest_et": "Oct 31 07:56 PM ET",
    "newest": "2026-10-31T23:56:40+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 31 08:04 PM ET",
+   "fetched_et": "Oct 31 09:23 PM ET",
    "newest_et": "Oct 30 07:16 AM ET",
    "newest": "2026-10-30T11:16:46+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 31 08:04 PM ET",
+   "fetched_et": "Oct 31 09:23 PM ET",
    "newest_et": "Oct 31 08:00 AM ET",
    "newest": "2026-10-31T12:00:01+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 31 08:04 PM ET",
+   "fetched_et": "Oct 31 09:23 PM ET",
    "newest_et": "Oct 31 04:15 PM ET",
    "newest": "2026-10-31T20:15:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 31 08:04 PM ET",
+   "fetched_et": "Oct 31 09:23 PM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 31 08:04 PM ET",
-   "newest_et": "Oct 31 07:05 PM ET",
-   "newest": "2026-10-31T23:05:02+00:00"
+   "fetched_et": "Oct 31 09:23 PM ET",
+   "newest_et": "Oct 31 09:10 PM ET",
+   "newest": "2026-11-01T01:10:21+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 50,
-   "fetched_et": "Oct 31 08:04 PM ET",
+   "fetched_et": "Oct 31 09:23 PM ET",
    "newest_et": "Oct 30 05:34 PM ET",
    "newest": "2026-10-30T21:34:32+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 31 08:04 PM ET",
-   "newest_et": "Oct 30 09:48 PM ET",
-   "newest": "2026-10-31T01:48:00+00:00"
+   "fetched_et": "Oct 31 09:23 PM ET",
+   "newest_et": "Oct 31 06:13 PM ET",
+   "newest": "2026-10-31T22:13:26+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 31 08:04 PM ET",
-   "newest_et": "Oct 31 06:34 PM ET",
-   "newest": "2026-10-31T22:34:00+00:00"
+   "fetched_et": "Oct 31 09:23 PM ET",
+   "newest_et": "Oct 31 09:18 PM ET",
+   "newest": "2026-11-01T01:18:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 21,
-   "fetched_et": "Oct 31 08:04 PM ET",
+   "count": 51,
+   "fetched_et": "Oct 31 09:23 PM ET",
    "newest_et": "Oct 31 03:51 PM ET",
    "newest": "2026-10-31T19:51:44+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
    "count": 29,
-   "fetched_et": "Oct 31 08:04 PM ET",
-   "newest_et": "Oct 31 07:40 PM ET",
-   "newest": "2026-10-31T23:40:00+00:00"
+   "fetched_et": "Oct 31 09:23 PM ET",
+   "newest_et": "Oct 31 08:32 PM ET",
+   "newest": "2026-11-01T00:32:39+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 31 08:04 PM ET",
+   "fetched_et": "Oct 31 09:23 PM ET",
    "newest_et": "Oct 29 04:30 PM ET",
    "newest": "2026-10-29T20:30:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 31 08:04 PM ET",
-   "newest_et": "Oct 31 07:05 PM ET",
-   "newest": "2026-10-31T23:05:02+00:00"
+   "fetched_et": "Oct 31 09:23 PM ET",
+   "newest_et": "Oct 31 07:57 PM ET",
+   "newest": "2026-10-31T23:57:00+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Oct 31 08:04 PM ET"
+   "fetched_et": "Oct 31 09:23 PM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
@@ -2683,7 +2695,7 @@
   "Economic calendar": {
    "ok": false,
    "count": 3,
-   "fetched_et": "Oct 31 07:30 PM ET",
+   "fetched_et": "Oct 31 09:23 PM ET",
    "note": "RULE-BASED FALLBACK (approximate; live calendar unavailable)"
   }
  }
