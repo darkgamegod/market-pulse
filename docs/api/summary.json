@@ -1,12 +1,12 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Oct 31 11:16 PM ET",
- "generated_at": "2026-10-31T23:16:57.035914-04:00",
+ "generated_et": "Nov 01 12:22 AM ET",
+ "generated_at": "2026-11-01T00:22:40.564405-04:00",
  "session": "closed",
  "daily_report": {
-  "date": "2026-10-31",
-  "generated_et": "Sat Oct 31 2026, 12:27 AM ET"
+  "date": "2026-11-01",
+  "generated_et": "Sun Nov 01 2026, 12:23 AM ET"
  },
  "snapshot": [
   {
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 77617.69,
-   "pct": 0.54,
-   "asof_et": "Oct 31 11:17 PM ET",
+   "price": 77644.96,
+   "pct": 0.58,
+   "asof_et": "Nov 01 12:20 AM ET",
    "freshness": "delayed"
   },
   {
@@ -221,8 +221,8 @@
  "top_themes": [
   {
    "name": "Fed & Rates",
-   "count": 31,
-   "sentiment": 0.03,
+   "count": 34,
+   "sentiment": 0.15,
    "tickers": [
     "^TNX",
     "SPY",
@@ -232,83 +232,83 @@
     "DIA"
    ],
    "top_headline": {
-    "title": "Warsh wants the Fed to say less. Two officials are pushing for more transparency.",
-    "link": "https://www.marketwatch.com/story/the-fed-held-interest-rates-steady-but-these-officials-see-more-hikes-coming-soon-2098bbd8?mod=mw_rss_topstories",
-    "source": "MarketWatch Top",
-    "impact": 7.2,
+    "title": "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
+    "link": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html",
+    "source": "CNBC Markets",
+    "impact": 6.5,
     "sentiment_label": "bearish"
    }
   },
   {
    "name": "Inflation & Macro Data",
-   "count": 27,
-   "sentiment": -0.09,
+   "count": 25,
+   "sentiment": -0.18,
    "tickers": [
     "SPY",
     "^TNX",
-    "AAPL",
     "CL=F",
     "XLE",
-    "AMD"
+    "DIA",
+    "GC=F"
    ],
    "top_headline": {
-    "title": "Warsh wants the Fed to say less. Two officials are pushing for more transparency.",
-    "link": "https://www.marketwatch.com/story/the-fed-held-interest-rates-steady-but-these-officials-see-more-hikes-coming-soon-2098bbd8?mod=mw_rss_topstories",
-    "source": "MarketWatch Top",
-    "impact": 7.2,
+    "title": "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
+    "link": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html",
+    "source": "CNBC Markets",
+    "impact": 6.5,
     "sentiment_label": "bearish"
    }
   },
   {
-   "name": "Earnings & Guidance",
-   "count": 79,
-   "sentiment": 0.23,
+   "name": "Other Market News",
+   "count": 152,
+   "sentiment": 0.01,
    "tickers": [
-    "FDX",
-    "UPS",
-    "BTC-USD",
-    "COIN",
-    "AAPL",
-    "AMD"
+    "QQQ",
+    "BRK-B",
+    "MSFT",
+    "SBUX",
+    "^VIX",
+    "INTC"
    ],
    "top_headline": {
-    "title": "Cramer’s week ahead: Expect more volatility as tech earnings, midterms loom",
-    "link": "https://www.cnbc.com/2026/10/30/jim-cramer-week-ahead-apple-amd-jobs-report.html",
-    "source": "CNBC Top News",
-    "impact": 6.4,
+    "title": "Federal officials investigate arson at beleaguered police department in Mississippi",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbU5MbXRmeFNhTFoxNmNDeGVHeWQyX08tREttblVoMDg2ZjB5dU90dC1XNXdDaGh6MGE1TXdGVnNlQ1NZMzZDZXAzWDFnbDVLeVRHeDZvR3AyakN5aXBvZjNpd21YT0pKSkVCQ3ZqTVdDN1Zsb0dGekRqZXhVVzhNbGxFR0lJeTBhbDVPSUp3cmFqdVVMeTY1SEZ5Q09qTUZ5dlFERFBOR3c?oc=5",
+    "source": "AP News",
+    "impact": 4.9,
     "sentiment_label": "neutral"
    }
   },
   {
-   "name": "Trade, Tariffs & Geopolitics",
-   "count": 54,
-   "sentiment": -0.09,
+   "name": "Earnings & Guidance",
+   "count": 67,
+   "sentiment": 0.24,
    "tickers": [
-    "AAPL",
-    "AMD",
-    "^VIX",
-    "CVX",
-    "XOM",
-    "GC=F"
+    "GOOGL",
+    "FDX",
+    "LLY",
+    "SPY",
+    "^TNX",
+    "CL=F"
    ],
    "top_headline": {
-    "title": "Cramer’s week ahead: Expect more volatility as tech earnings, midterms loom",
-    "link": "https://www.cnbc.com/2026/10/30/jim-cramer-week-ahead-apple-amd-jobs-report.html",
-    "source": "CNBC Top News",
-    "impact": 6.4,
-    "sentiment_label": "neutral"
+    "title": "Indian shares rise after Fed holds rates steady; earnings-led gains boost optimism",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNHNOY0FUMC13dm8yaFFmRldOSzhIUkZnZGxNT1RidTVlSEN2dUZOODk0QmQ4dGY0cjBObExKUHRsTjFTbTV5dDdIcS1MN1IzRHB5R1d3c0RlR1pqMHJGLW14b1NFMXVjLUI4MnMyY2RJa2U3dTk1Mll4TGNlMGlTeF9GYUxZMVZXVUZCTFd5bVZtUGc0WmZqV1M3NEYtTkY5YmJPMFFUam0yLTN4NjZlUHJxS0ZaTHRhQ045UjR1UQ?oc=5",
+    "source": "Reuters",
+    "impact": 4.9,
+    "sentiment_label": "bullish"
    }
   },
   {
    "name": "Banks & Credit",
-   "count": 20,
-   "sentiment": 0.08,
+   "count": 19,
+   "sentiment": 0.09,
    "tickers": [
     "^TNX",
     "CL=F",
     "XLE",
     "SPY",
-    "NVDA"
+    "BAC"
    ],
    "top_headline": {
     "title": "'Godzilla El Niño' is wreaking havoc with Philippine central bank's inflation forecasts",
@@ -319,67 +319,180 @@
    }
   },
   {
-   "name": "Other Market News",
-   "count": 144,
-   "sentiment": -0.0,
+   "name": "Trade, Tariffs & Geopolitics",
+   "count": 52,
+   "sentiment": -0.16,
    "tickers": [
-    "INTC",
-    "QQQ",
-    "SPY",
+    "CL=F",
+    "XLE",
+    "AAPL",
     "DIA",
-    "MSFT",
-    "TSLA"
+    "PLTR",
+    "AMZN"
    ],
    "top_headline": {
-    "title": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
-    "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
-    "source": "Fed Press Releases",
-    "impact": 4.7,
+    "title": "Dow Jones Futures Loom After Stock Market Sell-Off; Apple, Palantir, Midterm Elections In Focus",
+    "link": "https://finance.yahoo.com/m/d0bc23d0-115b-314d-8989-07ca797bebfa/dow-jones-futures-loom-after.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "impact": 5.0,
+    "sentiment_label": "bearish"
+   }
+  },
+  {
+   "name": "Energy & Commodities",
+   "count": 13,
+   "sentiment": -0.13,
+   "tickers": [
+    "CL=F",
+    "XLE",
+    "GC=F",
+    "SPY",
+    "^TNX",
+    "DIA"
+   ],
+   "top_headline": {
+    "title": "Gold slides as higher US inflation reinforces Fed tightening bets",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYlhrT3hjaWJ0VXJlcHYxRUdvdVJsVEpGN2lzQXA4a1pLNW5SdklwTFpMYmRNTGRNQ2w2MTRTR2g0UUJfMkx0c21Ja1Fqbzd4eVk1U1gySHF5cnYwQ0FqUzFWWVVMVXpWaUMtQ3d2VGs1TERHQ0dtbFpMWWgxbVpoVS13bGRORTByVkZaS0piSjNxYTk0eUtoZ0ItV2wxbzNnOXhCM2R1bW1Sa1laZUE?oc=5",
+    "source": "Reuters",
+    "impact": 5.6,
     "sentiment_label": "bearish"
    }
   },
   {
    "name": "Shipping, Postage & Logistics",
    "count": 22,
-   "sentiment": 0.19,
+   "sentiment": 0.21,
    "tickers": [
     "FDX",
     "UPS",
     "GOOGL",
     "TGT",
-    "CL=F",
-    "XLE"
+    "AMZN"
    ],
    "top_headline": {
     "title": "Handheld package readers stolen from FedEx Shipping Center",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRHVvN0VQbWNpWXhaeFJudEhEbW1abC1kYTFrY1VseEpidGVuMnN4eU9GbTRsRHpoY3RCLTdPd2ZCQVZGX1VOZE1KVTV3X1FrTnhuLWdSYmFGYzlfTGdwdnA4bGo3a0dZVWZLV1pCMFFlSEZ1Uzcxc3pnLVNyNkd1ZWhkeGhEc3pLYlFyaFlNNmtJRURPYjg2T2M4Q2dnb0RVWURxdk9SaUNrSVk?oc=5",
-    "source": "Central Nebraska Today",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWnV2OUF5TVhlV0R5TnNzOWpxd0JWSjdDUjZhZjN1R3FfeUt6Ny1JcEVKeDJ5UW0zc2JRSl9aRG9LUFFYOEVTNkZkdElIOVh3cGZNdlZGVlp0MjZDUjBad3ZVaVk4MHNOd0dFN0ZsamFyRldEbkhxTUs0VGpWeHJHaHBPcnFzOGNaT2lya1lLTGY1VDNjX25vZmJGaFowU1RyS1NNSnFn?oc=5",
+    "source": "NewsBreak: Local News & Alerts",
     "impact": 4.8,
     "sentiment_label": "bearish"
-   }
-  },
-  {
-   "name": "AI & Semiconductors",
-   "count": 39,
-   "sentiment": -0.08,
-   "tickers": [
-    "INTC",
-    "AMZN",
-    "GOOGL",
-    "QQQ",
-    "SPY",
-    "AAPL"
-   ],
-   "top_headline": {
-    "title": "Midterms, Apple earnings, jobs report. Wall Street faces a big week ahead just as investors dump tech",
-    "link": "https://www.cnbc.com/2026/10/30/stock-market-next-week-outlook-for-nov-2-6-2026.html",
-    "source": "CNBC Top News",
-    "impact": 5.2,
-    "sentiment_label": "neutral"
    }
   }
  ],
  "breaking": [
+  {
+   "title": "UPS PAL Dog Halloween Costume khorasantimes.com",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XQVRXeFE2Z0hrYmlIMi1qVGRuaTdKUF9OYkd3RURibVExYTNtd0pQaXVoU2JsZDhtVzhtTG9oUnVpTl94dHc1V1l4dFR0Rmh6Q29xTmcxc0hxWFFmNTFhZFZjVjY4Vk8tdmRySm1FOFVXWE00SFE4eTln?oc=5",
+   "source": "khorasantimes.com",
+   "impact": 2.0,
+   "tickers": [
+    "UPS"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 01 12:23 AM ET",
+   "consumer": true
+  },
+  {
+   "title": "Gabby Williams leads Valkyries to WNBA championship in second season, beating Dream 68-63 in Game 7",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON2lBQVM2dU1OS3Nvb21jTmphSEdXdGhfdGp4Z2pIT1RwSWRybmJSZC1neV9WQ0pqMTNsUmRPd2hJdmd6NUREV3o0akVCODUxQ2lvaThjMjUxcGJNRUw0RjlBTmFGS1hRN3Rjd3Vha19lRlR3X3U4VS1fWmIzYjZFNnBhbGNMY3p2eGdiNEVPNTRKRzlrRmFnYm53?oc=5",
+   "source": "AP News",
+   "impact": 2.0,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 01 12:23 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Micron's Chinese Rival CXMT Just Grew Its Sales More Than Sevenfold. I'd Buy Micron Stock Now.",
+   "link": "https://www.fool.com/investing/2026/10/31/micron-s-chinese-rival-cxmt-just-grew-its-sales-more-than-sevenfold-i-d-buy-micron-stock-now/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.0,
+   "tickers": [
+    "MU"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 01 12:23 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Li Auto October Vehicle Deliveries Down",
+   "link": "https://www.nasdaq.com/articles/li-auto-october-vehicle-deliveries-down",
+   "source": "Nasdaq Markets",
+   "impact": 1.8,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 01 12:23 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Strategy's Michel Saylor Says the Next Bitcoin Bull Market Has Already Started. Here's Why He's Right.",
+   "link": "https://www.fool.com/investing/2026/10/31/strategys-michel-saylor-says-the-next-bitcoin-bull/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.1,
+   "tickers": [
+    "BTC-USD",
+    "COIN"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 01 12:23 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Before Buying Anthropic Stock, Here's What History Says About Investing in IPOs",
+   "link": "https://www.fool.com/investing/2026/10/31/before-buying-anthropic-stock-heres-what-history-s/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.1,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 01 12:23 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "UPS Stock Under Pressure As Wall Street Weighs Amazon Shipping Cuts — But Retail Bulls Remain Unfazed",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNVTlGUGJCZVVqa3RvcDItRnRreTVOc0hWUTlmcWhiU0FCOS1ETDMtaWxaT1AtcnJneWI5Tng2YllSQll6bkVaY1d2M29SM0RRc2hHbW1JNURPVW9aMVVQRTNVZy1DNW5GZ1pydHo2Y0pvU3k0MkNGOU1YdXBkMFJubC1wdG9CeEdiYVZIV0wyS0V3WlRreFF1OFNlSlJMTnA2aEdYcmJ4NXpHbEM3Q3htWXVzdmhUdVJ1b0dvbkxBdFZPQVg1WDZRVllLeGF5ZGxkallOYUlfZzVLREtrVDUwM0t5Z1ptSHZwcHlFWFlSa3ZJc2Q5blE?oc=5",
+   "source": "Stocktwits",
+   "impact": 4.6,
+   "tickers": [
+    "AMZN",
+    "UPS"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Nov 01 12:23 AM ET",
+   "consumer": true
+  },
+  {
+   "title": "Will Profit Guidance Jump Change Chow Tai Fook's (SEHK:1929) Narrative",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMjBvZjFuSktLY2JfLVhmcG5WR1hKbThXcHBDZ3I0LWVRNjhiOEt1M1Vzczd1VHR2eGVFWERpX0p3UV9TTXl6YUFjS2Y2cWs4MlBwcFBYUVZZdUl5OHdNR1hfcjB0VktTYjVqa0wzekpEUE0xMTFSTVZJdVM3d2h6UTFxUzlxUkRERTg0Z1VIUE5QMmJsdW5tR1dWeGFCWnVTaWJCYkV1akpwOEJUZ1lMSlFBTnNuOEY4VWxpeW1aanpHbjdTQXlvV3Y5UnNwbW9Ea2pvRndLT1JsSHpJM1V4YTc2OC1PQTJmSGfSAeoBQVVfeXFMTjIwb2YxbkpLS2NiXy1YZnBuVkdYSm04V3BwQ2dyNC1lUTY4YjhLdTNVc3M3dVR0dnhlRVhEaV9Kd1FfU015emFBY0tmNnFrODJQcHBQWFFWWXVJeTh3TUdYX3IwdFZLU2I1amtMM3pKRFBNMTExUk1WSXVTN3doelExcVM5cVJEREU4NGdVSFBOUDJibHVubUdXVnhhQlp1U2liQmJFdWpKcDhCVGdZTEpRQU5zbjhGOFVsaXltWmp6R243U0F5b1d2OVJzcG1vRGtqb0Z3S09SbEh6STNVeGE3NjgtT0EyZkhn?oc=5",
+   "source": "Simply Wall St",
+   "impact": 3.1,
+   "tickers": [
+    "GOOGL"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 01 12:23 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Renault stock in focus after Q3 revenue growth and guidance hold",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZkdqdGxydEF5WUhmZW1STEwxYzlHZmFvbHFDdlMwMFR6NE1ISmpXcURseHBCZUJMWWlCZ1NOVl9qc1hIUmFkY2FHanUyd0hwNEQ3UkFHYzZOcHB2cm9sZk1yX1AyLUs3X0t4UkZFb2dranhxbi1FWGF1dUpzWEVQX0ZnM2theGtBR2s4NWROTlJIem84WGNsZDlKWDVOODM3ekRQai11NmpuTy0zU1Y4aE9HT2QwWXNPdHdZUHZkVEtUeU5JOGc?oc=5",
+   "source": "ad-hoc-news.de",
+   "impact": 1.9,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 01 12:23 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Nasdaq 100 forecast: US tech stocks extend decline as AI concerns intensify",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSlNwdTVYMUNCNm4xR3lzcTBJRzNTSl94WUdLOHVzVWZ4T1dwWERSTjR6VFdrNDhQRUtFd3RpUXlYaElCM1luYjk1Q1huQk5kbUZKWlZ4eHlwN24zV2VNOVg2eC1ONzJMSHFQSzdhanJfcHJMY0oyTlNkTW5xRW5nWjBERTJIMldpbjBxN2pwYlR0N1BCbUs1SUdMQmdKMXFUcUtQT18tb0pEZVdjQ0gyaXdBS2hBRU9MbFE?oc=5",
+   "source": "FOREX.com",
+   "impact": 0.9,
+   "tickers": [
+    "QQQ"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 01 12:23 AM ET",
+   "consumer": false
+  },
   {
    "title": "AI investors rush to hedge against potential tech market downturn - WSJ",
    "link": "https://finance.yahoo.com/markets/options/articles/ai-investors-rush-hedge-against-030211499.html?.tsrc=rss",
@@ -491,106 +604,6 @@
    "sentiment_label": "neutral",
    "seen_et": "Oct 31 11:17 PM ET",
    "consumer": false
-  },
-  {
-   "title": "No. 4 Indiana needs matching 60-yard field goal, overtime stop to outlast Minnesota 23-16",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOWhHamZGTmZIZzllNWZGUWNDVW15eVQ5enBZTEF2bkpFNXViNnpWMzR0aU1xbDJvcndobEhJZFluVV9nVzhERzBjZUJ4T2ozaXlRckFTYUZqTWNRNEtMb0NYb0hUZmhaSmZuSUluRjdNR210OWFfMFQwQjhKX3dSR1F3?oc=5",
-   "source": "AP News",
-   "impact": 2.0,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 31 11:17 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "US plans to deport Afghans back to their home country through Pakistan, documents show",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZWpSODVTb3dmenRTb2tRX25LbTJITWlLM0l4bHFEQjVBMldXUGx1NFNyb2ZibFJaTk5ndnJfbmhEOEVOOXRvd1k3cTVKSDQtak9QVVA0SHpNY1dWUmtKWVV3dGFSbjd6WWd3Mzk3dkVIXy1vbVBRSnNfSncweWxpeVpGVldsYTRaQzRrQklSeEFGVVdPakxXUlNfOUcxODNveG9hRUY2dmVmZw?oc=5",
-   "source": "AP News",
-   "impact": 1.4,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 31 11:17 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week: NVDA, CRWD, MRVL, CRM, ASTS",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQV2FOajRUOWpYV3pzV0Q1UHU3cGJNQlRzcF9zMXdSUVdZNjRMWS1aTHRwZjhFWnZPRWt1aG9PV2g0V1A4dDV1MzUxUmtMQ3oxVjhTY0hKRHprdG1MdGcyWlZRMWxPcU1DVTJBRnh2YXBQMlFic1R2N0QxZ0ZvN2I1bTdNekJxYjVxdWJYSzFyY0VlRHFEbDJLbzhYeHo4X2tTSWs3YllaaS1HVXNkS2QtaGRmVk1TR3JwUmowMVZ1U3JnLWUzaUFfYzhtT0VuT2hRU3FrUEp1R09FZUZuWmY5SDNIMHdXMnpUWVI1bFpEZw?oc=5",
-   "source": "Stocktwits",
-   "impact": 1.1,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 31 11:17 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "B&M European Value Retail S.A. (BME.L) stock price, news, quote and history",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xUUUxd2NjZVdTT0ZfVHY3RnlzNmVXVDVuXzk4VmZKeVBQU08yd01PSU82MWtzXzF3MklGS2twVFh1TzhKck9JSTQwUXNyREhWOXcw?oc=5",
-   "source": "Yahoo Finance UK",
-   "impact": 1.0,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 31 11:17 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "Binance seeks to shore up confidence after record $6.3 billion heist",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT3g4aktSMUNOUXJpZ0NMa2hicVFaR28zZjd6NWF5Qkp5U1RfbURlMWRoc2oxa2wzb24yNUowQWNSSmhsanVLWUFfdUJYalF6b2l5eHFTSzctV0VPQlE0UEpBZm9BdkpJSFo5OTdXWDJINE1JWXVILUhvYk1JVlpKVzFvTGJTYzJGSlQ4VXB2ZnRnNHFORmRDTmdtOG1kam9wNTh3TWYyX1VFVmp4bzMxQ096eUdCTzNIRkVHNDZZelNjWkhpVWlV?oc=5",
-   "source": "Reuters",
-   "impact": 1.8,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 31 11:17 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Best Ecommerce Stocks To Add to Your Watchlist - October 30th",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNlE1SklBUTJUWlc2akFHXzdVYzR4cl9MTEJTZ2hqYmdpSXlfYTRxZzFnRW80NEIyLUJGQ1BuYWlmV2F6QU9HYWFUZmZ0N2pSd3phUU9kdjhtZ19BdTAzM3hMUW5EbXBJVzZVT2NQZDlYR3BrMGxSa2NFWXZ4ZVVLcVZwQkRhYm5mMUxraDlnN3VDY0tMTWVtT0lSVHpiUEFjN1BEWW9Mbnc0OXpfQkJzc0hwMDktMlVwenc?oc=5",
-   "source": "MarketBeat",
-   "impact": 1.1,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 31 11:17 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "Congressman Ditches Semiconductors, Data Storage: Here’s Three Stocks He Sold",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcDM5VVJaa09DaklIWm44eFFHa3dhT3VIcmdXbUZwSEtPczNWa2JaQXIzRk5IQ2RLd1FRVmdPME1KMGN6SnVMVkNUWHJYUlUzYmJURjFaT0pEbWZaV2pFNVdNYkVPcmlaOEdoYlBISkJiOURxTWhvdjRubkItWWtIcEVxWGFrVXlQaHVEOG5aYkc2TEJuQnFSelZsQ0VGaEhlT0R3ZzIxUXVTemVEc0htYzR1VExXUE9yajdlQkxNaWE3cW9CWlVRUkZsTmIzOUU?oc=5",
-   "source": "TradingView",
-   "impact": 0.0,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 31 11:17 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "CCC stock: November report set as platform rebrand advances",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSGxJTlA1RjJHU0laNEFJV1NTQVJyc1ZwMGxSR0MtR0Z5alBWMWpyeXlHWWpKWUk3bFpWTi05OUhrQW5za25VZk9mTmNEcUJGcmt3eTU4VFY5RjZQNVhEYU1PLU90VVA0U2JpOGdHRTVhaGpvWjVOVEpIV25oNlRSR3czUDExbHlOY2IzSVZvZzItSURHUkRrbjJ2WnIta29BbVoxVEtCVnI1WGpBVE1nb1ZBc1pzb2g2UmV2dHh3?oc=5",
-   "source": "ad-hoc-news.de",
-   "impact": 0.0,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Oct 31 11:17 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Could Hydration Pharmaceuticals (ASX:HPC) Sustain Its Lower Cost Base After August Profit?",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPM3FlUllpOENRMmFhelVsQ0hUR2V6UUtJMEd1NHhpTkdRcmdpTXBsZnROZTFIWU93ZjZTNUVtcVVyN2pPMjBzOTRsMnp2LVdfMTNmQlZDanVKNU1IWTdxNC11SEVSZWpXbW9rdmFETUE3c1hEeXBSYWU3SzZzZ2JvdHZHUEFCSXdFWmhhdExndjFOV3U2d0FkQ1FneGYzaGdDX2V5WUFZREJqeWpxTWdBR2hnYkw2VXRwelNQRHV1MFZyME9rLWl4M0lFZw?oc=5",
-   "source": "Kalkine",
-   "impact": 0.5,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Oct 31 11:17 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Binance does not need to sell SpaceX shares to cover losses, co-founder says",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVmZsWWgydERjZml4UkdNTHZsZlpSSFJWN2pxaTNtZldxcHVIOFhiNHh1d1NhdUpSMjJqWnVZTmtkSjRhQmUtcmltd1VhNElMWm40SWo2OVJraEU0eXFYeklzVmdLdEpFWFRidU9rVWtXRDZJQnJFaldsUVJfN2JxYWNDbkJvVXFTUTY4ZHZrc2I5Zi1oSk9HcnZTLTM3aHdDa0VlRVZtMlJMTFZpQUNDUHVwenBNZGFUdDhvRHFGRFFyRm5sM0h3?oc=5",
-   "source": "Reuters",
-   "impact": 0.3,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Oct 31 11:17 PM ET",
-   "consumer": false
   }
  ],
  "high_impact": [],
@@ -598,86 +611,34 @@
   {
    "ticker": "^TNX",
    "pct": -1.2,
-   "mentions": 21,
-   "sentiment": -0.08,
+   "mentions": 19,
+   "sentiment": 0.03,
    "why": {
-    "title": "Warsh wants the Fed to say less. Two officials are pushing for more transparency.",
-    "link": "https://www.marketwatch.com/story/the-fed-held-interest-rates-steady-but-these-officials-see-more-hikes-coming-soon-2098bbd8?mod=mw_rss_topstories",
-    "source": "MarketWatch Top",
-    "impact": 7.2,
+    "title": "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
+    "link": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html",
+    "source": "CNBC Markets",
+    "impact": 6.5,
     "sentiment_label": "bearish"
    }
   },
   {
    "ticker": "SPY",
    "pct": -1.59,
-   "mentions": 19,
-   "sentiment": 0.12,
-   "why": {
-    "title": "Warsh wants the Fed to say less. Two officials are pushing for more transparency.",
-    "link": "https://www.marketwatch.com/story/the-fed-held-interest-rates-steady-but-these-officials-see-more-hikes-coming-soon-2098bbd8?mod=mw_rss_topstories",
-    "source": "MarketWatch Top",
-    "impact": 7.2,
-    "sentiment_label": "bearish"
-   }
-  },
-  {
-   "ticker": "BTC-USD",
-   "pct": -0.81,
-   "mentions": 17,
-   "sentiment": 0.15,
-   "why": {
-    "title": "Coinbase and Kraken Ramp Up Security After Massive Binance Hack",
-    "link": "https://www.cryptoprowl.com/releases/coinbase-and-kraken-ramp-up-security-after-massive-binance-hack-7584?.tsrc=rss",
-    "source": "Yahoo Finance",
-    "impact": 3.6,
-    "sentiment_label": "bullish"
-   }
-  },
-  {
-   "ticker": "COIN",
-   "pct": null,
-   "mentions": 17,
-   "sentiment": 0.15,
-   "why": {
-    "title": "Coinbase and Kraken Ramp Up Security After Massive Binance Hack",
-    "link": "https://www.cryptoprowl.com/releases/coinbase-and-kraken-ramp-up-security-after-massive-binance-hack-7584?.tsrc=rss",
-    "source": "Yahoo Finance",
-    "impact": 3.6,
-    "sentiment_label": "bullish"
-   }
-  },
-  {
-   "ticker": "FDX",
-   "pct": null,
-   "mentions": 9,
-   "sentiment": 0.37,
-   "why": {
-    "title": "Handheld package readers stolen from FedEx Shipping Center",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRHVvN0VQbWNpWXhaeFJudEhEbW1abC1kYTFrY1VseEpidGVuMnN4eU9GbTRsRHpoY3RCLTdPd2ZCQVZGX1VOZE1KVTV3X1FrTnhuLWdSYmFGYzlfTGdwdnA4bGo3a0dZVWZLV1pCMFFlSEZ1Uzcxc3pnLVNyNkd1ZWhkeGhEc3pLYlFyaFlNNmtJRURPYjg2T2M4Q2dnb0RVWURxdk9SaUNrSVk?oc=5",
-    "source": "Central Nebraska Today",
-    "impact": 4.8,
-    "sentiment_label": "bearish"
-   }
-  },
-  {
-   "ticker": "INTC",
-   "pct": null,
    "mentions": 12,
-   "sentiment": -0.36,
+   "sentiment": 0.05,
    "why": {
-    "title": "AMD’s stock slides after Intel earnings reveal two big issues",
-    "link": "https://www.marketwatch.com/story/amds-stock-slides-after-intel-earnings-reveal-two-big-issues-d3afed91?mod=mw_rss_topstories",
-    "source": "MarketWatch Top",
-    "impact": 4.9,
+    "title": "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
+    "link": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html",
+    "source": "CNBC Markets",
+    "impact": 6.5,
     "sentiment_label": "bearish"
    }
   },
   {
    "ticker": "CL=F",
-   "pct": 0.93,
-   "mentions": 7,
-   "sentiment": -0.03,
+   "pct": 2.08,
+   "mentions": 8,
+   "sentiment": 0.01,
    "why": {
     "title": "'Godzilla El Niño' is wreaking havoc with Philippine central bank's inflation forecasts",
     "link": "https://www.cnbc.com/2026/10/14/godzilla-el-nino-asia-inflation-philippines.html",
@@ -689,8 +650,8 @@
   {
    "ticker": "XLE",
    "pct": 1.91,
-   "mentions": 7,
-   "sentiment": -0.03,
+   "mentions": 8,
+   "sentiment": 0.01,
    "why": {
     "title": "'Godzilla El Niño' is wreaking havoc with Philippine central bank's inflation forecasts",
     "link": "https://www.cnbc.com/2026/10/14/godzilla-el-nino-asia-inflation-philippines.html",
@@ -700,75 +661,101 @@
    }
   },
   {
+   "ticker": "FDX",
+   "pct": null,
+   "mentions": 7,
+   "sentiment": 0.24,
+   "why": {
+    "title": "Handheld package readers stolen from FedEx Shipping Center",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWnV2OUF5TVhlV0R5TnNzOWpxd0JWSjdDUjZhZjN1R3FfeUt6Ny1JcEVKeDJ5UW0zc2JRSl9aRG9LUFFYOEVTNkZkdElIOVh3cGZNdlZGVlp0MjZDUjBad3ZVaVk4MHNOd0dFN0ZsamFyRldEbkhxTUs0VGpWeHJHaHBPcnFzOGNaT2lya1lLTGY1VDNjX25vZmJGaFowU1RyS1NNSnFn?oc=5",
+    "source": "NewsBreak: Local News & Alerts",
+    "impact": 4.8,
+    "sentiment_label": "bearish"
+   }
+  },
+  {
+   "ticker": "BTC-USD",
+   "pct": 0.58,
+   "mentions": 11,
+   "sentiment": 0.22,
+   "why": {
+    "title": "Strategy's Michel Saylor Says the Next Bitcoin Bull Market Has Already Started. Here's Why He's Right.",
+    "link": "https://www.fool.com/investing/2026/10/31/strategys-michel-saylor-says-the-next-bitcoin-bull/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "impact": 3.1,
+    "sentiment_label": "bullish"
+   }
+  },
+  {
+   "ticker": "COIN",
+   "pct": null,
+   "mentions": 11,
+   "sentiment": 0.22,
+   "why": {
+    "title": "Strategy's Michel Saylor Says the Next Bitcoin Bull Market Has Already Started. Here's Why He's Right.",
+    "link": "https://www.fool.com/investing/2026/10/31/strategys-michel-saylor-says-the-next-bitcoin-bull/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "impact": 3.1,
+    "sentiment_label": "bullish"
+   }
+  },
+  {
    "ticker": "GOOGL",
    "pct": null,
-   "mentions": 8,
-   "sentiment": 0.08,
+   "mentions": 9,
+   "sentiment": 0.05,
    "why": {
-    "title": "FedEx Outage Today: Is FedEx Down Today in the US? Users Report Package Tracking, Delivery, Shipping, Login & Website Issues | FedEx Downdetector Status",
-    "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOS1VETk5RQXozVkFpQTVvRUVVck1qUTB4LXFtWmJadGN6YlhtQV9pQ2NHUFAxWENwZ2U3QnNXNS1RZTloa253ODJBLUZuak40T0dEbmhvQnQzcDRsTHc0R0FMT3FuR2ZURUIxckRkYWNrdXk4SmJVamdjc1RZaWJUUGcxd3hpaE9iR0xJRUJVRDBvOWYxTU1fOWdPX0ViWDVYdWs0b2duMDZkYURHWFhER08xcTlBMWNGdFZsX1RENWZJM2t3aWdBZ0RUeGE2cXhzdUEyZlhPRmpINkJRbFAwZGFQdEVuWHRPajA2YWFuYU9hcFRMeFFOc2h5UDI4WHBoWkZQQmxTeURLUjR2RHl3aVBZVDR6RDjSAZwCQVVfeXFMTTVRRzBKNGlYVEFPb0lIaGpkSGtLRVhtbVF0RWxvVXJrWFRfTFppalI4WXI0X2VNdHdvaldtclowS3RqSVNuQXhQRHphV3RxTU5OdEpfWnBscTE0Z3NLN0M5eHRlaloyMURSRExXMUtyb0dGNm43YkJSakhsMXROY0lJZWx2cEFrNEQ5YVUxVkF4SEtmTk1kX0pOOXBZeHBWMVllVUc0eFo5TzlqZ2RtSXc2ZzVHOFM4amlhVTQ3RXBRQzRENUtvdjREMWZiWkxTclJDQ0NaWlRMdWNmTXJrOFYzZExDenpIUWVZU3UzR29Lc29mRTVLUFVuRXRjOEhhbmtQbDlxcDZWSU95d29xT3pENFJuZ0FydGFXU3k?oc=5",
-    "source": "The Sunday Guardian",
+    "title": "FedEx (FDX), Why Is Its Latest Update Drawing Fresh Attention?",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb29CWTktY3dBRDdvOHZTZXpQRXpHUXdjV2lqaVpDb3V0aVFVVlRreVB1eXA4aXI4VGtDTnRKQ3BfTk9tTWtlUlpDdnhLRm54cV9zcFdYRHpGWHdpSjFMS0RkNFQwc2R3V0REU3YxVk4za1gwS3RBVW00YTRUSzd1c2xuaEp0X1NlYV9vQ2xKd0RMWXFVS1p3RGtycXMwM29iV3F6dEJtVkJES3I5N216aTMxRWxkM2NjdVdIQ3JYN253OTTSAcgBQVVfeXFMT1p6MmxCUDkzWHZUX1NIczFTdEdFem1PR1ZkS2JOUUJBNm1KcjFLblZFLXljVXRwUVd6MmtTVTJsQXVXUUFwVWp3UE1DWERGeGd2STFQWTNwbDlIMTh5bWVDQU9Rb3ZLem03WXVoTlFOdnNTLXBDeGI2SnNHQUtvYlZnc05CYmNPTng1dHVxWThwcE53bXVBWUxiaVRLZEpzQzVSS2xnNXdfSmFjUGtVS0VRTXJYeXBOakx1b1k5b2RQSjNJajFYYjQ?oc=5",
+    "source": "Simply Wall St",
+    "impact": 3.5,
+    "sentiment_label": "bullish"
+   }
+  },
+  {
+   "ticker": "INTC",
+   "pct": null,
+   "mentions": 6,
+   "sentiment": -0.2,
+   "why": {
+    "title": "Prediction: This Will Be Intel's Stock Price by Year-End 2027",
+    "link": "https://www.fool.com/investing/2026/10/31/prediction-this-will-be-intels-stock-price-by-year/?.tsrc=rss",
+    "source": "Yahoo Finance",
     "impact": 4.5,
-    "sentiment_label": "neutral"
+    "sentiment_label": "bullish"
    }
   },
   {
    "ticker": "AMZN",
    "pct": null,
-   "mentions": 8,
-   "sentiment": 0.21,
+   "mentions": 7,
+   "sentiment": 0.09,
    "why": {
-    "title": "Intel’s Agentic AI Overshadowed By Weak PC Sales; Soft Retail Overshadows Amazon AI; Record Crypto Heist",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOXBUMU11VnVEVUhuajBVNFJlaEt2SFFoUHIwbmRPUTBjZk9UZkZMZDNpaGFSVDhTLUM5UGtMa1NIZzVMZDFzOXlaZms4VHJ1WkpBQ0V0Tldoa213QWdVaEVwN2p0Z1I1LVJyRS1vdDJWMmplMTdRU1o1MllHTnoyV2VnTlVXYkIyY2hpTkNWTGhBRVUzRldEZ1BCY3ZKbDhyNkRkUFUwM1dHcHQ0LVJqNFRGU1Y1NmRQRU42Rk1tNUdWb2czOE5obl81T1JzX3dtaGl1WXJ5VDNMbTg?oc=5",
-    "source": "Benzinga",
-    "impact": 3.5,
-    "sentiment_label": "neutral"
+    "title": "UPS Stock Under Pressure As Wall Street Weighs Amazon Shipping Cuts — But Retail Bulls Remain Unfazed",
+    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNVTlGUGJCZVVqa3RvcDItRnRreTVOc0hWUTlmcWhiU0FCOS1ETDMtaWxaT1AtcnJneWI5Tng2YllSQll6bkVaY1d2M29SM0RRc2hHbW1JNURPVW9aMVVQRTNVZy1DNW5GZ1pydHo2Y0pvU3k0MkNGOU1YdXBkMFJubC1wdG9CeEdiYVZIV0wyS0V3WlRreFF1OFNlSlJMTnA2aEdYcmJ4NXpHbEM3Q3htWXVzdmhUdVJ1b0dvbkxBdFZPQVg1WDZRVllLeGF5ZGxkallOYUlfZzVLREtrVDUwM0t5Z1ptSHZwcHlFWFlSa3ZJc2Q5blE?oc=5",
+    "source": "Stocktwits",
+    "impact": 4.6,
+    "sentiment_label": "bearish"
    }
   },
   {
    "ticker": "UPS",
    "pct": null,
-   "mentions": 6,
-   "sentiment": 0.5,
+   "mentions": 7,
+   "sentiment": 0.11,
    "why": {
-    "title": "UPS vs. FedEx: Which Stock Is the Better Buy After Strong Q3 Results?",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObDk5NGNnOENEbmJycVlQSzNUQ1FSaWZSZXFsZ0pUMkI2MHA5cDVYcEpjalZTNlRRNlVwYS13ZGJqejlxd1NxSWxZNE1TUGlkbTRTRmhHNTIxTS10eFBEbkFSczJONkZiMDdDaXROdEljQUkzNWxCUlMycjdGOWRzQV9aa3hjT2M5ZTY4WkczUjZPVXRK?oc=5",
-    "source": "Yahoo Finance",
-    "impact": 3.9,
-    "sentiment_label": "bullish"
-   }
-  },
-  {
-   "ticker": "QQQ",
-   "pct": -3.16,
-   "mentions": 6,
-   "sentiment": -0.4,
-   "why": {
-    "title": "Has the tech bubble burst? Why the Nasdaq’s rough ride looks eerily like 2000.",
-    "link": "https://www.marketwatch.com/story/has-the-tech-bubble-burst-why-the-nasdaqs-rough-ride-looks-eerily-like-2000-5bcefcb2?mod=mw_rss_topstories",
-    "source": "MarketWatch Top",
-    "impact": 3.6,
+    "title": "UPS Stock Under Pressure As Wall Street Weighs Amazon Shipping Cuts — But Retail Bulls Remain Unfazed",
+    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNVTlGUGJCZVVqa3RvcDItRnRreTVOc0hWUTlmcWhiU0FCOS1ETDMtaWxaT1AtcnJneWI5Tng2YllSQll6bkVaY1d2M29SM0RRc2hHbW1JNURPVW9aMVVQRTNVZy1DNW5GZ1pydHo2Y0pvU3k0MkNGOU1YdXBkMFJubC1wdG9CeEdiYVZIV0wyS0V3WlRreFF1OFNlSlJMTnA2aEdYcmJ4NXpHbEM3Q3htWXVzdmhUdVJ1b0dvbkxBdFZPQVg1WDZRVllLeGF5ZGxkallOYUlfZzVLREtrVDUwM0t5Z1ptSHZwcHlFWFlSa3ZJc2Q5blE?oc=5",
+    "source": "Stocktwits",
+    "impact": 4.6,
     "sentiment_label": "bearish"
    }
   },
   {
-   "ticker": "AMD",
-   "pct": null,
-   "mentions": 3,
-   "sentiment": -0.16,
-   "why": {
-    "title": "Cramer’s week ahead: Expect more volatility as tech earnings, midterms loom",
-    "link": "https://www.cnbc.com/2026/10/30/jim-cramer-week-ahead-apple-amd-jobs-report.html",
-    "source": "CNBC Top News",
-    "impact": 6.4,
-    "sentiment_label": "neutral"
-   }
-  },
-  {
    "ticker": "GC=F",
-   "pct": -3.63,
-   "mentions": 3,
-   "sentiment": -0.44,
+   "pct": -3.29,
+   "mentions": 4,
+   "sentiment": -0.49,
    "why": {
     "title": "Gold slides as higher US inflation reinforces Fed tightening bets",
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYlhrT3hjaWJ0VXJlcHYxRUdvdVJsVEpGN2lzQXA4a1pLNW5SdklwTFpMYmRNTGRNQ2w2MTRTR2g0UUJfMkx0c21Ja1Fqbzd4eVk1U1gySHF5cnYwQ0FqUzFWWVVMVXpWaUMtQ3d2VGs1TERHQ0dtbFpMWWgxbVpoVS13bGRORTByVkZaS0piSjNxYTk0eUtoZ0ItV2wxbzNnOXhCM2R1bW1Sa1laZUE?oc=5",
@@ -778,23 +765,49 @@
    }
   },
   {
-   "ticker": "TSLA",
+   "ticker": "TGT",
    "pct": null,
-   "mentions": 4,
+   "mentions": 6,
+   "sentiment": 0.18,
+   "why": {
+    "title": "FedEx (FDX), Why Is Its Latest Update Drawing Fresh Attention?",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb29CWTktY3dBRDdvOHZTZXpQRXpHUXdjV2lqaVpDb3V0aVFVVlRreVB1eXA4aXI4VGtDTnRKQ3BfTk9tTWtlUlpDdnhLRm54cV9zcFdYRHpGWHdpSjFMS0RkNFQwc2R3V0REU3YxVk4za1gwS3RBVW00YTRUSzd1c2xuaEp0X1NlYV9vQ2xKd0RMWXFVS1p3RGtycXMwM29iV3F6dEJtVkJES3I5N216aTMxRWxkM2NjdVdIQ3JYN253OTTSAcgBQVVfeXFMT1p6MmxCUDkzWHZUX1NIczFTdEdFem1PR1ZkS2JOUUJBNm1KcjFLblZFLXljVXRwUVd6MmtTVTJsQXVXUUFwVWp3UE1DWERGeGd2STFQWTNwbDlIMTh5bWVDQU9Rb3ZLem03WXVoTlFOdnNTLXBDeGI2SnNHQUtvYlZnc05CYmNPTng1dHVxWThwcE53bXVBWUxiaVRLZEpzQzVSS2xnNXdfSmFjUGtVS0VRTXJYeXBOakx1b1k5b2RQSjNJajFYYjQ?oc=5",
+    "source": "Simply Wall St",
+    "impact": 3.5,
+    "sentiment_label": "bullish"
+   }
+  },
+  {
+   "ticker": "MSFT",
+   "pct": null,
+   "mentions": 5,
    "sentiment": 0.25,
    "why": {
-    "title": "Stocktwits Zero To Sixty: Rivian Raises Delivery Guidance On R2 Demand, Tesla Expands Robotaxi Fleet, And Ford Advances Low-Cost EV Plans",
-    "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-zero-to-sixty-rivian-beats-q3-estimates-on-r2-strength-and-raises-guidance-tesla-expands-robotaxi-fleet-and-ford-advances-low-cost-ev-plans/cZUKK8sR9cB?.tsrc=rss",
+    "title": "Microsoft (MSFT) Lands $25 Billion Bond Deal As AI Push Deepens",
+    "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-lands-25-billion-011021686.html?.tsrc=rss",
     "source": "Yahoo Finance",
-    "impact": 5.5,
+    "impact": 4.2,
     "sentiment_label": "bullish"
+   }
+  },
+  {
+   "ticker": "DIA",
+   "pct": -0.97,
+   "mentions": 4,
+   "sentiment": 0.12,
+   "why": {
+    "title": "Dow Jones Futures Loom After Stock Market Sell-Off; Apple, Palantir, Midterm Elections In Focus",
+    "link": "https://finance.yahoo.com/m/d0bc23d0-115b-314d-8989-07ca797bebfa/dow-jones-futures-loom-after.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "impact": 5.0,
+    "sentiment_label": "bearish"
    }
   }
  ],
  "movers": {
   "mode": "last session (market not in pre-market)",
   "basis": "opening gap (open vs prior close) of the last session; RVOL = session volume / 20-day avg",
-  "fetched_et": "Oct 31 11:17 PM ET",
+  "fetched_et": "Nov 01 12:22 AM ET",
   "gappers": [
    {
     "symbol": "INTC",
@@ -1133,7 +1146,7 @@
  "economic_calendar": {
   "source": "RULE-BASED FALLBACK (approximate; live calendar unavailable)",
   "fallback": true,
-  "fetched_et": "Oct 31 11:17 PM ET",
+  "fetched_et": "Nov 01 12:23 AM ET",
   "events": [
    {
     "date": "2026-11-04",
@@ -1163,7 +1176,7 @@
  },
  "earnings": {
   "source": "Nasdaq earnings calendar API (api.nasdaq.com), filtered to S&P 500 + watchlist",
-  "fetched_et": "Oct 31 10:21 PM ET",
+  "fetched_et": "Nov 01 12:23 AM ET",
   "events": [
    {
     "date": "2026-11-02",
@@ -2484,24 +2497,24 @@
  "sentiment_validation": {
   "logged": 4000,
   "min_sample": 100,
-  "generated_et": "Oct 31 11:17 PM ET",
+  "generated_et": "Nov 01 12:23 AM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
-    "n_scored": 3733,
-    "n_directional": 3144,
+    "n_scored": 3728,
+    "n_directional": 3142,
     "hit_rate": 49.5,
     "ci95": 1.7,
-    "corr": -0.0,
+    "corr": -0.001,
     "status": "NO EDGE (≈ coin flip)"
    },
    "r1d": {
     "name": "+1 day",
-    "n_scored": 3085,
-    "n_directional": 2651,
+    "n_scored": 3080,
+    "n_directional": 2649,
     "hit_rate": 50.1,
     "ci95": 1.9,
-    "corr": 0.014,
+    "corr": 0.013,
     "status": "NO EDGE (≈ coin flip)"
    }
   },
@@ -2583,108 +2596,108 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 31 11:16 PM ET",
+   "fetched_et": "Nov 01 12:22 AM ET",
    "newest_et": "Oct 31 07:56 PM ET",
    "newest": "2026-10-31T23:56:40+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 31 11:16 PM ET",
+   "fetched_et": "Nov 01 12:22 AM ET",
    "newest_et": "Oct 30 07:16 AM ET",
    "newest": "2026-10-30T11:16:46+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 31 11:16 PM ET",
+   "fetched_et": "Nov 01 12:22 AM ET",
    "newest_et": "Oct 31 08:00 AM ET",
    "newest": "2026-10-31T12:00:01+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Oct 31 11:16 PM ET",
+   "fetched_et": "Nov 01 12:22 AM ET",
    "newest_et": "Oct 31 04:15 PM ET",
    "newest": "2026-10-31T20:15:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Oct 31 11:16 PM ET",
+   "fetched_et": "Nov 01 12:22 AM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
-   "count": 20,
-   "fetched_et": "Oct 31 11:16 PM ET",
-   "newest_et": "Oct 31 11:02 PM ET",
-   "newest": "2026-11-01T03:02:11+00:00"
+   "count": 19,
+   "fetched_et": "Nov 01 12:22 AM ET",
+   "newest_et": "Oct 31 11:33 PM ET",
+   "newest": "2026-11-01T03:33:01+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 50,
-   "fetched_et": "Oct 31 11:16 PM ET",
+   "fetched_et": "Nov 01 12:22 AM ET",
    "newest_et": "Oct 31 09:59 PM ET",
    "newest": "2026-11-01T01:59:57+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 31 11:16 PM ET",
+   "fetched_et": "Nov 01 12:22 AM ET",
    "newest_et": "Oct 30 09:48 PM ET",
    "newest": "2026-10-31T01:48:00+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Oct 31 11:16 PM ET",
-   "newest_et": "Oct 31 09:56 PM ET",
-   "newest": "2026-11-01T01:56:00+00:00"
+   "fetched_et": "Nov 01 12:22 AM ET",
+   "newest_et": "Nov 01 12:04 AM ET",
+   "newest": "2026-11-01T04:04:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 22,
-   "fetched_et": "Oct 31 11:16 PM ET",
-   "newest_et": "Oct 31 10:32 PM ET",
-   "newest": "2026-11-01T02:32:59+00:00"
+   "count": 24,
+   "fetched_et": "Nov 01 12:22 AM ET",
+   "newest_et": "Nov 01 12:12 AM ET",
+   "newest": "2026-11-01T04:12:47+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
    "count": 47,
-   "fetched_et": "Oct 31 11:16 PM ET",
+   "fetched_et": "Nov 01 12:22 AM ET",
    "newest_et": "Oct 31 09:15 PM ET",
    "newest": "2026-11-01T01:15:23+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Oct 31 11:16 PM ET",
+   "fetched_et": "Nov 01 12:22 AM ET",
    "newest_et": "Oct 29 04:30 PM ET",
    "newest": "2026-10-29T20:30:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Oct 31 11:17 PM ET",
-   "newest_et": "Oct 31 10:52 PM ET",
-   "newest": "2026-11-01T02:52:01+00:00"
+   "fetched_et": "Nov 01 12:22 AM ET",
+   "newest_et": "Oct 31 11:33 PM ET",
+   "newest": "2026-11-01T03:33:01+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Oct 31 11:16 PM ET"
+   "fetched_et": "Nov 01 12:22 AM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
    "count": 146,
-   "fetched_et": "Oct 31 10:21 PM ET"
+   "fetched_et": "Nov 01 12:23 AM ET"
   },
   "Economic calendar": {
    "ok": false,
    "count": 3,
-   "fetched_et": "Oct 31 11:17 PM ET",
+   "fetched_et": "Nov 01 12:23 AM ET",
    "note": "RULE-BASED FALLBACK (approximate; live calendar unavailable)"
   }
  }
