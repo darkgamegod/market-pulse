@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Nov 01 03:18 AM ET",
- "generated_at": "2026-11-01T03:18:02.003758-05:00",
+ "generated_et": "Nov 01 04:16 AM ET",
+ "generated_at": "2026-11-01T04:16:34.682477-05:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-11-01",
@@ -70,7 +70,7 @@
    "label": "IWM",
    "price": 279.82,
    "pct": -1.48,
-   "asof_et": "Oct 30 07:55 PM ET",
+   "asof_et": "Oct 30 07:57 PM ET",
    "freshness": "closed"
   },
   {
@@ -114,6 +114,14 @@
    "freshness": "closed"
   },
   {
+   "symbol": "BTC-USD",
+   "label": "Bitcoin",
+   "price": 78052.39,
+   "pct": 0.8,
+   "asof_et": "Nov 01 04:15 AM ET",
+   "freshness": "delayed"
+  },
+  {
    "symbol": "XLK",
    "label": "Technology",
    "price": 180.15,
@@ -126,7 +134,7 @@
    "label": "Financials",
    "price": 56.58,
    "pct": -0.63,
-   "asof_et": "Oct 30 06:38 PM ET",
+   "asof_et": "Oct 30 06:35 PM ET",
    "freshness": "closed"
   },
   {
@@ -372,6 +380,108 @@
  ],
  "breaking": [
   {
+   "title": "Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered",
+   "link": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
+   "source": "CNBC Top News",
+   "impact": 1.6,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 01 04:18 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Here's Where I Think Meta Stock Will Be in 2030",
+   "link": "https://www.fool.com/investing/2026/11/01/here-s-where-i-think-meta-stock-will-be-in-2030/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.8,
+   "tickers": [
+    "META"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 01 04:18 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Social Security Cuts Could Happen in 6 Years. Here's How to Prepare",
+   "link": "https://www.nasdaq.com/articles/social-security-cuts-could-happen-6-years-heres-how-prepare",
+   "source": "Nasdaq Markets",
+   "impact": 2.1,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 01 04:18 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "3 Great Quality Stocks To Watch In November 2026",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/3-great-quality-stocks-watch-081255920.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.2,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 01 04:18 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "3 Growth Stocks Facing A Fed Rate Test Including Microsoft Stock",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-facing-fed-081112560.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 8.3,
+   "tickers": [
+    "MSFT",
+    "SPY",
+    "^TNX"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 01 04:18 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Apple CEO John Ternus Says ‘I Really Like Where We're At’ in AI Race: Won't ‘Ship AI for AI's Sake’",
+   "link": "https://finance.yahoo.com/technology/ai/articles/apple-ceo-john-ternus-says-073247018.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.0,
+   "tickers": [
+    "AAPL",
+    "AI",
+    "QQQ"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 01 04:18 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "No more washing up: How Airbnb's new house rules have divided hosts and guests",
+   "link": "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "impact": 2.2,
+   "tickers": [
+    "ABNB"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Nov 01 04:18 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Why are more roofs not made of solar tiles?",
+   "link": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "impact": 0.5,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 01 04:18 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Hibbett shares fall as Q1 sales miss analysts’ estimate",
+   "link": "https://www.marketwatch.com/story/hibbett-shares-fall-as-q1-sales-miss-analysts-estimate-801a7cb0?mod=mw_rss_marketpulse",
+   "source": "MarketWatch Pulse",
+   "impact": 0.1,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 01 04:18 AM ET",
+   "consumer": false
+  },
+  {
    "title": "Why the 27% Crash in ServiceNow's Stock Looks Like a Golden Opportunity",
    "link": "https://www.fool.com/investing/2026/11/01/why-the-27-crash-in-servicenows-stock-looks-like-a/?.tsrc=rss",
    "source": "Yahoo Finance",
@@ -484,107 +594,20 @@
    "sentiment_label": "bullish",
    "seen_et": "Nov 01 03:18 AM ET",
    "consumer": true
-  },
-  {
-   "title": "Karnataka Plans Measures To Curb Excessive Hospital Billing, Regulate Medicine Prices",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcFd0UGs0elA4VkVHa3A5Z3RIeUxSUVBVUnZYWmZ4b3RsNXBJLUdxUG16VWxfS2M2WUdBYUxpLWRJUlRHNTJZcXQyZ3J6LTI5M2M0YUo1Szk4endfZzZKcndNaXdUNnRjbG9vWlUzR1VlZ01GbDdDdnVLRFFhTU1HVEtxS3kxVkVyOGF6Yjluc0JfYVdpY1Mtdk5aRl83ajNCbTNXQ01sNkdoaG1HMFpOX2dqeUw3SUlpaXBjb2QzZGxKdEVQcWlvLVBrRWF3czDSAdQBQVVfeXFMUHFLa0FnUXJwUktRRUVrdm1XYVZKRWxHcjRBcHlNdHBUMlp6dmpxd1BEOVdWSTI5Q0sxbl9xTDZnb1ZUanpxNlllTDFuUWszeHN4M1dmVlFicW5rWUZ2WnRaZlJEY2M2NnlLUEx4Z0g4dU9Zcm1hamwwOW5RX3JaX0FTZko5c3F1b1U4UE1tQ1l4c3ZtODB4VGFhNDNZdGw1VnZfdW9OMHc5YXd6TzM1QmxDS3ZZYzNFU2lzb0hMaThjWlA5cTYwY3hWYVJFbkwxUjE2TS0?oc=5",
-   "source": "ETV Bharat",
-   "impact": 1.1,
-   "tickers": [
-    "GOOGL"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 01 03:18 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "SurgePays stock: iPMobile deal targets 15 rural broadband brands",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaTkxUVpxQ3JPUzRjLXdubzBGV2oxWGFRT0N5dXRFVUpnQUg5N0dWaVdlV2FBZWlyWURIdHJfRDRXak9SVE12dGIwSmtfZWdfdlFfUlVnNUxubmIzeDZERmlzR2FtZDdvVXdKb0dmWC1VMVZGdHpIT0J6ckdKYkl5SFZxZXl1bGZzTFFkWDlOZUxmVHQxdjlmSG9JZ1VFRkJpV044LU5Ya1VQbW5aLXFoZWg3eXFpazc5UVk0Y2VOUQ?oc=5",
-   "source": "ad-hoc-news.de",
-   "impact": 1.9,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 01 03:18 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Is Expansion Abroad Paying Off for Groupe Dynamite (TSX:GRGD) Shareholders?",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbVFFSnhKT0NpVmd6djRMUm1xd0NUTlpReTg3MTB5MGJrTHNiYlE2YlFSX2N6bGRXRUc1LUdCV2g0aVh1RWhFWEQ3eVZKR1dGVnlVSWFSQ3pucXhqOEN2YjBNQnlwUXZJb295MF9hN1I5UmE3N3VBSHUwcUNvU0RSUHl0Zjh4WGhRTTlTSXlUTTduRzd1YUowX1VaNE9lT3B2b2VCZC1paFB5ZEE3eGJPNno4cw?oc=5",
-   "source": "Kalkine Media",
-   "impact": 0.6,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 01 03:18 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Bond selloff slows but stocks wobble",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9OSWJsWHdJM0lqcXRXM2haU19uUUFKQUVPT3hEUk4xODhCckNDMUhXelV4SjhTclVzUFVJS0trNXpfNVoxQ015WW9ZNk9KdmZ1ZXp0Vk9hT0t1VnFLdUFkbVhWUHVyN0RSSkktLTdiUQ?oc=5",
-   "source": "DD News",
-   "impact": 2.5,
-   "tickers": [
-    "^TNX"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Nov 01 03:18 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Why The National Wealth Fund Shift To Defence Tech Changes E",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcEpfaFVpVlRuQWhuSzRRRDBmRlFYUS1UYm9ieE9Cb0pxQ3NHYmZ2QzRzb0xoY1ZLMmdpOVFvTTVyQ19haGZTQWwwQ2pnMXNWRjdxalBpdFdlcVczNW9Bd1FXZ19uQ09rSVY4X3Zwa1EzLVBCVlVGRzRpV21SUGp6N0h4RlcwU0stcFUxa1VFM3JjZ0lXV0dtRjBlQi0?oc=5",
-   "source": "ИФЗ РАН",
-   "impact": 0.9,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 01 03:18 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "FedEx Freight Soars 14% on Raised Outlook as CEO Touts “Strongest Renewal Pricing” in Years",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTUc2VW1rcEQyNDA3ZzRpZE0wczkwUnEyS0M1QzVyNVlNRHJLQVRjeUtnV3c1V0lrUHV6ZXRQaUw5enFiSDFMRmFhR2NZaDdEaFpMaTM3c3cwc0VfSnBBWDZkSG40YnRxZTFlQlM4WXFxVUlxTS00NU5EUDl4ajluZzRHRlNiZmF6Y0g3Uk5LNTEweTVBRm5sVllR?oc=5",
-   "source": "Yahoo Finance",
-   "impact": 4.2,
-   "tickers": [
-    "FDX"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 01 03:18 AM ET",
-   "consumer": true
-  },
-  {
-   "title": "Starbucks Stock Rises as U.S. Comparable Sales Climb 7.7%",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMXFqSHBXUXRnS290eWVaOF9sTERkV0lEalU3NGRZWEJ0WEZ4N0M2dUtBbnFIbUNkRktMX09FU2lmbi1NT1BQYmdRV0RiTnpVblNRSl9LeHZVaHVyWFhXcl9JY0xQMFBCWGZCeVBYS09NOG5HeEI4ZjBxdmJEMkR3ek4wWW5qQmIwemRxUG1LdzZLUkZndXk1R082bGdHZURhVjlKaEhsa2NEZGVJU1ZGc3o0V0hhQQ?oc=5",
-   "source": "TradingView",
-   "impact": 1.1,
-   "tickers": [
-    "SBUX"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 01 03:18 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "A pall on both Trump’s houses: MAGA’s midterm reckoning",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZE83M0tESDR4Vk02Wlg5QXhhMkRxVFEyRWVWaHpZVGZQQUh5MnZ1bFlLQnpfeGE4VlR6dWYxdzduaWxkb1lKM1ZjU1F2cXBRTjc1eTM3MTBrQ25nOGdpQWN6VHg3OUlEcmxvd3h0VHM5aHpqZVRTM3RnTF9wNmJjbkxyZ3Y3OWlaUmo0NGdjSkEweTN3RUE0V2FRWDNPQjhYcm5vcWRXODBsRXluUnpTSXhtX3lYbGpqTkQ1Q1hVdXpfdXVRNFBIaV9WY0E3MDBCUWY1TWx4MDhnZ2RF?oc=5",
-   "source": "The Australian",
-   "impact": 0.0,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 01 03:18 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Beloved Christmas tradition comes to heartbreaking end after 45 years as organizers confirm cancellation",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLXJMNnluSTNCWVlERDVNNEdhbTRhUy1WQzhJWk1qcmRkdEFwaVMzb1dnTEpybjhQTmJvUnUyZThTOTBiUTJqeXdQaHUzWlNWUXo4akI4elYyMk9ORnhieUlTZjVHd0VrQi1UckktU096ZlowSWdCVGFiaWhzZW92SFhxM3BHRGJZRmdNdVJ2bmVFUkU?oc=5",
-   "source": "The Sun",
-   "impact": 1.3,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 01 03:18 AM ET",
-   "consumer": false
   }
  ],
- "high_impact": [],
+ "high_impact": [
+  {
+   "title": "3 Growth Stocks Facing A Fed Rate Test Including Microsoft Stock",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-facing-fed-081112560.html?.tsrc=rss",
+   "impact": 8.3,
+   "tickers": [
+    "MSFT",
+    "SPY",
+    "^TNX"
+   ]
+  }
+ ],
  "watchlist": [
   {
    "ticker": "^TNX",
@@ -1124,7 +1147,7 @@
  "economic_calendar": {
   "source": "FairEconomy / ForexFactory weekly calendar (nfs.faireconomy.media)",
   "fallback": false,
-  "fetched_et": "Nov 01 02:23 AM ET",
+  "fetched_et": "Nov 01 04:18 AM ET",
   "events": [
    {
     "when_et": "Nov 01 02:00 AM ET",
@@ -1394,7 +1417,7 @@
  },
  "earnings": {
   "source": "Nasdaq earnings calendar API (api.nasdaq.com), filtered to S&P 500 + watchlist",
-  "fetched_et": "Nov 01 12:23 AM ET",
+  "fetched_et": "Nov 01 04:18 AM ET",
   "events": [
    {
     "date": "2026-11-02",
@@ -2715,21 +2738,21 @@
  "sentiment_validation": {
   "logged": 4000,
   "min_sample": 100,
-  "generated_et": "Nov 01 03:18 AM ET",
+  "generated_et": "Nov 01 04:18 AM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
-    "n_scored": 3719,
-    "n_directional": 3135,
+    "n_scored": 3712,
+    "n_directional": 3131,
     "hit_rate": 49.5,
     "ci95": 1.8,
-    "corr": -0.0,
+    "corr": 0.0,
     "status": "NO EDGE (≈ coin flip)"
    },
    "r1d": {
     "name": "+1 day",
-    "n_scored": 3071,
-    "n_directional": 2642,
+    "n_scored": 3064,
+    "n_directional": 2638,
     "hit_rate": 50.1,
     "ci95": 1.9,
     "corr": 0.013,
@@ -2814,108 +2837,100 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 01 03:18 AM ET",
-   "newest_et": "Nov 01 01:00 AM ET",
-   "newest": "2026-11-01T06:00:01+00:00"
+   "fetched_et": "Nov 01 04:16 AM ET",
+   "newest_et": "Nov 01 04:03 AM ET",
+   "newest": "2026-11-01T09:03:47+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 01 03:18 AM ET",
+   "fetched_et": "Nov 01 04:16 AM ET",
    "newest_et": "Oct 30 07:16 AM ET",
    "newest": "2026-10-30T11:16:46+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 01 03:18 AM ET",
+   "fetched_et": "Nov 01 04:16 AM ET",
    "newest_et": "Oct 31 08:00 AM ET",
    "newest": "2026-10-31T12:00:01+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Nov 01 03:18 AM ET",
+   "fetched_et": "Nov 01 04:16 AM ET",
    "newest_et": "Oct 31 04:15 PM ET",
    "newest": "2026-10-31T20:15:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 01 03:18 AM ET",
+   "fetched_et": "Nov 01 04:16 AM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 18,
-   "fetched_et": "Nov 01 03:18 AM ET",
-   "newest_et": "Nov 01 02:50 AM ET",
-   "newest": "2026-11-01T07:50:00+00:00"
+   "fetched_et": "Nov 01 04:16 AM ET",
+   "newest_et": "Nov 01 03:57 AM ET",
+   "newest": "2026-11-01T08:57:01+00:00"
   },
   "BBC Business": {
    "ok": true,
-   "count": 50,
-   "fetched_et": "Nov 01 03:18 AM ET",
-   "newest_et": "Nov 01 02:36 AM ET",
-   "newest": "2026-11-01T07:36:18+00:00"
+   "count": 51,
+   "fetched_et": "Nov 01 04:16 AM ET",
+   "newest_et": "Nov 01 03:43 AM ET",
+   "newest": "2026-11-01T08:43:00+00:00"
   },
   "Reuters (via Google News)": {
-   "ok": true,
-   "count": 60,
-   "fetched_et": "Nov 01 03:18 AM ET",
-   "newest_et": "Oct 30 09:48 PM ET",
-   "newest": "2026-10-31T01:48:00+00:00"
+   "ok": false,
+   "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:reuters.com+markets&hl=en-US&gl=US&ceid=US:en",
+   "fetched_et": "Nov 01 04:16 AM ET"
   },
   "AP Business (via Google News)": {
-   "ok": true,
-   "count": 60,
-   "fetched_et": "Nov 01 03:18 AM ET",
-   "newest_et": "Nov 01 02:02 AM ET",
-   "newest": "2026-11-01T07:02:00+00:00"
+   "ok": false,
+   "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:apnews.com+business&hl=en-US&gl=US&ceid=US:en",
+   "fetched_et": "Nov 01 04:17 AM ET"
   },
   "Shipping & Postage (via Google News)": {
-   "ok": true,
-   "count": 54,
-   "fetched_et": "Nov 01 03:18 AM ET",
-   "newest_et": "Nov 01 12:12 AM ET",
-   "newest": "2026-11-01T04:12:47+00:00"
+   "ok": false,
+   "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(USPS+OR+UPS+OR+FedEx)+(rates+OR+surcharge+OR+postage+OR+shipping)+when:2d&hl=en-US&gl=US&ceid=US:en",
+   "fetched_et": "Nov 01 04:17 AM ET"
   },
   "Retail & E-commerce (via Google News)": {
-   "ok": true,
-   "count": 55,
-   "fetched_et": "Nov 01 03:18 AM ET",
-   "newest_et": "Oct 31 08:32 PM ET",
-   "newest": "2026-11-01T00:32:39+00:00"
+   "ok": false,
+   "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(retail+sales+OR+e-commerce+OR+retailers)+stocks+when:2d&hl=en-US&gl=US&ceid=US:en",
+   "fetched_et": "Nov 01 04:18 AM ET"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Nov 01 03:18 AM ET",
+   "fetched_et": "Nov 01 04:18 AM ET",
    "newest_et": "Oct 29 04:30 PM ET",
    "newest": "2026-10-29T20:30:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Nov 01 03:18 AM ET",
-   "newest_et": "Nov 01 12:47 AM ET",
-   "newest": "2026-11-01T04:47:55+00:00"
+   "fetched_et": "Nov 01 04:18 AM ET",
+   "newest_et": "Nov 01 03:38 AM ET",
+   "newest": "2026-11-01T08:38:02+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
-   "count": 25,
-   "fetched_et": "Nov 01 03:18 AM ET"
+   "count": 26,
+   "fetched_et": "Nov 01 04:16 AM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
    "count": 146,
-   "fetched_et": "Nov 01 12:23 AM ET"
+   "fetched_et": "Nov 01 04:18 AM ET"
   },
   "Economic calendar": {
    "ok": true,
    "count": 33,
-   "fetched_et": "Nov 01 02:23 AM ET",
+   "fetched_et": "Nov 01 04:18 AM ET",
    "note": "FairEconomy / ForexFactory weekly calendar (nfs.faireconomy.media)"
   }
  }
