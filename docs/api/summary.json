@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Nov 02 05:15 PM ET",
- "generated_at": "2026-11-02T17:15:05.307594-05:00",
+ "generated_et": "Nov 02 05:58 PM ET",
+ "generated_at": "2026-11-02T17:58:31.623118-05:00",
  "session": "after-hours",
  "daily_report": {
   "date": "2026-11-02",
@@ -12,10 +12,10 @@
   {
    "symbol": "ES=F",
    "label": "S&P 500 Fut",
-   "price": 7587.25,
+   "price": 7587.0,
    "pct": -0.35,
    "asof_et": "Nov 02 04:55 PM ET",
-   "freshness": "delayed"
+   "freshness": "stale"
   },
   {
    "symbol": "NQ=F",
@@ -23,7 +23,7 @@
    "price": 28223.75,
    "pct": -1.09,
    "asof_et": "Nov 02 04:55 PM ET",
-   "freshness": "delayed"
+   "freshness": "stale"
   },
   {
    "symbol": "YM=F",
@@ -31,7 +31,7 @@
    "price": 52150.0,
    "pct": 0.45,
    "asof_et": "Nov 02 04:55 PM ET",
-   "freshness": "delayed"
+   "freshness": "stale"
   },
   {
    "symbol": "RTY=F",
@@ -39,22 +39,22 @@
    "price": 2820.0,
    "pct": -0.05,
    "asof_et": "Nov 02 04:55 PM ET",
-   "freshness": "delayed"
+   "freshness": "stale"
   },
   {
    "symbol": "SPY",
    "label": "SPY",
-   "price": 753.53,
-   "pct": -0.29,
-   "asof_et": "Nov 02 05:10 PM ET",
+   "price": 752.39,
+   "pct": -0.44,
+   "asof_et": "Nov 02 05:55 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "QQQ",
    "label": "QQQ",
-   "price": 683.32,
-   "pct": -1.04,
-   "asof_et": "Nov 02 05:15 PM ET",
+   "price": 681.69,
+   "pct": -1.27,
+   "asof_et": "Nov 02 05:55 PM ET",
    "freshness": "delayed"
   },
   {
@@ -62,15 +62,15 @@
    "label": "DIA",
    "price": 519.29,
    "pct": 0.42,
-   "asof_et": "Nov 02 05:11 PM ET",
+   "asof_et": "Nov 02 05:34 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "IWM",
    "label": "IWM",
-   "price": 279.58,
-   "pct": 0.09,
-   "asof_et": "Nov 02 05:12 PM ET",
+   "price": 279.24,
+   "pct": -0.03,
+   "asof_et": "Nov 02 05:50 PM ET",
    "freshness": "delayed"
   },
   {
@@ -87,7 +87,7 @@
    "price": 96.26,
    "pct": -7.55,
    "asof_et": "Nov 02 04:55 PM ET",
-   "freshness": "delayed"
+   "freshness": "stale"
   },
   {
    "symbol": "GC=F",
@@ -95,14 +95,14 @@
    "price": 3956.6,
    "pct": 1.48,
    "asof_et": "Nov 02 04:55 PM ET",
-   "freshness": "delayed"
+   "freshness": "stale"
   },
   {
    "symbol": "DX-Y.NYB",
    "label": "Dollar Index",
    "price": 101.79,
    "pct": -0.09,
-   "asof_et": "Nov 02 05:05 PM ET",
+   "asof_et": "Nov 02 05:45 PM ET",
    "freshness": "delayed"
   },
   {
@@ -116,89 +116,81 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 76732.81,
-   "pct": -1.94,
-   "asof_et": "Nov 02 05:15 PM ET",
+   "price": 76770.01,
+   "pct": -1.89,
+   "asof_et": "Nov 02 05:55 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "XLK",
    "label": "Technology",
-   "price": 174.57,
-   "pct": -2.75,
-   "asof_et": "Nov 02 04:50 PM ET",
+   "price": 173.68,
+   "pct": -3.25,
+   "asof_et": "Nov 02 05:55 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "XLF",
    "label": "Financials",
-   "price": 57.54,
-   "pct": 1.82,
-   "asof_et": "Nov 02 05:03 PM ET",
+   "price": 57.59,
+   "pct": 1.91,
+   "asof_et": "Nov 02 05:40 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "XLE",
    "label": "Energy",
-   "price": 67.45,
-   "pct": -3.67,
-   "asof_et": "Nov 02 05:12 PM ET",
+   "price": 67.59,
+   "pct": -3.47,
+   "asof_et": "Nov 02 05:35 PM ET",
    "freshness": "delayed"
-  },
-  {
-   "symbol": "XLV",
-   "label": "Health Care",
-   "price": 184.6,
-   "pct": -0.15,
-   "asof_et": "Nov 02 04:40 PM ET",
-   "freshness": "stale"
   },
   {
    "symbol": "XLY",
    "label": "Cons. Discretionary",
-   "price": 118.46,
-   "pct": 2.67,
-   "asof_et": "Nov 02 04:45 PM ET",
+   "price": 117.73,
+   "pct": 2.04,
+   "asof_et": "Nov 02 05:40 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "XLP",
    "label": "Cons. Staples",
-   "price": 90.85,
-   "pct": 1.6,
-   "asof_et": "Nov 02 05:12 PM ET",
+   "price": 90.88,
+   "pct": 1.63,
+   "asof_et": "Nov 02 05:51 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "XLI",
    "label": "Industrials",
-   "price": 170.06,
-   "pct": 1.59,
-   "asof_et": "Nov 02 04:25 PM ET",
-   "freshness": "stale"
+   "price": 169.94,
+   "pct": 1.52,
+   "asof_et": "Nov 02 05:25 PM ET",
+   "freshness": "delayed"
   },
   {
    "symbol": "XLB",
    "label": "Materials",
-   "price": 53.79,
-   "pct": 1.99,
-   "asof_et": "Nov 02 05:00 PM ET",
+   "price": 53.73,
+   "pct": 1.88,
+   "asof_et": "Nov 02 05:25 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "XLU",
    "label": "Utilities",
-   "price": 43.64,
-   "pct": 0.49,
-   "asof_et": "Nov 02 04:56 PM ET",
+   "price": 43.8,
+   "pct": 0.85,
+   "asof_et": "Nov 02 05:43 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "XLRE",
    "label": "Real Estate",
-   "price": 43.74,
-   "pct": 1.32,
-   "asof_et": "Nov 02 04:25 PM ET",
+   "price": 43.64,
+   "pct": 1.09,
+   "asof_et": "Nov 02 05:00 PM ET",
    "freshness": "stale"
   },
   {
@@ -206,15 +198,15 @@
    "label": "Communication",
    "price": 100.26,
    "pct": 0.36,
-   "asof_et": "Nov 02 04:05 PM ET",
+   "asof_et": "Nov 02 05:00 PM ET",
    "freshness": "stale"
   },
   {
    "symbol": "SMH",
    "label": "Semiconductors",
-   "price": 510.34,
-   "pct": -2.33,
-   "asof_et": "Nov 02 05:10 PM ET",
+   "price": 510.61,
+   "pct": -2.27,
+   "asof_et": "Nov 02 05:56 PM ET",
    "freshness": "delayed"
   }
  ],
@@ -380,244 +372,233 @@
  ],
  "breaking": [
   {
-   "title": "Apple beats on quarterly revenue in CEO John Ternus' first earnings report: Live updates",
+   "title": "Apple shares drop after CEO John Ternus' first earnings report: Live updates",
    "link": "https://www.cnbc.com/2026/11/02/apple-aapl-q4-2026-earnings-live-updates.html",
    "source": "CNBC Top News",
-   "impact": 5.0,
+   "impact": 4.8,
    "tickers": [
     "AAPL"
    ],
    "sentiment_label": "bullish",
-   "seen_et": "Nov 02 05:15 PM ET",
+   "seen_et": "Nov 02 05:58 PM ET",
    "consumer": false
   },
   {
-   "title": "Stocks making the biggest moves after hours: Fabrinet, Clorox, Apple, Palantir & more",
-   "link": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-after-hours-fn-clx-aapl-pltr.html",
-   "source": "CNBC Top News",
-   "impact": 2.5,
-   "tickers": [
-    "AAPL",
-    "PLTR"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 02 05:15 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Stock Market Today, Nov. 2: Amazon Rallies on Phillip Securities Buy Upgrade and $330 Target",
-   "link": "https://www.fool.com/coverage/stock-market-today/2026/11/02/stock-market-today-nov-2-amazon-rallies-on-phillip-securities-buy-upgrade-and-330-target/?.tsrc=rss",
+   "title": "AAPL Stock Ekes Out Minor Gains After-Hours After Tapering Q4 China Sales Growth Offsets Earnings Beat",
+   "link": "https://stocktwits.com/news-articles/markets/equity/aapl-stock-ekes-out-minor-gains-after-hours-after-tapering-q4-china-sales-growth-offsets-earnings-beat/cNGafTzR9Pu?.tsrc=rss",
    "source": "Yahoo Finance",
-   "impact": 4.7,
+   "impact": 4.1,
    "tickers": [
-    "AMZN",
-    "TGT"
+    "AAPL"
    ],
    "sentiment_label": "bullish",
-   "seen_et": "Nov 02 05:15 PM ET",
+   "seen_et": "Nov 02 05:58 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Stock Market Today, Nov. 2: Rivian Rallies on UBS Upgrade and Solid R2 Demand Outlook",
+   "link": "https://www.fool.com/coverage/stock-market-today/2026/11/02/stock-market-today-nov-2-rivian-rallies-on-ubs-upgrade-and-solid-r2-demand-outlook/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 5.6,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 02 05:58 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Shipping Deadlines For Holiday Season Presents 2026",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSUdhc3VOMnY0SENEQW1INGlEZDRKMUlna3kyMVNfMG02UDdYazl2OVBEYUhGNVJVWGRXNE44amdsVk9jeUpDeWJDOWxyT3pKYVVSQnZabU5pdDNKeXFzbHNIa3lpalQ5R3BlcGs4MkQ5eDlfU01ZMWlOU2p3emNtNmRGb29Wd2pVeGdnSEpkSjI2b3pBSjVVdmNoUU95SWZQV3MyQ2VhUDZYQV9qNXlobXJIdy05Y0NSYnp4Q1NJNHYxdw?oc=5",
+   "source": "KHTS Radio",
+   "impact": 4.0,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 02 05:58 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Push Ups With Rings - Push up with gymnastic rings in fitness gym Stock Photo Alamy",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tTVNjeTBGcUh4NXlsM2IzWGtleEJQT3g0bVZfWVdETnM3V3BtaklHRERqMWpKYWZZbHYwX3pFQ2d4QjBJWEcwcHhSSXpUUzF1UmU4?oc=5",
+   "source": "auroradesio.it",
+   "impact": 2.6,
+   "tickers": [
+    "UPS"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 02 05:58 PM ET",
    "consumer": true
   },
   {
-   "title": "Apple Posts Fiscal Q4 Beat On Strong iPhone, Services Sales",
-   "link": "https://finance.yahoo.com/m/b9cc1524-d563-386e-bcb1-0ef26820d429/apple-posts-fiscal-q4-beat-on.html?.tsrc=rss",
+   "title": "Apple posts stronger-than-expected Q4 revenue in first earnings report for new CEO John Ternus",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/apple-posts-stronger-expected-q4-223133053.html?.tsrc=rss",
    "source": "Yahoo Finance",
-   "impact": 2.6,
-   "tickers": [
-    "AAPL"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 02 05:15 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Why Indivior Pharmaceuticals Stock Topped the Market Today",
-   "link": "https://www.fool.com/investing/2026/11/02/why-indivior-pharmaceuticals-stock-topped-the-market-today/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 1.5,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 02 05:15 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Traders rushing into a leveraged ETF to make a bullish bet on the Nasdaq-100 just got burned",
-   "link": "https://www.marketwatch.com/story/traders-rushing-into-a-leveraged-etf-to-make-a-bullish-bet-on-the-nasdaq-100-just-got-burned-d6775191?mod=mw_rss_topstories",
-   "source": "MarketWatch Top",
-   "impact": 2.3,
-   "tickers": [
-    "QQQ"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 02 05:15 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Apple Sales Rise 12%; Tariff Refunds Pad EPS: Rapid Earnings Reaction",
-   "link": "https://www.fool.com/investing/2026/11/02/apple-sales-rise-12-tariff-refunds-pad-eps-rapid-earnings-reaction/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 5.8,
-   "tickers": [
-    "AAPL"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 02 05:15 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Apple's Fourth-Quarter Results Beat Estimates Amid Strong iPhone Sales",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/apple-apos-fourth-quarter-results-215948677.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.5,
-   "tickers": [
-    "AAPL"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 02 05:15 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Fabrinet's 51% Growth Comes at a Cash Cost: Rapid Earnings Reaction",
-   "link": "https://www.nasdaq.com/articles/fabrinets-51-growth-comes-cash-cost-rapid-earnings-reaction",
-   "source": "Nasdaq Markets",
-   "impact": 4.3,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 02 05:15 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Elizabeth Warren Wants to Break Up UnitedHealth, and One Day Later a Nonprofit Called It Undervalued",
-   "link": "https://247wallst.com/investing/2026/11/02/elizabeth-warren-wants-to-break-up-unitedhealth-and-one-day-later-a-nonprofit-called-it-undervalued/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.4,
-   "tickers": [
-    "UNH"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 02 05:15 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Despite Apple's earnings beat, Wall Street has a big 'concern' about next quarter",
-   "link": "https://finance.yahoo.com/video/despite-apples-earnings-beat-wall-street-has-a-big-concern-about-next-quarter-215437804.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 4.8,
+   "impact": 6.2,
    "tickers": [
     "AAPL",
-    "EPS"
+    "AMZN",
+    "GOOGL",
+    "INTC"
    ],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 02 05:15 PM ET",
-   "consumer": false
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 02 05:58 PM ET",
+   "consumer": true
   },
   {
-   "title": "Roku's Ads Drive a 7-Fold Jump in Profit: Rapid Earnings Reaction",
-   "link": "https://www.nasdaq.com/articles/rokus-ads-drive-7-fold-jump-profit-rapid-earnings-reaction",
-   "source": "Nasdaq Markets",
-   "impact": 3.1,
+   "title": "Why Franklin Electric Stock Raced 5% Higher on Monday",
+   "link": "https://www.fool.com/investing/2026/11/02/why-franklin-electric-stock-raced-5-higher-on-monday/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.0,
    "tickers": [],
    "sentiment_label": "bullish",
-   "seen_et": "Nov 02 05:15 PM ET",
+   "seen_et": "Nov 02 05:58 PM ET",
    "consumer": false
   },
   {
-   "title": "Dow Jones Futures: AI Trade Dives As Marvell, Lumentum Plunge; Apple Slides On Earnings With Midterm Elections Next",
-   "link": "https://finance.yahoo.com/m/4fe38c4f-79dc-38c4-99cf-7844e9e446ee/dow-jones-futures%3A-ai-trade.html?.tsrc=rss",
+   "title": "Micron Technology: Is This a Sign That Its Stock Has Already Peaked?",
+   "link": "https://www.fool.com/investing/2026/11/02/micron-technology-is-this-a-sign-that-its-stock-has-already-peaked/?.tsrc=rss",
    "source": "Yahoo Finance",
-   "impact": 5.6,
-   "tickers": [
-    "AAPL",
-    "DIA"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Nov 02 05:15 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "See Which Recent 13F Filers Hold UNH",
-   "link": "https://www.nasdaq.com/articles/see-which-recent-13f-filers-hold-unh",
-   "source": "Nasdaq Markets",
    "impact": 2.0,
    "tickers": [
-    "UNH"
+    "MU"
    ],
    "sentiment_label": "neutral",
-   "seen_et": "Nov 02 05:15 PM ET",
+   "seen_et": "Nov 02 05:58 PM ET",
    "consumer": false
   },
   {
-   "title": "Napco Security Technologies, Inc. Q1 2027 Earnings Call Summary",
-   "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-napco-security-technologies-inc-q1-2027-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+   "title": "Apple Q4 earnings call: Ternus breaks down 'excellent quarter'",
+   "link": "https://finance.yahoo.com/video/apple-q4-earnings-call-ternus-222700839.html?.tsrc=rss",
    "source": "Yahoo Finance",
-   "impact": 3.4,
+   "impact": 4.6,
+   "tickers": [
+    "AAPL"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 02 05:58 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Why Wingstop Stock Keeps Going Up",
+   "link": "https://www.fool.com/investing/2026/11/02/why-wingstop-stock-keeps-going-up/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.0,
    "tickers": [],
    "sentiment_label": "bullish",
-   "seen_et": "Nov 02 05:15 PM ET",
+   "seen_et": "Nov 02 05:58 PM ET",
    "consumer": false
   },
   {
-   "title": "Public Service Enterprise Group Incorporated Q3 2026 Earnings Call Summary",
-   "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-public-service-enterprise-group-incorporated-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+   "title": "Marvell Technology Is Acquiring Lumentum. Why Does the Market Hate the Move?",
+   "link": "https://www.fool.com/investing/2026/11/02/marvell-technology-is-acquiring-lumentum-why-does-the-market-hate-the-move/?.tsrc=rss",
    "source": "Yahoo Finance",
-   "impact": 2.7,
+   "impact": 1.9,
    "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 02 05:15 PM ET",
+   "sentiment_label": "bearish",
+   "seen_et": "Nov 02 05:58 PM ET",
    "consumer": false
   },
   {
-   "title": "Tower Semiconductor Ltd. Q3 2026 Earnings Call Summary",
-   "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-tower-semiconductor-ltd-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.7,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 02 05:15 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Acadia Realty Trust Q3 2026 Earnings Call Summary",
-   "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-acadia-realty-trust-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-   "source": "Yahoo Finance",
+   "title": "Aehr Revenue Triples as AI Orders Pile Up: Rapid Earnings Reaction",
+   "link": "https://www.nasdaq.com/articles/aehr-revenue-triples-ai-orders-pile-rapid-earnings-reaction",
+   "source": "Nasdaq Markets",
    "impact": 3.3,
    "tickers": [],
    "sentiment_label": "bullish",
-   "seen_et": "Nov 02 05:15 PM ET",
+   "seen_et": "Nov 02 05:58 PM ET",
    "consumer": false
   },
   {
-   "title": "The Estée Lauder Companies Inc. Q1 2027 Earnings Call Summary",
-   "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-the-est%C3%A9e-lauder-companies-inc-q1-2027-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.7,
+   "title": "Public Service Enterprise: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/public-service-enterprise-3-key-takeaways-long-term-investors",
+   "source": "Nasdaq Markets",
+   "impact": 4.2,
    "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 02 05:15 PM ET",
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 02 05:58 PM ET",
    "consumer": false
   },
   {
-   "title": "Choice Hotels International, Inc. Q3 2026 Earnings Call Summary",
-   "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-choice-hotels-international-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+   "title": "Tesla Has a Flying Car. What Does This Mean for Archer's Flying \"Taxi\" Business?",
+   "link": "https://www.fool.com/investing/2026/11/02/tesla-has-a-flying-car-what-mean-for-archer/?.tsrc=rss",
    "source": "Yahoo Finance",
-   "impact": 2.7,
-   "tickers": [],
+   "impact": 2.0,
+   "tickers": [
+    "TSLA"
+   ],
    "sentiment_label": "neutral",
-   "seen_et": "Nov 02 05:15 PM ET",
-   "consumer": false
-  }
- ],
- "high_impact": [
+   "seen_et": "Nov 02 05:58 PM ET",
+   "consumer": true
+  },
   {
-   "title": "Morgan Stanley Just Took a Chainsaw to Coinbase",
-   "link": "https://app.moby.co/home/news/news-coin-cut-down-by-morgan-stanleys-latest-note?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-   "impact": 7.3,
+   "title": "People Inc. Q3 Loss Widens Sharply",
+   "link": "https://www.nasdaq.com/articles/people-inc-q3-loss-widens-sharply",
+   "source": "Nasdaq Markets",
+   "impact": 2.1,
+   "tickers": [
+    "PPLI"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 02 05:58 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "UiPath vs. SentinelOne: Which Technology Stock Is a Better Buy for 2027?",
+   "link": "https://www.nasdaq.com/articles/uipath-vs-sentinelone-which-technology-stock-better-buy-2027",
+   "source": "Nasdaq Markets",
+   "impact": 2.4,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 02 05:58 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Musk warned America will go 1,000% bankrupt. Now U.S. debt tops $40 trillion and counting",
+   "link": "https://www.thestreet.com/crypto/markets/musk-warned-america-will-go-1000-bankrupt-now-u-s-debt-tops-40-trillion-and-counting?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 4.0,
+   "tickers": [
+    "TSLA"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Nov 02 05:58 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Lattice Semiconductor Q3 Profit Rises",
+   "link": "https://www.nasdaq.com/articles/lattice-semiconductor-q3-profit-rises",
+   "source": "Nasdaq Markets",
+   "impact": 3.0,
+   "tickers": [
+    "LSCC"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 02 05:58 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "$1,000 in Bitcoin at the 2017 Peak: What Is It Worth Now?",
+   "link": "https://247wallst.com/investing/cryptocurrency/2026/11/02/1000-in-bitcoin-at-the-2017-peak-what-is-it-worth-now/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.8,
    "tickers": [
     "BTC-USD",
-    "COIN",
-    "MS"
-   ]
+    "COIN"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 02 05:58 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Tactile Medical's Spending Outpaces Sales: Rapid Earnings Reaction",
+   "link": "https://www.nasdaq.com/articles/tactile-medicals-spending-outpaces-sales-rapid-earnings-reaction",
+   "source": "Nasdaq Markets",
+   "impact": 2.7,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 02 05:58 PM ET",
+   "consumer": false
   }
  ],
+ "high_impact": [],
  "watchlist": [
   {
    "ticker": "^TNX",
@@ -2731,21 +2712,21 @@
  "sentiment_validation": {
   "logged": 4000,
   "min_sample": 100,
-  "generated_et": "Nov 02 05:15 PM ET",
+  "generated_et": "Nov 02 05:58 PM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
-    "n_scored": 3920,
-    "n_directional": 3333,
-    "hit_rate": 50.2,
+    "n_scored": 3912,
+    "n_directional": 3328,
+    "hit_rate": 50.1,
     "ci95": 1.7,
     "corr": 0.006,
     "status": "NO EDGE (≈ coin flip)"
    },
    "r1d": {
     "name": "+1 day",
-    "n_scored": 3141,
-    "n_directional": 2703,
+    "n_scored": 3121,
+    "n_directional": 2685,
     "hit_rate": 50.7,
     "ci95": 1.9,
     "corr": -0.012,
@@ -2755,73 +2736,73 @@
   "status": "MEASURED",
   "recent": [
    {
+    "ticker": "BABA",
+    "sentiment": -0.25,
+    "title": "Fastest-Ship Wholesale Suppliers for US Resellers: Cutting Fees and Restock Time in 2026",
+    "r1h": -0.104,
+    "r1d": null
+   },
+   {
+    "ticker": "IWM",
+    "sentiment": 0.318,
+    "title": "Why McGrath RentCorp Stock Was Bumping Higher Today",
+    "r1h": -0.097,
+    "r1d": null
+   },
+   {
+    "ticker": "COIN",
+    "sentiment": -0.848,
+    "title": "Morgan Stanley Just Took a Chainsaw to Coinbase",
+    "r1h": -0.594,
+    "r1d": null
+   },
+   {
+    "ticker": "IWM",
+    "sentiment": 0.897,
+    "title": "Notable Monday Option Activity: LOVE, SNOW, ZVRA",
+    "r1h": -0.097,
+    "r1d": null
+   },
+   {
     "ticker": "AMZN",
-    "sentiment": 0.765,
-    "title": "Amazon: AWS, AI Chips, & Retail Expansion Spur Growth",
-    "r1h": -0.15,
+    "sentiment": 0.572,
+    "title": "Is Amazon Stock a Buy as Cloud Revenue Continues to Surge?",
+    "r1h": -0.478,
     "r1d": null
    },
    {
-    "ticker": "META",
-    "sentiment": -0.765,
-    "title": "Meta delays new business terms after outcry over potential web scraping of news sites",
-    "r1h": -0.149,
-    "r1d": null
-   },
-   {
-    "ticker": "SPY",
-    "sentiment": 0.527,
-    "title": "S&P 500 rises; Apple and Palantir set to report results",
-    "r1h": -0.001,
-    "r1d": null
-   },
-   {
-    "ticker": "PLTR",
-    "sentiment": 0.527,
-    "title": "S&P 500 rises; Apple and Palantir set to report results",
-    "r1h": 0.584,
-    "r1d": null
-   },
-   {
-    "ticker": "AAPL",
-    "sentiment": 0.527,
-    "title": "S&P 500 rises; Apple and Palantir set to report results",
-    "r1h": 0.293,
-    "r1d": null
-   },
-   {
-    "ticker": "SPY",
-    "sentiment": 0.459,
-    "title": "The Fed Is Suddenly on Hold. When Could It Start Hiking Interest Rates Again?",
-    "r1h": -0.001,
-    "r1d": null
-   },
-   {
-    "ticker": "SPY",
-    "sentiment": 0.718,
-    "title": "IDEXX Soars 20.2% on Earnings Beat: What It Means for Your S&P 500 Index Fund",
-    "r1h": -0.001,
-    "r1d": null
-   },
-   {
-    "ticker": "MSFT",
-    "sentiment": -0.691,
-    "title": "Apple Is Up 24% in 2026: Will AAPL Stock Hit $300 or $400 Next?",
+    "ticker": "ORCL",
+    "sentiment": -0.542,
+    "title": "Oracle Stock Tumbles. Its $20B Funding Plan Wasn’t the Surprise—the Speed Was.",
     "r1h": -0.344,
     "r1d": null
    },
    {
-    "ticker": "GOOGL",
-    "sentiment": -0.691,
-    "title": "Apple Is Up 24% in 2026: Will AAPL Stock Hit $300 or $400 Next?",
-    "r1h": -0.036,
+    "ticker": "PLTR",
+    "sentiment": 0.382,
+    "title": "Palantir reports booming U.S. commercial revenue growth, topping government for first time",
+    "r1h": -3.596,
     "r1d": null
    },
    {
-    "ticker": "AAPL",
-    "sentiment": -0.691,
-    "title": "Apple Is Up 24% in 2026: Will AAPL Stock Hit $300 or $400 Next?",
-    "r1h": 0.293,
+    "ticker": "MU",
+    "sentiment": 0.318,
+    "title": "Micron Expected to Launch Massive Stock Buybacks in December. What to Know.",
+    "r1h": -0.353,
+    "r1d": null
+   },
+   {
+    "ticker": "UPS",
+    "sentiment": 0.709,
+    "title": "United Parcel Service, Inc. (UPS) Stock Price, News, Quote & History",
+    "r1h": 0.046,
+    "r1d": null
+   },
+   {
+    "ticker": "AMZN",
+    "sentiment": 0.765,
+    "title": "Amazon: AWS, AI Chips, & Retail Expansion Spur Growth",
+    "r1h": -0.15,
     "r1d": null
    }
   ]
@@ -2830,98 +2811,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 02 05:15 PM ET",
-   "newest_et": "Nov 02 05:14 PM ET",
-   "newest": "2026-11-02T22:14:36+00:00"
+   "fetched_et": "Nov 02 05:58 PM ET",
+   "newest_et": "Nov 02 05:53 PM ET",
+   "newest": "2026-11-02T22:53:20+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 02 05:15 PM ET",
+   "fetched_et": "Nov 02 05:58 PM ET",
    "newest_et": "Nov 02 01:02 AM ET",
    "newest": "2026-11-02T06:02:03+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 02 05:15 PM ET",
+   "fetched_et": "Nov 02 05:58 PM ET",
    "newest_et": "Nov 02 09:09 AM ET",
    "newest": "2026-11-02T14:09:13+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Nov 02 05:15 PM ET",
+   "fetched_et": "Nov 02 05:58 PM ET",
    "newest_et": "Nov 02 05:03 PM ET",
    "newest": "2026-11-02T22:03:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 02 05:15 PM ET",
+   "fetched_et": "Nov 02 05:58 PM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
-   "count": 20,
-   "fetched_et": "Nov 02 05:15 PM ET",
-   "newest_et": "Nov 02 05:05 PM ET",
-   "newest": "2026-11-02T22:05:58+00:00"
+   "count": 17,
+   "fetched_et": "Nov 02 05:58 PM ET",
+   "newest_et": "Nov 02 05:41 PM ET",
+   "newest": "2026-11-02T22:41:49+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 49,
-   "fetched_et": "Nov 02 05:15 PM ET",
+   "fetched_et": "Nov 02 05:58 PM ET",
    "newest_et": "Nov 02 12:38 PM ET",
    "newest": "2026-11-02T17:38:11+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Nov 02 05:15 PM ET",
+   "fetched_et": "Nov 02 05:58 PM ET",
    "newest_et": "Nov 02 04:37 PM ET",
    "newest": "2026-11-02T21:37:54+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Nov 02 05:15 PM ET",
-   "newest_et": "Nov 02 04:02 PM ET",
-   "newest": "2026-11-02T21:02:00+00:00"
+   "fetched_et": "Nov 02 05:58 PM ET",
+   "newest_et": "Nov 02 04:50 PM ET",
+   "newest": "2026-11-02T21:50:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 55,
-   "fetched_et": "Nov 02 05:15 PM ET",
-   "newest_et": "Nov 02 03:45 PM ET",
-   "newest": "2026-11-02T20:45:51+00:00"
+   "count": 26,
+   "fetched_et": "Nov 02 05:58 PM ET",
+   "newest_et": "Nov 02 05:34 PM ET",
+   "newest": "2026-11-02T22:34:56+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
    "count": 29,
-   "fetched_et": "Nov 02 05:15 PM ET",
-   "newest_et": "Nov 02 03:49 PM ET",
-   "newest": "2026-11-02T20:49:26+00:00"
+   "fetched_et": "Nov 02 05:58 PM ET",
+   "newest_et": "Nov 02 05:41 PM ET",
+   "newest": "2026-11-02T22:41:49+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Nov 02 05:15 PM ET",
+   "fetched_et": "Nov 02 05:58 PM ET",
    "newest_et": "Oct 29 04:30 PM ET",
    "newest": "2026-10-29T20:30:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Nov 02 05:15 PM ET",
-   "newest_et": "Nov 02 04:56 PM ET",
-   "newest": "2026-11-02T21:56:59+00:00"
+   "fetched_et": "Nov 02 05:58 PM ET",
+   "newest_et": "Nov 02 05:27 PM ET",
+   "newest": "2026-11-02T22:27:02+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
-   "count": 26,
-   "fetched_et": "Nov 02 05:15 PM ET"
+   "count": 25,
+   "fetched_et": "Nov 02 05:58 PM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
