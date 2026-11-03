@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Nov 03 12:35 PM ET",
- "generated_at": "2026-11-03T12:35:18.626097-05:00",
+ "generated_et": "Nov 03 01:28 PM ET",
+ "generated_at": "2026-11-03T13:28:43.969530-05:00",
  "session": "regular",
  "daily_report": {
   "date": "2026-11-03",
@@ -10,211 +10,203 @@
  },
  "snapshot": [
   {
-   "symbol": "ES=F",
-   "label": "S&P 500 Fut",
-   "price": 7604.75,
-   "pct": 0.4,
-   "asof_et": "Nov 03 12:25 PM ET",
-   "freshness": "delayed"
-  },
-  {
    "symbol": "NQ=F",
    "label": "Nasdaq 100 Fut",
-   "price": 28373.5,
-   "pct": 0.87,
-   "asof_et": "Nov 03 12:25 PM ET",
+   "price": 28383.75,
+   "pct": 0.91,
+   "asof_et": "Nov 03 01:15 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "YM=F",
    "label": "Dow Fut",
-   "price": 51860.0,
-   "pct": -0.52,
-   "asof_et": "Nov 03 12:25 PM ET",
+   "price": 52005.0,
+   "pct": -0.25,
+   "asof_et": "Nov 03 01:15 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "RTY=F",
    "label": "Russell 2000 Fut",
-   "price": 2833.7,
-   "pct": 0.56,
-   "asof_et": "Nov 03 12:25 PM ET",
+   "price": 2836.9,
+   "pct": 0.68,
+   "asof_et": "Nov 03 01:15 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "SPY",
    "label": "SPY",
-   "price": 754.92,
-   "pct": 0.38,
-   "asof_et": "Nov 03 12:35 PM ET",
+   "price": 756.28,
+   "pct": 0.56,
+   "asof_et": "Nov 03 01:25 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "QQQ",
    "label": "QQQ",
-   "price": 686.46,
-   "pct": 0.79,
-   "asof_et": "Nov 03 12:35 PM ET",
+   "price": 687.13,
+   "pct": 0.89,
+   "asof_et": "Nov 03 01:25 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "DIA",
    "label": "DIA",
-   "price": 516.55,
-   "pct": -0.54,
-   "asof_et": "Nov 03 12:35 PM ET",
+   "price": 518.09,
+   "pct": -0.24,
+   "asof_et": "Nov 03 01:25 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "IWM",
    "label": "IWM",
-   "price": 280.58,
-   "pct": 0.52,
-   "asof_et": "Nov 03 12:35 PM ET",
+   "price": 281.11,
+   "pct": 0.71,
+   "asof_et": "Nov 03 01:25 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "^VIX",
    "label": "VIX",
-   "price": 20.83,
-   "pct": -1.51,
-   "asof_et": "Nov 03 12:20 PM ET",
+   "price": 20.44,
+   "pct": -3.36,
+   "asof_et": "Nov 03 01:10 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "CL=F",
    "label": "WTI Crude",
-   "price": 96.11,
-   "pct": -0.36,
-   "asof_et": "Nov 03 12:25 PM ET",
+   "price": 95.89,
+   "pct": -0.59,
+   "asof_et": "Nov 03 01:15 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "GC=F",
    "label": "Gold",
-   "price": 3939.1,
-   "pct": -0.77,
-   "asof_et": "Nov 03 12:25 PM ET",
+   "price": 3942.3,
+   "pct": -0.69,
+   "asof_et": "Nov 03 01:15 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "DX-Y.NYB",
    "label": "Dollar Index",
-   "price": 101.82,
-   "pct": 0.07,
-   "asof_et": "Nov 03 12:25 PM ET",
+   "price": 101.79,
+   "pct": 0.03,
+   "asof_et": "Nov 03 01:15 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "^TNX",
    "label": "10Y Yield",
-   "price": 4.96,
-   "pct": 1.31,
-   "asof_et": "Nov 03 12:20 PM ET",
+   "price": 4.95,
+   "pct": 1.23,
+   "asof_et": "Nov 03 01:10 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 77571.98,
+   "price": 77572.11,
    "pct": 1.17,
-   "asof_et": "Nov 03 12:35 PM ET",
+   "asof_et": "Nov 03 01:25 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "XLK",
    "label": "Technology",
-   "price": 176.74,
-   "pct": 1.45,
-   "asof_et": "Nov 03 12:35 PM ET",
+   "price": 176.84,
+   "pct": 1.5,
+   "asof_et": "Nov 03 01:25 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "XLF",
    "label": "Financials",
-   "price": 57.15,
-   "pct": -0.72,
-   "asof_et": "Nov 03 12:35 PM ET",
+   "price": 57.31,
+   "pct": -0.43,
+   "asof_et": "Nov 03 01:25 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "XLE",
    "label": "Energy",
-   "price": 67.07,
-   "pct": -0.28,
-   "asof_et": "Nov 03 12:35 PM ET",
+   "price": 67.11,
+   "pct": -0.2,
+   "asof_et": "Nov 03 01:25 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "XLV",
    "label": "Health Care",
-   "price": 184.64,
-   "pct": 0.02,
-   "asof_et": "Nov 03 12:35 PM ET",
+   "price": 184.98,
+   "pct": 0.21,
+   "asof_et": "Nov 03 01:25 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "XLY",
    "label": "Cons. Discretionary",
-   "price": 116.94,
-   "pct": -1.03,
-   "asof_et": "Nov 03 12:35 PM ET",
+   "price": 117.31,
+   "pct": -0.72,
+   "asof_et": "Nov 03 01:25 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "XLP",
    "label": "Cons. Staples",
-   "price": 89.18,
-   "pct": -1.81,
-   "asof_et": "Nov 03 12:35 PM ET",
+   "price": 89.31,
+   "pct": -1.68,
+   "asof_et": "Nov 03 01:25 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "XLI",
    "label": "Industrials",
-   "price": 171.56,
-   "pct": 1.09,
-   "asof_et": "Nov 03 12:35 PM ET",
+   "price": 171.91,
+   "pct": 1.3,
+   "asof_et": "Nov 03 01:25 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "XLB",
    "label": "Materials",
-   "price": 52.66,
-   "pct": -1.88,
-   "asof_et": "Nov 03 12:35 PM ET",
+   "price": 52.79,
+   "pct": -1.63,
+   "asof_et": "Nov 03 01:25 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "XLU",
    "label": "Utilities",
-   "price": 43.53,
-   "pct": -0.31,
-   "asof_et": "Nov 03 12:30 PM ET",
+   "price": 43.62,
+   "pct": -0.1,
+   "asof_et": "Nov 03 01:25 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "XLRE",
    "label": "Real Estate",
-   "price": 43.47,
-   "pct": -0.39,
-   "asof_et": "Nov 03 12:35 PM ET",
+   "price": 43.54,
+   "pct": -0.23,
+   "asof_et": "Nov 03 01:25 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "XLC",
    "label": "Communication",
-   "price": 101.48,
-   "pct": 1.22,
-   "asof_et": "Nov 03 12:35 PM ET",
+   "price": 101.45,
+   "pct": 1.18,
+   "asof_et": "Nov 03 01:25 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "SMH",
    "label": "Semiconductors",
-   "price": 520.8,
-   "pct": 2.46,
-   "asof_et": "Nov 03 12:35 PM ET",
+   "price": 519.94,
+   "pct": 2.29,
+   "asof_et": "Nov 03 01:25 PM ET",
    "freshness": "delayed"
   }
  ],
@@ -377,241 +369,233 @@
  ],
  "breaking": [
   {
-   "title": "Midterm elections 2026 live updates: Economy, inflation and voter concerns",
+   "title": "Once election results are in, here’s what investors should focus on next",
+   "link": "https://www.marketwatch.com/story/once-election-results-are-in-heres-what-investors-should-focus-on-next-75c5ac5d?mod=mw_rss_topstories",
+   "source": "MarketWatch Top",
+   "impact": 1.8,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 03 01:29 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Midterm elections 2026 live updates: Economy, inflation and other voter concerns",
    "link": "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html",
    "source": "CNBC Top News",
    "impact": 3.3,
    "tickers": [],
    "sentiment_label": "neutral",
-   "seen_et": "Nov 03 12:35 PM ET",
+   "seen_et": "Nov 03 01:29 PM ET",
    "consumer": false
   },
   {
-   "title": "My father has Alzheimer’s and his caregiver is using his debit card for DoorDash. Should I intervene?",
-   "link": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
-   "source": "MarketWatch Top",
-   "impact": 2.3,
-   "tickers": [
-    "DASH"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Nov 03 12:35 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Palantir sinks 2% after earnings as analysts point to slowdown in total contract value",
-   "link": "https://www.cnbc.com/2026/11/03/apple-palantir-stock-earnings.html",
+   "title": "Stocks making the biggest moves midday: Apple, Palantir, Nvidia, Coinbase, Bloom Energy & more",
+   "link": "https://www.cnbc.com/2026/11/03/stocks-making-the-biggest-moves-midday-aapl-pltr-nvda-coin-be.html",
    "source": "CNBC Top News",
-   "impact": 4.7,
+   "impact": 3.7,
    "tickers": [
+    "AAPL",
+    "COIN",
+    "NVDA",
     "PLTR"
    ],
    "sentiment_label": "bullish",
-   "seen_et": "Nov 03 12:35 PM ET",
+   "seen_et": "Nov 03 01:29 PM ET",
    "consumer": false
   },
   {
-   "title": "Nvidia Stocks Rebound 2.84% Before November 17 AI Earnings Check",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stocks-rebound-2-84-172150506.html?.tsrc=rss",
+   "title": "What does it mean for the AI trade that Apple is the priciest 'Mag 7' stock?",
+   "link": "https://finance.yahoo.com/video/what-does-it-mean-for-the-ai-trade-that-apple-is-the-priciest-mag-7-stock-181745077.html?.tsrc=rss",
    "source": "Yahoo Finance",
-   "impact": 4.8,
+   "impact": 4.3,
    "tickers": [
-    "NVDA"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Nov 03 12:35 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "CoreWeave's 15% Bond Yield Is a Warning for AI Debt. Here Are the Stocks Most Exposed.",
-   "link": "https://www.fool.com/investing/2026/11/03/coreweaves-bond-yield-is-a-warning-for-ai-debt/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.6,
-   "tickers": [
-    "^TNX"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Nov 03 12:35 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Netflix Trades at a Discount to the S&P 500's Valuation. Is It Deserved?",
-   "link": "https://www.fool.com/investing/2026/11/03/netflix-trades-at-a-discount-to-the-sp-500s-valuat/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.6,
-   "tickers": [
-    "NFLX",
-    "SPY"
+    "AAPL"
    ],
    "sentiment_label": "neutral",
-   "seen_et": "Nov 03 12:35 PM ET",
+   "seen_et": "Nov 03 01:29 PM ET",
    "consumer": false
   },
   {
-   "title": "Bayer’s Comeback Is Starting to Look Like More Than a Lawsuit Story",
-   "link": "https://app.moby.co/home/news/news-bayers-comeback-is-starting-to-look-like-more-than-a-lawsuit-story?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+   "title": "Why Shopify Stock Dove Today",
+   "link": "https://www.fool.com/investing/2026/11/03/why-shopify-stock-dove-today/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.6,
+   "tickers": [
+    "SHOP"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 03 01:29 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Amazon's Earnings Just Hit a Record. So Why Is the Stock Down 11% From Its Peak?",
+   "link": "https://www.fool.com/investing/2026/11/03/amazons-earnings-just-hit-a-record-high-so-why-is/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 4.2,
+   "tickers": [
+    "AMZN"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 03 01:29 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Exchange-Traded Funds Higher, US Equities Mixed After Midday",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-higher-us-181052694.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 1.9,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 03 01:29 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Chegg, Inc. Q3 2026 Earnings Call Summary",
+   "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-chegg-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
    "source": "Yahoo Finance",
    "impact": 2.7,
    "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 03 12:35 PM ET",
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 03 01:29 PM ET",
    "consumer": false
   },
   {
-   "title": "Top Midday Stories: Apple Fiscal Q4 EPS, Revenue Top Estimates, Shares Fall; Meta Reportedly Targeting Up to $25 Billion in Bond Sale",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-apple-fiscal-170956313.html?.tsrc=rss",
+   "title": "Apple Just Stockpiled $10 Billion of Parts While Warning Memory Prices Are 'Unprecedented.' Should Investors Worry?",
+   "link": "https://www.fool.com/investing/2026/11/03/apple-just-stockpiled-usd10-billion-of-parts-while-warning-memory-prices-are-unprecedented-should-investors-worry/?.tsrc=rss",
    "source": "Yahoo Finance",
-   "impact": 4.0,
+   "impact": 4.5,
    "tickers": [
-    "AAPL",
-    "DIA",
+    "AAPL"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 03 01:29 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Apple Stock Fell After a Record iPhone Quarter. Here’s the Margin Problem Investors Shouldn’t Ignore.",
+   "link": "https://www.fool.com/investing/2026/11/03/apple-stock-fell-after-a-record-iphone-quarter-heres-the-margin-problem-investors-shouldnt-ignore/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.0,
+   "tickers": [
+    "AAPL"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 03 01:29 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Why Isn't Realty Income's Stock Taking Off After Strong Earnings Results?",
+   "link": "https://www.fool.com/investing/2026/11/03/why-isn-t-realty-income-s-stock-taking-off-after-strong-earnings-results/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.5,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 03 01:29 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Nebius Group (NBIS) Unveils Live GPU Pricing And Builder Grants In Europe",
+   "link": "https://finance.yahoo.com/technology/ai/articles/nebius-group-nbis-unveils-live-180654082.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.8,
+   "tickers": [
+    "NBIS",
+    "NVDA"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 03 01:29 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Why Is Advanced Micro Devices (AMD) Backing A $6 Billion AI Assistant Startup?",
+   "link": "https://finance.yahoo.com/technology/ai/articles/why-advanced-micro-devices-amd-180651035.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 4.4,
+   "tickers": [
+    "AMD",
+    "NVDA"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 03 01:29 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Henry Schein, Inc. Q3 2026 Earnings Call Summary",
+   "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-henry-schein-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.7,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 03 01:29 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Yum China Holdings, Inc. Q3 2026 Earnings Call Summary",
+   "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-yum-china-holdings-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.7,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 03 01:29 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Hyperscalers Face “$1.5 Trillion Gap” Between AI Spending and Cash",
+   "link": "https://www.tikr.com/blog/hyperscalers-face-1-5-trillion-gap-between-ai-spending-and-cash?ref=yahoofinance&tlnk=yf-261103-r3v7pv77&.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 4.1,
+   "tickers": [
+    "AMZN",
+    "GOOGL",
     "META",
-    "QQQ",
-    "SPY",
-    "^TNX"
+    "MSFT",
+    "ORCL"
    ],
    "sentiment_label": "bullish",
-   "seen_et": "Nov 03 12:35 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Whatnot Stops Picking Up The Tab For USPS Shipping Weight Adjustments",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB2UnNMV3h1bVZxdDJrYXdwZE9JSDl6NjltbUJMY1pDRk03MElZcENSYnpHZElseG04UGZiYm1uWlNvMzRieWxIY3oxZTRzcnZzdXlaX0Rmel9HaWgtNGd3NlR6eDcwc1JEdnlaRXQ1elBqMFNOR1E?oc=5",
-   "source": "Value Added Resource",
-   "impact": 3.3,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 03 12:35 PM ET",
+   "seen_et": "Nov 03 01:29 PM ET",
    "consumer": true
   },
   {
-   "title": "Apple Stocks Slide 3.66% as Memory Costs Pressure Holiday Margins",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/apple-stocks-slide-3-66-170602724.html?.tsrc=rss",
+   "title": "Madrigal Pharmaceuticals, Inc. Q3 2026 Earnings Call Summary",
+   "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-madrigal-pharmaceuticals-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
    "source": "Yahoo Finance",
-   "impact": 3.3,
-   "tickers": [
-    "AAPL"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 03 12:35 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "This casino stock has fallen for 17 weeks in a row. Katie Stockton says it could be due for a bounce",
-   "link": "https://www.cnbc.com/2026/11/03/mgm-resorts-stock-rebound-technical-analysis.html",
-   "source": "CNBC Top News",
-   "impact": 1.7,
+   "impact": 2.7,
    "tickers": [],
    "sentiment_label": "neutral",
-   "seen_et": "Nov 03 12:35 PM ET",
+   "seen_et": "Nov 03 01:29 PM ET",
    "consumer": false
   },
   {
-   "title": "Update: Apple, Amazon Face Sanction Proceedings From Spanish Regulator",
-   "link": "https://finance.yahoo.com/technology/articles/apple-amazon-face-sanction-proceedings-170515641.html?.tsrc=rss",
+   "title": "Columbus McKinnon Corporation Q2 2027 Earnings Call Summary",
+   "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-columbus-mckinnon-corporation-q2-2027-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
    "source": "Yahoo Finance",
-   "impact": 4.0,
-   "tickers": [
-    "AAPL",
-    "AMZN"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 03 12:35 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "Meet the Dividend Stock That Warren Buffett Backed for Decades. Here's Why Greg Abel Is Still Holding.",
-   "link": "https://www.fool.com/investing/2026/11/03/dividend-stock-warren-buffett-why-greg-abel-ko/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.1,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 03 12:35 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Apple’s Hardware Strength Fuels Analyst Optimism, Multiple Analysts Raise Price Targets",
-   "link": "https://247wallst.com/investing/2026/11/03/apples-hardware-strength-fuels-analyst-optimism-multiple-analysts-raise-price-targets/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 7.0,
-   "tickers": [
-    "AAPL"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 03 12:35 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "VanEck Just Launched a Diversified ETF Holding Stocks, Bonds, and Bitcoin. Is This the Best Way to Get Exposure to Crypto?",
-   "link": "https://www.fool.com/investing/2026/11/03/vaneck-just-launched-a-diversified-etf/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.4,
-   "tickers": [
-    "BTC-USD",
-    "COIN"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 03 12:35 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Intel Has Lost More Than Half Its Value Since Its Peak",
-   "link": "https://247wallst.com/investing/2026/11/03/intel-has-lost-more-than-half-its-value-since-its-peak/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.9,
-   "tickers": [
-    "INTC",
-    "TGT"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 03 12:35 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Amazon Is Sending Prime Refunds of Up to $200. Here’s Why You Might Not Qualify",
-   "link": "https://moneylion.com/trending/money/amazon-prime-refunds-200-dollars-why-might-not-qualify?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.4,
-   "tickers": [
-    "AMZN"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 03 12:35 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "Binance deposits overtake withdrawals, and the SEC creates crypto FAQs on governance",
-   "link": "https://finance.yahoo.com/video/binance-deposits-overtake-withdrawals-sec-170000882.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.9,
-   "tickers": [
-    "BTC-USD",
-    "COIN"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 03 12:35 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Should You Buy Sandisk Stock Before Nov. 20?",
-   "link": "https://www.fool.com/investing/2026/11/03/should-you-buy-sandisk-stock-before-nov-20/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 1.5,
+   "impact": 2.7,
    "tickers": [],
    "sentiment_label": "neutral",
-   "seen_et": "Nov 03 12:35 PM ET",
+   "seen_et": "Nov 03 01:29 PM ET",
    "consumer": false
   },
   {
-   "title": "Dow Analyst Moves: MMM",
-   "link": "https://www.nasdaq.com/articles/dow-analyst-moves-mmm",
-   "source": "Nasdaq Markets",
-   "impact": 2.2,
+   "title": "Yorkville Ives names top software pick for 2027: Microsoft leads on AI strength",
+   "link": "https://finance.yahoo.com/technology/ai/articles/yorkville-ives-names-top-software-180118017.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 4.5,
    "tickers": [
-    "DIA"
+    "MSFT",
+    "QQQ"
    ],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 03 01:29 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Leidos Holdings, Inc. Q3 2026 Earnings Call Summary",
+   "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-leidos-holdings-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.7,
+   "tickers": [],
    "sentiment_label": "neutral",
-   "seen_et": "Nov 03 12:35 PM ET",
+   "seen_et": "Nov 03 01:29 PM ET",
    "consumer": false
   }
  ],
@@ -1397,7 +1381,7 @@
  },
  "earnings": {
   "source": "Nasdaq earnings calendar API (api.nasdaq.com), filtered to S&P 500 + watchlist",
-  "fetched_et": "Nov 03 08:54 AM ET",
+  "fetched_et": "Nov 03 01:28 PM ET",
   "events": [
    {
     "date": "2026-11-03",
@@ -1406,7 +1390,7 @@
     "time": "AMC (after close)",
     "eps_forecast": "$1.68",
     "last_year_eps": "$0.97",
-    "mcap": 824073390000
+    "mcap": 762104640000
    },
    {
     "date": "2026-11-03",
@@ -1415,7 +1399,7 @@
     "time": "AMC (after close)",
     "eps_forecast": "$5.74",
     "last_year_eps": "$5.64",
-    "mcap": 251939914000
+    "mcap": 251637170000
    },
    {
     "date": "2026-11-03",
@@ -1424,7 +1408,7 @@
     "time": "AMC (after close)",
     "eps_forecast": "$0.99",
     "last_year_eps": "$0.67",
-    "mcap": 212970390000
+    "mcap": 207017411000
    },
    {
     "date": "2026-11-03",
@@ -1433,7 +1417,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$0.72",
     "last_year_eps": "$0.87",
-    "mcap": 173954040000
+    "mcap": 174808990000
    },
    {
     "date": "2026-11-03",
@@ -1442,7 +1426,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$3.54",
     "last_year_eps": "$3.07",
-    "mcap": 143696347000
+    "mcap": 142181581000
    },
    {
     "date": "2026-11-03",
@@ -1451,7 +1435,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$25.74",
     "last_year_eps": "$3.01",
-    "mcap": 124891193000
+    "mcap": 120864170000
    },
    {
     "date": "2026-11-03",
@@ -1460,7 +1444,7 @@
     "time": "AMC (after close)",
     "eps_forecast": "$4.48",
     "last_year_eps": "$3.98",
-    "mcap": 111301992000
+    "mcap": 115524755000
    },
    {
     "date": "2026-11-03",
@@ -1469,7 +1453,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$2.04",
     "last_year_eps": "$1.90",
-    "mcap": 68408521000
+    "mcap": 70546285000
    },
    {
     "date": "2026-11-03",
@@ -1478,7 +1462,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$2.12",
     "last_year_eps": "$1.89",
-    "mcap": 55279473000
+    "mcap": 55460590000
    },
    {
     "date": "2026-11-03",
@@ -1487,7 +1471,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$0.63",
     "last_year_eps": "$0.54",
-    "mcap": 48772006000
+    "mcap": 50105614000
    },
    {
     "date": "2026-11-03",
@@ -1496,7 +1480,7 @@
     "time": "AMC (after close)",
     "eps_forecast": "$0.68",
     "last_year_eps": "$0.54",
-    "mcap": 45792596000
+    "mcap": 46309278000
    },
    {
     "date": "2026-11-03",
@@ -1505,7 +1489,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$3.99",
     "last_year_eps": "$3.40",
-    "mcap": 45461365000
+    "mcap": 44165472000
    },
    {
     "date": "2026-11-03",
@@ -1514,7 +1498,7 @@
     "time": "AMC (after close)",
     "eps_forecast": "$1.85",
     "last_year_eps": "$2.20",
-    "mcap": 42824950000
+    "mcap": 43086397000
    },
    {
     "date": "2026-11-03",
@@ -1523,16 +1507,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$1.47",
     "last_year_eps": "$1.58",
-    "mcap": 42408829000
-   },
-   {
-    "date": "2026-11-03",
-    "symbol": "SYY",
-    "name": "Sysco Corporation",
-    "time": "BMO (pre-market)",
-    "eps_forecast": "$1.17",
-    "last_year_eps": "$1.15",
-    "mcap": 40780784000
+    "mcap": 43009212000
    },
    {
     "date": "2026-11-03",
@@ -1541,7 +1516,16 @@
     "time": "AMC (after close)",
     "eps_forecast": "$3.31",
     "last_year_eps": "$4.26",
-    "mcap": 40175251000
+    "mcap": 40813498000
+   },
+   {
+    "date": "2026-11-03",
+    "symbol": "SYY",
+    "name": "Sysco Corporation",
+    "time": "BMO (pre-market)",
+    "eps_forecast": "$1.17",
+    "last_year_eps": "$1.15",
+    "mcap": 40210145000
    },
    {
     "date": "2026-11-03",
@@ -1550,7 +1534,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$1.63",
     "last_year_eps": "$0.92",
-    "mcap": 37067510000
+    "mcap": 36518076000
    },
    {
     "date": "2026-11-03",
@@ -1559,7 +1543,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$1.72",
     "last_year_eps": "$2.04",
-    "mcap": 26598971400
+    "mcap": 27614646300
    },
    {
     "date": "2026-11-03",
@@ -1568,7 +1552,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$2.24",
     "last_year_eps": "$1.64",
-    "mcap": 25848635400
+    "mcap": 26070919200
    },
    {
     "date": "2026-11-03",
@@ -1577,16 +1561,7 @@
     "time": "AMC (after close)",
     "eps_forecast": "$0.81",
     "last_year_eps": "$1.05",
-    "mcap": 23734048800
-   },
-   {
-    "date": "2026-11-03",
-    "symbol": "SMCI",
-    "name": "Super Micro Computer, Inc.",
-    "time": "AMC (after close)",
-    "eps_forecast": "$1.04",
-    "last_year_eps": "$0.26",
-    "mcap": 21647009800
+    "mcap": 24144840700
    },
    {
     "date": "2026-11-03",
@@ -1595,7 +1570,16 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$1.37",
     "last_year_eps": "$1.51",
-    "mcap": 20188784600
+    "mcap": 20798443500
+   },
+   {
+    "date": "2026-11-03",
+    "symbol": "SMCI",
+    "name": "Super Micro Computer, Inc.",
+    "time": "AMC (after close)",
+    "eps_forecast": "$1.04",
+    "last_year_eps": "$0.26",
+    "mcap": 19998025700
    },
    {
     "date": "2026-11-03",
@@ -1604,7 +1588,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$1.86",
     "last_year_eps": "$3.27",
-    "mcap": 18912768000
+    "mcap": 19081572400
    },
    {
     "date": "2026-11-03",
@@ -1613,7 +1597,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$3.04",
     "last_year_eps": "$3.05",
-    "mcap": 17942876200
+    "mcap": 18090956800
    },
    {
     "date": "2026-11-03",
@@ -1622,16 +1606,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$1.06",
     "last_year_eps": "$1.02",
-    "mcap": 17594832900
-   },
-   {
-    "date": "2026-11-03",
-    "symbol": "RVTY",
-    "name": "Revvity, Inc.",
-    "time": "BMO (pre-market)",
-    "eps_forecast": "$1.29",
-    "last_year_eps": "$1.18",
-    "mcap": 17519065100
+    "mcap": 18018357200
    },
    {
     "date": "2026-11-03",
@@ -1640,7 +1615,16 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$4.21",
     "last_year_eps": "$2.90",
-    "mcap": 17091448800
+    "mcap": 17085298700
+   },
+   {
+    "date": "2026-11-03",
+    "symbol": "RVTY",
+    "name": "Revvity, Inc.",
+    "time": "BMO (pre-market)",
+    "eps_forecast": "$1.29",
+    "last_year_eps": "$1.18",
+    "mcap": 16916498400
    },
    {
     "date": "2026-11-03",
@@ -1649,7 +1633,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$2.86",
     "last_year_eps": "$2.76",
-    "mcap": 14447854600
+    "mcap": 14856428500
    },
    {
     "date": "2026-11-03",
@@ -1658,16 +1642,7 @@
     "time": "AMC (after close)",
     "eps_forecast": "$4.57",
     "last_year_eps": "$5.73",
-    "mcap": 14441999400
-   },
-   {
-    "date": "2026-11-03",
-    "symbol": "SWKS",
-    "name": "Skyworks Solutions, Inc.",
-    "time": "AMC (after close)",
-    "eps_forecast": "$0.89",
-    "last_year_eps": "$1.42",
-    "mcap": 13021374500
+    "mcap": 14660503600
    },
    {
     "date": "2026-11-03",
@@ -1676,7 +1651,16 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$3.40",
     "last_year_eps": "$3.39",
-    "mcap": 12880841700
+    "mcap": 12840847400
+   },
+   {
+    "date": "2026-11-03",
+    "symbol": "SWKS",
+    "name": "Skyworks Solutions, Inc.",
+    "time": "AMC (after close)",
+    "eps_forecast": "$0.89",
+    "last_year_eps": "$1.42",
+    "mcap": 12663055400
    },
    {
     "date": "2026-11-03",
@@ -1685,7 +1669,7 @@
     "time": "AMC (after close)",
     "eps_forecast": "$2.03",
     "last_year_eps": "$1.97",
-    "mcap": 11311870000
+    "mcap": 11457702900
    },
    {
     "date": "2026-11-03",
@@ -1694,7 +1678,7 @@
     "time": "time n/a",
     "eps_forecast": "",
     "last_year_eps": "$0.75",
-    "mcap": 10580294700
+    "mcap": 10630235100
    },
    {
     "date": "2026-11-03",
@@ -1703,7 +1687,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$1.34",
     "last_year_eps": "$1.38",
-    "mcap": 9459583000
+    "mcap": 9653499900
    },
    {
     "date": "2026-11-03",
@@ -1712,7 +1696,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$1.33",
     "last_year_eps": "$2.17",
-    "mcap": 9121332200
+    "mcap": 9183622100
    },
    {
     "date": "2026-11-03",
@@ -1721,7 +1705,7 @@
     "time": "AMC (after close)",
     "eps_forecast": "($0.03)",
     "last_year_eps": "$1.04",
-    "mcap": 5846101000
+    "mcap": 6049553900
    },
    {
     "date": "2026-11-04",
@@ -1730,7 +1714,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$3.36",
     "last_year_eps": "$3.22",
-    "mcap": 182656434000
+    "mcap": 187977892000
    },
    {
     "date": "2026-11-04",
@@ -1739,7 +1723,7 @@
     "time": "AMC (after close)",
     "eps_forecast": "$1.46",
     "last_year_eps": "$2.56",
-    "mcap": 173068042000
+    "mcap": 170221912000
    },
    {
     "date": "2026-11-04",
@@ -1748,7 +1732,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$0.94",
     "last_year_eps": "$3.11",
-    "mcap": 133277049000
+    "mcap": 136259183000
    },
    {
     "date": "2026-11-04",
@@ -1757,7 +1741,7 @@
     "time": "AMC (after close)",
     "eps_forecast": "$10.69",
     "last_year_eps": "$9.86",
-    "mcap": 115958440000
+    "mcap": 116401488000
    },
    {
     "date": "2026-11-04",
@@ -1766,7 +1750,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$1.62",
     "last_year_eps": "$1.60",
-    "mcap": 115427074000
+    "mcap": 113201668000
    },
    {
     "date": "2026-11-04",
@@ -1775,16 +1759,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$1.85",
     "last_year_eps": "$1.62",
-    "mcap": 92003533000
-   },
-   {
-    "date": "2026-11-04",
-    "symbol": "DDOG",
-    "name": "Datadog, Inc.",
-    "time": "BMO (pre-market)",
-    "eps_forecast": "$0.18",
-    "last_year_eps": "$0.11",
-    "mcap": 84479582000
+    "mcap": 92572492000
    },
    {
     "date": "2026-11-04",
@@ -1793,7 +1768,16 @@
     "time": "AMC (after close)",
     "eps_forecast": "$3.99",
     "last_year_eps": "$3.69",
-    "mcap": 81345159000
+    "mcap": 80646775000
+   },
+   {
+    "date": "2026-11-04",
+    "symbol": "DDOG",
+    "name": "Datadog, Inc.",
+    "time": "BMO (pre-market)",
+    "eps_forecast": "$0.18",
+    "last_year_eps": "$0.11",
+    "mcap": 77596115000
    },
    {
     "date": "2026-11-04",
@@ -1802,7 +1786,7 @@
     "time": "AMC (after close)",
     "eps_forecast": "$3.94",
     "last_year_eps": "$2.45",
-    "mcap": 76467757000
+    "mcap": 76584878000
    },
    {
     "date": "2026-11-04",
@@ -1811,7 +1795,7 @@
     "time": "AMC (after close)",
     "eps_forecast": "$7.03",
     "last_year_eps": "$11.17",
-    "mcap": 65710195000
+    "mcap": 66751971000
    },
    {
     "date": "2026-11-04",
@@ -1820,16 +1804,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$11.64",
     "last_year_eps": "$10.21",
-    "mcap": 64018186000
-   },
-   {
-    "date": "2026-11-04",
-    "symbol": "MET",
-    "name": "MetLife, Inc.",
-    "time": "AMC (after close)",
-    "eps_forecast": "$2.71",
-    "last_year_eps": "$2.34",
-    "mcap": 63560401000
+    "mcap": 64889082000
    },
    {
     "date": "2026-11-04",
@@ -1838,7 +1813,16 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$4.56",
     "last_year_eps": "$3.84",
-    "mcap": 63133258000
+    "mcap": 64469049000
+   },
+   {
+    "date": "2026-11-04",
+    "symbol": "MET",
+    "name": "MetLife, Inc.",
+    "time": "AMC (after close)",
+    "eps_forecast": "$2.71",
+    "last_year_eps": "$2.34",
+    "mcap": 64145039000
    },
    {
     "date": "2026-11-04",
@@ -1847,7 +1831,7 @@
     "time": "AMC (after close)",
     "eps_forecast": "$1.80",
     "last_year_eps": "$2.49",
-    "mcap": 62111420000
+    "mcap": 62462362000
    },
    {
     "date": "2026-11-04",
@@ -1856,7 +1840,7 @@
     "time": "AMC (after close)",
     "eps_forecast": "$0.73",
     "last_year_eps": "$0.67",
-    "mcap": 53034566000
+    "mcap": 53755064000
    },
    {
     "date": "2026-11-04",
@@ -1865,7 +1849,7 @@
     "time": "AMC (after close)",
     "eps_forecast": "$0.97",
     "last_year_eps": "$0.76",
-    "mcap": 48746250000
+    "mcap": 48998248000
    },
    {
     "date": "2026-11-04",
@@ -1874,7 +1858,7 @@
     "time": "AMC (after close)",
     "eps_forecast": "$1.78",
     "last_year_eps": "$0.93",
-    "mcap": 41419297000
+    "mcap": 39377084000
    },
    {
     "date": "2026-11-04",
@@ -1883,7 +1867,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$5.27",
     "last_year_eps": "$5.97",
-    "mcap": 38380098000
+    "mcap": 39218848000
    },
    {
     "date": "2026-11-04",
@@ -1892,7 +1876,7 @@
     "time": "AMC (after close)",
     "eps_forecast": "$1.20",
     "last_year_eps": "$0.50",
-    "mcap": 34197252100
+    "mcap": 35041395000
    },
    {
     "date": "2026-11-04",
@@ -1901,16 +1885,7 @@
     "time": "AMC (after close)",
     "eps_forecast": "$8.09",
     "last_year_eps": "$7.03",
-    "mcap": 32737810400
-   },
-   {
-    "date": "2026-11-04",
-    "symbol": "ATO",
-    "name": "Atmos Energy Corporation",
-    "time": "AMC (after close)",
-    "eps_forecast": "$1.14",
-    "last_year_eps": "$1.06",
-    "mcap": 29135317000
+    "mcap": 34233126900
    },
    {
     "date": "2026-11-04",
@@ -1919,7 +1894,16 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$0.43",
     "last_year_eps": "$0.61",
-    "mcap": 28862949400
+    "mcap": 29562587100
+   },
+   {
+    "date": "2026-11-04",
+    "symbol": "ATO",
+    "name": "Atmos Energy Corporation",
+    "time": "AMC (after close)",
+    "eps_forecast": "$1.14",
+    "last_year_eps": "$1.06",
+    "mcap": 29513850900
    },
    {
     "date": "2026-11-04",
@@ -1928,7 +1912,7 @@
     "time": "AMC (after close)",
     "eps_forecast": "$6.74",
     "last_year_eps": "$5.41",
-    "mcap": 26325559300
+    "mcap": 26873817100
    },
    {
     "date": "2026-11-04",
@@ -1937,7 +1921,7 @@
     "time": "AMC (after close)",
     "eps_forecast": "$0.97",
     "last_year_eps": "$1.19",
-    "mcap": 25821055000
+    "mcap": 26197729300
    },
    {
     "date": "2026-11-04",
@@ -1946,7 +1930,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$1.18",
     "last_year_eps": "$1.01",
-    "mcap": 24408361000
+    "mcap": 24136388600
    },
    {
     "date": "2026-11-04",
@@ -1955,7 +1939,7 @@
     "time": "AMC (after close)",
     "eps_forecast": "$2.35",
     "last_year_eps": "$1.76",
-    "mcap": 22877521900
+    "mcap": 22758197200
    },
    {
     "date": "2026-11-04",
@@ -1964,7 +1948,7 @@
     "time": "AMC (after close)",
     "eps_forecast": "$2.67",
     "last_year_eps": "$2.47",
-    "mcap": 22144225300
+    "mcap": 22751649800
    },
    {
     "date": "2026-11-04",
@@ -1973,7 +1957,7 @@
     "time": "AMC (after close)",
     "eps_forecast": "$0.96",
     "last_year_eps": "$0.95",
-    "mcap": 21910562800
+    "mcap": 22664185900
    },
    {
     "date": "2026-11-04",
@@ -1982,7 +1966,7 @@
     "time": "AMC (after close)",
     "eps_forecast": "$1.59",
     "last_year_eps": "$3.10",
-    "mcap": 21217314800
+    "mcap": 21083850800
    },
    {
     "date": "2026-11-04",
@@ -1991,7 +1975,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$1.61",
     "last_year_eps": "$1.51",
-    "mcap": 19880462300
+    "mcap": 20705593300
    },
    {
     "date": "2026-11-04",
@@ -2000,25 +1984,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$2.77",
     "last_year_eps": "$2.55",
-    "mcap": 19226429400
-   },
-   {
-    "date": "2026-11-04",
-    "symbol": "CF",
-    "name": "CF Industries Holdings, Inc.",
-    "time": "AMC (after close)",
-    "eps_forecast": "$2.93",
-    "last_year_eps": "$2.19",
-    "mcap": 18659991600
-   },
-   {
-    "date": "2026-11-04",
-    "symbol": "APA",
-    "name": "APA Corporation",
-    "time": "AMC (after close)",
-    "eps_forecast": "$1.44",
-    "last_year_eps": "$0.93",
-    "mcap": 18505566200
+    "mcap": 18826375200
    },
    {
     "date": "2026-11-04",
@@ -2027,25 +1993,16 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$1.89",
     "last_year_eps": "$1.90",
-    "mcap": 18028525600
+    "mcap": 18568314900
    },
    {
     "date": "2026-11-04",
-    "symbol": "HST",
-    "name": "Host Hotels & Resorts, Inc.",
+    "symbol": "CF",
+    "name": "CF Industries Holdings, Inc.",
     "time": "AMC (after close)",
-    "eps_forecast": "$0.38",
-    "last_year_eps": "$0.35",
-    "mcap": 17333647400
-   },
-   {
-    "date": "2026-11-04",
-    "symbol": "CRL",
-    "name": "Charles River Laboratories International, Inc.",
-    "time": "BMO (pre-market)",
-    "eps_forecast": "$2.98",
-    "last_year_eps": "$2.43",
-    "mcap": 17157827600
+    "eps_forecast": "$2.93",
+    "last_year_eps": "$2.19",
+    "mcap": 18210517000
    },
    {
     "date": "2026-11-04",
@@ -2054,7 +2011,7 @@
     "time": "AMC (after close)",
     "eps_forecast": "$0.27",
     "last_year_eps": "$0.22",
-    "mcap": 17153756200
+    "mcap": 17542877200
    },
    {
     "date": "2026-11-04",
@@ -2063,7 +2020,34 @@
     "time": "AMC (after close)",
     "eps_forecast": "$0.26",
     "last_year_eps": "$0.22",
-    "mcap": 17153756200
+    "mcap": 17542877200
+   },
+   {
+    "date": "2026-11-04",
+    "symbol": "HST",
+    "name": "Host Hotels & Resorts, Inc.",
+    "time": "AMC (after close)",
+    "eps_forecast": "$0.38",
+    "last_year_eps": "$0.35",
+    "mcap": 17518630900
+   },
+   {
+    "date": "2026-11-04",
+    "symbol": "APA",
+    "name": "APA Corporation",
+    "time": "AMC (after close)",
+    "eps_forecast": "$1.44",
+    "last_year_eps": "$0.93",
+    "mcap": 17104160800
+   },
+   {
+    "date": "2026-11-04",
+    "symbol": "CRL",
+    "name": "Charles River Laboratories International, Inc.",
+    "time": "BMO (pre-market)",
+    "eps_forecast": "$2.98",
+    "last_year_eps": "$2.43",
+    "mcap": 16161517600
    },
    {
     "date": "2026-11-04",
@@ -2072,7 +2056,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$1.54",
     "last_year_eps": "$1.43",
-    "mcap": 15621161000
+    "mcap": 16114986000
    },
    {
     "date": "2026-11-04",
@@ -2081,7 +2065,7 @@
     "time": "AMC (after close)",
     "eps_forecast": "$9.20",
     "last_year_eps": "$6.74",
-    "mcap": 15360885800
+    "mcap": 15640791000
    },
    {
     "date": "2026-11-04",
@@ -2090,7 +2074,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$0.73",
     "last_year_eps": "$0.70",
-    "mcap": 15142699000
+    "mcap": 15352561700
    },
    {
     "date": "2026-11-04",
@@ -2099,7 +2083,7 @@
     "time": "time n/a",
     "eps_forecast": "$0.40",
     "last_year_eps": "$0.36",
-    "mcap": 11394413600
+    "mcap": 11395981300
    },
    {
     "date": "2026-11-04",
@@ -2108,7 +2092,7 @@
     "time": "AMC (after close)",
     "eps_forecast": "$2.56",
     "last_year_eps": "($0.19)",
-    "mcap": 10738460700
+    "mcap": 10686537700
    },
    {
     "date": "2026-11-04",
@@ -2117,7 +2101,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$1.59",
     "last_year_eps": "$1.24",
-    "mcap": 10380936200
+    "mcap": 10653498400
    },
    {
     "date": "2026-11-05",
@@ -2126,7 +2110,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$2.97",
     "last_year_eps": "$1.61",
-    "mcap": 185042010000
+    "mcap": 176404398000
    },
    {
     "date": "2026-11-05",
@@ -2135,7 +2119,7 @@
     "time": "AMC (after close)",
     "eps_forecast": "$0.30",
     "last_year_eps": "$0.28",
-    "mcap": 139112399000
+    "mcap": 141110641000
    },
    {
     "date": "2026-11-05",
@@ -2144,7 +2128,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$8.23",
     "last_year_eps": "$7.22",
-    "mcap": 113478476000
+    "mcap": 117068890000
    },
    {
     "date": "2026-11-05",
@@ -2153,16 +2137,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$1.71",
     "last_year_eps": "$1.60",
-    "mcap": 107800510000
-   },
-   {
-    "date": "2026-11-05",
-    "symbol": "DUK",
-    "name": "Duke Energy Corporation",
-    "time": "BMO (pre-market)",
-    "eps_forecast": "$1.87",
-    "last_year_eps": "$1.81",
-    "mcap": 99326263000
+    "mcap": 108835840000
    },
    {
     "date": "2026-11-05",
@@ -2171,7 +2146,16 @@
     "time": "AMC (after close)",
     "eps_forecast": "$2.86",
     "last_year_eps": "$2.21",
-    "mcap": 98434376000
+    "mcap": 102458221000
+   },
+   {
+    "date": "2026-11-05",
+    "symbol": "DUK",
+    "name": "Duke Energy Corporation",
+    "time": "BMO (pre-market)",
+    "eps_forecast": "$1.87",
+    "last_year_eps": "$1.81",
+    "mcap": 100098171000
    },
    {
     "date": "2026-11-05",
@@ -2180,7 +2164,7 @@
     "time": "AMC (after close)",
     "eps_forecast": "$4.45",
     "last_year_eps": "$2.71",
-    "mcap": 86830563000
+    "mcap": 82817909000
    },
    {
     "date": "2026-11-05",
@@ -2189,16 +2173,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$7.46",
     "last_year_eps": "$7.83",
-    "mcap": 78804443000
-   },
-   {
-    "date": "2026-11-05",
-    "symbol": "APD",
-    "name": "Air Products and Chemicals, Inc.",
-    "time": "BMO (pre-market)",
-    "eps_forecast": "$3.60",
-    "last_year_eps": "$3.39",
-    "mcap": 70464381000
+    "mcap": 78001152000
    },
    {
     "date": "2026-11-05",
@@ -2207,7 +2182,16 @@
     "time": "AMC (after close)",
     "eps_forecast": "$3.32",
     "last_year_eps": "$3.22",
-    "mcap": 70453346000
+    "mcap": 71741080000
+   },
+   {
+    "date": "2026-11-05",
+    "symbol": "APD",
+    "name": "Air Products and Chemicals, Inc.",
+    "time": "BMO (pre-market)",
+    "eps_forecast": "$3.60",
+    "last_year_eps": "$3.39",
+    "mcap": 70375309000
    },
    {
     "date": "2026-11-05",
@@ -2216,7 +2200,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$8.38",
     "last_year_eps": "$5.59",
-    "mcap": 68844634000
+    "mcap": 68914840000
    },
    {
     "date": "2026-11-05",
@@ -2225,7 +2209,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$2.74",
     "last_year_eps": "$2.20",
-    "mcap": 67543626000
+    "mcap": 63199257000
    },
    {
     "date": "2026-11-05",
@@ -2234,16 +2218,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$2.92",
     "last_year_eps": "$2.55",
-    "mcap": 58000986000
-   },
-   {
-    "date": "2026-11-05",
-    "symbol": "DVN",
-    "name": "Devon Energy Corporation",
-    "time": "AMC (after close)",
-    "eps_forecast": "$1.24",
-    "last_year_eps": "$1.04",
-    "mcap": 57365000000
+    "mcap": 58892489000
    },
    {
     "date": "2026-11-05",
@@ -2252,7 +2227,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$1.18",
     "last_year_eps": "$1.11",
-    "mcap": 56274665000
+    "mcap": 56215814000
    },
    {
     "date": "2026-11-05",
@@ -2261,7 +2236,16 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$4.06",
     "last_year_eps": "$3.96",
-    "mcap": 53899899000
+    "mcap": 54096019000
+   },
+   {
+    "date": "2026-11-05",
+    "symbol": "DVN",
+    "name": "Devon Energy Corporation",
+    "time": "AMC (after close)",
+    "eps_forecast": "$1.24",
+    "last_year_eps": "$1.04",
+    "mcap": 53492998000
    },
    {
     "date": "2026-11-05",
@@ -2270,7 +2254,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$3.55",
     "last_year_eps": "$3.34",
-    "mcap": 48537698000
+    "mcap": 48978342000
    },
    {
     "date": "2026-11-05",
@@ -2279,16 +2263,7 @@
     "time": "AMC (after close)",
     "eps_forecast": "$2.07",
     "last_year_eps": "$1.90",
-    "mcap": 43136811000
-   },
-   {
-    "date": "2026-11-05",
-    "symbol": "MCHP",
-    "name": "Microchip Technology Incorporated",
-    "time": "AMC (after close)",
-    "eps_forecast": "$0.82",
-    "last_year_eps": "$0.26",
-    "mcap": 41996292000
+    "mcap": 43817296000
    },
    {
     "date": "2026-11-05",
@@ -2297,7 +2272,16 @@
     "time": "AMC (after close)",
     "eps_forecast": "$1.50",
     "last_year_eps": "$0.73",
-    "mcap": 41916908000
+    "mcap": 41742537000
+   },
+   {
+    "date": "2026-11-05",
+    "symbol": "MCHP",
+    "name": "Microchip Technology Incorporated",
+    "time": "AMC (after close)",
+    "eps_forecast": "$0.82",
+    "last_year_eps": "$0.26",
+    "mcap": 41328390000
    },
    {
     "date": "2026-11-05",
@@ -2306,7 +2290,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$1.66",
     "last_year_eps": "$1.82",
-    "mcap": 35898581000
+    "mcap": 36001681000
    },
    {
     "date": "2026-11-05",
@@ -2315,25 +2299,7 @@
     "time": "AMC (after close)",
     "eps_forecast": "$0.44",
     "last_year_eps": "($0.23)",
-    "mcap": 34750931000
-   },
-   {
-    "date": "2026-11-05",
-    "symbol": "IRM",
-    "name": "Iron Mountain Incorporated",
-    "time": "BMO (pre-market)",
-    "eps_forecast": "$1.35",
-    "last_year_eps": "$0.54",
-    "mcap": 34697261000
-   },
-   {
-    "date": "2026-11-05",
-    "symbol": "MTD",
-    "name": "Mettler-Toledo International, Inc.",
-    "time": "AMC (after close)",
-    "eps_forecast": "$12.11",
-    "last_year_eps": "$11.15",
-    "mcap": 33557430300
+    "mcap": 34560831000
    },
    {
     "date": "2026-11-05",
@@ -2342,7 +2308,25 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$1.51",
     "last_year_eps": "$1.70",
-    "mcap": 32942186500
+    "mcap": 34371940000
+   },
+   {
+    "date": "2026-11-05",
+    "symbol": "IRM",
+    "name": "Iron Mountain Incorporated",
+    "time": "BMO (pre-market)",
+    "eps_forecast": "$1.35",
+    "last_year_eps": "$0.54",
+    "mcap": 34289410000
+   },
+   {
+    "date": "2026-11-05",
+    "symbol": "MTD",
+    "name": "Mettler-Toledo International, Inc.",
+    "time": "AMC (after close)",
+    "eps_forecast": "$12.11",
+    "last_year_eps": "$11.15",
+    "mcap": 33625153500
    },
    {
     "date": "2026-11-05",
@@ -2351,16 +2335,7 @@
     "time": "AMC (after close)",
     "eps_forecast": "$2.29",
     "last_year_eps": "$2.17",
-    "mcap": 30602252300
-   },
-   {
-    "date": "2026-11-05",
-    "symbol": "DTE",
-    "name": "DTE Energy Company",
-    "time": "BMO (pre-market)",
-    "eps_forecast": "$2.22",
-    "last_year_eps": "$2.25",
-    "mcap": 28193853400
+    "mcap": 30845874200
    },
    {
     "date": "2026-11-05",
@@ -2369,7 +2344,16 @@
     "time": "time n/a",
     "eps_forecast": "$0.02",
     "last_year_eps": "$0.83",
-    "mcap": 28191688700
+    "mcap": 28566841300
+   },
+   {
+    "date": "2026-11-05",
+    "symbol": "DTE",
+    "name": "DTE Energy Company",
+    "time": "BMO (pre-market)",
+    "eps_forecast": "$2.22",
+    "last_year_eps": "$2.25",
+    "mcap": 28268765200
    },
    {
     "date": "2026-11-05",
@@ -2378,7 +2362,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$3.57",
     "last_year_eps": "$3.26",
-    "mcap": 25625645100
+    "mcap": 26363930600
    },
    {
     "date": "2026-11-05",
@@ -2387,16 +2371,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$1.92",
     "last_year_eps": "$1.72",
-    "mcap": 25549625300
-   },
-   {
-    "date": "2026-11-05",
-    "symbol": "RL",
-    "name": "Ralph Lauren Corporation",
-    "time": "BMO (pre-market)",
-    "eps_forecast": "$4.27",
-    "last_year_eps": "$3.79",
-    "mcap": 23408074800
+    "mcap": 26226436100
    },
    {
     "date": "2026-11-05",
@@ -2405,7 +2380,16 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$1.56",
     "last_year_eps": "$1.38",
-    "mcap": 23228977200
+    "mcap": 24121860100
+   },
+   {
+    "date": "2026-11-05",
+    "symbol": "RL",
+    "name": "Ralph Lauren Corporation",
+    "time": "BMO (pre-market)",
+    "eps_forecast": "$4.27",
+    "last_year_eps": "$3.79",
+    "mcap": 23685728300
    },
    {
     "date": "2026-11-05",
@@ -2414,7 +2398,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$0.64",
     "last_year_eps": "$0.67",
-    "mcap": 21863428100
+    "mcap": 21444192300
    },
    {
     "date": "2026-11-05",
@@ -2423,7 +2407,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$2.30",
     "last_year_eps": "$2.03",
-    "mcap": 19812636700
+    "mcap": 19955589100
    },
    {
     "date": "2026-11-05",
@@ -2432,7 +2416,7 @@
     "time": "AMC (after close)",
     "eps_forecast": "$1.38",
     "last_year_eps": "$1.50",
-    "mcap": 13844295700
+    "mcap": 14426461200
    },
    {
     "date": "2026-11-05",
@@ -2441,7 +2425,7 @@
     "time": "AMC (after close)",
     "eps_forecast": "$1.22",
     "last_year_eps": "$1.15",
-    "mcap": 13658961900
+    "mcap": 13840250900
    },
    {
     "date": "2026-11-05",
@@ -2450,7 +2434,7 @@
     "time": "AMC (after close)",
     "eps_forecast": "$0.92",
     "last_year_eps": "$1.06",
-    "mcap": 13325404200
+    "mcap": 12458793000
    },
    {
     "date": "2026-11-05",
@@ -2459,7 +2443,7 @@
     "time": "AMC (after close)",
     "eps_forecast": "$1.69",
     "last_year_eps": "$1.70",
-    "mcap": 10123307000
+    "mcap": 10221835300
    },
    {
     "date": "2026-11-05",
@@ -2468,7 +2452,7 @@
     "time": "AMC (after close)",
     "eps_forecast": "$0.58",
     "last_year_eps": "$0.86",
-    "mcap": 7688030700
+    "mcap": 7997982200
    },
    {
     "date": "2026-11-06",
@@ -2477,7 +2461,7 @@
     "time": "time n/a",
     "eps_forecast": "$5.91",
     "last_year_eps": "$6.26",
-    "mcap": 1171562950000
+    "mcap": 1198913880000
    },
    {
     "date": "2026-11-06",
@@ -2486,7 +2470,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "($1.10)",
     "last_year_eps": "($0.51)",
-    "mcap": 88518582000
+    "mcap": 88163262000
    },
    {
     "date": "2026-11-06",
@@ -2495,7 +2479,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "($1.03)",
     "last_year_eps": "$3.24",
-    "mcap": 49773289000
+    "mcap": 49282159000
    },
    {
     "date": "2026-11-06",
@@ -2504,7 +2488,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$2.18",
     "last_year_eps": "$1.75",
-    "mcap": 46441841000
+    "mcap": 45179855000
    },
    {
     "date": "2026-11-06",
@@ -2513,7 +2497,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$0.53",
     "last_year_eps": "$0.48",
-    "mcap": 26828224500
+    "mcap": 27196971000
    },
    {
     "date": "2026-11-06",
@@ -2522,7 +2506,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$0.78",
     "last_year_eps": "$0.67",
-    "mcap": 16075553800
+    "mcap": 16243218400
    },
    {
     "date": "2026-11-06",
@@ -2531,7 +2515,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$10.06",
     "last_year_eps": "$8.34",
-    "mcap": 12774244400
+    "mcap": 13238283300
    },
    {
     "date": "2026-11-09",
@@ -2540,7 +2524,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$3.90",
     "last_year_eps": "$3.04",
-    "mcap": 92963168000
+    "mcap": 91145576000
    },
    {
     "date": "2026-11-09",
@@ -2549,7 +2533,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$1.41",
     "last_year_eps": "$1.22",
-    "mcap": 84727824000
+    "mcap": 87977263000
    },
    {
     "date": "2026-11-09",
@@ -2558,7 +2542,7 @@
     "time": "AMC (after close)",
     "eps_forecast": "$1.43",
     "last_year_eps": "$0.64",
-    "mcap": 63976792000
+    "mcap": 60697981000
    },
    {
     "date": "2026-11-09",
@@ -2567,7 +2551,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$3.28",
     "last_year_eps": "$2.84",
-    "mcap": 46173295000
+    "mcap": 46846509000
    },
    {
     "date": "2026-11-09",
@@ -2576,7 +2560,7 @@
     "time": "AMC (after close)",
     "eps_forecast": "$0.11",
     "last_year_eps": "N/A",
-    "mcap": 40085316000
+    "mcap": 40690377000
    },
    {
     "date": "2026-11-09",
@@ -2585,7 +2569,7 @@
     "time": "AMC (after close)",
     "eps_forecast": "$0.49",
     "last_year_eps": "$1.04",
-    "mcap": 35558072000
+    "mcap": 35918942000
    },
    {
     "date": "2026-11-09",
@@ -2594,104 +2578,104 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$3.44",
     "last_year_eps": "$2.75",
-    "mcap": 20192819200
+    "mcap": 19890116600
    }
   ]
  },
  "sentiment_validation": {
   "logged": 4000,
   "min_sample": 100,
-  "generated_et": "Nov 03 12:36 PM ET",
+  "generated_et": "Nov 03 01:29 PM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
-    "n_scored": 3901,
-    "n_directional": 3357,
-    "hit_rate": 49.4,
+    "n_scored": 3907,
+    "n_directional": 3364,
+    "hit_rate": 49.6,
     "ci95": 1.7,
-    "corr": -0.002,
+    "corr": -0.001,
     "status": "NO EDGE (≈ coin flip)"
    },
    "r1d": {
     "name": "+1 day",
-    "n_scored": 3336,
-    "n_directional": 2880,
+    "n_scored": 3340,
+    "n_directional": 2884,
     "hit_rate": 49.8,
     "ci95": 1.8,
-    "corr": 0.014,
+    "corr": 0.016,
     "status": "NO EDGE (≈ coin flip)"
    }
   },
   "status": "MEASURED",
   "recent": [
    {
-    "ticker": "MSFT",
-    "sentiment": 0.477,
-    "title": "Next Generation Computing - Global Strategic Business Report 2026-2032: Capitalize on 19% CAGR, Featuring Intelligence on NVIDIA, IBM, Googl",
-    "r1h": 0.111,
+    "ticker": "AAPL",
+    "sentiment": 0.361,
+    "title": "Apple drops with most of Wall Street, but gains for other Big Tech stocks cushion the blow",
+    "r1h": 0.452,
     "r1d": null
    },
    {
-    "ticker": "GOOGL",
-    "sentiment": 0.477,
-    "title": "Next Generation Computing - Global Strategic Business Report 2026-2032: Capitalize on 19% CAGR, Featuring Intelligence on NVIDIA, IBM, Googl",
-    "r1h": -0.125,
+    "ticker": "SPY",
+    "sentiment": -0.612,
+    "title": "S&P 500, Nasdaq edge higher ahead of midterm results; Apple falls",
+    "r1h": 0.012,
     "r1d": null
    },
    {
     "ticker": "QQQ",
-    "sentiment": 0.296,
-    "title": "Stock Market Today (Nov. 3, 2026): Nasdaq edges higher as U.S. midterm voting begins",
-    "r1h": -0.053,
-    "r1d": null
-   },
-   {
-    "ticker": "PLTR",
-    "sentiment": 0.296,
-    "title": "Stock Market Today (Nov. 3, 2026): Nasdaq edges higher as U.S. midterm voting begins",
-    "r1h": -0.362,
+    "sentiment": -0.612,
+    "title": "S&P 500, Nasdaq edge higher ahead of midterm results; Apple falls",
+    "r1h": 0.093,
     "r1d": null
    },
    {
     "ticker": "AAPL",
-    "sentiment": 0.296,
-    "title": "Stock Market Today (Nov. 3, 2026): Nasdaq edges higher as U.S. midterm voting begins",
-    "r1h": 0.96,
+    "sentiment": -0.612,
+    "title": "S&P 500, Nasdaq edge higher ahead of midterm results; Apple falls",
+    "r1h": 0.452,
     "r1d": null
    },
    {
     "ticker": "PLTR",
-    "sentiment": 0.625,
-    "title": "Palantir Growth Slows From Breakneck Pace",
-    "r1h": -0.362,
+    "sentiment": 0.313,
+    "title": "Palantir sinks 3% after earnings as analysts point to slowdown in total contract value",
+    "r1h": 0.208,
     "r1d": null
    },
    {
-    "ticker": "XLE",
-    "sentiment": -0.863,
-    "title": "Apple stock falls, chip stocks rebound as oil extends decline: AlphaCheck",
-    "r1h": 0.142,
+    "ticker": "IWM",
+    "sentiment": 0.823,
+    "title": "IWD, ABBV, PG, UNH: Large Outflows Detected at ETF",
+    "r1h": -0.116,
+    "r1d": null
+   },
+   {
+    "ticker": "SPY",
+    "sentiment": 0.813,
+    "title": "IJH, OKTA, FTI, USFD: ETF Inflow Alert",
+    "r1h": 0.012,
     "r1d": null
    },
    {
     "ticker": "AAPL",
-    "sentiment": -0.863,
-    "title": "Apple stock falls, chip stocks rebound as oil extends decline: AlphaCheck",
-    "r1h": 0.96,
+    "sentiment": 0.691,
+    "title": "D.A. Davidson Managing Director Gil Luria Delivers His Apple Earnings Takeaways",
+    "r1h": 0.452,
+    "r1d": null
+   },
+   {
+    "ticker": "SHOP",
+    "sentiment": -0.778,
+    "title": "Shopify falls 7% after Q3 revenue and merchandise volume miss estimates",
+    "r1h": 1.65,
     "r1d": null
    },
    {
     "ticker": "AMZN",
-    "sentiment": 0.823,
-    "title": "Why Amazon Stock Can Keep Rising Through 2035",
-    "r1h": 0.734,
-    "r1d": null
-   },
-   {
-    "ticker": "QQQ",
-    "sentiment": -0.856,
-    "title": "AMD Earnings Prediction Market Preview: What Will Lisa Su Say?",
-    "r1h": -0.053,
+    "sentiment": 0.869,
+    "title": "Unifor to launch new organizing initiative with Amazon workers in the Greater Toronto Area",
+    "r1h": 0.181,
     "r1d": null
    }
   ]
@@ -2700,103 +2684,103 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 03 12:35 PM ET",
-   "newest_et": "Nov 03 12:33 PM ET",
-   "newest": "2026-11-03T17:33:19+00:00"
+   "fetched_et": "Nov 03 01:28 PM ET",
+   "newest_et": "Nov 03 01:26 PM ET",
+   "newest": "2026-11-03T18:26:37+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 03 12:35 PM ET",
+   "fetched_et": "Nov 03 01:28 PM ET",
    "newest_et": "Nov 03 11:10 AM ET",
    "newest": "2026-11-03T16:10:21+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 03 12:35 PM ET",
+   "fetched_et": "Nov 03 01:28 PM ET",
    "newest_et": "Nov 03 12:05 PM ET",
    "newest": "2026-11-03T17:05:29+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Nov 03 12:35 PM ET",
-   "newest_et": "Nov 03 12:30 PM ET",
-   "newest": "2026-11-03T17:30:00+00:00"
+   "fetched_et": "Nov 03 01:28 PM ET",
+   "newest_et": "Nov 03 01:27 PM ET",
+   "newest": "2026-11-03T18:27:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 03 12:35 PM ET",
+   "fetched_et": "Nov 03 01:28 PM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
-   "count": 19,
-   "fetched_et": "Nov 03 12:35 PM ET",
-   "newest_et": "Nov 03 12:21 PM ET",
-   "newest": "2026-11-03T17:21:50+00:00"
+   "count": 20,
+   "fetched_et": "Nov 03 01:28 PM ET",
+   "newest_et": "Nov 03 01:17 PM ET",
+   "newest": "2026-11-03T18:17:45+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 47,
-   "fetched_et": "Nov 03 12:35 PM ET",
+   "fetched_et": "Nov 03 01:28 PM ET",
    "newest_et": "Nov 03 11:44 AM ET",
    "newest": "2026-11-03T16:44:20+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Nov 03 12:35 PM ET",
+   "fetched_et": "Nov 03 01:28 PM ET",
    "newest_et": "Nov 03 12:27 PM ET",
    "newest": "2026-11-03T17:27:21+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Nov 03 12:35 PM ET",
-   "newest_et": "Nov 03 11:39 AM ET",
-   "newest": "2026-11-03T16:39:00+00:00"
+   "fetched_et": "Nov 03 01:28 PM ET",
+   "newest_et": "Nov 03 12:20 PM ET",
+   "newest": "2026-11-03T17:20:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 23,
-   "fetched_et": "Nov 03 12:35 PM ET",
+   "count": 25,
+   "fetched_et": "Nov 03 01:28 PM ET",
    "newest_et": "Nov 03 12:07 PM ET",
    "newest": "2026-11-03T17:07:12+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
-   "count": 28,
-   "fetched_et": "Nov 03 12:35 PM ET",
+   "count": 29,
+   "fetched_et": "Nov 03 01:28 PM ET",
    "newest_et": "Nov 03 11:21 AM ET",
    "newest": "2026-11-03T16:21:28+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Nov 03 12:35 PM ET",
+   "fetched_et": "Nov 03 01:28 PM ET",
    "newest_et": "Oct 29 04:30 PM ET",
    "newest": "2026-10-29T20:30:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Nov 03 12:35 PM ET",
-   "newest_et": "Nov 03 12:05 PM ET",
-   "newest": "2026-11-03T17:05:00+00:00"
+   "fetched_et": "Nov 03 01:28 PM ET",
+   "newest_et": "Nov 03 01:07 PM ET",
+   "newest": "2026-11-03T18:07:01+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
-   "count": 26,
-   "fetched_et": "Nov 03 12:35 PM ET"
+   "count": 25,
+   "fetched_et": "Nov 03 01:28 PM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
    "count": 133,
-   "fetched_et": "Nov 03 08:54 AM ET"
+   "fetched_et": "Nov 03 01:28 PM ET"
   },
   "Economic calendar": {
    "ok": true,
