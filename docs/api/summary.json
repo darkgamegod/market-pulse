@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Nov 03 12:26 AM ET",
- "generated_at": "2026-11-03T00:26:06.752293-05:00",
+ "generated_et": "Nov 03 01:25 AM ET",
+ "generated_at": "2026-11-03T01:25:40.727026-05:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-11-03",
@@ -12,33 +12,33 @@
   {
    "symbol": "ES=F",
    "label": "S&P 500 Fut",
-   "price": 7565.0,
-   "pct": -0.13,
-   "asof_et": "Nov 03 12:15 AM ET",
+   "price": 7555.5,
+   "pct": -0.25,
+   "asof_et": "Nov 03 01:15 AM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "NQ=F",
    "label": "Nasdaq 100 Fut",
-   "price": 28140.25,
-   "pct": 0.05,
-   "asof_et": "Nov 03 12:15 AM ET",
+   "price": 28074.25,
+   "pct": -0.19,
+   "asof_et": "Nov 03 01:15 AM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "YM=F",
    "label": "Dow Fut",
-   "price": 51931.0,
-   "pct": -0.39,
-   "asof_et": "Nov 03 12:16 AM ET",
+   "price": 51891.0,
+   "pct": -0.46,
+   "asof_et": "Nov 03 01:15 AM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "RTY=F",
    "label": "Russell 2000 Fut",
-   "price": 2814.7,
-   "pct": -0.11,
-   "asof_et": "Nov 03 12:15 AM ET",
+   "price": 2811.2,
+   "pct": -0.23,
+   "asof_et": "Nov 03 01:15 AM ET",
    "freshness": "delayed"
   },
   {
@@ -84,25 +84,25 @@
   {
    "symbol": "CL=F",
    "label": "WTI Crude",
-   "price": 97.03,
-   "pct": 0.59,
-   "asof_et": "Nov 03 12:15 AM ET",
+   "price": 97.48,
+   "pct": 1.06,
+   "asof_et": "Nov 03 01:15 AM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "GC=F",
    "label": "Gold",
-   "price": 3938.3,
-   "pct": -0.79,
-   "asof_et": "Nov 03 12:15 AM ET",
+   "price": 3929.8,
+   "pct": -1.0,
+   "asof_et": "Nov 03 01:15 AM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "DX-Y.NYB",
    "label": "Dollar Index",
-   "price": 101.75,
-   "pct": 0.0,
-   "asof_et": "Nov 03 12:15 AM ET",
+   "price": 101.72,
+   "pct": -0.02,
+   "asof_et": "Nov 03 01:15 AM ET",
    "freshness": "delayed"
   },
   {
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 76685.11,
-   "pct": -2.0,
-   "asof_et": "Nov 03 12:25 AM ET",
+   "price": 76468.62,
+   "pct": -2.27,
+   "asof_et": "Nov 03 01:25 AM ET",
    "freshness": "delayed"
   },
   {
@@ -127,14 +127,6 @@
    "price": 174.36,
    "pct": -2.87,
    "asof_et": "Nov 02 07:50 PM ET",
-   "freshness": "closed"
-  },
-  {
-   "symbol": "XLF",
-   "label": "Financials",
-   "price": 57.55,
-   "pct": 1.84,
-   "asof_et": "Nov 02 07:55 PM ET",
    "freshness": "closed"
   },
   {
@@ -377,187 +369,78 @@
  ],
  "breaking": [
   {
-   "title": "Inspire (INSP) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/inspire-insp-q3-2026-earnings-call-transcript",
-   "source": "Nasdaq Markets",
-   "impact": 4.0,
-   "tickers": [
-    "INSP"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 03 12:27 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Ichor (ICHR) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/ichor-ichr-q3-2026-earnings-call-transcript",
-   "source": "Nasdaq Markets",
-   "impact": 3.6,
-   "tickers": [
-    "ICHR"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 03 12:27 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "SI-BONE (SIBN) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/si-bone-sibn-q3-2026-earnings-call-transcript",
-   "source": "Nasdaq Markets",
-   "impact": 3.6,
-   "tickers": [
-    "SIBN"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 03 12:27 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Ethos (LIFE) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/ethos-life-q3-2026-earnings-call-transcript",
-   "source": "Nasdaq Markets",
-   "impact": 3.6,
-   "tickers": [
-    "LIFE"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 03 12:27 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Upwork (UPWK) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/upwork-upwk-q3-2026-earnings-call-transcript",
-   "source": "Nasdaq Markets",
-   "impact": 3.6,
-   "tickers": [
-    "UPWK"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 03 12:27 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Match (MTCH) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/match-mtch-q3-2026-earnings-call-transcript",
-   "source": "Nasdaq Markets",
-   "impact": 3.6,
-   "tickers": [
-    "MTCH"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 03 12:27 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Apple Inc (AAPL) (Q4 2026) Earnings Call Highlights: Record $114. ...",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/apple-inc-aapl-q4-2026-050606646.html?.tsrc=rss",
+   "title": "Michael Burry’s Substack Turns One: He Says A Year Is ‘Useless’ For Judging Skill — Here’s How His Stock Picks Have Fared",
+   "link": "https://stocktwits.com/news-articles/markets/equity/michael-burry-substack-turns-one-year-useless-judging-skill-how-stock-picks-fared/cNGQuz4R95d?.tsrc=rss",
    "source": "Yahoo Finance",
-   "impact": 6.5,
+   "impact": 2.1,
+   "tickers": [
+    "SPY"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 03 01:25 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Apple earnings beat expectations, but rising chip costs worry investors",
+   "link": "https://www.euronews.com/2026/11/03/apple-earnings-beat-expectations-but-rising-chip-costs-worry-investors?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.7,
    "tickers": [
     "AAPL"
    ],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 03 12:27 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Massive News for Salesforce Stock Investors",
-   "link": "https://www.nasdaq.com/articles/massive-news-salesforce-stock-investors",
-   "source": "Nasdaq Markets",
-   "impact": 2.9,
-   "tickers": [
-    "CRM",
-    "NVDA"
-   ],
    "sentiment_label": "bearish",
-   "seen_et": "Nov 03 12:27 AM ET",
+   "seen_et": "Nov 03 01:25 AM ET",
    "consumer": false
   },
   {
-   "title": "Baked by Melissa enters Target with first at-home cupcake mix",
-   "link": "https://www.cnbc.com/2026/11/03/baked-by-melissa-cupcake-kits-target.html",
-   "source": "CNBC Economy",
-   "impact": 3.8,
-   "tickers": [
-    "TGT"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 03 12:27 AM ET",
-   "consumer": true
-  },
-  {
-   "title": "Lovable CEO says AI is collapsing barriers to starting a business",
-   "link": "https://www.cnbc.com/video/2026/11/03/lovable-ceo-ai-vibe-coding.html",
-   "source": "CNBC Top News",
-   "impact": 2.5,
+   "title": "Public venues offer tea and warm welcome in winter",
+   "link": "https://www.bbc.co.uk/news/articles/cq23d505m555o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "impact": 3.5,
    "tickers": [],
    "sentiment_label": "bullish",
-   "seen_et": "Nov 03 12:27 AM ET",
+   "seen_et": "Nov 03 01:25 AM ET",
    "consumer": false
   },
   {
-   "title": "PATEO Advances In-Vehicle AI with NVIDIA Nemotron and ByteDance Doubao on its AI Box built on NVIDIA DRIVE AGX Thor",
-   "link": "https://finance.yahoo.com/technology/ai/articles/pateo-advances-vehicle-ai-nvidia-050000070.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.3,
+   "title": "Palantir: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/palantir-3-key-takeaways-long-term-investors",
+   "source": "Nasdaq Markets",
+   "impact": 2.0,
    "tickers": [
-    "NVDA"
+    "PLTR"
    ],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 03 12:27 AM ET",
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 03 01:25 AM ET",
    "consumer": false
   },
   {
-   "title": "Fabrinet (FN) Q1 2027 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/fabrinet-fn-q1-2027-earnings-call-transcript",
+   "title": "Adtran Q3 Revenue Improves",
+   "link": "https://www.nasdaq.com/articles/adtran-q3-revenue-improves",
    "source": "Nasdaq Markets",
    "impact": 3.6,
    "tickers": [
-    "FN"
+    "ADTN"
    ],
    "sentiment_label": "bullish",
-   "seen_et": "Nov 03 12:27 AM ET",
+   "seen_et": "Nov 03 01:25 AM ET",
    "consumer": false
   },
   {
-   "title": "Waystar (WAY) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/waystar-way-q3-2026-earnings-call-transcript",
-   "source": "Nasdaq Markets",
-   "impact": 3.6,
+   "title": "Goldman Sachs adds a beer giant and a major bank to its favorite stock picks",
+   "link": "https://www.cnbc.com/2026/11/03/goldman-sachs-favorite-stocks-bank-beer.html",
+   "source": "CNBC Top News",
+   "impact": 2.5,
    "tickers": [
-    "WAY"
+    "GS"
    ],
    "sentiment_label": "bullish",
-   "seen_et": "Nov 03 12:27 AM ET",
+   "seen_et": "Nov 03 01:25 AM ET",
    "consumer": false
   },
   {
-   "title": "Gaia (GAIA) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/gaia-gaia-q3-2026-earnings-call-transcript",
-   "source": "Nasdaq Markets",
-   "impact": 3.6,
-   "tickers": [
-    "GAIA"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 03 12:27 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Travere (TVTX) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/travere-tvtx-q3-2026-earnings-call-transcript",
-   "source": "Nasdaq Markets",
-   "impact": 3.6,
-   "tickers": [
-    "TVTX"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 03 12:27 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Indian Shares Climb For Fourth Day",
-   "link": "https://www.nasdaq.com/articles/indian-shares-climb-fourth-day",
+   "title": "Saudi Aramco Q3 Profit Climbs On Higher Prices",
+   "link": "https://www.nasdaq.com/articles/saudi-aramco-q3-profit-climbs-higher-prices",
    "source": "Nasdaq Markets",
    "impact": 3.4,
    "tickers": [
@@ -565,55 +448,156 @@
     "XLE"
    ],
    "sentiment_label": "bullish",
-   "seen_et": "Nov 03 12:27 AM ET",
+   "seen_et": "Nov 03 01:25 AM ET",
    "consumer": false
   },
   {
-   "title": "Hinge Health (HNGE) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/hinge-health-hnge-q3-2026-earnings-call-transcript",
+   "title": "European Shares Set To Open Lower As Trump's Second Term Faces Crucial Test",
+   "link": "https://www.nasdaq.com/articles/european-shares-set-open-lower-trumps-second-term-faces-crucial-test",
+   "source": "Nasdaq Markets",
+   "impact": 3.0,
+   "tickers": [
+    "QQQ",
+    "SPY"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Nov 03 01:25 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Kosmos Energy (KOS) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/kosmos-energy-kos-q3-2026-earnings-call-transcript",
+   "source": "Nasdaq Markets",
+   "impact": 3.8,
+   "tickers": [
+    "KOS"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 03 01:25 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "'Korean stock market return' effect fades as October US stock purchases hit yearly high",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xcm9uOHVTLVlveXVJRmFKQ2NPX0FneU95R2t3VjRZdEJmNVl2WWJsMDV0aUNWa1Itbk5wUkRPcE02LXJqQ1g1OHdvVTlEeDVaTXZlSVhaQnp6ZTJqTWlFdmRCUUFjRVo1SGlBQQ?oc=5",
+   "source": "머니투데이",
+   "impact": 1.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 03 01:25 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Bill Ackman's Pershing Square Says Wall Street Is 'Penalizing Hyperscalers' For Build-Out Costs, Ignoring Growth Potential",
+   "link": "https://stocktwits.com/news-articles/markets/equity/bill-ackman-pershing-square-wall-street-penalizing-hyperscalers-build-out-costs-ignoring-growth-potential/cNGQt6GR955?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.2,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 03 01:25 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Grifols Q3 Net Profit Rises, Revenue Up 8.4%; On Track To Meet 2026 Guidance",
+   "link": "https://www.nasdaq.com/articles/grifols-q3-net-profit-rises-revenue-84-track-meet-2026-guidance",
+   "source": "Nasdaq Markets",
+   "impact": 3.6,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 03 01:25 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Ho Chi Minh City accelerates nationwide health check-ups in the final push of the year.",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSDF1VG4zV0l4UEh6SUZLaG5vV1M5cXpmaG9YdU9xWm44SmdiQ1F2WER0XzJ4WEdZUGFtMEtRVnpxTU9OSEdiMTlnV2tyMll6bk16OWFHY1hVNXkwbFFHZWhPTjk4T2hMak9oWjlkcGlhU29yZjVzNlU4dExnTU82dEZvbTFYTkJhbk44M19UVXdTYXNnUmt4QTBjZzgzdjF0Z0E?oc=5",
+   "source": "Vietnam.vn",
+   "impact": 2.0,
+   "tickers": [
+    "UPS"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 03 01:25 AM ET",
+   "consumer": true
+  },
+  {
+   "title": "Morning Bid: So much for a quiet day before the US midterms",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2dzUxbDdJajlVN3B3WTMxVk5sV0o2OTNOdXZ5RXRCZkp2dHdhLVhNMGt2SENMOHpsRG5laDZqSUZqV1RvVFdtajllaTNoNy1uZnNYeGhTMHB2Y2syUzB1NWxuS0kyMTFtTmFIMzRaakxnQ1JSSjFfakpuVTNGOU0?oc=5",
+   "source": "Reuters",
+   "impact": 1.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 03 01:25 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Oracle Prices $20 Bln Stock And Notes Offering At $116/Shr",
+   "link": "https://www.nasdaq.com/articles/oracle-prices-20-bln-stock-and-notes-offering-116-shr",
+   "source": "Nasdaq Markets",
+   "impact": 3.1,
+   "tickers": [
+    "ORCL"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 03 01:25 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Ibotta (IBTA) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/ibotta-ibta-q3-2026-earnings-call-transcript",
    "source": "Nasdaq Markets",
    "impact": 3.6,
    "tickers": [
-    "HNGE"
+    "IBTA"
    ],
    "sentiment_label": "bullish",
-   "seen_et": "Nov 03 12:27 AM ET",
+   "seen_et": "Nov 03 01:25 AM ET",
    "consumer": false
   },
   {
-   "title": "Apple (AAPL) Q4 2026 Earnings Call Transcript",
-   "link": "https://www.fool.com/earnings/call-transcripts/2026/11/02/apple-aapl-q4-2026-earnings-call-transcript/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 4.0,
-   "tickers": [
-    "AAPL"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 03 12:27 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "BioMarin (BMRN) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/biomarin-bmrn-q3-2026-earnings-call-transcript",
+   "title": "Tactile (TCMD) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/tactile-tcmd-q3-2026-earnings-call-transcript",
    "source": "Nasdaq Markets",
    "impact": 3.6,
    "tickers": [
-    "BMRN"
+    "TCMD"
    ],
    "sentiment_label": "bullish",
-   "seen_et": "Nov 03 12:27 AM ET",
+   "seen_et": "Nov 03 01:25 AM ET",
    "consumer": false
   },
   {
-   "title": "Asia stocks mixed as Apple outlook weighs; RBA raises rates to 18-yr high",
-   "link": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-mixed-apple-outlook-044034259.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 7.1,
+   "title": "Emergent BioSolutions (EBS) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/emergent-biosolutions-ebs-q3-2026-earnings-call-transcript",
+   "source": "Nasdaq Markets",
+   "impact": 3.6,
    "tickers": [
-    "AAPL"
+    "EBS"
    ],
    "sentiment_label": "bullish",
-   "seen_et": "Nov 03 12:27 AM ET",
+   "seen_et": "Nov 03 01:25 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "EVgo Receives $2/shr Unsolicited Bid From Majority Shareholder LS Power",
+   "link": "https://www.nasdaq.com/articles/evgo-receives-2-shr-unsolicited-bid-majority-shareholder-ls-power",
+   "source": "Nasdaq Markets",
+   "impact": 3.4,
+   "tickers": [
+    "EVGO"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 03 01:25 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "3 Genius Artificial Intelligence (AI) Stocks to Buy Hand Over Fist Before Year-End",
+   "link": "https://www.nasdaq.com/articles/3-genius-artificial-intelligence-ai-stocks-buy-hand-over-fist-year-end",
+   "source": "Nasdaq Markets",
+   "impact": 2.8,
+   "tickers": [
+    "AI"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 03 01:25 AM ET",
    "consumer": false
   }
  ],
@@ -624,15 +608,6 @@
    "impact": 7.1,
    "tickers": [
     "AAPL"
-   ]
-  },
-  {
-   "title": "Stocks mostly down as AI concerns top plunge in oil prices",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-mostly-down-ai-concerns-025549205.html?.tsrc=rss",
-   "impact": 7.0,
-   "tickers": [
-    "CL=F",
-    "XLE"
    ]
   }
  ],
@@ -2426,24 +2401,24 @@
  "sentiment_validation": {
   "logged": 4000,
   "min_sample": 100,
-  "generated_et": "Nov 03 12:27 AM ET",
+  "generated_et": "Nov 03 01:25 AM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
-    "n_scored": 3864,
-    "n_directional": 3294,
+    "n_scored": 3849,
+    "n_directional": 3281,
     "hit_rate": 50.6,
     "ci95": 1.7,
-    "corr": 0.008,
+    "corr": 0.01,
     "status": "NO EDGE (≈ coin flip)"
    },
    "r1d": {
     "name": "+1 day",
-    "n_scored": 3005,
-    "n_directional": 2588,
+    "n_scored": 2991,
+    "n_directional": 2576,
     "hit_rate": 50.9,
     "ci95": 1.9,
-    "corr": -0.014,
+    "corr": -0.013,
     "status": "NO EDGE (≈ coin flip)"
    }
   },
@@ -2525,98 +2500,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 03 12:26 AM ET",
-   "newest_et": "Nov 03 12:23 AM ET",
-   "newest": "2026-11-03T05:23:04+00:00"
+   "fetched_et": "Nov 03 01:25 AM ET",
+   "newest_et": "Nov 03 01:00 AM ET",
+   "newest": "2026-11-03T06:00:01+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 03 12:26 AM ET",
+   "fetched_et": "Nov 03 01:25 AM ET",
    "newest_et": "Nov 02 10:46 PM ET",
    "newest": "2026-11-03T03:46:20+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 03 12:26 AM ET",
+   "fetched_et": "Nov 03 01:25 AM ET",
    "newest_et": "Nov 03 12:01 AM ET",
    "newest": "2026-11-03T05:01:01+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Nov 03 12:26 AM ET",
+   "fetched_et": "Nov 03 01:25 AM ET",
    "newest_et": "Nov 02 07:59 PM ET",
    "newest": "2026-11-03T00:59:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 03 12:26 AM ET",
+   "fetched_et": "Nov 03 01:25 AM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
-   "count": 18,
-   "fetched_et": "Nov 03 12:26 AM ET",
-   "newest_et": "Nov 03 12:06 AM ET",
-   "newest": "2026-11-03T05:06:06+00:00"
+   "count": 19,
+   "fetched_et": "Nov 03 01:25 AM ET",
+   "newest_et": "Nov 03 01:17 AM ET",
+   "newest": "2026-11-03T06:17:21+00:00"
   },
   "BBC Business": {
    "ok": true,
-   "count": 53,
-   "fetched_et": "Nov 03 12:26 AM ET",
-   "newest_et": "Nov 02 09:11 PM ET",
-   "newest": "2026-11-03T02:11:13+00:00"
+   "count": 54,
+   "fetched_et": "Nov 03 01:25 AM ET",
+   "newest_et": "Nov 03 01:22 AM ET",
+   "newest": "2026-11-03T06:22:29+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Nov 03 12:26 AM ET",
-   "newest_et": "Nov 02 09:38 PM ET",
-   "newest": "2026-11-03T02:38:00+00:00"
+   "fetched_et": "Nov 03 01:25 AM ET",
+   "newest_et": "Nov 03 12:35 AM ET",
+   "newest": "2026-11-03T05:35:00+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Nov 03 12:26 AM ET",
-   "newest_et": "Nov 02 11:38 PM ET",
-   "newest": "2026-11-03T04:38:00+00:00"
+   "fetched_et": "Nov 03 01:25 AM ET",
+   "newest_et": "Nov 03 12:01 AM ET",
+   "newest": "2026-11-03T05:01:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 27,
-   "fetched_et": "Nov 03 12:26 AM ET",
-   "newest_et": "Nov 02 08:41 PM ET",
-   "newest": "2026-11-03T01:41:15+00:00"
+   "count": 57,
+   "fetched_et": "Nov 03 01:25 AM ET",
+   "newest_et": "Nov 03 12:37 AM ET",
+   "newest": "2026-11-03T05:37:42+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
    "count": 31,
-   "fetched_et": "Nov 03 12:26 AM ET",
-   "newest_et": "Nov 02 10:50 PM ET",
-   "newest": "2026-11-03T03:50:17+00:00"
+   "fetched_et": "Nov 03 01:25 AM ET",
+   "newest_et": "Nov 03 12:47 AM ET",
+   "newest": "2026-11-03T05:47:46+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Nov 03 12:26 AM ET",
+   "fetched_et": "Nov 03 01:25 AM ET",
    "newest_et": "Oct 29 04:30 PM ET",
    "newest": "2026-10-29T20:30:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Nov 03 12:26 AM ET",
-   "newest_et": "Nov 03 12:14 AM ET",
-   "newest": "2026-11-03T05:14:13+00:00"
+   "fetched_et": "Nov 03 01:25 AM ET",
+   "newest_et": "Nov 03 01:04 AM ET",
+   "newest": "2026-11-03T06:04:59+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
-   "count": 26,
-   "fetched_et": "Nov 03 12:26 AM ET"
+   "count": 25,
+   "fetched_et": "Nov 03 01:25 AM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
