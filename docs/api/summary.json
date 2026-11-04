@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Nov 03 08:54 PM ET",
- "generated_at": "2026-11-03T20:54:02.054232-05:00",
+ "generated_et": "Nov 03 09:44 PM ET",
+ "generated_at": "2026-11-03T21:44:12.431576-05:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-11-03",
@@ -12,33 +12,33 @@
   {
    "symbol": "ES=F",
    "label": "S&P 500 Fut",
-   "price": 7531.0,
-   "pct": -0.57,
-   "asof_et": "Nov 03 08:40 PM ET",
+   "price": 7520.0,
+   "pct": -0.72,
+   "asof_et": "Nov 03 09:30 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "NQ=F",
    "label": "Nasdaq 100 Fut",
-   "price": 27796.25,
-   "pct": -1.18,
-   "asof_et": "Nov 03 08:40 PM ET",
+   "price": 27783.25,
+   "pct": -1.22,
+   "asof_et": "Nov 03 09:30 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "YM=F",
    "label": "Dow Fut",
-   "price": 51697.0,
-   "pct": -0.84,
-   "asof_et": "Nov 03 08:40 PM ET",
+   "price": 51563.0,
+   "pct": -1.09,
+   "asof_et": "Nov 03 09:30 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "RTY=F",
    "label": "Russell 2000 Fut",
-   "price": 2810.6,
-   "pct": -0.26,
-   "asof_et": "Nov 03 08:40 PM ET",
+   "price": 2805.7,
+   "pct": -0.43,
+   "asof_et": "Nov 03 09:30 PM ET",
    "freshness": "delayed"
   },
   {
@@ -84,25 +84,25 @@
   {
    "symbol": "CL=F",
    "label": "WTI Crude",
-   "price": 95.6,
-   "pct": -0.89,
-   "asof_et": "Nov 03 08:40 PM ET",
+   "price": 95.12,
+   "pct": -1.39,
+   "asof_et": "Nov 03 09:30 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "GC=F",
    "label": "Gold",
-   "price": 3972.0,
-   "pct": 0.06,
-   "asof_et": "Nov 03 08:40 PM ET",
+   "price": 3951.6,
+   "pct": -0.45,
+   "asof_et": "Nov 03 09:30 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "DX-Y.NYB",
    "label": "Dollar Index",
-   "price": 101.28,
-   "pct": -0.46,
-   "asof_et": "Nov 03 08:40 PM ET",
+   "price": 101.37,
+   "pct": -0.37,
+   "asof_et": "Nov 03 09:30 PM ET",
    "freshness": "delayed"
   },
   {
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 76862.74,
-   "pct": 0.24,
-   "asof_et": "Nov 03 08:50 PM ET",
+   "price": 76555.19,
+   "pct": -0.16,
+   "asof_et": "Nov 03 09:40 PM ET",
    "freshness": "delayed"
   },
   {
@@ -377,221 +377,209 @@
  ],
  "breaking": [
   {
-   "title": "Midterm elections 2026 live updates: Cooper wins N.C. Senate, House control 'leans' Dem",
+   "title": "Midterm elections 2026 live updates: Blue wave hits House",
    "link": "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html",
+   "source": "CNBC Top News",
+   "impact": 1.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 03 09:44 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Stock futures fall on speculation Democrats to win big in midterms, slow data center buildout: Live updates",
+   "link": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html",
    "source": "CNBC Top News",
    "impact": 2.2,
    "tickers": [],
    "sentiment_label": "bullish",
-   "seen_et": "Nov 03 08:54 PM ET",
+   "seen_et": "Nov 03 09:44 PM ET",
    "consumer": false
   },
   {
-   "title": "Novartis: 3 Key Takeaways for Long-Term Investors",
-   "link": "https://www.nasdaq.com/articles/novartis-3-key-takeaways-long-term-investors",
-   "source": "Nasdaq Markets",
-   "impact": 3.1,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 03 08:54 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Stock Market Election Night: Futures Fall As Votes Pour In; AMD, Arista Rise On Earnings",
+   "title": "Stock Market Election Night: Tech, AI Stocks Lead Futures Lower As ; AMD, Arista Rise On Earnings",
    "link": "https://finance.yahoo.com/m/e5be454d-07fd-3d94-8114-a4e8ff2910de/stock-market-election-night%3A.html?.tsrc=rss",
    "source": "Yahoo Finance",
-   "impact": 3.1,
+   "impact": 3.5,
    "tickers": [
     "AMD"
    ],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 03 08:54 PM ET",
+   "sentiment_label": "bearish",
+   "seen_et": "Nov 03 09:44 PM ET",
    "consumer": false
   },
   {
-   "title": "Should You Buy Alphabet Stock After Anthropic Raised Its Google Commitment to $121 Billion?",
-   "link": "https://www.nasdaq.com/articles/should-you-buy-alphabet-stock-after-anthropic-raised-its-google-commitment-121-billion",
-   "source": "Nasdaq Markets",
-   "impact": 2.4,
+   "title": "Interest rates went up, so did retail stocks. What's going on?",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPY0h0UEdvVHk2NEVPOWNwaTlHdG4tQjUtaUpPV3JnS2tFZHF1UjExbUNLYm5IRXRqZFFhaFNyNHplUGZsRDNSSk1QLVZKSXRuYU5vMGZBSWZNT284TjZieVFHQ19xeVVxaEV5ZWZmTl9DbDliVzZPU2ExamttcmU5eExHZkhXYl83UGRSbk1UTWdzTW9uS19jaWJGRVh1UQ?oc=5",
+   "source": "Livewire Markets",
+   "impact": 4.1,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 03 09:44 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Microsoft (MSFT) Deepens Enterprise AI Networking Partnership",
+   "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-deepens-enterprise-ai-020744358.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.5,
    "tickers": [
-    "GOOGL"
+    "MSFT"
    ],
    "sentiment_label": "bullish",
-   "seen_et": "Nov 03 08:54 PM ET",
+   "seen_et": "Nov 03 09:44 PM ET",
    "consumer": false
   },
   {
-   "title": "No more rice grains in Kellogg's Rice Krispies due to changing weather",
-   "link": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "impact": 3.3,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Nov 03 08:54 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Renewed Support Likely For Indonesia Stock Market",
-   "link": "https://www.nasdaq.com/articles/renewed-support-likely-indonesia-stock-market",
+   "title": "Higher Open Called For Thai Stock Market",
+   "link": "https://www.nasdaq.com/articles/higher-open-called-thai-stock-market",
    "source": "Nasdaq Markets",
-   "impact": 1.8,
+   "impact": 1.6,
    "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Nov 03 08:54 PM ET",
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 03 09:44 PM ET",
    "consumer": false
   },
   {
-   "title": "Tech in a “needed reset:” 5 sectors to own right now",
-   "link": "https://www.thestreet.com/video/tech-in-a-much-needed-reset-5-sectors-to-own-right-now?.tsrc=rss",
+   "title": "1Finity, a Fujitsu Company, Announces Availability of Full-Stack Enterprise AI-Native vRAN Solution",
+   "link": "https://finance.yahoo.com/technology/ai/articles/1finity-fujitsu-company-announces-availability-020000548.html?.tsrc=rss",
    "source": "Yahoo Finance",
-   "impact": 2.0,
+   "impact": 2.3,
    "tickers": [
-    "SPY"
+    "NVDA"
    ],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 03 08:54 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Why Fiserv Stock Triumphed on Tuesday",
-   "link": "https://www.fool.com/investing/2026/11/03/why-fiserv-stock-triumphed-on-tuesday/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.2,
-   "tickers": [],
    "sentiment_label": "bullish",
-   "seen_et": "Nov 03 08:54 PM ET",
+   "seen_et": "Nov 03 09:44 PM ET",
    "consumer": false
   },
   {
-   "title": "Hong Kong Stock Market May Spin Its Wheels On Wednesday",
-   "link": "https://www.nasdaq.com/articles/hong-kong-stock-market-may-spin-its-wheels-wednesday",
+   "title": "BigBear.ai vs. Nebius: Which AI Stock Is the Better Buy for 2027?",
+   "link": "https://www.nasdaq.com/articles/bigbearai-vs-nebius-which-ai-stock-better-buy-2027",
    "source": "Nasdaq Markets",
-   "impact": 1.8,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 03 08:54 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "President Donald Trump Claims He'll \"Veto Everything\" if Democrats Retake Congress, and It Has Big Implications for the Stock Market",
-   "link": "https://www.fool.com/investing/2026/11/03/donald-trump-claims-veto-everything-democrats-retake-congress-big-implications-for-stock-market/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 1.8,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 03 08:54 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "US stock futures dip as investors await midterm election results",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWZWFDY2tZeDZfbXdVWnE2QWZwVlNpX3NqVm1OdmR0bDBGTlJjU3dJWG5yWEFpSG4tSHVhY2NEeVBsNnllVFQyb0tWRU1naXZQLWN3Tlk4VE1PV3o2cU1tVHFYX1hDT1ZtRkVWUWtYR3JwWFRyTXZIRldDWQ?oc=5",
-   "source": "Reuters",
    "impact": 1.7,
    "tickers": [],
    "sentiment_label": "neutral",
-   "seen_et": "Nov 03 08:54 PM ET",
+   "seen_et": "Nov 03 09:44 PM ET",
    "consumer": false
   },
   {
-   "title": "Australian Market Modestly Lower",
-   "link": "https://www.nasdaq.com/articles/australian-market-modestly-lower-7",
-   "source": "Nasdaq Markets",
-   "impact": 2.1,
-   "tickers": [
-    "SPY"
-   ],
+   "title": "THE KOREA INDUSTRY DAILY: ROBOTWORLD 2026 to Spotlight Physical AI and AI-Driven Manufacturing With 402 Exhibitors From 17 Countries",
+   "link": "https://finance.yahoo.com/technology/ai/articles/korea-industry-daily-robotworld-2026-014900079.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 1.5,
+   "tickers": [],
    "sentiment_label": "neutral",
-   "seen_et": "Nov 03 08:54 PM ET",
+   "seen_et": "Nov 03 09:44 PM ET",
    "consumer": false
   },
   {
-   "title": "Rebound Predicted For China Stock Market",
-   "link": "https://www.nasdaq.com/articles/rebound-predicted-china-stock-market",
-   "source": "Nasdaq Markets",
-   "impact": 2.2,
+   "title": "Democrat Roy Cooper wins election to U.S. Senate from North Carolina",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWVVZYkJkZWVFckQtTnljb29fS2lyMDdub2pkNW13MnFRM0EydVVyRmVMdWt2Nkx2Z3BCcEpKWnFfUnUzOXlQb2J1RFk5bVJVSUE2cFdOMEp6TnY1WUFsMGtrSzlROUdGcDhDQlJKREk1dWlpeUhNOXhsTmgwejZveFBBNFpXNzhpR2dQZUV1cVh2QWI3Zm5DMVRSQ2tqLV9FZUVPamdTRFd1Vjg?oc=5",
+   "source": "AP News",
+   "impact": 2.4,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 03 09:44 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Democrat Kathy Castor wins reelection to U.S. House in Florida's 14th Congressional District",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMjc3ODBtaU5NbnJTWVNtYXlueDlkXzB4SzFDSkNkcjd2ZU9SbGZTekhyUXZMajhpNU1RelQzTlpoRml1Nm5obVpFTWZrU2E5R2tITUZwbkhBQ1A2SHBQVXNFXzA1V0xFWmoxWnEwb1ZvZUNVMEdfSkZjMkZ4dHBvU0pkNG1IRHdqYmhaekpQRFVFMzdrbzJYSm1SejdHU1lBWTRhS0EtQTdlakh6?oc=5",
+   "source": "AP News",
+   "impact": 2.4,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 03 09:44 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Democrat Jared Moskowitz wins reelection to U.S. House in Florida's 25th Congressional District",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMlg1dzM2bExRWjZwMGdidDk3U3BSNHBVQk5BUHhPNFVUT1ZOUldLaWdDWFFYTl9tNWVxeWZ5UUVmRXBGSHZzYktBcld2a3BNd2VWMUU0ek9wZXNSX002Z3U5Mm5JR1hBa0F2UjFOT2tueW5za0I2YlFBbF9fQjNRXzhQUldtSjJmS1VGekk2cVh2aXFaZXVncUpLZ01HcHdXLXg5cU8yQkVtdE0tSWxiWQ?oc=5",
+   "source": "AP News",
+   "impact": 2.4,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 03 09:44 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Anthropic S-1: Record Growth, but is the IPO a Buy?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/anthropic-1-record-growth-ipo-005900863.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.5,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 03 09:44 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "An anonymous celebrity loses UK court bid to block reports of alleged sexual misconduct",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTnJfakR3S0JBV21lQkhSa3diX3FTdFA4OXQ2ZFRvM3lxemlwQmwzdTRqQzJLVkRyajJ1OVFWQk45cWZ4VlJ0WHVGQklRbE9janMxdm5fc3lsaFBiVHNrYkhTaUNQWEt0RWI1ZnZXQ21STFZ5TTdpZDNWczhGTUE0bXRtUENwdW5LSU5vVlhEZS1XUngwNGJhV0Nn?oc=5",
+   "source": "AP News",
+   "impact": 2.1,
    "tickers": [],
    "sentiment_label": "bearish",
-   "seen_et": "Nov 03 08:54 PM ET",
+   "seen_et": "Nov 03 09:44 PM ET",
    "consumer": false
   },
   {
-   "title": "McDonald's and Qualcomm earnings, ADP labor data: What to Watch",
-   "link": "https://finance.yahoo.com/video/mcdonalds-qualcomm-earnings-adp-labor-010000492.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 4.1,
-   "tickers": [
-    "DASH",
-    "MCD",
-    "QCOM"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 03 08:54 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Review & Preview: A Divided Market on Election Day",
-   "link": "https://finance.yahoo.com/m/d01706ed-bcdd-34f3-a5ca-4605fa78c17b/review-%26-preview%3A-a-divided.html?.tsrc=rss",
-   "source": "Yahoo Finance",
+   "title": "Prediction markets increasingly price in Democratic sweep as US midterm betting soars",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb2hIb2RkVE5NOGtSTm13ODFQYkxHZ2FhVEFlNGdidjFJVVpmTy1UekFuX29Xd2xEMTdRNjNzbEFaTzNNcFNqRURrbl9XVXZjdkpsUFgycVJaWXo1SUFJSFFiSGpSUHQ1U1gzTl9IWWhPS3RSd1hsNF9zV2xXYy1ZclBPMk4xd0tJV1dxZms0MWJGU3djMDNEbWFyNUtkZTduX3c2OTgwTWNRSVdGLWRoT3Jn?oc=5",
+   "source": "Reuters",
    "impact": 2.9,
-   "tickers": [
-    "DIA",
-    "QQQ",
-    "SPY"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 03 08:54 PM ET",
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 03 09:44 PM ET",
    "consumer": false
   },
   {
-   "title": "Elon Musk Has A Lot Riding On Texas",
-   "link": "https://finance.yahoo.com/m/7e2b1345-9e6f-32ff-888f-2991befd2557/elon-musk-has-a-lot-riding-on.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 1.9,
-   "tickers": [
-    "TSLA"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 03 08:54 PM ET",
+   "title": "Investors poised for possible Democratic gains in Congress as US awaits election results",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPXzBTeXRWM3ktaW9LQUFHVVg5V2JZMWZ3OG5LaWUtNGpVMmN2bnQ4RTJmaWVVaGctdnJZTkFZeWdjbG9JUUE4NFdFalFyQ2tZRFotZERxRkJQcHVtS1lwUGhVc0xJZnVqYnF4ZllqcDJFUkJxcEd2QTF0RGFERW1oSkFENEV0V3VQMEFabVkwOHcwTV9lVWNRZ3JmbDVDOUQ5aGYwWTJUb0o5RGpK?oc=5",
+   "source": "Reuters",
+   "impact": 1.8,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 03 09:44 PM ET",
    "consumer": false
   },
   {
-   "title": "Democrat Mark Warner wins reelection to U.S. Senate from Virginia",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQenFFdlpfcXMxMDFlazQxQUZ0NF9aUmc1alFaUEExRUJDOTU2anRTUGt5c2syeTRsTXllelZCLUM1dWRNNUZPb3lUNUU5X29pcngwOUVoc1BIMTFELUdhT0RqZFN3ZU4ydThyMjkzT01wQm9peklScm9pMHRKU2p4TQ?oc=5",
+   "title": "Kansas U.S. House Election Live Results 2026",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5hUlp2RUgwZWdJZ3VPR3BPUjVGdlZxcDhvUnVIYnI1MzROOHFDRVh2QlotbUV3UVZkb0U3UVhXclowblI4NWhlNHZiR2NvRXRiTU1aWktia3hFV25WMElOelFYVUgyb0ZFZTdyN1dwNVRKeTc2TVE?oc=5",
    "source": "AP News",
-   "impact": 3.6,
+   "impact": 0.7,
    "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 03 08:54 PM ET",
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 03 09:44 PM ET",
    "consumer": false
   },
   {
-   "title": "Earnings Calendar and Analysis for This Week",
-   "link": "https://www.kiplinger.com/investing/stocks/17494/next-week-earnings-calendar-stocks?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.9,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 03 08:54 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Apollo assets reach $1.07 trillion on alternative investment demand",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTldvb3BIM3JmWmlQRlQ4NnZTR2dlOFd2aTVMM0NLekl3bjNWZ3hrcVBoUFFRa2VqYVZTcE0xOGVpWEdUWFdpLXZpQnNtWVo3UkdDdHF1S1ljSXh2Z2JXbmRaM3lldXlmQ0c2ckNPWlAzY0VRTVBRT0FJOFJwUWwyR3lWYWFaLXRNVy1fUFBHU1k1dWh5V0EwR25rWVA1bERyRmFtbW5TYmZGVTg?oc=5",
+   "title": "COMMENTARY: Qatar's US LNG bet signals a new energy order",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVklYbm1HdWRyRXdFc1lQT0h1Vi12N0ZuRldTZjVhN3VVUzUyeFcyeldnZ3djUnpWUU5YU25aRFFMbU1QSTZwQXNXRGxDN0wtV0hGMkF1d21IcDhtWlBPZm92NmFxc1RvVWZoVG9xSlJzSktmalpmaFNkZTFFUDBzREROdEUwNHlmRHowRWs1cnFPWmNYNGNfbHR0cmFhcndkQXBOcnQ5UkdFZzh1RjVqSw?oc=5",
    "source": "Reuters",
    "impact": 1.3,
    "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 03 08:54 PM ET",
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 03 09:44 PM ET",
    "consumer": false
   },
   {
-   "title": "New Jersey U.S. Senate Election Live Results 2026",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE53M0hqNnczakEycHlZcXJVcXpxR016U1AxY3JHci1WbzdRQm5xcjIzNUdjb24tRFFZMmt3akxuMTRlZzRJSkwyd293RzVkZkpObkxoWHNhSEJXZkl0SmxMSVNzNW5UdG12bWYxVlZaT3JTV1IwNEM2bnJsWEw?oc=5",
+   "title": "Dodge announces its return to the NASCAR Cup Series beginning at the Daytona 500",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOGdpakRKNFVFZU5GZXdndXhWd0VGYmlfdDM2UTVCVVpncFlrdHB2UUp0aDBYVEFFcHVidVJLY0piZklmc2t3WXZZSldLQjZlR3oxZWFmb01FN3RaZmphZXdReTMyak5xZUtCbXZPNjA1OFc3ZWdnQmpydU1yX2pVOThlMHNfX3NNaHFvdFp3OThWa01LX2c?oc=5",
    "source": "AP News",
-   "impact": 0.0,
+   "impact": 0.5,
    "tickers": [],
    "sentiment_label": "neutral",
-   "seen_et": "Nov 03 08:54 PM ET",
+   "seen_et": "Nov 03 09:44 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "New York Governor Election Live Results 2026",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ITVp0Nk9Yck5FSVFtY2NGWU55QUZMdHl2VUFVRkVZTC1oeERjTnVZb0xGVS03Q29xbnExZXVvdFpXMjBmWF9CeGtNN1JHTlJIRm1DWVhZY0UyRkxubmYwamE2U3ZmQ0QwcVVrNTlDenlwT1lFTzcwNg?oc=5",
+   "source": "AP News",
+   "impact": 0.2,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 03 09:44 PM ET",
    "consumer": false
   }
  ],
@@ -1135,7 +1123,7 @@
  "economic_calendar": {
   "source": "FairEconomy / ForexFactory weekly calendar (nfs.faireconomy.media)",
   "fallback": false,
-  "fetched_et": "Nov 03 07:54 PM ET",
+  "fetched_et": "Nov 03 09:44 PM ET",
   "events": [
    {
     "when_et": "Nov 03 10:00 AM ET",
@@ -2553,12 +2541,12 @@
  "sentiment_validation": {
   "logged": 4000,
   "min_sample": 100,
-  "generated_et": "Nov 03 08:54 PM ET",
+  "generated_et": "Nov 03 09:44 PM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
-    "n_scored": 3918,
-    "n_directional": 3376,
+    "n_scored": 3915,
+    "n_directional": 3373,
     "hit_rate": 49.1,
     "ci95": 1.7,
     "corr": -0.004,
@@ -2566,11 +2554,11 @@
    },
    "r1d": {
     "name": "+1 day",
-    "n_scored": 3346,
-    "n_directional": 2906,
+    "n_scored": 3343,
+    "n_directional": 2903,
     "hit_rate": 49.5,
     "ci95": 1.8,
-    "corr": 0.015,
+    "corr": 0.014,
     "status": "NO EDGE (≈ coin flip)"
    }
   },
@@ -2652,98 +2640,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 03 08:54 PM ET",
-   "newest_et": "Nov 03 08:49 PM ET",
-   "newest": "2026-11-04T01:49:58+00:00"
+   "fetched_et": "Nov 03 09:44 PM ET",
+   "newest_et": "Nov 03 09:43 PM ET",
+   "newest": "2026-11-04T02:43:53+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 03 08:54 PM ET",
+   "fetched_et": "Nov 03 09:44 PM ET",
    "newest_et": "Nov 03 02:15 PM ET",
    "newest": "2026-11-03T19:15:21+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 03 08:54 PM ET",
+   "fetched_et": "Nov 03 09:44 PM ET",
    "newest_et": "Nov 03 05:26 PM ET",
    "newest": "2026-11-03T22:26:20+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Nov 03 08:54 PM ET",
+   "fetched_et": "Nov 03 09:44 PM ET",
    "newest_et": "Nov 03 08:16 PM ET",
    "newest": "2026-11-04T01:16:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 03 08:54 PM ET",
+   "fetched_et": "Nov 03 09:44 PM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 19,
-   "fetched_et": "Nov 03 08:54 PM ET",
-   "newest_et": "Nov 03 08:45 PM ET",
-   "newest": "2026-11-04T01:45:27+00:00"
+   "fetched_et": "Nov 03 09:44 PM ET",
+   "newest_et": "Nov 03 09:22 PM ET",
+   "newest": "2026-11-04T02:22:47+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 44,
-   "fetched_et": "Nov 03 08:54 PM ET",
+   "fetched_et": "Nov 03 09:44 PM ET",
    "newest_et": "Nov 03 08:36 PM ET",
    "newest": "2026-11-04T01:36:06+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Nov 03 08:54 PM ET",
+   "fetched_et": "Nov 03 09:44 PM ET",
    "newest_et": "Nov 03 08:06 PM ET",
    "newest": "2026-11-04T01:06:00+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Nov 03 08:54 PM ET",
-   "newest_et": "Nov 03 07:27 PM ET",
-   "newest": "2026-11-04T00:27:00+00:00"
+   "fetched_et": "Nov 03 09:44 PM ET",
+   "newest_et": "Nov 03 09:21 PM ET",
+   "newest": "2026-11-04T02:21:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
    "count": 39,
-   "fetched_et": "Nov 03 08:54 PM ET",
+   "fetched_et": "Nov 03 09:44 PM ET",
    "newest_et": "Nov 03 02:23 PM ET",
    "newest": "2026-11-03T19:23:54+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
    "count": 29,
-   "fetched_et": "Nov 03 08:54 PM ET",
-   "newest_et": "Nov 03 04:05 PM ET",
-   "newest": "2026-11-03T21:05:00+00:00"
+   "fetched_et": "Nov 03 09:44 PM ET",
+   "newest_et": "Nov 03 09:08 PM ET",
+   "newest": "2026-11-04T02:08:26+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Nov 03 08:54 PM ET",
+   "fetched_et": "Nov 03 09:44 PM ET",
    "newest_et": "Oct 29 04:30 PM ET",
    "newest": "2026-10-29T20:30:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Nov 03 08:54 PM ET",
-   "newest_et": "Nov 03 08:47 PM ET",
-   "newest": "2026-11-04T01:47:03+00:00"
+   "fetched_et": "Nov 03 09:44 PM ET",
+   "newest_et": "Nov 03 09:01 PM ET",
+   "newest": "2026-11-04T02:01:38+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Nov 03 08:54 PM ET"
+   "fetched_et": "Nov 03 09:44 PM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
@@ -2753,7 +2741,7 @@
   "Economic calendar": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Nov 03 07:54 PM ET",
+   "fetched_et": "Nov 03 09:44 PM ET",
    "note": "FairEconomy / ForexFactory weekly calendar (nfs.faireconomy.media)"
   }
  }
