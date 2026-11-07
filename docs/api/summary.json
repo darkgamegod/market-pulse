@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Nov 07 02:38 PM ET",
- "generated_at": "2026-11-07T14:38:56.401592-05:00",
+ "generated_et": "Nov 07 06:05 PM ET",
+ "generated_at": "2026-11-07T18:05:00.569354-05:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-11-07",
@@ -30,14 +30,6 @@
    "label": "Dow Fut",
    "price": 51385.0,
    "pct": -0.45,
-   "asof_et": "Nov 06 04:55 PM ET",
-   "freshness": "closed"
-  },
-  {
-   "symbol": "RTY=F",
-   "label": "Russell 2000 Fut",
-   "price": 2760.5,
-   "pct": 0.92,
    "asof_et": "Nov 06 04:55 PM ET",
    "freshness": "closed"
   },
@@ -116,9 +108,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 75643.35,
-   "pct": -0.14,
-   "asof_et": "Nov 07 02:39 PM ET",
+   "price": 75631.75,
+   "pct": -0.15,
+   "asof_et": "Nov 07 06:05 PM ET",
    "freshness": "delayed"
   },
   {
@@ -207,6 +199,14 @@
    "price": 104.79,
    "pct": 0.43,
    "asof_et": "Nov 06 05:05 PM ET",
+   "freshness": "closed"
+  },
+  {
+   "symbol": "SMH",
+   "label": "Semiconductors",
+   "price": 466.0,
+   "pct": 4.08,
+   "asof_et": "Nov 06 07:55 PM ET",
    "freshness": "closed"
   }
  ],
@@ -367,215 +367,223 @@
  ],
  "breaking": [
   {
-   "title": "Trump offers UFC chief Dana White press secretary job",
-   "link": "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html",
+   "title": "Polish gunman who killed 6 people in Krakow has 'ultranationalistic' views, minister says",
+   "link": "https://www.cnbc.com/2026/11/07/krakow-poland-shooting.html",
    "source": "CNBC Top News",
-   "impact": 1.5,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 07 02:39 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Did Apple Just Get a Boost From Democrats? Data Center Moratoriums Could Benefit the iPhone Maker",
-   "link": "https://www.fool.com/investing/2026/11/07/apple-get-boost-democrats-data-center-iphone/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.8,
-   "tickers": [
-    "AAPL"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 07 02:39 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Here's the Average Social Security Benefit by Age 62 to 80",
-   "link": "https://www.nasdaq.com/articles/heres-average-social-security-benefit-age-62-80",
-   "source": "Nasdaq Markets",
-   "impact": 2.5,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 07 02:39 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Best Retail Stocks To Research - November 7th",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUy03SEtGdmY4NkotUmYzbGFmX1FHRVFWUnpmeW9ZdlpFYkNBVko3OFFuaGdRU2VGV1I3SGs2d0dyQkJQTFYzRXNDbWNJQ3A2c3ZGdUZwRVkzRl8yZlBjR0RyNVc0aUxGQXJZbXBXbXJSQWZkZUZfM3VFTzY1ZUxpX29NMWgzZHB2VVZzNVdsSkNzUy05NFREbGgtNmk1dzlZeFVlYg?oc=5",
-   "source": "MarketBeat",
-   "impact": 2.5,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 07 02:39 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "Why Sunrun Stock Surged 33.4% This Week",
-   "link": "https://www.nasdaq.com/articles/why-sunrun-stock-surged-334-week",
-   "source": "Nasdaq Markets",
-   "impact": 3.8,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 07 02:39 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Think It's Too Late to Buy Cloudflare Stock? Here's the 1 Reason Why There's Still Time",
-   "link": "https://www.fool.com/investing/2026/11/07/too-late-buy-cloudflare-stock-1-reason-still-time/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 1.5,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 07 02:39 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Alphabet (GOOGL) Expands SpaceX Stake to $69 Billion and Deepens AI Ties",
-   "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-googl-expands-spacex-stake-191144041.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.3,
-   "tickers": [
-    "GOOGL",
-    "NVDA"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 07 02:39 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Under Armour: 3 Key Takeaways for Long-Term Investors",
-   "link": "https://www.nasdaq.com/articles/under-armour-3-key-takeaways-long-term-investors",
-   "source": "Nasdaq Markets",
-   "impact": 1.5,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 07 02:39 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Warren Buffett Warned Investors About This Number 27 Years Ago. It's Never Been Higher. Should AI Investors Worry?",
-   "link": "https://www.nasdaq.com/articles/warren-buffett-warned-investors-about-number-27-years-ago-its-never-been-higher-should-ai",
-   "source": "Nasdaq Markets",
-   "impact": 5.2,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 07 02:39 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "MercadoLibre's Profits Fall Again. What It Means for Investors",
-   "link": "https://www.fool.com/investing/2026/11/07/mercadolibre-s-profits-fall-again-what-it-means-for-investors/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.6,
-   "tickers": [
-    "MELI"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 07 02:39 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "He Loses His Job at 62 as Amazon Cuts 95 More Positions. He Claims Social Security to Get By, Then Faces an $8,400 Bill to Undo It",
-   "link": "https://247wallst.com/personal-finance/social-security/2026/11/07/he-loses-his-job-at-62-as-amazon-cuts-95-more-positions-he-claims-social-security-to-get-by-then-faces-an-8400-bill-to-undo-it/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.1,
-   "tickers": [
-    "AMZN"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 07 02:39 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "Where Will Rigetti Computing Stock Be in 3 Years?",
-   "link": "https://www.fool.com/investing/2026/11/07/where-will-rigetti-computing-stock-be-in-3-years/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 1.9,
+   "impact": 2.3,
    "tickers": [],
    "sentiment_label": "bearish",
-   "seen_et": "Nov 07 02:39 PM ET",
+   "seen_et": "Nov 07 06:05 PM ET",
    "consumer": false
   },
   {
-   "title": "Melania Trump and LSU are set to announce a scholarship program for students who were in foster care",
+   "title": "Israel’s president taps opposition candidate Eisenkot to form a government, in setback for Netanyahu",
+   "link": "https://www.cnbc.com/2026/11/07/israel-eisenkot-netanyahu.html",
+   "source": "CNBC Top News",
+   "impact": 1.7,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 07 06:05 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Melania Trump and LSU announce $7.2M to endow scholarships for former foster care students",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaE9fZWFrMkNPS05yeXBqOVE0eWtqcldnVk9WT2gtVGJOZEhFY29rbENXUExfUmFrbVAxUzB4eFlwVGNVX2VhLTRwa3dtd2tvV25WU1NJODNtMWdsZUlJTWhURUc2MnlCSWltUzZtNUF1ZzVxUjRSejZHY0t5eVl5eHRqWGZkS2Z0c0pCTEowZi1GajhiaXBvOHlORTdUbmM5TnN5VTZVLWw0MEU1UFhZdzlR?oc=5",
    "source": "AP News",
    "impact": 2.4,
    "tickers": [],
    "sentiment_label": "bullish",
-   "seen_et": "Nov 07 02:39 PM ET",
+   "seen_et": "Nov 07 06:05 PM ET",
    "consumer": false
   },
   {
-   "title": "Eli Lilly Just Raised Its 2026 Revenue Forecast by $5.5 Billion. Is the Stock Still a Buy?",
-   "link": "https://www.fool.com/investing/2026/11/07/eli-lilly-just-raised-its-2026-revenue-forecast-by/?.tsrc=rss",
+   "title": "With an ode to mate tea, pope urges faithful in Uruguay to build bridges of fraternity and faith",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONEJXOWR4cEZFc2ZCSUozaVVxQ1ZTNGFqc2taVW96VVNXRkkwR2Z1ZFpEYU9wbWZjSGRzMTY5cV9EOElweEl0T0tVY1dfX0JoMEF0SWJNUnN2aF95S3hGbm5yWXpPQW8zZnBrNmJVMUpRYkxIYVFaVXJZRnM5bGtiQ0xMUGlhVlZCWVRJZmY3aEk5WndxUlhhN2s5T2U?oc=5",
+   "source": "AP News",
+   "impact": 2.5,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 07 06:05 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Elon Musk Is Winding Down Cybertruck Production to Build Cybercabs. The Model S and Model X Already Gave Up Their Factory Space to Robots.",
+   "link": "https://www.fool.com/investing/2026/11/07/elon-musk-is-winding-down-cybertruck-production-to-build-cybercabs-the-model-s-and-model-x-already-gave-up-their-factory-space-to-robots/?.tsrc=rss",
    "source": "Yahoo Finance",
    "impact": 2.0,
    "tickers": [
-    "LLY"
+    "TSLA"
    ],
    "sentiment_label": "neutral",
-   "seen_et": "Nov 07 02:39 PM ET",
-   "consumer": false
+   "seen_et": "Nov 07 06:05 PM ET",
+   "consumer": true
   },
   {
-   "title": "Gunman opens fire in Polish city of Krakow, killing 6 people and injuring 15",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT3JpbnhmUWhOUkNrNkUwYVdXYkk1cDFHbEVsVGlsOElHU1dkOUNWa3JVLUdsWkdlQ1A1aWlqbkRQMmVxMk1iRko4Vng5cWdKWTA2cVdBR0xaVUVWU3pQbjJveEFwbzhmTktUX0dyQWFxX3R4eU9zbFFaWTBBM3FRaDE1TW1pZFJHUlBJbVpGMHZCVnpZVV9FUGVn?oc=5",
-   "source": "AP News",
-   "impact": 2.6,
+   "title": "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans",
+   "link": "https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html",
+   "source": "CNBC Top News",
+   "impact": 2.3,
    "tickers": [],
    "sentiment_label": "bearish",
-   "seen_et": "Nov 07 02:39 PM ET",
+   "seen_et": "Nov 07 06:05 PM ET",
    "consumer": false
   },
   {
-   "title": "Choosing a Tech ETF: Low Fees vs. Targeted Exposure",
-   "link": "https://www.nasdaq.com/articles/choosing-tech-etf-low-fees-vs-targeted-exposure",
-   "source": "Nasdaq Markets",
+   "title": "Dow Jones Futures: Market Needs Repair But Apple, Amazon, Microsoft Strong; Berkshire Doubles Stock Buyback",
+   "link": "https://finance.yahoo.com/m/283e1bd9-349e-390b-a32b-b4ed9a9034f3/dow-jones-futures%3A-market.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 5.1,
+   "tickers": [
+    "AAPL",
+    "AMZN",
+    "BRK-B",
+    "DIA",
+    "MSFT",
+    "MU"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 07 06:05 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Ipswich Town's new club shop 'here to stay'",
+   "link": "https://www.bbc.co.uk/news/videos/cxnv0455zq5jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
    "impact": 2.1,
    "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Nov 07 02:39 PM ET",
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 07 06:05 PM ET",
    "consumer": false
   },
   {
-   "title": "3 Dividend Stocks I'd Buy With $5,000 Before the End of November",
-   "link": "https://www.fool.com/investing/2026/11/07/3-dividend-stocks-buy-5000-november/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 1.6,
+   "title": "American Healthcare REIT: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/american-healthcare-reit-3-key-takeaways-long-term-investors",
+   "source": "Nasdaq Markets",
+   "impact": 1.5,
    "tickers": [],
    "sentiment_label": "neutral",
-   "seen_et": "Nov 07 02:39 PM ET",
+   "seen_et": "Nov 07 06:05 PM ET",
    "consumer": false
   },
   {
-   "title": "SoundHound AI: 3 Key Takeaways for Long-Term Investors",
-   "link": "https://www.nasdaq.com/articles/soundhound-ai-3-key-takeaways-long-term-investors",
+   "title": "Can New Zealand's new government win over disillusioned voters?",
+   "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "impact": 2.0,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 07 06:05 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "US military says it fired on commercial vessel in Gulf of Oman after it attempted to breach blockade",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeW5HVVl6cDF0V1htbGY0eU9zSmtxbjdEOW9ETW02b0JLVlJwSW1oODJBSDRFOXBrMXpfRElCa0NXeHdrUTlUYlo2MmZadHFZellGd2dkUFNyWG5BNy1INUhwa3hGRDRMX3hIcFpFMmRzdEtGRjJSUXZJTXZ1OHV5QjlSTUJvOW9mTURuX0wwVDRyQkRyR2tZaDhCRjZZTHpnZmFoSnpHRDZ5R01r?oc=5",
+   "source": "AP News",
+   "impact": 2.4,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Nov 07 06:05 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Consumer Staples Showdown: Weighing the Differences Between VDC and RSPS",
+   "link": "https://www.nasdaq.com/articles/consumer-staples-showdown-weighing-differences-between-vdc-and-rsps",
+   "source": "Nasdaq Markets",
+   "impact": 2.3,
+   "tickers": [
+    "SPY"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Nov 07 06:05 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Forget Lilly and Novo: Pfizer Is Planning a Wave of Phase 3 Obesity Trials",
+   "link": "https://www.nasdaq.com/articles/forget-lilly-and-novo-pfizer-planning-wave-phase-3-obesity-trials",
+   "source": "Nasdaq Markets",
+   "impact": 3.3,
+   "tickers": [
+    "LLY",
+    "NVO",
+    "PFE"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Nov 07 06:05 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "DraftKings: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/draftkings-3-key-takeaways-long-term-investors",
    "source": "Nasdaq Markets",
    "impact": 1.8,
    "tickers": [],
    "sentiment_label": "bullish",
-   "seen_et": "Nov 07 02:39 PM ET",
+   "seen_et": "Nov 07 06:05 PM ET",
    "consumer": false
   },
   {
-   "title": "IAMGOLD: 3 Key Takeaways for Long-Term Investors",
-   "link": "https://www.nasdaq.com/articles/iamgold-3-key-takeaways-long-term-investors",
-   "source": "Nasdaq Markets",
-   "impact": 2.0,
+   "title": "Drone attack on a Colombian military base leaves 3 soldiers dead",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ24yVlA1TlJVLXRodVFEdk8tYTUwNzRYQUZNSzA4OHBXbEdfYjE3aFZ0U0xTeFA3aDBtY2dpTWhmRDNOeGNyUzBZMVN0ckl2eHRHTkhUMnhESDR6bXNocl9iLUFmaXA0T25tMEt3cnJWZ0xmcVFpOC1ja0RoLWhKNlNYamZGNUphQlQwU2ZPT3VsSW8wYnlfaEJJSQ?oc=5",
+   "source": "AP News",
+   "impact": 2.6,
    "tickers": [],
    "sentiment_label": "bearish",
-   "seen_et": "Nov 07 02:39 PM ET",
+   "seen_et": "Nov 07 06:05 PM ET",
    "consumer": false
   },
   {
-   "title": "The Fake Package Delivery Message That Could Lead to a Stolen Card Number",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVXhtcWhKM3VIVXZJYnJ5QWRKZ2pGdmJFR0cyUnhnd0xvUmtmZ1dkcExEd0NGSnJyeXdpamNsandDSFJVTERDMk1CX0g2ZGE2YlJJaF9uaFV1WV9IdEl6bzVpZ0owcDR3S0ZhR0hSX2dvWkxFVngxYXFwOGpsR0NYYnRzNGQweHljMkRjWjBIaDV0U2lYOFpUZjZuV3N3emRoY2NqbVR3bXBfSHBOYkUzZEVQWDI?oc=5",
-   "source": "Newswav",
+   "title": "2 women and man found dead in the Krakow suspect's home were likely his family, prime minister says",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT3JpbnhmUWhOUkNrNkUwYVdXYkk1cDFHbEVsVGlsOElHU1dkOUNWa3JVLUdsWkdlQ1A1aWlqbkRQMmVxMk1iRko4Vng5cWdKWTA2cVdBR0xaVUVWU3pQbjJveEFwbzhmTktUX0dyQWFxX3R4eU9zbFFaWTBBM3FRaDE1TW1pZFJHUlBJbVpGMHZCVnpZVV9FUGVn?oc=5",
+   "source": "AP News",
    "impact": 2.5,
    "tickers": [],
    "sentiment_label": "bearish",
-   "seen_et": "Nov 07 02:39 PM ET",
+   "seen_et": "Nov 07 06:05 PM ET",
    "consumer": false
+  },
+  {
+   "title": "Is DoorDash (DASH) Undervalued Following Its New Lyft Partnership?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/doordash-dash-undervalued-following-lyft-211245604.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.3,
+   "tickers": [
+    "DASH"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 07 06:05 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "SpaceX's December Lockup Is Nearly the Biggest Share Unlock in IPO History. History Says This Is What Happens Next.",
+   "link": "https://www.fool.com/investing/2026/11/07/spacexs-december-lockup-is-nearly-the-biggest-shar/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 1.8,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 07 06:05 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Nutex Health (NUTX) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/nutex-health-nutx-q3-2026-earnings-call-transcript",
+   "source": "Nasdaq Markets",
+   "impact": 3.6,
+   "tickers": [
+    "NUTX"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 07 06:05 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "This Warren Buffett Dividend Stock Is the One I'd Buy With $1,000 in November",
+   "link": "https://www.fool.com/investing/2026/11/07/this-warren-buffett-dividend-stock-is-the-one-id-b/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.1,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 07 06:05 PM ET",
+   "consumer": true
   }
  ],
  "high_impact": [
@@ -592,15 +600,6 @@
    "title": "Odds of a December Rate Hike Jump to 77% After a Blowout Jobs Report",
    "link": "https://247wallst.com/investing/2026/11/07/odds-of-a-december-rate-hike-jump-to-77-after-a-blowout-jobs-report/?.tsrc=rss",
    "impact": 7.2,
-   "tickers": [
-    "SPY",
-    "^TNX"
-   ]
-  },
-  {
-   "title": "Fed Chair Kevin Warsh Just Issued a 6-Word Warning That Could Spell Disaster for AI Stocks",
-   "link": "https://247wallst.com/investing/2026/11/07/fed-chair-kevin-warsh-just-issued-a-6-word-warning-that-could-spell-disaster-for-ai-stocks/?.tsrc=rss",
-   "impact": 8.1,
    "tickers": [
     "SPY",
     "^TNX"
@@ -807,7 +806,7 @@
  "movers": {
   "mode": "last session (market not in pre-market)",
   "basis": "opening gap (open vs prior close) of the last session; RVOL = session volume / 20-day avg",
-  "fetched_et": "Nov 07 02:39 PM ET",
+  "fetched_et": "Nov 07 06:05 PM ET",
   "gappers": [
    {
     "symbol": "LRCX",
@@ -1146,7 +1145,7 @@
  "economic_calendar": {
   "source": "RULE-BASED FALLBACK (approximate; live calendar unavailable)",
   "fallback": true,
-  "fetched_et": "Nov 07 02:39 PM ET",
+  "fetched_et": "Nov 07 06:05 PM ET",
   "events": [
    {
     "date": "2026-11-10",
@@ -1282,12 +1281,12 @@
  "sentiment_validation": {
   "logged": 4000,
   "min_sample": 100,
-  "generated_et": "Nov 07 02:39 PM ET",
+  "generated_et": "Nov 07 06:05 PM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
-    "n_scored": 3870,
-    "n_directional": 3348,
+    "n_scored": 3855,
+    "n_directional": 3337,
     "hit_rate": 49.0,
     "ci95": 1.7,
     "corr": -0.011,
@@ -1295,9 +1294,9 @@
    },
    "r1d": {
     "name": "+1 day",
-    "n_scored": 3722,
-    "n_directional": 3241,
-    "hit_rate": 48.4,
+    "n_scored": 3707,
+    "n_directional": 3230,
+    "hit_rate": 48.5,
     "ci95": 1.7,
     "corr": -0.005,
     "status": "NO EDGE (≈ coin flip)"
@@ -1381,98 +1380,98 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 07 02:38 PM ET",
-   "newest_et": "Nov 07 02:34 PM ET",
-   "newest": "2026-11-07T19:34:14+00:00"
+   "fetched_et": "Nov 07 06:05 PM ET",
+   "newest_et": "Nov 07 05:39 PM ET",
+   "newest": "2026-11-07T22:39:10+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 07 02:38 PM ET",
+   "fetched_et": "Nov 07 06:05 PM ET",
    "newest_et": "Nov 06 03:11 PM ET",
    "newest": "2026-11-06T20:11:17+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 07 02:38 PM ET",
+   "fetched_et": "Nov 07 06:05 PM ET",
    "newest_et": "Nov 07 08:00 AM ET",
    "newest": "2026-11-07T13:00:01+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Nov 07 02:38 PM ET",
-   "newest_et": "Nov 07 02:20 PM ET",
-   "newest": "2026-11-07T19:20:00+00:00"
+   "fetched_et": "Nov 07 06:05 PM ET",
+   "newest_et": "Nov 07 03:48 PM ET",
+   "newest": "2026-11-07T20:48:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 07 02:38 PM ET",
+   "fetched_et": "Nov 07 06:05 PM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Nov 07 02:38 PM ET",
-   "newest_et": "Nov 07 02:23 PM ET",
-   "newest": "2026-11-07T19:23:00+00:00"
+   "fetched_et": "Nov 07 06:05 PM ET",
+   "newest_et": "Nov 07 05:01 PM ET",
+   "newest": "2026-11-07T22:01:02+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 54,
-   "fetched_et": "Nov 07 02:38 PM ET",
-   "newest_et": "Nov 06 08:41 PM ET",
-   "newest": "2026-11-07T01:41:36+00:00"
+   "fetched_et": "Nov 07 06:05 PM ET",
+   "newest_et": "Nov 07 04:40 PM ET",
+   "newest": "2026-11-07T21:40:32+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Nov 07 02:38 PM ET",
+   "fetched_et": "Nov 07 06:05 PM ET",
    "newest_et": "Nov 07 01:01 AM ET",
    "newest": "2026-11-07T06:01:00+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Nov 07 02:38 PM ET",
-   "newest_et": "Nov 07 01:53 PM ET",
-   "newest": "2026-11-07T18:53:00+00:00"
+   "fetched_et": "Nov 07 06:05 PM ET",
+   "newest_et": "Nov 07 05:24 PM ET",
+   "newest": "2026-11-07T22:24:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 25,
-   "fetched_et": "Nov 07 02:38 PM ET",
-   "newest_et": "Nov 07 01:26 PM ET",
-   "newest": "2026-11-07T18:26:12+00:00"
+   "count": 26,
+   "fetched_et": "Nov 07 06:05 PM ET",
+   "newest_et": "Nov 07 05:03 PM ET",
+   "newest": "2026-11-07T22:03:29+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 07 02:38 PM ET",
+   "fetched_et": "Nov 07 06:05 PM ET",
    "newest_et": "Nov 07 02:17 PM ET",
    "newest": "2026-11-07T19:17:59+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Nov 07 02:39 PM ET",
+   "fetched_et": "Nov 07 06:05 PM ET",
    "newest_et": "Nov 05 11:00 AM ET",
    "newest": "2026-11-05T16:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Nov 07 02:39 PM ET",
-   "newest_et": "Nov 07 02:23 PM ET",
-   "newest": "2026-11-07T19:23:00+00:00"
+   "fetched_et": "Nov 07 06:05 PM ET",
+   "newest_et": "Nov 07 04:38 PM ET",
+   "newest": "2026-11-07T21:38:10+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 25,
-   "fetched_et": "Nov 07 02:38 PM ET"
+   "fetched_et": "Nov 07 06:05 PM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
@@ -1482,7 +1481,7 @@
   "Economic calendar": {
    "ok": false,
    "count": 3,
-   "fetched_et": "Nov 07 02:39 PM ET",
+   "fetched_et": "Nov 07 06:05 PM ET",
    "note": "RULE-BASED FALLBACK (approximate; live calendar unavailable)"
   }
  }
