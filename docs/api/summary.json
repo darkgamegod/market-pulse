@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Nov 07 03:55 AM ET",
- "generated_at": "2026-11-07T03:55:50.989264-05:00",
+ "generated_et": "Nov 07 10:35 AM ET",
+ "generated_at": "2026-11-07T10:35:18.252561-05:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-11-07",
@@ -12,32 +12,32 @@
   {
    "symbol": "ES=F",
    "label": "S&P 500 Fut",
-   "price": 7404.0,
-   "pct": 0.28,
+   "price": 7402.0,
+   "pct": 0.26,
    "asof_et": "Nov 06 04:55 PM ET",
    "freshness": "closed"
   },
   {
    "symbol": "NQ=F",
    "label": "Nasdaq 100 Fut",
-   "price": 27107.5,
-   "pct": 1.33,
+   "price": 27085.25,
+   "pct": 1.25,
    "asof_et": "Nov 06 04:55 PM ET",
    "freshness": "closed"
   },
   {
    "symbol": "YM=F",
    "label": "Dow Fut",
-   "price": 51390.0,
-   "pct": -0.44,
+   "price": 51385.0,
+   "pct": -0.45,
    "asof_et": "Nov 06 04:55 PM ET",
    "freshness": "closed"
   },
   {
    "symbol": "RTY=F",
    "label": "Russell 2000 Fut",
-   "price": 2761.2,
-   "pct": 0.94,
+   "price": 2760.5,
+   "pct": 0.92,
    "asof_et": "Nov 06 04:55 PM ET",
    "freshness": "closed"
   },
@@ -84,16 +84,16 @@
   {
    "symbol": "CL=F",
    "label": "WTI Crude",
-   "price": 90.34,
-   "pct": -0.2,
+   "price": 90.83,
+   "pct": 0.34,
    "asof_et": "Nov 06 04:55 PM ET",
    "freshness": "closed"
   },
   {
    "symbol": "GC=F",
    "label": "Gold",
-   "price": 4079.5,
-   "pct": -0.83,
+   "price": 4074.9,
+   "pct": -0.94,
    "asof_et": "Nov 06 04:55 PM ET",
    "freshness": "closed"
   },
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 76078.3,
-   "pct": 0.44,
-   "asof_et": "Nov 07 03:55 AM ET",
+   "price": 75683.98,
+   "pct": -0.08,
+   "asof_et": "Nov 07 10:35 AM ET",
    "freshness": "delayed"
   },
   {
@@ -375,248 +375,230 @@
  ],
  "breaking": [
   {
-   "title": "Early count in New Zealand’s election suggests result too close to call",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYVZ6SS13ZlhVYVFPcXFkeXljMDY3M1dXTWNfZHVGb3Y4NXU4ZWw3SU5HSXRlMkRJNVUzcWVxRXhOZUVmeTNHblM3Wnd3MzYyNExaMWNKTXgxWWowb0VmTVFwT05CajhMV0d5ZGE5ZGtSV3ZZdXlidUc4dFpveG9XQnBldFQ2c2syWHY5MXZWaUd5Q0VHRmlmM3ZiYmVtTjlUUkJXR3hLckRpcjhCUFE?oc=5",
-   "source": "AP News",
-   "impact": 1.5,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 07 03:56 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Crusoe Completes Wyoming AI Data Center Development, Sells Site To Google",
-   "link": "https://www.nasdaq.com/articles/crusoe-completes-wyoming-ai-data-center-development-sells-site-google",
-   "source": "Nasdaq Markets",
-   "impact": 3.1,
-   "tickers": [
-    "GOOGL"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 07 03:56 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Britain's biggest retailers are unveiling star-studded Christmas TV adverts: Is it time to stock up and invest in some festive cheer?",
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPYVhjajZzcEMtNU8wX05mY3gyVy1FbUx5SjBISHBFa3ZJc2U0dm91UjJtYmJVbG1mVTFySmlCLUs0dGxoTVZITEpLYTlfOEJWWEowZ09zMkRSX1NPRHA2enltY1BBS0Jud0tCOUN3MUxadnY4dU1FbmZvUkN0YS1sMkNUemFHTGpEU0ZlcGRpeTRKcVFsWW5BbzR5ZzE2MDhxMFVYRDNrUHQxSmJMWnVJT0picTlFRURULVhYOWhOZ3pqbGZEQ2x3X1dURGEtaURrTVBCUDR6VFFoQmZuZ2NsX0FMOU1jNkRhWGR3bGRoSFZvUEJrLXp3SDA0S2tCc3PSAYQCQVVfeXFMT1RERmtVM3RXc0xFeU5PdG0wVG9lNFM4dVlib09zQW9pTElTWmlkd2N0Zk9LYS14YllyM3NDLXJFdU9aZEd2b0JfVFNuWU9hY1d4OFRlUUdPQ0ptdThUZi1ubXlUS255NmdJanRfZlZnSEZrZ0dCdmtVekMyZW50S2VscHhvajR4OTNHbllvTkIyUmtYU2Z4NW10SEtnYXhrSTVwYVZaSDNqRkRSa19yWFF1Y2Y4S3l6Q2xIZkxxZ1RZZnpqbmtmTDFHa3JsY3hpMDhNd3JiQ2xNUlVjQkVqSllTRDRJc0tRYXpHa0lpOG1IMjFuU2FoTGpYRTlUdjVnNWhsQ0Y?oc=5",
-   "source": "This is Money",
-   "impact": 2.8,
-   "tickers": [
-    "GOOGL"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 07 03:56 AM ET",
-   "consumer": true
-  },
-  {
-   "title": "Jensen Huang Says AI Needs 1,000 Times More Power. Here's Why Oklo and NuScale Power May Still Suffer.",
-   "link": "https://www.nasdaq.com/articles/jensen-huang-says-ai-needs-1000-times-more-power-heres-why-oklo-and-nuscale-power-may",
-   "source": "Nasdaq Markets",
-   "impact": 2.1,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Nov 07 03:56 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Trump says U.S. carried out ‘minor strikes’ on Iran as missiles hit Qeshm Island",
-   "link": "https://www.cnbc.com/2026/11/07/trump-us-minor-strikes-iran-qeshm-island.html",
-   "source": "CNBC Top News",
-   "impact": 1.5,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 07 03:56 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Akzo Nobel, Axalta Secure EU Approval For $25 Billion Merger Subject To Divestment",
-   "link": "https://www.nasdaq.com/articles/akzo-nobel-axalta-secure-eu-approval-25-billion-merger-subject-divestment",
-   "source": "Nasdaq Markets",
-   "impact": 5.2,
-   "tickers": [
-    "AXTA"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 07 03:56 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Is Google's New Cryptocurrency Push a Reason to Buy Alphabet Stock?",
-   "link": "https://www.fool.com/investing/2026/11/07/is-googles-new-cryptocurrency-push-a-reason-to-buy/?.tsrc=rss",
+   "title": "Fed Chair Kevin Warsh Just Issued a 6-Word Warning That Could Spell Disaster for AI Stocks",
+   "link": "https://247wallst.com/investing/2026/11/07/fed-chair-kevin-warsh-just-issued-a-6-word-warning-that-could-spell-disaster-for-ai-stocks/?.tsrc=rss",
    "source": "Yahoo Finance",
-   "impact": 3.0,
+   "impact": 8.1,
    "tickers": [
-    "BTC-USD",
-    "COIN",
-    "GOOGL"
+    "SPY",
+    "^TNX"
    ],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 07 03:56 AM ET",
+   "sentiment_label": "bearish",
+   "seen_et": "Nov 07 10:35 AM ET",
    "consumer": false
   },
   {
-   "title": "3 Consumer Discretionary Stocks Retail Investors Are Watching After The Jobs Report",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdjBUaDBhanJQZ01UTWNkeG1qQ3NZdml2TzZZVFpHVEVjWDUzdndfa3VkTGxJb0JyNUJybmlOSjI1bkhFdFd3U2VkOWMwcWpaY05ibDZNZXN6WExHYmJKQUdWd0N6TG1SZmhMcUpFWEEyXzJlYlAtMDJ0ek81NVI0VS1ENTVLVnYtZ2xXbGx6dzc2YXZBVElxZkFYTFV2NEdldGZYZF9OdTFheXBUa2FnT0UxZWJBQkROWG1zWVFxcUt6aWU1YjFpR0FKMzTSAdIBQVVfeXFMTkQwR0RyTGlRMTVhMHBTbDdpeUUxRkw0MzhEdTNVbnZidmQ2SlUwdG5iNUl1TVltYjhYc1FpcS1FbVpJYWtSM2dXenBEWG1WQWhxeXdMSURPbXdQM3ZMVjFBTGV2WG54SFc1ZzlEQ3ZNOUV3aFFFMmhmMkxqaGxrQnZ2Z1Z5enc4XzJQYmFwN2pWOGt5T3NaSFpJRkxHZWYyYXJ4WS1BNlZVU0piMHRhWThCTThOc2RtT3RQMDNLa0I3eHNkdEpkRXNFU2ZxM1NzYjhn?oc=5",
+   "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
+   "link": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
+   "source": "CNBC Top News",
+   "impact": 3.9,
+   "tickers": [
+    "BRK-B"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 07 10:35 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "IDT (IDT) NRS Sales Rose 1.9%, Is The Stock Already Fully Valued?",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeTcwWFFFRnhQMExfNkhGekNSNVZ6M2FyQmV4MTdGM1lvR2Q1dEk4aXFLQkpuT3FaeWs1TGttSHJISmJnVVExMzNFeERyaXZjaWZveklOZlJ4NnNhMTJreGVHOXpGaWdzZkw4VkZqWUZudThpQ0JYeVIyWFh0dS1XS1UtdTlndFBRNkdtT0ZnUkRHb0oySm5MUnpjVTBuME1xSTI4d0VHMjFSWFpMd0VwSGtieFlMRGY20gG-AUFVX3lxTE5aOTVZaTA1TXBxYU1TTkt6dnUzRjhCYnh6bG5QLTVHQkVibXBDaG8yTThFNENTZmpndjRyOXE3SVpKZ2ZyV29IMjhPTHhXNGdvaktKeXZGUnB6TFJKT0t5RVRPWTZkdVhtMHZyNlVpX0NmMGNXcTJIRk5UWXlGLWctOUlIUWpSQWxuWTQ5ck1sZzdSZUowQTU3cThNbnlnYVlYNmZNQUp6RzdScmlqSXhVVWFzNHZKdGFGZGM2cUE?oc=5",
    "source": "Simply Wall St",
-   "impact": 4.2,
-   "tickers": [
-    "GOOGL"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 07 03:56 AM ET",
-   "consumer": true
-  },
-  {
-   "title": "3 US Semiconductor Stocks With Less China Exposure To Watch Now",
-   "link": "https://finance.yahoo.com/technology/articles/3-us-semiconductor-stocks-less-061548967.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.4,
-   "tickers": [
-    "NVDA"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Nov 07 03:56 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Cathie Wood-Led Ark Loads Up On GOOG, AMD, NVDA And Biotech Stocks — But Sells CRWV, AVGO, LLY",
-   "link": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-ark-invest-buys-goog-amd-nvda-biotech-stocks-sell-crwv-avgo-lly/cNGVV2wR9Ii?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.7,
-   "tickers": [
-    "AMD"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 07 03:56 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Why a wave of bomb threats is proving so difficult for Europe's aviation authorities to contain",
-   "link": "https://www.cnbc.com/2026/11/07/hoax-bomb-threats-flights-europe.html",
-   "source": "CNBC Top News",
-   "impact": 2.3,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Nov 07 03:56 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "The race is on to build the first fusion power plant — and Europe is looking to Japan for help",
-   "link": "https://www.cnbc.com/2026/11/07/proxima-fusion-power-japan-supply-chain.html",
-   "source": "CNBC Top News",
-   "impact": 2.3,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 07 03:56 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Axon Plunged To a 2-Year Low. Here's Why It Could Be a Golden Buying Opportunity",
-   "link": "https://www.fool.com/investing/2026/11/07/axon-plunged-to-a-2-year-low-here-s-why-it-could-be-a-golden-buying-opportunity/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 4.4,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Nov 07 03:56 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Better Stock Split to Buy: Meta Platforms vs. Sandisk",
-   "link": "https://www.fool.com/investing/2026/11/07/better-stock-split-to-buy-meta-platforms-vs-sandis/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.4,
-   "tickers": [
-    "META"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 07 03:56 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "A Retiree Who Bought 1,000 Tesla Shares at $197 Just Watched Musk Kill the Cybertruck",
-   "link": "https://247wallst.com/investing/2026/11/07/a-retiree-who-bought-1000-tesla-shares-at-197-just-watched-musk-kill-the-cybertruck/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.2,
-   "tickers": [
-    "TSLA"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Nov 07 03:56 AM ET",
-   "consumer": true
-  },
-  {
-   "title": "A Retiree Who Bought 1,000 Nvidia Shares at $122 Just Watched Chips Have Their Worst Day Since 2020",
-   "link": "https://247wallst.com/investing/2026/11/07/a-retiree-who-bought-1000-nvidia-shares-at-122-just-watched-chips-have-their-worst-day-since-2020/?.tsrc=rss",
-   "source": "Yahoo Finance",
    "impact": 2.6,
    "tickers": [
-    "NVDA"
+    "IDT"
    ],
-   "sentiment_label": "bearish",
-   "seen_et": "Nov 07 03:56 AM ET",
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 07 10:35 AM ET",
    "consumer": false
   },
   {
-   "title": "After the US midterm rout of Trumpism, the world struggles to trust America again",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcXNYQ2lKWTBvdUM0cEp2ekZuSkxnUWYxRFJHSXEwaXpNaFRMM09BQjhteF9sZGZraDVKY1l2djlmZnByeWlONWZxZ3lZdWVlSFVsaFFUMjRhNEF6WWlGUXRiUmIwOUFYLXROVTBXZHE0eHZXTFhEaGhjRVExcW1tVkJfX2pSY21OZ0Z3bE5rWDJYOEhndGFLbVczYw?oc=5",
-   "source": "AP News",
-   "impact": 1.8,
+   "title": "Democrats Just Swept Congress — and 80 Years of Stock Market History Says This Happens Next",
+   "link": "https://247wallst.com/investing/2026/11/07/democrats-just-swept-congress-and-80-years-of-stock-market-history-says-this-happens-next/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.6,
+   "tickers": [
+    "DIA"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 07 10:35 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Trump’s Iran war has changed the future of Social Security",
+   "link": "https://www.marketwatch.com/story/trumps-iran-war-has-changed-the-future-of-social-security-7a500f9f?mod=mw_rss_topstories",
+   "source": "MarketWatch Top",
+   "impact": 3.4,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Nov 07 10:35 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "TSMC Jumped 6% on a Report It Could Make Memory Chips for Nvidia",
+   "link": "https://247wallst.com/investing/2026/11/07/tsmc-jumped-6-on-a-report-it-could-make-memory-chips-for-nvidia/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 5.0,
+   "tickers": [
+    "NVDA",
+    "TSM"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Nov 07 10:35 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Here's How These 6 Big Bank Stocks Make Their Money",
+   "link": "https://www.fool.com/investing/2026/11/07/how-these-6-big-bank-stocks-make-their-money/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.1,
    "tickers": [],
    "sentiment_label": "bullish",
-   "seen_et": "Nov 07 03:56 AM ET",
+   "seen_et": "Nov 07 10:35 AM ET",
    "consumer": false
   },
   {
-   "title": "Interface Inc. Bottom Line Drops In Q3",
-   "link": "https://www.nasdaq.com/articles/interface-inc-bottom-line-drops-q3",
-   "source": "Nasdaq Markets",
-   "impact": 2.1,
-   "tickers": [
-    "IFSIA"
-   ],
+   "title": "Iran says it has lifted its self-imposed limit on missile ranges, and other Mideast news",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTWlBaG5BYjY0T3dxT1Z6aFlidmJqREpvYzlzdXFOQW8wZFpLaWZSUktyc0dhZXJQdUd3UlJHLVVITURzd2VnWEFtR2w4cVcydHVIVXFCci1yOUJXVnpQWXAteGNWQUZNcWZjcERDZ01KeXFpd1hNN1Z1QmdIY0c5N2ZsOWxKQ1RHdnk4LW1QNVpyZw?oc=5",
+   "source": "AP News",
+   "impact": 1.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 07 10:35 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Russia pounds power facilities around Kyiv, damages major bridge",
+   "link": "https://www.cnbc.com/2026/11/07/russia-pounds-power-facilities-around-kyiv-damages-major-bridge.html",
+   "source": "CNBC Top News",
+   "impact": 2.0,
+   "tickers": [],
    "sentiment_label": "bearish",
-   "seen_et": "Nov 07 03:56 AM ET",
+   "seen_et": "Nov 07 10:35 AM ET",
    "consumer": false
   },
   {
-   "title": "Lyntris (LYNX) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/lyntris-lynx-q3-2026-earnings-call-transcript",
+   "title": "See Which Recent 13F Filers Hold BRK But Diversified Trust Exited",
+   "link": "https://www.nasdaq.com/articles/see-which-recent-13f-filers-hold-brk-diversified-trust-exited",
    "source": "Nasdaq Markets",
-   "impact": 3.5,
-   "tickers": [
-    "LYNX"
-   ],
+   "impact": 2.3,
+   "tickers": [],
    "sentiment_label": "bullish",
-   "seen_et": "Nov 07 03:56 AM ET",
+   "seen_et": "Nov 07 10:35 AM ET",
    "consumer": false
   },
   {
-   "title": "What Could Uber Technologies (UBER) Gain From Its New Delivery Partnerships?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/could-uber-technologies-uber-gain-042520829.html?.tsrc=rss",
+   "title": "Bristol Myers Squibb vs. Vertex: Which Pharma Stock Is a Better Buy for 2027?",
+   "link": "https://www.nasdaq.com/articles/bristol-myers-squibb-vs-vertex-which-pharma-stock-better-buy-2027",
+   "source": "Nasdaq Markets",
+   "impact": 2.0,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 07 10:35 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "3 Artificial Intelligence (AI) Stocks I’d Buy Without Hesitation in a Market Crash",
+   "link": "https://www.fool.com/investing/2026/11/07/3-artificial-intelligence-ai-stocks-i-d-buy-without-hesitation-in-a-market-crash/?.tsrc=rss",
    "source": "Yahoo Finance",
-   "impact": 3.8,
+   "impact": 4.7,
    "tickers": [
-    "AMZN",
-    "UBER"
+    "AI"
    ],
    "sentiment_label": "bullish",
-   "seen_et": "Nov 07 03:56 AM ET",
-   "consumer": true
+   "seen_et": "Nov 07 10:35 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "America's newest small business owners with no employees are off to a hot start in AI era",
+   "link": "https://www.cnbc.com/2026/11/07/americas-new-no-employee-small-business-owners-start-hot-in-ai-era.html",
+   "source": "CNBC Top News",
+   "impact": 1.8,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Nov 07 10:35 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Not Nvidia. Not Micron. After the Chip Sell-Off, I'd Buy This AI Stock and Hold It Forever.",
+   "link": "https://www.fool.com/investing/2026/11/07/not-nvidia-not-micron-after-the-chip-sell-off-id-b/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 4.6,
+   "tickers": [
+    "MU",
+    "NVDA"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 07 10:35 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "The Healthcare ETF Showdown: Broad Global Health or Targeted Pharma Power?",
+   "link": "https://www.nasdaq.com/articles/healthcare-etf-showdown-broad-global-health-or-targeted-pharma-power",
+   "source": "Nasdaq Markets",
+   "impact": 1.8,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Nov 07 10:35 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "What midterm election blue wave rebuke of Trump means for renewable energy",
+   "link": "https://www.cnbc.com/2026/11/07/midterm-election-blue-wave-trump-renewable-energy.html",
+   "source": "CNBC Top News",
+   "impact": 3.5,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Nov 07 10:35 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "From high-flying AI stocks to tariff-hit alcohol companies, the midterms shook up Wall Street",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVGE5cWdNNmdGUVUta195UWctb3dsWEp2d0ZDRE5FQU02SDRwckpqa25JM2QxNk1wOTV5aXF4NDJiZnRZRzlCcm85RzNjOEltYktuc1NDQ2Y2UzJOc2VMQm5HaFZUR2FGdkNDMVhoazNkN1FTYTBVdWRDQjItS2c2ZUVoemlwVVg4X3Z6cVhtTEx4NWtVbjhSMm5NR1loaXVaUkNFOTVB?oc=5",
+   "source": "AP News",
+   "impact": 3.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 07 10:35 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Many workers lose unused FSA money — but could still come out ahead. Here's how",
+   "link": "https://www.cnbc.com/2026/11/07/fsa-forfeit.html",
+   "source": "CNBC Top News",
+   "impact": 2.3,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 07 10:35 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Lyntris: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/lyntris-3-key-takeaways-long-term-investors",
+   "source": "Nasdaq Markets",
+   "impact": 2.0,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 07 10:35 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Booking vs. DoorDash: Does Going Out or Staying In Make One Stock a Better Buy for 2027?",
+   "link": "https://www.fool.com/coverage/better-buy/2026/11/07/booking-vs-doordash-does-going-out-or-staying-in-make-one-stock-a-better-buy-for-2027/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.9,
+   "tickers": [
+    "DASH"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 07 10:35 AM ET",
+   "consumer": false
   }
  ],
  "high_impact": [
   {
-   "title": "Jim Cramer Says the AI Sell-Off “Is Not Like 2000.” Here’s His Case",
-   "link": "https://247wallst.com/investing/2026/11/06/jim-cramer-says-the-ai-sell-off-is-not-like-2000-heres-his-case/?.tsrc=rss",
-   "impact": 7.1,
-   "tickers": [
-    "QQQ"
-   ]
-  },
-  {
-   "title": "Fed policymakers consider rate hike after strong jobs report",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMF93ekZ4N2wtdW4zX1llS2FoZWpNVlhMLTRNOGVJTUktZmpLQUNBSzY2bW16Mm9mb3lrZERqNFZ6WkRmYkhBTG00Z2k2NFYyNTVLcmVBSkV5eVJRU1RwZFc5blM4MkRmcUxYU2hadXRWbVh0VXpjektqM1BGS3ZlZlNMeW43VWxmeE5TQm13d0E3bTVwUnp5dzFFNA?oc=5",
-   "impact": 7.7,
+   "title": "Fed Chair Kevin Warsh Just Issued a 6-Word Warning That Could Spell Disaster for AI Stocks",
+   "link": "https://247wallst.com/investing/2026/11/07/fed-chair-kevin-warsh-just-issued-a-6-word-warning-that-could-spell-disaster-for-ai-stocks/?.tsrc=rss",
+   "impact": 8.1,
    "tickers": [
     "SPY",
     "^TNX"
@@ -823,7 +805,7 @@
  "movers": {
   "mode": "last session (market not in pre-market)",
   "basis": "opening gap (open vs prior close) of the last session; RVOL = session volume / 20-day avg",
-  "fetched_et": "Nov 07 03:55 AM ET",
+  "fetched_et": "Nov 07 10:35 AM ET",
   "gappers": [
    {
     "symbol": "LRCX",
@@ -1162,7 +1144,7 @@
  "economic_calendar": {
   "source": "RULE-BASED FALLBACK (approximate; live calendar unavailable)",
   "fallback": true,
-  "fetched_et": "Nov 07 03:56 AM ET",
+  "fetched_et": "Nov 07 10:35 AM ET",
   "events": [
    {
     "date": "2026-11-10",
@@ -1192,7 +1174,7 @@
  },
  "earnings": {
   "source": "Nasdaq earnings calendar API (api.nasdaq.com), filtered to S&P 500 + watchlist",
-  "fetched_et": "Nov 07 03:56 AM ET",
+  "fetched_et": "Nov 07 10:35 AM ET",
   "events": [
    {
     "date": "2026-11-09",
@@ -1201,7 +1183,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$1.41",
     "last_year_eps": "$1.22",
-    "mcap": 90966393000
+    "mcap": 88237580000
    },
    {
     "date": "2026-11-09",
@@ -1210,7 +1192,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$3.90",
     "last_year_eps": "$3.04",
-    "mcap": 87060406000
+    "mcap": 84909761000
    },
    {
     "date": "2026-11-09",
@@ -1219,7 +1201,7 @@
     "time": "AMC (after close)",
     "eps_forecast": "$1.43",
     "last_year_eps": "$0.64",
-    "mcap": 57309209000
+    "mcap": 56339562000
    },
    {
     "date": "2026-11-09",
@@ -1228,7 +1210,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$3.28",
     "last_year_eps": "$2.84",
-    "mcap": 48078803000
+    "mcap": 45587132000
    },
    {
     "date": "2026-11-09",
@@ -1237,7 +1219,7 @@
     "time": "AMC (after close)",
     "eps_forecast": "$0.11",
     "last_year_eps": "N/A",
-    "mcap": 42303873000
+    "mcap": 41093751000
    },
    {
     "date": "2026-11-09",
@@ -1246,7 +1228,7 @@
     "time": "AMC (after close)",
     "eps_forecast": "$0.49",
     "last_year_eps": "$1.04",
-    "mcap": 39060214000
+    "mcap": 39894147000
    },
    {
     "date": "2026-11-09",
@@ -1255,7 +1237,7 @@
     "time": "BMO (pre-market)",
     "eps_forecast": "$3.44",
     "last_year_eps": "$2.75",
-    "mcap": 17500022800
+    "mcap": 16932454400
    },
    {
     "date": "2026-11-10",
@@ -1298,12 +1280,12 @@
  "sentiment_validation": {
   "logged": 4000,
   "min_sample": 100,
-  "generated_et": "Nov 07 03:56 AM ET",
+  "generated_et": "Nov 07 10:36 AM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
-    "n_scored": 3914,
-    "n_directional": 3387,
+    "n_scored": 3891,
+    "n_directional": 3366,
     "hit_rate": 49.0,
     "ci95": 1.7,
     "corr": -0.011,
@@ -1311,8 +1293,8 @@
    },
    "r1d": {
     "name": "+1 day",
-    "n_scored": 3766,
-    "n_directional": 3281,
+    "n_scored": 3743,
+    "n_directional": 3260,
     "hit_rate": 48.4,
     "ci95": 1.7,
     "corr": -0.005,
@@ -1397,108 +1379,108 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 07 03:55 AM ET",
-   "newest_et": "Nov 07 02:37 AM ET",
-   "newest": "2026-11-07T07:37:36+00:00"
+   "fetched_et": "Nov 07 10:35 AM ET",
+   "newest_et": "Nov 07 10:23 AM ET",
+   "newest": "2026-11-07T15:23:46+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 07 03:55 AM ET",
+   "fetched_et": "Nov 07 10:35 AM ET",
    "newest_et": "Nov 06 03:11 PM ET",
    "newest": "2026-11-06T20:11:17+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 07 03:55 AM ET",
-   "newest_et": "Nov 06 10:06 AM ET",
-   "newest": "2026-11-06T15:06:11+00:00"
+   "fetched_et": "Nov 07 10:35 AM ET",
+   "newest_et": "Nov 07 08:00 AM ET",
+   "newest": "2026-11-07T13:00:01+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Nov 07 03:55 AM ET",
-   "newest_et": "Nov 06 04:45 PM ET",
-   "newest": "2026-11-06T21:45:00+00:00"
+   "fetched_et": "Nov 07 10:35 AM ET",
+   "newest_et": "Nov 07 10:18 AM ET",
+   "newest": "2026-11-07T15:18:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 07 03:55 AM ET",
+   "fetched_et": "Nov 07 10:35 AM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
-   "count": 20,
-   "fetched_et": "Nov 07 03:55 AM ET",
-   "newest_et": "Nov 07 02:20 AM ET",
-   "newest": "2026-11-07T07:20:00+00:00"
+   "count": 19,
+   "fetched_et": "Nov 07 10:35 AM ET",
+   "newest_et": "Nov 07 10:26 AM ET",
+   "newest": "2026-11-07T15:26:32+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 54,
-   "fetched_et": "Nov 07 03:55 AM ET",
+   "fetched_et": "Nov 07 10:35 AM ET",
    "newest_et": "Nov 06 08:41 PM ET",
    "newest": "2026-11-07T01:41:36+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Nov 07 03:55 AM ET",
+   "fetched_et": "Nov 07 10:35 AM ET",
    "newest_et": "Nov 06 06:53 PM ET",
    "newest": "2026-11-06T23:53:47+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Nov 07 03:55 AM ET",
-   "newest_et": "Nov 07 03:21 AM ET",
-   "newest": "2026-11-07T08:21:00+00:00"
+   "fetched_et": "Nov 07 10:35 AM ET",
+   "newest_et": "Nov 07 10:05 AM ET",
+   "newest": "2026-11-07T15:05:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 21,
-   "fetched_et": "Nov 07 03:55 AM ET",
-   "newest_et": "Nov 06 07:32 PM ET",
-   "newest": "2026-11-07T00:32:30+00:00"
+   "count": 25,
+   "fetched_et": "Nov 07 10:35 AM ET",
+   "newest_et": "Nov 07 07:53 AM ET",
+   "newest": "2026-11-07T12:53:00+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
-   "count": 28,
-   "fetched_et": "Nov 07 03:55 AM ET",
-   "newest_et": "Nov 07 03:11 AM ET",
-   "newest": "2026-11-07T08:11:47+00:00"
+   "count": 30,
+   "fetched_et": "Nov 07 10:35 AM ET",
+   "newest_et": "Nov 07 10:23 AM ET",
+   "newest": "2026-11-07T15:23:42+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Nov 07 03:55 AM ET",
+   "fetched_et": "Nov 07 10:35 AM ET",
    "newest_et": "Nov 05 11:00 AM ET",
    "newest": "2026-11-05T16:00:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Nov 07 03:55 AM ET",
-   "newest_et": "Nov 07 03:18 AM ET",
-   "newest": "2026-11-07T08:18:50+00:00"
+   "fetched_et": "Nov 07 10:35 AM ET",
+   "newest_et": "Nov 07 10:05 AM ET",
+   "newest": "2026-11-07T15:05:00+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Nov 07 03:55 AM ET"
+   "fetched_et": "Nov 07 10:35 AM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
    "count": 11,
-   "fetched_et": "Nov 07 03:56 AM ET"
+   "fetched_et": "Nov 07 10:35 AM ET"
   },
   "Economic calendar": {
    "ok": false,
    "count": 3,
-   "fetched_et": "Nov 07 03:56 AM ET",
+   "fetched_et": "Nov 07 10:35 AM ET",
    "note": "RULE-BASED FALLBACK (approximate; live calendar unavailable)"
   }
  }
