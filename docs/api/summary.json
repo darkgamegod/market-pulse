@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Nov 14 04:27 AM ET",
- "generated_at": "2026-11-14T04:27:34.120279-05:00",
+ "generated_et": "Nov 14 11:00 AM ET",
+ "generated_at": "2026-11-14T11:00:29.303392-05:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-11-14",
@@ -12,8 +12,8 @@
   {
    "symbol": "ES=F",
    "label": "S&P 500 Fut",
-   "price": 7561.0,
-   "pct": -0.71,
+   "price": 7583.0,
+   "pct": -0.42,
    "asof_et": "Nov 13 04:55 PM ET",
    "freshness": "closed"
   },
@@ -28,8 +28,8 @@
   {
    "symbol": "YM=F",
    "label": "Dow Fut",
-   "price": 52347.0,
-   "pct": -0.08,
+   "price": 52418.0,
+   "pct": 0.05,
    "asof_et": "Nov 13 04:55 PM ET",
    "freshness": "closed"
   },
@@ -84,16 +84,16 @@
   {
    "symbol": "CL=F",
    "label": "WTI Crude",
-   "price": 88.92,
-   "pct": 0.2,
+   "price": 88.56,
+   "pct": -0.2,
    "asof_et": "Nov 13 05:00 PM ET",
    "freshness": "closed"
   },
   {
    "symbol": "GC=F",
    "label": "Gold",
-   "price": 3887.6,
-   "pct": 0.06,
+   "price": 3886.3,
+   "pct": 0.03,
    "asof_et": "Nov 13 04:55 PM ET",
    "freshness": "closed"
   },
@@ -116,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 67019.36,
-   "pct": -1.8,
-   "asof_et": "Nov 14 04:25 AM ET",
+   "price": 65641.19,
+   "pct": -3.82,
+   "asof_et": "Nov 14 11:00 AM ET",
    "freshness": "delayed"
   },
   {
@@ -378,218 +378,240 @@
  ],
  "breaking": [
   {
-   "title": "‘65% of the S&P Is Basically AI’: Eisman’s Warning as Ramsey Tells Disabled Veteran His $500,000 Is ‘Safe’",
-   "link": "https://247wallst.com/personal-finance/2026/11/14/65-of-the-sp-is-basically-ai-eismans-warning-as-ramsey-tells-disabled-veteran-his-500000-is-safe/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.7,
+   "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
+   "link": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
+   "source": "CNBC Top News",
+   "impact": 2.4,
    "tickers": [
-    "SPY"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Nov 14 04:28 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "2 Stocks That Plunged on Oct. 29 to Buy and Hold Through 2030",
-   "link": "https://www.fool.com/investing/2026/11/14/2-stocks-that-plunged-on-oct-29-to-buy-and-hold-through-2030/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.7,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 14 04:28 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Jim Cramer: Amazon Has What “May Soon Be a $50 Billion Semiconductor Business”",
-   "link": "https://www.tikr.com/blog/jim-cramer-amazon-has-what-may-soon-be-a-50-billion-semiconductor-business?ref=yahoofinance&tlnk=yf-261114-wq798x99&.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.6,
-   "tickers": [
-    "AMZN",
     "NVDA"
    ],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 14 04:28 AM ET",
+   "sentiment_label": "bearish",
+   "seen_et": "Nov 14 11:01 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Thousands of flights canceled as airlines work to recover from nationwide ground stop",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQzlDRHBLSTNHTHRtbnpudnNXdXZpYnpEQ1hhLVNrU3ZRM0xRNm9NcUx2NjRIVFVOQVJKWXZGZzZCZ0hTcEdjd1ppTkFIelBlc282aU05SS1YYU45WTNwRUx1RzBCX3hwNW9Ed20wQ1JmQ3hHVmFSUktDSjM1eklkYTFPN3FkWUR0V1pUSjRIMHk3MjJjX0VrSm8zaFJ6a2paSnRwNzVrQlZpZw?oc=5",
+   "source": "AP News",
+   "impact": 2.1,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Nov 14 11:01 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "AMD Just Crushed Nvidia by 32 Points After Scandal. Here’s How NVDA Can Come Back",
+   "link": "https://247wallst.com/investing/2026/11/14/amd-just-crushed-nvidia-by-32-points-after-scandal-heres-how-nvda-can-come-back/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.1,
+   "tickers": [
+    "AMD",
+    "NVDA"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Nov 14 11:01 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "CoreWeave Stock Surges as Revenue Soars. Is It Too Late to Buy the Stock?",
+   "link": "https://www.nasdaq.com/articles/coreweave-stock-surges-revenue-soars-it-too-late-buy-stock",
+   "source": "Nasdaq Markets",
+   "impact": 5.7,
+   "tickers": [
+    "CRWV",
+    "QQQ"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 14 11:01 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Flight disruptions continue after FAA lifts ground stop, some college football games delayed",
+   "link": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
+   "source": "CNBC Top News",
+   "impact": 2.1,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Nov 14 11:01 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "MercadoLibre vs. Uber Technologies: Which Consumer Network Stock Is a Better Buy for 2027?",
+   "link": "https://www.fool.com/coverage/better-buy/2026/11/14/mercadolibre-vs-uber-technologies-which-consumer-network-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 5.6,
+   "tickers": [
+    "MELI",
+    "UBER"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 14 11:01 AM ET",
    "consumer": true
   },
   {
-   "title": "My Top Dividend Growth Stock to Buy Before 2027 and Hold for 20 Years -- and It Has Hiked Its Payout by 15%",
-   "link": "https://www.fool.com/investing/2026/11/14/my-top-dividend-growth-stock-to-buy-before-2027-an/?.tsrc=rss",
+   "title": "Here’s Why Tesla (TSLA) Is One of the Top High P/E Stocks Under the 200-Day SMA",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-tesla-tsla-one-top-152951928.html?.tsrc=rss",
    "source": "Yahoo Finance",
-   "impact": 2.3,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 14 04:28 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Planning to Claim Social Security at 62? Here Are 3 Critical Questions to Ask Yourself First",
-   "link": "https://www.fool.com/retirement/2026/11/14/planning-to-claim-social-security-at-62-here-are-3-critical-questions-to-ask-yourself-first/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.2,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 14 04:28 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Is Cisco Systems a Buy After Its Latest Earnings Report?",
-   "link": "https://www.fool.com/investing/2026/11/14/is-cisco-systems-a-buy-after-its-latest-earnings-report/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.1,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Nov 14 04:28 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting",
-   "link": "https://www.cnbc.com/2026/11/14/china-us-tariffs-xi-trump-meeting.html",
-   "source": "CNBC Top News",
-   "impact": 3.8,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 14 04:28 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Football kit giveaway aims to boost participation",
-   "link": "https://www.bbc.co.uk/news/articles/ck20v651473qo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "impact": 2.6,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 14 04:28 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Trump, Xi and Putin plan an unprecedented joint meeting on the sidelines of APEC, White House says",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUd4MWZqTjdxYkRUaW55bWxuNy1BX1FaZVNYZHRtNEg4NWdzTENNMlVLOUt6QlptMzd1cUtLanJ0U1pPNVVrbjZDRXo0UWszZjV6d09hRy1GaUFFWE9PUmtzRnFxOUxJdW1OTy0zT21LbnU3RGlhQUUtNHlnRW9nUjhJRmQ0QUFDME9oelNZTVQ?oc=5",
-   "source": "AP News",
-   "impact": 1.5,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 14 04:28 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Anthropic’s S-1 Says Natural Gas, Not Chips, Is AI’s Biggest Bottleneck. Here’s the Stock That Sells the Engines.",
-   "link": "https://www.nasdaq.com/articles/anthropics-s-1-says-natural-gas-not-chips-ais-biggest-bottleneck-heres-stock-sells-engines",
-   "source": "Nasdaq Markets",
-   "impact": 2.2,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 14 04:28 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "The rise of 'housefishing' by estate agents",
-   "link": "https://www.bbc.co.uk/news/videos/cmx295lz17wzo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "impact": 1.5,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 14 04:28 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Prediction: Archer Aviation Will Fly Paying Passengers Before the 2028 Olympics. Here’s What $5,000 Invested Today Could Be Worth by Then.",
-   "link": "https://www.fool.com/investing/2026/11/14/prediction-archer-aviation-will-fly-paying-passengers-before-the-2028-olympics-here-s-what-usd5-000-invested-today-could-be-worth-by-then/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 1.7,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 14 04:28 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "What do Christmas market traders say about rising prices?",
-   "link": "https://www.bbc.co.uk/news/articles/c95y152k8erpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "impact": 1.4,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 14 04:28 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Thousands of flights canceled as airlines work to dig out from nationwide ground stop",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQzlDRHBLSTNHTHRtbnpudnNXdXZpYnpEQ1hhLVNrU3ZRM0xRNm9NcUx2NjRIVFVOQVJKWXZGZzZCZ0hTcEdjd1ppTkFIelBlc282aU05SS1YYU45WTNwRUx1RzBCX3hwNW9Ed20wQ1JmQ3hHVmFSUktDSjM1eklkYTFPN3FkWUR0V1pUSjRIMHk3MjJjX0VrSm8zaFJ6a2paSnRwNzVrQlZpZw?oc=5",
-   "source": "AP News",
-   "impact": 2.0,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Nov 14 04:28 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Analysis: Companies love a ‘rockstar’ CEO. Until they depend on one",
-   "link": "https://www.cnbc.com/2026/11/14/nvidia-jensen-huang-ceo-succession-risk.html",
-   "source": "CNBC Top News",
-   "impact": 2.7,
+   "impact": 3.6,
    "tickers": [
-    "NVDA"
+    "TSLA"
    ],
    "sentiment_label": "bullish",
-   "seen_et": "Nov 14 04:28 AM ET",
+   "seen_et": "Nov 14 11:01 AM ET",
+   "consumer": true
+  },
+  {
+   "title": "Warren Buffett Said This 1 Mistake Cost Berkshire About $10 Billion. Here’s How Investors Can Avoid It.",
+   "link": "https://www.fool.com/investing/2026/11/14/warren-buffett-said-this-1-mistake-cost-berkshire-about-usd10-billion-here-s-how-investors-can-avoid-it/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 4.6,
+   "tickers": [
+    "BRK-B",
+    "WMT"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Nov 14 11:01 AM ET",
    "consumer": false
   },
   {
-   "title": "Is Nvidia Worth This Much Less Without Jensen Huang?",
-   "link": "https://www.fool.com/investing/2026/11/14/is-nvidia-worth-this-much-less-without-jensen-huang/?.tsrc=rss",
+   "title": "Warren Buffett Issued His Starkest Warning About the Stock Market in Years. Here's What History Says Comes Next.",
+   "link": "https://www.fool.com/investing/2026/11/14/warren-buffett-issued-starkest-warning-stock-market-what-history-says-comes-next/?.tsrc=rss",
    "source": "Yahoo Finance",
+   "impact": 3.6,
+   "tickers": [
+    "^VIX"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 14 11:01 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "See Which Recent 13F Filers Hold VTI But Walleye Trading Exited",
+   "link": "https://www.nasdaq.com/articles/see-which-recent-13f-filers-hold-vti-walleye-trading-exited",
+   "source": "Nasdaq Markets",
+   "impact": 1.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 14 11:01 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything. Do I tell her?",
+   "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
+   "source": "MarketWatch Top",
+   "impact": 2.2,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 14 11:01 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Rising rents draw Wall Street money to industrial outdoor storage lot investments across the U.S.",
+   "link": "https://www.cnbc.com/2026/11/14/real-estate-rental-income-industrial-storage-market.html",
+   "source": "CNBC Top News",
    "impact": 2.1,
-   "tickers": [
-    "NVDA"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 14 04:28 AM ET",
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 14 11:01 AM ET",
    "consumer": false
   },
   {
-   "title": "Anthropic Is Expected to List on Nov. 19. I'd Rather Own Amazon Stock Than the IPO.",
-   "link": "https://www.nasdaq.com/articles/anthropic-expected-list-nov-19-id-rather-own-amazon-stock-ipo",
+   "title": "Could Oracle Hit Its $30 Billion Free Cash Flow Target by Fiscal 2029?",
+   "link": "https://www.nasdaq.com/articles/could-oracle-hit-its-30-billion-free-cash-flow-target-fiscal-2029",
    "source": "Nasdaq Markets",
-   "impact": 2.4,
+   "impact": 4.0,
+   "tickers": [
+    "ORCL",
+    "TGT"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 14 11:01 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "AMD Just Beat Nvidia by the Widest Margin Since 1999",
+   "link": "https://247wallst.com/investing/2026/11/14/amd-just-beat-nvidia-by-the-widest-margin-since-1999/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 4.2,
+   "tickers": [
+    "AMD",
+    "NVDA"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 14 11:01 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Billionaire Bill Ackman Says There’s a Huge Disconnect in Wall Street’s Expectations for Amazon, Microsoft, Meta, and Alphabet",
+   "link": "https://www.fool.com/investing/2026/11/14/bill-ackman-huge-disconnect-wall-street-expectations-for-hyperscalers/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.8,
+   "tickers": [
+    "AMZN",
+    "GOOGL",
+    "META",
+    "MSFT"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 14 11:01 AM ET",
+   "consumer": true
+  },
+  {
+   "title": "Why Tesla Is Pulling the Plug on Cybertruck",
+   "link": "https://finance.yahoo.com/video/why-tesla-pulling-plug-cybertruck-150000385.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.5,
+   "tickers": [
+    "TSLA"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Nov 14 11:01 AM ET",
+   "consumer": true
+  },
+  {
+   "title": "Lawyers could pocket up to $100M of Amazon's $309.5M refund settlement — claims are due by Dec. 1",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/lawyers-could-pocket-100m-amazons-150000256.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.0,
    "tickers": [
     "AMZN"
    ],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 14 04:28 AM ET",
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 14 11:01 AM ET",
    "consumer": true
   },
   {
-   "title": "Microsoft says services fully restored after day-long global outage",
-   "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "impact": 1.9,
+   "title": "Why the Microsoft Outage Came at the Worst Possible Time for the Stock",
+   "link": "https://finance.yahoo.com/m/c3b17798-d74b-3497-bb15-94efbfc03af4/why-the-microsoft-outage-came.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.4,
    "tickers": [
     "MSFT"
    ],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 14 04:28 AM ET",
-   "consumer": false
-  },
-  {
-   "title": "Food bank sees donations drop by 10% each year",
-   "link": "https://www.bbc.co.uk/news/articles/c6702j7e48eno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "impact": 2.2,
-   "tickers": [],
    "sentiment_label": "bearish",
-   "seen_et": "Nov 14 04:28 AM ET",
+   "seen_et": "Nov 14 11:01 AM ET",
    "consumer": false
   },
   {
-   "title": "SoftBank (TSE:9434) Leads $500 Million Agile Robots Funding Round",
-   "link": "https://finance.yahoo.com/technology/ai/articles/softbank-tse-9434-leads-500-062035919.html?.tsrc=rss",
+   "title": "Should You Invest in the Stock Market Now or Wait for a Pullback? History Offers a Clear Answer.",
+   "link": "https://www.fool.com/investing/2026/11/14/should-you-invest-stock-market-now-wait-pullback/?.tsrc=rss",
    "source": "Yahoo Finance",
-   "impact": 3.1,
-   "tickers": [
-    "NVDA"
-   ],
+   "impact": 1.6,
+   "tickers": [],
    "sentiment_label": "neutral",
-   "seen_et": "Nov 14 04:28 AM ET",
+   "seen_et": "Nov 14 11:01 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Italy Fines Meta €805 Mln Over Android Gallery Data Access",
+   "link": "https://www.nasdaq.com/articles/italy-fines-meta-eu805-mln-over-android-gallery-data-access",
+   "source": "Nasdaq Markets",
+   "impact": 2.5,
+   "tickers": [
+    "META"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Nov 14 11:01 AM ET",
    "consumer": false
   }
  ],
@@ -794,7 +816,7 @@
  "movers": {
   "mode": "last session (market not in pre-market)",
   "basis": "opening gap (open vs prior close) of the last session; RVOL = session volume / 20-day avg",
-  "fetched_et": "Nov 14 04:27 AM ET",
+  "fetched_et": "Nov 14 11:00 AM ET",
   "gappers": [
    {
     "symbol": "ADSK",
@@ -1131,15 +1153,23 @@
   ]
  },
  "economic_calendar": {
-  "source": "FairEconomy / ForexFactory weekly calendar (nfs.faireconomy.media)",
-  "fallback": false,
-  "fetched_et": "Nov 14 04:28 AM ET",
+  "source": "RULE-BASED FALLBACK (approximate; live calendar unavailable)",
+  "fallback": true,
+  "fetched_et": "Nov 14 11:01 AM ET",
   "events": [
    {
-    "when_et": "Nov 13 07:00 PM ET",
-    "date": "2026-11-13",
-    "event": "FOMC Member Jefferson Speaks",
-    "importance": "low",
+    "date": "2026-11-18",
+    "event": "EIA crude oil inventories, 10:30am ET",
+    "importance": "medium",
+    "when_et": "2026-11-18",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "date": "2026-11-19",
+    "event": "Weekly initial jobless claims, 8:30am ET",
+    "importance": "medium",
+    "when_et": "2026-11-19",
     "forecast": "",
     "previous": ""
    }
@@ -1147,7 +1177,7 @@
  },
  "earnings": {
   "source": "Nasdaq earnings calendar API (api.nasdaq.com), filtered to S&P 500 + watchlist",
-  "fetched_et": "Nov 14 04:28 AM ET",
+  "fetched_et": "Nov 14 11:01 AM ET",
   "events": [
    {
     "date": "2026-11-16",
@@ -1298,24 +1328,24 @@
  "sentiment_validation": {
   "logged": 4000,
   "min_sample": 100,
-  "generated_et": "Nov 14 04:28 AM ET",
+  "generated_et": "Nov 14 11:01 AM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
-    "n_scored": 3926,
-    "n_directional": 3386,
-    "hit_rate": 50.1,
+    "n_scored": 3889,
+    "n_directional": 3356,
+    "hit_rate": 49.9,
     "ci95": 1.7,
-    "corr": -0.008,
+    "corr": -0.01,
     "status": "NO EDGE (≈ coin flip)"
    },
    "r1d": {
     "name": "+1 day",
-    "n_scored": 3729,
-    "n_directional": 3245,
-    "hit_rate": 50.6,
+    "n_scored": 3692,
+    "n_directional": 3214,
+    "hit_rate": 50.5,
     "ci95": 1.7,
-    "corr": -0.001,
+    "corr": -0.002,
     "status": "NO EDGE (≈ coin flip)"
    }
   },
@@ -1397,109 +1427,109 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 14 04:27 AM ET",
-   "newest_et": "Nov 14 03:16 AM ET",
-   "newest": "2026-11-14T08:16:44+00:00"
+   "fetched_et": "Nov 14 11:00 AM ET",
+   "newest_et": "Nov 14 10:50 AM ET",
+   "newest": "2026-11-14T15:50:43+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 14 04:27 AM ET",
+   "fetched_et": "Nov 14 11:00 AM ET",
    "newest_et": "Nov 13 04:18 PM ET",
    "newest": "2026-11-13T21:18:30+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 14 04:27 AM ET",
-   "newest_et": "Nov 12 05:17 PM ET",
-   "newest": "2026-11-12T22:17:05+00:00"
+   "fetched_et": "Nov 14 11:00 AM ET",
+   "newest_et": "Nov 14 08:00 AM ET",
+   "newest": "2026-11-14T13:00:01+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Nov 14 04:27 AM ET",
-   "newest_et": "Nov 13 09:42 PM ET",
-   "newest": "2026-11-14T02:42:00+00:00"
+   "fetched_et": "Nov 14 11:00 AM ET",
+   "newest_et": "Nov 14 10:30 AM ET",
+   "newest": "2026-11-14T15:30:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 14 04:27 AM ET",
+   "fetched_et": "Nov 14 11:00 AM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
-   "count": 18,
-   "fetched_et": "Nov 14 04:27 AM ET",
-   "newest_et": "Nov 14 04:04 AM ET",
-   "newest": "2026-11-14T09:04:18+00:00"
+   "count": 19,
+   "fetched_et": "Nov 14 11:00 AM ET",
+   "newest_et": "Nov 14 10:41 AM ET",
+   "newest": "2026-11-14T15:41:51+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 56,
-   "fetched_et": "Nov 14 04:27 AM ET",
+   "fetched_et": "Nov 14 11:00 AM ET",
    "newest_et": "Nov 14 03:13 AM ET",
    "newest": "2026-11-14T08:13:40+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Nov 14 04:27 AM ET",
-   "newest_et": "Nov 13 04:47 PM ET",
-   "newest": "2026-11-13T21:47:11+00:00"
+   "fetched_et": "Nov 14 11:00 AM ET",
+   "newest_et": "Nov 14 02:13 AM ET",
+   "newest": "2026-11-14T07:13:00+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Nov 14 04:27 AM ET",
-   "newest_et": "Nov 14 02:56 AM ET",
-   "newest": "2026-11-14T07:56:00+00:00"
+   "fetched_et": "Nov 14 11:00 AM ET",
+   "newest_et": "Nov 14 10:46 AM ET",
+   "newest": "2026-11-14T15:46:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 50,
-   "fetched_et": "Nov 14 04:27 AM ET",
-   "newest_et": "Nov 13 07:51 PM ET",
-   "newest": "2026-11-14T00:51:16+00:00"
+   "count": 48,
+   "fetched_et": "Nov 14 11:00 AM ET",
+   "newest_et": "Nov 14 04:27 AM ET",
+   "newest": "2026-11-14T09:27:29+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
    "count": 25,
-   "fetched_et": "Nov 14 04:27 AM ET",
-   "newest_et": "Nov 13 10:23 PM ET",
-   "newest": "2026-11-14T03:23:13+00:00"
+   "fetched_et": "Nov 14 11:00 AM ET",
+   "newest_et": "Nov 14 09:17 AM ET",
+   "newest": "2026-11-14T14:17:00+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Nov 14 04:27 AM ET",
+   "fetched_et": "Nov 14 11:00 AM ET",
    "newest_et": "Nov 13 04:15 PM ET",
    "newest": "2026-11-13T21:15:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Nov 14 04:27 AM ET",
-   "newest_et": "Nov 14 02:51 AM ET",
-   "newest": "2026-11-14T07:51:02+00:00"
+   "fetched_et": "Nov 14 11:00 AM ET",
+   "newest_et": "Nov 14 10:35 AM ET",
+   "newest": "2026-11-14T15:35:01+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Nov 14 04:27 AM ET"
+   "fetched_et": "Nov 14 11:00 AM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
    "count": 16,
-   "fetched_et": "Nov 14 04:28 AM ET"
+   "fetched_et": "Nov 14 11:01 AM ET"
   },
   "Economic calendar": {
-   "ok": true,
-   "count": 1,
-   "fetched_et": "Nov 14 04:28 AM ET",
-   "note": "FairEconomy / ForexFactory weekly calendar (nfs.faireconomy.media)"
+   "ok": false,
+   "count": 2,
+   "fetched_et": "Nov 14 11:01 AM ET",
+   "note": "RULE-BASED FALLBACK (approximate; live calendar unavailable)"
   }
  }
 }
