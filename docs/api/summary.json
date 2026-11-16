@@ -1,44 +1,44 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Nov 15 07:00 PM ET",
- "generated_at": "2026-11-15T19:00:13.246222-05:00",
+ "generated_et": "Nov 16 01:12 AM ET",
+ "generated_at": "2026-11-16T01:12:53.782047-05:00",
  "session": "closed",
  "daily_report": {
-  "date": "2026-11-15",
-  "generated_et": "Sun Nov 15 2026, 02:01 AM ET"
+  "date": "2026-11-16",
+  "generated_et": "Mon Nov 16 2026, 01:13 AM ET"
  },
  "snapshot": [
   {
    "symbol": "ES=F",
    "label": "S&P 500 Fut",
-   "price": 7613.0,
-   "pct": 0.4,
-   "asof_et": "Nov 15 06:50 PM ET",
+   "price": 7544.0,
+   "pct": -0.51,
+   "asof_et": "Nov 16 01:00 AM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "NQ=F",
    "label": "Nasdaq 100 Fut",
-   "price": 28263.5,
-   "pct": 0.82,
-   "asof_et": "Nov 15 06:50 PM ET",
+   "price": 27719.75,
+   "pct": -1.12,
+   "asof_et": "Nov 16 01:00 AM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "YM=F",
    "label": "Dow Fut",
-   "price": 52547.0,
-   "pct": 0.25,
-   "asof_et": "Nov 15 06:50 PM ET",
+   "price": 52338.0,
+   "pct": -0.15,
+   "asof_et": "Nov 16 01:00 AM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "RTY=F",
    "label": "Russell 2000 Fut",
-   "price": 2806.8,
-   "pct": 0.33,
-   "asof_et": "Nov 15 06:50 PM ET",
+   "price": 2783.8,
+   "pct": -0.49,
+   "asof_et": "Nov 16 01:00 AM ET",
    "freshness": "delayed"
   },
   {
@@ -55,6 +55,14 @@
    "price": 674.26,
    "pct": -2.02,
    "asof_et": "Nov 13 07:55 PM ET",
+   "freshness": "closed"
+  },
+  {
+   "symbol": "DIA",
+   "label": "DIA",
+   "price": 521.21,
+   "pct": -0.24,
+   "asof_et": "Nov 13 07:50 PM ET",
    "freshness": "closed"
   },
   {
@@ -76,25 +84,25 @@
   {
    "symbol": "CL=F",
    "label": "WTI Crude",
-   "price": 88.52,
-   "pct": -0.05,
-   "asof_et": "Nov 15 06:50 PM ET",
+   "price": 88.67,
+   "pct": 0.12,
+   "asof_et": "Nov 16 01:00 AM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "GC=F",
    "label": "Gold",
-   "price": 3903.1,
-   "pct": 0.43,
-   "asof_et": "Nov 15 06:50 PM ET",
+   "price": 3843.0,
+   "pct": -1.11,
+   "asof_et": "Nov 16 01:00 AM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "DX-Y.NYB",
    "label": "Dollar Index",
-   "price": 103.39,
+   "price": 103.4,
    "pct": -0.01,
-   "asof_et": "Nov 15 06:50 PM ET",
+   "asof_et": "Nov 16 01:03 AM ET",
    "freshness": "delayed"
   },
   {
@@ -108,9 +116,9 @@
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 65306.29,
-   "pct": 1.84,
-   "asof_et": "Nov 15 07:00 PM ET",
+   "price": 64300.7,
+   "pct": 0.27,
+   "asof_et": "Nov 16 01:10 AM ET",
    "freshness": "delayed"
   },
   {
@@ -213,149 +221,152 @@
  "top_themes": [
   {
    "name": "Fed & Rates",
-   "count": 37,
-   "sentiment": 0.1,
+   "count": 24,
+   "sentiment": 0.05,
    "tickers": [
     "^TNX",
     "SPY",
     "NVDA",
     "DIA",
-    "WMT",
-    "GC=F"
+    "TGT",
+    "QQQ"
    ],
    "top_headline": {
-    "title": "The Week Ahead: Blockbuster Nvidia Q3 Earnings Arrive as US October Retail Sales, FOMC Minutes and Walmart Earnings Follow",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNUpqSU4ya1ZSYkNPUFB0X3p4c1p2OFlQWDVaSFBLZ2JWOFAzRGU1MWdFNHk1cXg4MC1PbFBNSnIwV3FELUppMmJPb1d5NzBnWjFTdWdTTTU5T3dwR3VVd0NKUW5xSG1jWWV0REE2WGZLSWFvbmlDa1dvZXJqQ3RTOXFnbXFaV2prUGJlMlhUMzAwdlF4VVIxdjRTNFVMRjlfdVNRcEliTklrRmQ1QzlGRzJ0ME1laFJnODJpaGpSMFU1UU1SYjRXcEk1b0d6RklrX3pkWWVObFF6bVVHbUZvZlB3?oc=5",
-    "source": "TradingKey",
-    "impact": 6.8,
-    "sentiment_label": "bullish"
+    "title": "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
+    "link": "https://www.cnbc.com/2026/11/15/fed-has-some-work-to-do-on-inflation-kansas-city-fed-chief-says.html",
+    "source": "CNBC Top News",
+    "impact": 8.0,
+    "sentiment_label": "bearish"
    }
   },
   {
    "name": "Inflation & Macro Data",
-   "count": 37,
-   "sentiment": 0.09,
+   "count": 47,
+   "sentiment": 0.02,
    "tickers": [
     "SPY",
-    "^TNX",
     "NVDA",
-    "DIA",
-    "WMT",
-    "CL=F"
+    "^TNX",
+    "CL=F",
+    "XLE",
+    "WMT"
    ],
    "top_headline": {
-    "title": "The Week Ahead: Blockbuster Nvidia Q3 Earnings Arrive as US October Retail Sales, FOMC Minutes and Walmart Earnings Follow",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNUpqSU4ya1ZSYkNPUFB0X3p4c1p2OFlQWDVaSFBLZ2JWOFAzRGU1MWdFNHk1cXg4MC1PbFBNSnIwV3FELUppMmJPb1d5NzBnWjFTdWdTTTU5T3dwR3VVd0NKUW5xSG1jWWV0REE2WGZLSWFvbmlDa1dvZXJqQ3RTOXFnbXFaV2prUGJlMlhUMzAwdlF4VVIxdjRTNFVMRjlfdVNRcEliTklrRmQ1QzlGRzJ0ME1laFJnODJpaGpSMFU1UU1SYjRXcEk1b0d6RklrX3pkWWVObFF6bVVHbUZvZlB3?oc=5",
-    "source": "TradingKey",
-    "impact": 6.8,
+    "title": "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
+    "link": "https://www.cnbc.com/2026/11/15/fed-has-some-work-to-do-on-inflation-kansas-city-fed-chief-says.html",
+    "source": "CNBC Top News",
+    "impact": 8.0,
+    "sentiment_label": "bearish"
+   }
+  },
+  {
+   "name": "AI & Semiconductors",
+   "count": 74,
+   "sentiment": -0.11,
+   "tickers": [
+    "NVDA",
+    "SPY",
+    "QQQ",
+    "^TNX",
+    "MSFT",
+    "WMT"
+   ],
+   "top_headline": {
+    "title": "US Stock Market Week Ahead: Can Nvidia Earnings and Fed Minutes Spark a Nasdaq Rally?",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rZDNOM285d3hOT0VJV0N4R2cxTWhFcFlzb2VLbVY0U2xiU21xX01hUnN1VDRrZ1lIOUkwRlFkcHdndnpUQ0hXZWZydlVMMmo5N2w5eWZZWjNmeVJ6dHJFZHROSk5jNFBKTFpzeWZqS2UyQkdRR1kwNmRHcFI1Nk0?oc=5",
+    "source": "Stocks Down Under",
+    "impact": 7.4,
     "sentiment_label": "bullish"
    }
   },
   {
    "name": "Earnings & Guidance",
-   "count": 47,
-   "sentiment": 0.28,
+   "count": 44,
+   "sentiment": 0.16,
    "tickers": [
     "NVDA",
     "DIA",
+    "SPY",
     "MSFT",
     "QQQ",
-    "SPY",
-    "WMT"
+    "^TNX"
    ],
    "top_headline": {
-    "title": "The Week Ahead: Blockbuster Nvidia Q3 Earnings Arrive as US October Retail Sales, FOMC Minutes and Walmart Earnings Follow",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNUpqSU4ya1ZSYkNPUFB0X3p4c1p2OFlQWDVaSFBLZ2JWOFAzRGU1MWdFNHk1cXg4MC1PbFBNSnIwV3FELUppMmJPb1d5NzBnWjFTdWdTTTU5T3dwR3VVd0NKUW5xSG1jWWV0REE2WGZLSWFvbmlDa1dvZXJqQ3RTOXFnbXFaV2prUGJlMlhUMzAwdlF4VVIxdjRTNFVMRjlfdVNRcEliTklrRmQ1QzlGRzJ0ME1laFJnODJpaGpSMFU1UU1SYjRXcEk1b0d6RklrX3pkWWVObFF6bVVHbUZvZlB3?oc=5",
-    "source": "TradingKey",
-    "impact": 6.8,
-    "sentiment_label": "bullish"
-   }
-  },
-  {
-   "name": "AI & Semiconductors",
-   "count": 66,
-   "sentiment": -0.01,
-   "tickers": [
-    "NVDA",
-    "QQQ",
-    "SPY",
-    "^TNX",
-    "WMT",
-    "BTC-USD"
-   ],
-   "top_headline": {
-    "title": "The Week Ahead: Blockbuster Nvidia Q3 Earnings Arrive as US October Retail Sales, FOMC Minutes and Walmart Earnings Follow",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNUpqSU4ya1ZSYkNPUFB0X3p4c1p2OFlQWDVaSFBLZ2JWOFAzRGU1MWdFNHk1cXg4MC1PbFBNSnIwV3FELUppMmJPb1d5NzBnWjFTdWdTTTU5T3dwR3VVd0NKUW5xSG1jWWV0REE2WGZLSWFvbmlDa1dvZXJqQ3RTOXFnbXFaV2prUGJlMlhUMzAwdlF4VVIxdjRTNFVMRjlfdVNRcEliTklrRmQ1QzlGRzJ0ME1laFJnODJpaGpSMFU1UU1SYjRXcEk1b0d6RklrX3pkWWVObFF6bVVHbUZvZlB3?oc=5",
-    "source": "TradingKey",
-    "impact": 6.8,
+    "title": "US Stock Market Week Ahead: Can Nvidia Earnings and Fed Minutes Spark a Nasdaq Rally?",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rZDNOM285d3hOT0VJV0N4R2cxTWhFcFlzb2VLbVY0U2xiU21xX01hUnN1VDRrZ1lIOUkwRlFkcHdndnpUQ0hXZWZydlVMMmo5N2w5eWZZWjNmeVJ6dHJFZHROSk5jNFBKTFpzeWZqS2UyQkdRR1kwNmRHcFI1Nk0?oc=5",
+    "source": "Stocks Down Under",
+    "impact": 7.4,
     "sentiment_label": "bullish"
    }
   },
   {
    "name": "Other Market News",
-   "count": 172,
-   "sentiment": 0.08,
+   "count": 169,
+   "sentiment": 0.04,
    "tickers": [
-    "TSLA",
-    "MSFT",
+    "LLY",
+    "SPY",
     "BA",
-    "META",
-    "^VIX",
-    "ORCL"
+    "MSFT",
+    "TSLA",
+    "^VIX"
    ],
    "top_headline": {
-    "title": "All passengers and crew on New Orleans cruise ship survive crash with tanker on Mississippi River",
-    "link": "https://www.cnbc.com/2026/11/14/cruise-ship-tanker-crash-new-orleans.html",
+    "title": "Rivian, Lucid, Scout CEOs aren’t counting on Democrats to restore EV federal support after midterm wins",
+    "link": "https://www.cnbc.com/2026/11/15/rivian-lucid-scout-arent-counting-on-dems-to-restore-ev-incentives.html",
     "source": "CNBC Top News",
-    "impact": 4.9,
+    "impact": 5.3,
+    "sentiment_label": "bullish"
+   }
+  },
+  {
+   "name": "Trade, Tariffs & Geopolitics",
+   "count": 58,
+   "sentiment": -0.21,
+   "tickers": [
+    "NVDA",
+    "QQQ",
+    "MSFT",
+    "DIA",
+    "SPY",
+    "AMZN"
+   ],
+   "top_headline": {
+    "title": "‘The FBI Doesn’t Take Petitions’: Anthony Scaramucci Says ‘Stop Comparing’ Jensen Huang With Sam Altman",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/fbi-doesn-t-petitions-anthony-043241961.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "impact": 6.5,
     "sentiment_label": "bearish"
    }
   },
   {
    "name": "Consumer & Retail",
-   "count": 30,
-   "sentiment": 0.33,
+   "count": 37,
+   "sentiment": 0.2,
    "tickers": [
-    "GOOGL",
-    "NVDA",
-    "SPY",
-    "^TNX",
     "AMZN",
-    "WMT"
+    "NVDA",
+    "WMT",
+    "GOOGL",
+    "TGT",
+    "SPY"
    ],
    "top_headline": {
     "title": "The Week Ahead: Blockbuster Nvidia Q3 Earnings Arrive as US October Retail Sales, FOMC Minutes and Walmart Earnings Follow",
     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNUpqSU4ya1ZSYkNPUFB0X3p4c1p2OFlQWDVaSFBLZ2JWOFAzRGU1MWdFNHk1cXg4MC1PbFBNSnIwV3FELUppMmJPb1d5NzBnWjFTdWdTTTU5T3dwR3VVd0NKUW5xSG1jWWV0REE2WGZLSWFvbmlDa1dvZXJqQ3RTOXFnbXFaV2prUGJlMlhUMzAwdlF4VVIxdjRTNFVMRjlfdVNRcEliTklrRmQ1QzlGRzJ0ME1laFJnODJpaGpSMFU1UU1SYjRXcEk1b0d6RklrX3pkWWVObFF6bVVHbUZvZlB3?oc=5",
     "source": "TradingKey",
-    "impact": 6.8,
+    "impact": 5.9,
     "sentiment_label": "bullish"
    }
   },
   {
-   "name": "Shipping, Postage & Logistics",
-   "count": 32,
+   "name": "Banks & Credit",
+   "count": 17,
    "sentiment": 0.12,
    "tickers": [
-    "UPS",
-    "FDX",
-    "GOOGL"
-   ],
-   "top_headline": {
-    "title": "What FedEx (FDX)'s Shipping Price Hikes Mean For Shareholders",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNjBMVnJIV191eERMRzNGekhTcW12QjhYQjdyUXhsLUZCR3ZDX3M2VktGb05Rd3FWM1VjeEpqN3I1Y1NNTEkzMDMyWTlxS0NmNE5tN29wcnRUVjg0aHctRHNvdmNuS2R6ZURvOXpESHEwX3VqSGZYM0R5alhWNkFsSl95QU5GMXFJNUZrOE1yby1CdE9hNmRzY19hcFZLdWJ4NTAtcFgzNGlFVWNYbXdYcW9JSDdqZzg2V1lDNjVkbWdUbVBfZlppTtIByAFBVV95cUxPNjBMVnJIV191eERMRzNGekhTcW12QjhYQjdyUXhsLUZCR3ZDX3M2VktGb05Rd3FWM1VjeEpqN3I1Y1NNTEkzMDMyWTlxS0NmNE5tN29wcnRUVjg0aHctRHNvdmNuS2R6ZURvOXpESHEwX3VqSGZYM0R5alhWNkFsSl95QU5GMXFJNUZrOE1yby1CdE9hNmRzY19hcFZLdWJ4NTAtcFgzNGlFVWNYbXdYcW9JSDdqZzg2V1lDNjVkbWdUbVBfZlppTg?oc=5",
-    "source": "Simply Wall St",
-    "impact": 5.5,
-    "sentiment_label": "neutral"
-   }
-  },
-  {
-   "name": "Banks & Credit",
-   "count": 20,
-   "sentiment": 0.08,
-   "tickers": [
     "^VIX",
-    "BAC",
-    "NVDA"
+    "NVDA",
+    "BAC"
    ],
    "top_headline": {
     "title": "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
@@ -368,60 +379,105 @@
  ],
  "breaking": [
   {
-   "title": "Japan's economy unexpectedly contracts for the first time in a year as third-quarter GDP shrinks 0.1%",
-   "link": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
-   "source": "CNBC Top News",
-   "impact": 4.9,
+   "title": "Thrift shop ask donors to nominate a charity",
+   "link": "https://www.bbc.co.uk/news/articles/c804wp1y2ky1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "impact": 2.5,
    "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Nov 15 07:00 PM ET",
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 16 01:13 AM ET",
    "consumer": false
   },
   {
-   "title": "St. Brown and Gibbs score 2 TDs each in Lions' 35-10 rout of Patriots after Maye injured in Munich",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYnoxT3RPbW84MV9tWGZRRVc1VGFxcU1KakZ2WnhITDB6cnJHWk1WQjlxZXFIbEFiYzFoa25seUlKQzNINWh3dnVGN0tCeEFRMnIxUmFmbzNpdW5jazdERGxZSWJDWm13cDFPamJFd2Jya2dvN2NZTjRtczNpMFdDRUZzTXJBSE9INHdQV05ldjlrdGRXelhKQjNXaw?oc=5",
-   "source": "AP News",
-   "impact": 2.3,
-   "tickers": [],
+   "title": "China’s stock market woes deepen as Nvidia crisis hits",
+   "link": "https://uk.finance.yahoo.com/news/china-stock-market-woes-deepen-060000830.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.0,
+   "tickers": [
+    "NVDA"
+   ],
    "sentiment_label": "bearish",
-   "seen_et": "Nov 15 07:00 PM ET",
+   "seen_et": "Nov 16 01:13 AM ET",
    "consumer": false
   },
   {
-   "title": "Lions edge rusher Aidan Hutchinson has season-ending right knee injury, AP source says",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcXBvTDVLdElIeldsLTE1ek1DeV9mVHNzVzFCc19PUnFyNnlUel9WQ2RYSURVSTJJbUFCenB1dkRSd0VRYUF0NUJwOXQ3SXRrdnFyRDVsVS1QUUVBZ3RFWFFtNFpabnItS0VzaVNTaUhOOG5ZeTZiaWdiNVF2c2YtUXN1ZzhZajRtdEY0WXZwSUxxT3JpWlBkZTVnMVlPMjlwckE?oc=5",
-   "source": "AP News",
-   "impact": 2.3,
+   "title": "Pixalate Adds Vizio, VIDAA (Hisense), and Titan OS Across 85 Country Storefronts, Expanding CTV App Store Intelligence to 8 Platforms",
+   "link": "https://finance.yahoo.com/media-advertising/articles/pixalate-adds-vizio-vidaa-hisense-060000089.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.8,
+   "tickers": [
+    "AAPL",
+    "AMZN"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 16 01:13 AM ET",
+   "consumer": true
+  },
+  {
+   "title": "ASTS, RKLB, LUNR And FLY Fall After ULA Rocket Failure Strands 40 Amazon Satellites — Why One Analyst Wants Musk To Free Up Falcon 9 Flights",
+   "link": "https://stocktwits.com/news-articles/markets/equity/asts-rklb-lunr-fly-ula-rocket-failure-40-amazon-satellites-analyst-musk-falcon-9-flights/cNb7XOFR9Xa?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.9,
+   "tickers": [
+    "AMZN",
+    "TSLA"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 16 01:13 AM ET",
+   "consumer": true
+  },
+  {
+   "title": "'Break-in and rising costs could kill my business'",
+   "link": "https://www.bbc.co.uk/news/articles/c9n731r5mej5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "impact": 2.5,
    "tickers": [],
    "sentiment_label": "bearish",
-   "seen_et": "Nov 15 07:00 PM ET",
+   "seen_et": "Nov 16 01:13 AM ET",
    "consumer": false
   },
   {
-   "title": "Dow Jones Futures Rise; How Will Nvidia React As Jensen Huang Mulls Return?",
-   "link": "https://finance.yahoo.com/m/53e50dc8-f137-3f6c-bfd6-912334fef9f1/dow-jones-futures-rise%3B-how.html?.tsrc=rss",
+   "title": "Stocks extend losses as traders await Nvidia earnings and Anthropic IPO",
+   "link": "https://www.euronews.com/2026/11/16/stocks-extend-losses-as-traders-await-nvidia-earnings-and-anthropic-ipo?.tsrc=rss",
    "source": "Yahoo Finance",
    "impact": 3.6,
    "tickers": [
-    "DIA",
     "NVDA"
    ],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 15 07:00 PM ET",
+   "sentiment_label": "bearish",
+   "seen_et": "Nov 16 01:13 AM ET",
    "consumer": false
   },
   {
-   "title": "Steady Start Seen For Malaysia Stock Market",
-   "link": "https://www.nasdaq.com/articles/steady-start-seen-malaysia-stock-market",
-   "source": "Nasdaq Markets",
-   "impact": 3.3,
-   "tickers": [],
+   "title": "Biel Crystal Stands as a Primary UTG Supplier for iPhone Duo",
+   "link": "https://finance.yahoo.com/technology/articles/biel-crystal-stands-primary-utg-053200086.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.7,
+   "tickers": [
+    "AAPL",
+    "UTG"
+   ],
    "sentiment_label": "neutral",
-   "seen_et": "Nov 15 07:00 PM ET",
+   "seen_et": "Nov 16 01:13 AM ET",
    "consumer": false
   },
   {
-   "title": "Stock futures tick higher as traders brace for Nvidia earnings, Anthropic IPO this week: Live updates",
+   "title": "U.S. plans to name Nvidia among AI ‘national champions’, WSJ reports",
+   "link": "https://finance.yahoo.com/technology/ai/articles/u-plans-name-nvidia-among-053052700.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.6,
+   "tickers": [
+    "AMZN",
+    "MSFT",
+    "NVDA",
+    "QQQ"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 16 01:13 AM ET",
+   "consumer": true
+  },
+  {
+   "title": "Stock futures slip as traders brace for Nvidia earnings, Anthropic IPO this week: Live updates",
    "link": "https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html",
    "source": "CNBC Top News",
    "impact": 4.9,
@@ -432,214 +488,159 @@
     "SPY"
    ],
    "sentiment_label": "bullish",
-   "seen_et": "Nov 15 07:00 PM ET",
+   "seen_et": "Nov 16 01:13 AM ET",
    "consumer": false
   },
   {
-   "title": "The 1 Mistake Investors Make When the Market Stalls, and How to Avoid It",
-   "link": "https://www.fool.com/investing/2026/11/15/the-1-mistake-investors-make-when-the-market-stalls-and-how-to-avoid-it/?.tsrc=rss",
+   "title": "3 Stocks Tied To Governance Spending As Nvidia Fallout Puts Compliance In Focus",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-tied-governance-spending-051619159.html?.tsrc=rss",
    "source": "Yahoo Finance",
    "impact": 2.2,
-   "tickers": [],
+   "tickers": [
+    "NVDA"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 16 01:13 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "China’s ZAI, Minimax tumble as Nvidia row drives fears of more chip restrictions",
+   "link": "https://finance.yahoo.com/technology/ai/articles/china-zai-minimax-tumble-nvidia-050901809.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 4.2,
+   "tickers": [
+    "NVDA"
+   ],
    "sentiment_label": "bearish",
-   "seen_et": "Nov 15 07:00 PM ET",
+   "seen_et": "Nov 16 01:13 AM ET",
    "consumer": false
   },
   {
-   "title": "Japan Stock Market May Hand Back Friday's Gains",
-   "link": "https://www.nasdaq.com/articles/japan-stock-market-may-hand-back-fridays-gains",
-   "source": "Nasdaq Markets",
-   "impact": 2.5,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 15 07:00 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Musk, Uber co-founder join call for Jensen Huang's return to Nvidia",
-   "link": "https://finance.yahoo.com/technology/ai/articles/musk-uber-co-founder-join-231643816.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 4.3,
-   "tickers": [
-    "NVDA",
-    "TSLA",
-    "UBER",
-    "^TNX"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 15 07:00 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Is SpaceX Stock Worth Buying and Holding for 10 Years?",
-   "link": "https://www.fool.com/investing/2026/11/15/is-spacex-stock-worth-buying-and-holding-for-10-years/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 1.8,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 15 07:00 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "I've owned this stock for a decade. AI slowdown fears gave me an opportunity to buy more",
-   "link": "https://www.cnbc.com/2026/11/15/caterpillar-buy-kevin-simpson.html",
-   "source": "CNBC Top News",
-   "impact": 2.0,
-   "tickers": [
-    "CAT"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 15 07:00 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Three Questions Every Investor Should Ask About Any Management Team",
-   "link": "https://www.fool.com/investing/2026/11/15/three-questions-every-investor-should-ask-about-any-management-team/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.5,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 15 07:00 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Stock Futures Are Rising Ahead of Nvidia’s Earnings, Anthropic’s IPO",
-   "link": "https://finance.yahoo.com/m/8cef83a6-f4cb-350b-abaf-a876bb42c992/stock-futures-are-rising.html?.tsrc=rss",
+   "title": "More Pain For NVDA? Top Supply Chain Analyst Says New OpenAI, Anthropic Chip Orders Boost Google’s TPU Outlook",
+   "link": "https://stocktwits.com/news-articles/markets/equity/more-pain-for-nvda-top-supply-chain-analyst-says-new-open-ai-anthropic-chip-orders-boost-google-s-tpu-outlook/cNb7fwwR9X7?.tsrc=rss",
    "source": "Yahoo Finance",
    "impact": 3.1,
    "tickers": [
+    "GOOGL",
+    "MSFT",
     "NVDA"
    ],
    "sentiment_label": "neutral",
-   "seen_et": "Nov 15 07:00 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "KOSPI May Spin Its Wheels On Monday",
-   "link": "https://www.nasdaq.com/articles/kospi-may-spin-its-wheels-monday",
-   "source": "Nasdaq Markets",
-   "impact": 1.6,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 15 07:00 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Pope in Peruvian rainforest demands justice for environmental defenders killed for protecting Amazon",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVTVlSTFUWUh3d3hoRUVkeHNEX0lpTXFqQUx2dG1FUjR0TnBNVkJqQ19sQWt3Y2loVHplWlpHZGFOZHNyTjdNMDRQQS1Dd0ZLT2dSSTVxRjY5MURzT1JabnNQdHo1RkFJNjBsR2hFV29LQmhfaENsVFk0X2hDSTZaVFRFYjVfaUJOd3J4MjFjcW13ZEVYTkpiMQ?oc=5",
-   "source": "AP News",
-   "impact": 2.0,
-   "tickers": [
-    "AMZN"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 15 07:00 PM ET",
+   "seen_et": "Nov 16 01:13 AM ET",
    "consumer": true
   },
   {
-   "title": "Berkshire’s record high exposes hidden trap in S&P 500 401(k) plans",
-   "link": "https://www.thestreet.com/retirement/berkshire-sp500-401k-concentration?.tsrc=rss",
+   "title": "Stocks decline in Asia as investor concerns over Nvidia fallout extend into another week",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-decline-asia-investor-concerns-045636045.html?.tsrc=rss",
    "source": "Yahoo Finance",
-   "impact": 3.4,
+   "impact": 3.0,
    "tickers": [
-    "BRK-B",
-    "SPY"
+    "AP",
+    "NVDA"
    ],
-   "sentiment_label": "bearish",
-   "seen_et": "Nov 15 07:00 PM ET",
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 16 01:13 AM ET",
    "consumer": false
   },
   {
-   "title": "Jensen Huang Considers Returning To Nvidia: FT",
-   "link": "https://finance.yahoo.com/m/694d3941-721c-31d4-aff5-d306f1116454/jensen-huang-considers.html?.tsrc=rss",
+   "title": "Michael Burry's Puts on the Nasdaq-100 Run to April 2027. I'm Not Following Him.",
+   "link": "https://www.fool.com/investing/2026/11/15/michael-burry-s-puts-on-the-nasdaq-100-run-to-april-2027-i-m-not-following-him/?.tsrc=rss",
    "source": "Yahoo Finance",
-   "impact": 2.6,
+   "impact": 2.2,
+   "tickers": [
+    "QQQ"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 16 01:13 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Indian Shares Surge On FII Flows",
+   "link": "https://www.nasdaq.com/articles/indian-shares-surge-fii-flows",
+   "source": "Nasdaq Markets",
+   "impact": 6.2,
+   "tickers": [
+    "CL=F",
+    "XLE"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 16 01:13 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "investingLive Asia-Pacific market news: Chipmakers hit ahead of Nvidia",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeFFTVnB1RDkxZHYtcU1uQUVMVEp1alhUU3NsNzNjd29mck5HaHZQNlYxZlkzRXVHS3VZZFdoeHBrQng4ekotdzBERXdkTUlRbGZYMk1FTDNzbmozaU9pZUdwWG04YnJTa2JwZy10cWoxa2QwbmQ4dkFyYVZfZ3N4NkpjdW9vampETUR2STRzUXdxTmNjUTQ4MkhMRURkcFp4Vk5n?oc=5",
+   "source": "investingLive",
+   "impact": 1.9,
+   "tickers": [
+    "NVDA"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 16 01:13 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "China confirms Xi-Trump-Putin historic summit. What will be on the agenda?",
+   "link": "https://www.cnbc.com/2026/11/16/trump-xi-putin-ukraine-nuclear-tariffs-russia-iran-.html",
+   "source": "CNBC Top News",
+   "impact": 3.6,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Nov 16 01:13 AM ET",
+   "consumer": false
+  },
+  {
+   "title": "Asia stocks slide as AI jitters deepen ahead of Nvidia results",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/asia-stocks-slide-ai-jitters-043337789.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.3,
    "tickers": [
     "NVDA"
    ],
    "sentiment_label": "bearish",
-   "seen_et": "Nov 15 07:00 PM ET",
+   "seen_et": "Nov 16 01:13 AM ET",
    "consumer": false
   },
   {
-   "title": "Asian stocks brace for AI pressure, data dump",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MVDkxcEdZTnMxdnp3cjlwekxNYzlnSFRYUE5uNGpvWVE5R2U3UFd5QTF5eVNlWS1KbVZaSDhZSE1vd0RaVXVCd3RJOFJHLW04?oc=5",
-   "source": "The Edge Malaysia",
-   "impact": 2.4,
-   "tickers": [],
+   "title": "‘The FBI Doesn’t Take Petitions’: Anthony Scaramucci Says ‘Stop Comparing’ Jensen Huang With Sam Altman",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/fbi-doesn-t-petitions-anthony-043241961.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 6.5,
+   "tickers": [
+    "MSFT",
+    "NVDA",
+    "QQQ"
+   ],
    "sentiment_label": "bearish",
-   "seen_et": "Nov 15 07:00 PM ET",
+   "seen_et": "Nov 16 01:13 AM ET",
    "consumer": false
   },
   {
-   "title": "Cut national insurance for under-25s to create jobs, Milburn report to say",
-   "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "impact": 1.6,
-   "tickers": [],
+   "title": "Dow Jones Futures: Techs Fall As Jensen Huang Mulls Nvidia Return; Anthropic IPO Looms",
+   "link": "https://finance.yahoo.com/m/53e50dc8-f137-3f6c-bfd6-912334fef9f1/dow-jones-futures%3A-techs-fall.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.7,
+   "tickers": [
+    "DIA",
+    "NVDA"
+   ],
    "sentiment_label": "neutral",
-   "seen_et": "Nov 15 07:00 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Stock Pot Set Market To 2035: Premiumization and Replacement Demand Drive Growth - News and Statistics",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcHYtNjFkWEYySE8yRmR3WjZIMWpNa0N3YU1pM2ZIcGgzVU9rZGVpZXM0eC1xT1RLV3o3U3VPbFpxVmpjR1NENmhWalhxTUQzSDNxZVZiV1l6VXpvcThrYU1XWElOY0JvMnZwV0ZLSHYzMmF1ZFB0STVRVDJ6SkJ2RldpSmtSYUFqTExweHo3Ui1uOGlTN0VZMWV6VFpDTGdIQTgwaVc1YXF2TDRIb3p4eVhscFhtVG9XckE?oc=5",
-   "source": "IndexBox",
-   "impact": 2.0,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 15 07:00 PM ET",
+   "seen_et": "Nov 16 01:13 AM ET",
    "consumer": false
   }
  ],
- "high_impact": [
-  {
-   "title": "US Stock Market Week Ahead: Can Nvidia Earnings and Fed Minutes Spark a Nasdaq Rally?",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rZDNOM285d3hOT0VJV0N4R2cxTWhFcFlzb2VLbVY0U2xiU21xX01hUnN1VDRrZ1lIOUkwRlFkcHdndnpUQ0hXZWZydlVMMmo5N2w5eWZZWjNmeVJ6dHJFZHROSk5jNFBKTFpzeWZqS2UyQkdRR1kwNmRHcFI1Nk0?oc=5",
-   "impact": 7.6,
-   "tickers": [
-    "NVDA",
-    "QQQ",
-    "SPY",
-    "^TNX"
-   ]
-  },
-  {
-   "title": "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
-   "link": "https://www.cnbc.com/2026/11/15/fed-has-some-work-to-do-on-inflation-kansas-city-fed-chief-says.html",
-   "impact": 8.4,
-   "tickers": [
-    "SPY",
-    "TGT",
-    "^TNX"
-   ]
-  },
-  {
-   "title": "Nvidia, Anthropic, Walmart, Home Depot, the Fed, Home Sales, and More to Watch This Week",
-   "link": "https://finance.yahoo.com/m/f8d75492-d543-31f8-a9e4-525c6a832328/nvidia%2C-anthropic%2C-walmart%2C.html?.tsrc=rss",
-   "impact": 7.9,
-   "tickers": [
-    "DIS",
-    "HD",
-    "NVDA",
-    "SPY",
-    "TGT",
-    "WMT",
-    "^TNX"
-   ]
-  }
- ],
+ "high_impact": [],
  "watchlist": [
   {
    "ticker": "NVDA",
    "pct": null,
-   "mentions": 45,
-   "sentiment": -0.01,
+   "mentions": 51,
+   "sentiment": -0.1,
    "why": {
-    "title": "The Week Ahead: Blockbuster Nvidia Q3 Earnings Arrive as US October Retail Sales, FOMC Minutes and Walmart Earnings Follow",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNUpqSU4ya1ZSYkNPUFB0X3p4c1p2OFlQWDVaSFBLZ2JWOFAzRGU1MWdFNHk1cXg4MC1PbFBNSnIwV3FELUppMmJPb1d5NzBnWjFTdWdTTTU5T3dwR3VVd0NKUW5xSG1jWWV0REE2WGZLSWFvbmlDa1dvZXJqQ3RTOXFnbXFaV2prUGJlMlhUMzAwdlF4VVIxdjRTNFVMRjlfdVNRcEliTklrRmQ1QzlGRzJ0ME1laFJnODJpaGpSMFU1UU1SYjRXcEk1b0d6RklrX3pkWWVObFF6bVVHbUZvZlB3?oc=5",
-    "source": "TradingKey",
-    "impact": 6.8,
+    "title": "US Stock Market Week Ahead: Can Nvidia Earnings and Fed Minutes Spark a Nasdaq Rally?",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rZDNOM285d3hOT0VJV0N4R2cxTWhFcFlzb2VLbVY0U2xiU21xX01hUnN1VDRrZ1lIOUkwRlFkcHdndnpUQ0hXZWZydlVMMmo5N2w5eWZZWjNmeVJ6dHJFZHROSk5jNFBKTFpzeWZqS2UyQkdRR1kwNmRHcFI1Nk0?oc=5",
+    "source": "Stocks Down Under",
+    "impact": 7.4,
     "sentiment_label": "bullish"
    }
   },
@@ -647,65 +648,130 @@
    "ticker": "SPY",
    "pct": -0.99,
    "mentions": 17,
-   "sentiment": 0.08,
+   "sentiment": -0.15,
    "why": {
-    "title": "Fed's Collins says gradual rate hikes best to manage economic risks",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbHZfX3JqempNenlnSUpVcTd4dXY4djdJU1c2VkZ2Um5fYXkyVTMtYUxBZlBrcXVqQXJkQ0RjejZRQTdBLWxPYzcyRDBfTGxmdUVTekN0TFFWdHNfZFh6ckt0c1RCTVBwZzZjZ3NacWJWSDhvMVRGVDNpR0o2YTBwdmJILTE4eWs2SlQ5YnVHN0ctMFM3bWJsQkhtblRUMjI0amRHcFZLaXNaWWJz?oc=5",
-    "source": "Reuters",
-    "impact": 6.7,
-    "sentiment_label": "bullish"
+    "title": "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
+    "link": "https://www.cnbc.com/2026/11/15/fed-has-some-work-to-do-on-inflation-kansas-city-fed-chief-says.html",
+    "source": "CNBC Top News",
+    "impact": 8.0,
+    "sentiment_label": "bearish"
    }
   },
   {
    "ticker": "^TNX",
    "pct": 1.0,
-   "mentions": 15,
-   "sentiment": 0.09,
+   "mentions": 11,
+   "sentiment": -0.1,
    "why": {
-    "title": "Fed's Collins says gradual rate hikes best to manage economic risks",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbHZfX3JqempNenlnSUpVcTd4dXY4djdJU1c2VkZ2Um5fYXkyVTMtYUxBZlBrcXVqQXJkQ0RjejZRQTdBLWxPYzcyRDBfTGxmdUVTekN0TFFWdHNfZFh6ckt0c1RCTVBwZzZjZ3NacWJWSDhvMVRGVDNpR0o2YTBwdmJILTE4eWs2SlQ5YnVHN0ctMFM3bWJsQkhtblRUMjI0amRHcFZLaXNaWWJz?oc=5",
-    "source": "Reuters",
-    "impact": 6.7,
-    "sentiment_label": "bullish"
+    "title": "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
+    "link": "https://www.cnbc.com/2026/11/15/fed-has-some-work-to-do-on-inflation-kansas-city-fed-chief-says.html",
+    "source": "CNBC Top News",
+    "impact": 8.0,
+    "sentiment_label": "bearish"
    }
   },
   {
    "ticker": "QQQ",
    "pct": -2.02,
    "mentions": 7,
-   "sentiment": 0.01,
+   "sentiment": -0.06,
    "why": {
-    "title": "Dow Jones Futures Loom, Bitcoin Dives In Shaky Market Rally; Nvidia Earnings, Anthropic IPO Ahead",
-    "link": "https://finance.yahoo.com/m/53e50dc8-f137-3f6c-bfd6-912334fef9f1/dow-jones-futures-loom%2C.html?.tsrc=rss",
-    "source": "Yahoo Finance",
-    "impact": 5.7,
+    "title": "US Stock Market Week Ahead: Can Nvidia Earnings and Fed Minutes Spark a Nasdaq Rally?",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rZDNOM285d3hOT0VJV0N4R2cxTWhFcFlzb2VLbVY0U2xiU21xX01hUnN1VDRrZ1lIOUkwRlFkcHdndnpUQ0hXZWZydlVMMmo5N2w5eWZZWjNmeVJ6dHJFZHROSk5jNFBKTFpzeWZqS2UyQkdRR1kwNmRHcFI1Nk0?oc=5",
+    "source": "Stocks Down Under",
+    "impact": 7.4,
+    "sentiment_label": "bullish"
+   }
+  },
+  {
+   "ticker": "TGT",
+   "pct": null,
+   "mentions": 5,
+   "sentiment": -0.14,
+   "why": {
+    "title": "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
+    "link": "https://www.cnbc.com/2026/11/15/fed-has-some-work-to-do-on-inflation-kansas-city-fed-chief-says.html",
+    "source": "CNBC Top News",
+    "impact": 8.0,
     "sentiment_label": "bearish"
+   }
+  },
+  {
+   "ticker": "CL=F",
+   "pct": 0.12,
+   "mentions": 7,
+   "sentiment": 0.08,
+   "why": {
+    "title": "Indian Shares Surge On FII Flows",
+    "link": "https://www.nasdaq.com/articles/indian-shares-surge-fii-flows",
+    "source": "Nasdaq Markets",
+    "impact": 6.2,
+    "sentiment_label": "bullish"
+   }
+  },
+  {
+   "ticker": "XLE",
+   "pct": 0.99,
+   "mentions": 7,
+   "sentiment": 0.08,
+   "why": {
+    "title": "Indian Shares Surge On FII Flows",
+    "link": "https://www.nasdaq.com/articles/indian-shares-surge-fii-flows",
+    "source": "Nasdaq Markets",
+    "impact": 6.2,
+    "sentiment_label": "bullish"
    }
   },
   {
    "ticker": "GOOGL",
    "pct": null,
-   "mentions": 5,
-   "sentiment": -0.03,
+   "mentions": 6,
+   "sentiment": -0.1,
    "why": {
-    "title": "Google Could Buy Uber to Win the Robotaxi Wars, Reuters Columnist Argues",
-    "link": "https://finance.yahoo.com/technology/articles/google-could-buy-uber-win-033038440.html?.tsrc=rss",
+    "title": "What FedEx (FDX)'s Shipping Price Hikes Mean For Shareholders",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMDExOVNWeGZONWlIZjV3Ml8yZ3l1dUlsOW5OcjRUd25VSmVDSnQxQWxuWlZGQTJKZ01IbzFYUGxXVEZJVW80eXlSOTFnZEFna3Bqek5JQUF3UDFtRVJVeXRvaHI3NzYzcDA1YnFhT0JXd05vZDdmbG1pOHdGMVF4UzBJNm82eGVRVG84Ti1ETVlkRFVMT0RDT19vWmlEUlc2N0pvQUh1U2dmd0tPNk1VUTBjRy1YSzJGdlVnUER6WGp2R1HSAcgBQVVfeXFMTzYwTFZySFdfdXhETEczRnpIU3FtdkI4WEI3clF4bC1GQkd2Q19zNlZLRm9OUXdxVjNVY3hKajdyNWNTTUxJMzAzMlk5cUtDZjRObTdvcHJ0VFY4NGh3LURzb3ZjbktkemVEbzl6REhxMF91akhmWDNEeWpYVjZBbEpfeUFORjFxSTVGazhNcm8tQnRPYTZkc2NfYXBWS3VieDUwLXBYMzRpRVVjWG13WHFvSUg3amc4NldZQzY1ZG1nVG1QX2ZaaU4?oc=5",
+    "source": "Simply Wall St",
+    "impact": 5.0,
+    "sentiment_label": "neutral"
+   }
+  },
+  {
+   "ticker": "AMZN",
+   "pct": null,
+   "mentions": 7,
+   "sentiment": 0.3,
+   "why": {
+    "title": "U.S. plans to name Nvidia among AI ‘national champions’, WSJ reports",
+    "link": "https://finance.yahoo.com/technology/ai/articles/u-plans-name-nvidia-among-053052700.html?.tsrc=rss",
     "source": "Yahoo Finance",
-    "impact": 5.8,
+    "impact": 3.6,
+    "sentiment_label": "neutral"
+   }
+  },
+  {
+   "ticker": "MSFT",
+   "pct": null,
+   "mentions": 8,
+   "sentiment": -0.22,
+   "why": {
+    "title": "‘The FBI Doesn’t Take Petitions’: Anthony Scaramucci Says ‘Stop Comparing’ Jensen Huang With Sam Altman",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/fbi-doesn-t-petitions-anthony-043241961.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "impact": 6.5,
     "sentiment_label": "bearish"
    }
   },
   {
    "ticker": "DIA",
    "pct": -0.24,
-   "mentions": 4,
-   "sentiment": 0.21,
+   "mentions": 5,
+   "sentiment": 0.34,
    "why": {
-    "title": "Dow Jones Futures Loom, Bitcoin Dives In Shaky Market Rally; Nvidia Earnings, Anthropic IPO Ahead",
-    "link": "https://finance.yahoo.com/m/53e50dc8-f137-3f6c-bfd6-912334fef9f1/dow-jones-futures-loom%2C.html?.tsrc=rss",
-    "source": "Yahoo Finance",
-    "impact": 5.7,
-    "sentiment_label": "bearish"
+    "title": "Stock futures slip as traders brace for Nvidia earnings, Anthropic IPO this week: Live updates",
+    "link": "https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html",
+    "source": "CNBC Top News",
+    "impact": 4.9,
+    "sentiment_label": "bullish"
    }
   },
   {
@@ -715,101 +781,36 @@
    "sentiment": -0.37,
    "why": {
     "title": "What FedEx (FDX)'s Shipping Price Hikes Mean For Shareholders",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNjBMVnJIV191eERMRzNGekhTcW12QjhYQjdyUXhsLUZCR3ZDX3M2VktGb05Rd3FWM1VjeEpqN3I1Y1NNTEkzMDMyWTlxS0NmNE5tN29wcnRUVjg0aHctRHNvdmNuS2R6ZURvOXpESHEwX3VqSGZYM0R5alhWNkFsSl95QU5GMXFJNUZrOE1yby1CdE9hNmRzY19hcFZLdWJ4NTAtcFgzNGlFVWNYbXdYcW9JSDdqZzg2V1lDNjVkbWdUbVBfZlppTtIByAFBVV95cUxPNjBMVnJIV191eERMRzNGekhTcW12QjhYQjdyUXhsLUZCR3ZDX3M2VktGb05Rd3FWM1VjeEpqN3I1Y1NNTEkzMDMyWTlxS0NmNE5tN29wcnRUVjg0aHctRHNvdmNuS2R6ZURvOXpESHEwX3VqSGZYM0R5alhWNkFsSl95QU5GMXFJNUZrOE1yby1CdE9hNmRzY19hcFZLdWJ4NTAtcFgzNGlFVWNYbXdYcW9JSDdqZzg2V1lDNjVkbWdUbVBfZlppTg?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMDExOVNWeGZONWlIZjV3Ml8yZ3l1dUlsOW5OcjRUd25VSmVDSnQxQWxuWlZGQTJKZ01IbzFYUGxXVEZJVW80eXlSOTFnZEFna3Bqek5JQUF3UDFtRVJVeXRvaHI3NzYzcDA1YnFhT0JXd05vZDdmbG1pOHdGMVF4UzBJNm82eGVRVG84Ti1ETVlkRFVMT0RDT19vWmlEUlc2N0pvQUh1U2dmd0tPNk1VUTBjRy1YSzJGdlVnUER6WGp2R1HSAcgBQVVfeXFMTzYwTFZySFdfdXhETEczRnpIU3FtdkI4WEI3clF4bC1GQkd2Q19zNlZLRm9OUXdxVjNVY3hKajdyNWNTTUxJMzAzMlk5cUtDZjRObTdvcHJ0VFY4NGh3LURzb3ZjbktkemVEbzl6REhxMF91akhmWDNEeWpYVjZBbEpfeUFORjFxSTVGazhNcm8tQnRPYTZkc2NfYXBWS3VieDUwLXBYMzRpRVVjWG13WHFvSUg3amc4NldZQzY1ZG1nVG1QX2ZaaU4?oc=5",
     "source": "Simply Wall St",
-    "impact": 5.5,
+    "impact": 5.0,
     "sentiment_label": "neutral"
    }
   },
   {
    "ticker": "UPS",
    "pct": null,
-   "mentions": 4,
-   "sentiment": -0.11,
+   "mentions": 5,
+   "sentiment": -0.17,
    "why": {
     "title": "Can I get a refund if my UPS or FedEx package is late from the FAA ground stop? Probably not",
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWEpaZ2JsaUtsejZRb0dfUXAzYXRGUXBndHJKMnU2d01Eamg0cHRPeXN4N3R3TFpxSENGelBEOGlJX2ZSNmF3NEZPR25IVDhJcEVMdjQyWHpWZ1NkOWFhNmRmQ3EzZXp5bkwyci11bVNjbmNxcGQxa0w1MHRjN1V4V3RTdWZYajRnQzZLTTJjZ002YjhjdFNuSHBpc1YyWDhGTjQzM191V2oxaEZxWkFrMlF3S3A2UC13SGVn?oc=5",
     "source": "Nacionale",
-    "impact": 3.9,
+    "impact": 3.3,
     "sentiment_label": "bearish"
    }
   },
   {
-   "ticker": "BTC-USD",
-   "pct": -5.74,
-   "mentions": 3,
-   "sentiment": -0.21,
-   "why": {
-    "title": "Dow Jones Futures Loom, Bitcoin Dives In Shaky Market Rally; Nvidia Earnings, Anthropic IPO Ahead",
-    "link": "https://finance.yahoo.com/m/53e50dc8-f137-3f6c-bfd6-912334fef9f1/dow-jones-futures-loom%2C.html?.tsrc=rss",
-    "source": "Yahoo Finance",
-    "impact": 5.7,
-    "sentiment_label": "bearish"
-   }
-  },
-  {
-   "ticker": "COIN",
+   "ticker": "AAPL",
    "pct": null,
    "mentions": 3,
-   "sentiment": -0.21,
+   "sentiment": 0.19,
    "why": {
-    "title": "Dow Jones Futures Loom, Bitcoin Dives In Shaky Market Rally; Nvidia Earnings, Anthropic IPO Ahead",
-    "link": "https://finance.yahoo.com/m/53e50dc8-f137-3f6c-bfd6-912334fef9f1/dow-jones-futures-loom%2C.html?.tsrc=rss",
+    "title": "Steve Jobs Went Back to Apple in 1997 and $10,000 Became $18.6 Million. Jensen Huang May Be Next",
+    "link": "https://247wallst.com/investing/2026/11/15/jensen-huang-may-return-to-nvidia-when-steve-jobs-went-back-to-apple-in-1997-10000-became-18-6-million/?.tsrc=rss",
     "source": "Yahoo Finance",
-    "impact": 5.7,
-    "sentiment_label": "bearish"
-   }
-  },
-  {
-   "ticker": "MSFT",
-   "pct": null,
-   "mentions": 7,
-   "sentiment": -0.21,
-   "why": {
-    "title": "Could everything be broken? Grounded jets, Microsoft outage, AI chaos make some wonder",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbUFCdzU3WWxqWDJyOThxR0pfSENwbHdjWE50LVZfX0xSUUZFZnpTemtWN2RRckNlOW56TnZwT2pmUHpPYnU0cGtiaUJ4aFpzLXZ4OHN0a3UxVEpNenFlc0VETFE2UDJkdy1Ld0ZSU2V2MHJxNE9WN3VFMjA2U1lLRThOdE5kSWk2UVdpektzb00yV3ZjUjhOeWpiNA?oc=5",
-    "source": "AP News",
-    "impact": 3.0,
-    "sentiment_label": "bearish"
-   }
-  },
-  {
-   "ticker": "BRK-B",
-   "pct": null,
-   "mentions": 2,
-   "sentiment": 0.88,
-   "why": {
-    "title": "Warren Buffett’s Berkshire Just Hit a Record High as Nvidia Sank. A 67-Year-Old Who Bought 1,000 Shares in 2016 Can Sell $106,000 of It This Year and Pay 0% on the Gain",
-    "link": "https://247wallst.com/investing/2026/11/14/warren-buffetts-berkshire-just-hit-a-record-high-as-nvidia-sank-a-67-year-old-who-bought-1000-shares-in-2016-can-sell-106000-of-it-this-year-and-pay-0-on-the-gain/?.tsrc=rss",
-    "source": "Yahoo Finance",
-    "impact": 4.8,
-    "sentiment_label": "bullish"
-   }
-  },
-  {
-   "ticker": "CL=F",
-   "pct": -0.2,
-   "mentions": 4,
-   "sentiment": -0.21,
-   "why": {
-    "title": "Heating oil prices are up 59% from last winter. The spike is 'crushing folks,' Maine nonprofit says",
-    "link": "https://www.cnbc.com/2026/11/14/heating-oil-price-spike-household-budgets.html",
-    "source": "CNBC Top News",
-    "impact": 3.9,
-    "sentiment_label": "bearish"
-   }
-  },
-  {
-   "ticker": "XLE",
-   "pct": 0.99,
-   "mentions": 4,
-   "sentiment": -0.21,
-   "why": {
-    "title": "Heating oil prices are up 59% from last winter. The spike is 'crushing folks,' Maine nonprofit says",
-    "link": "https://www.cnbc.com/2026/11/14/heating-oil-price-spike-household-budgets.html",
-    "source": "CNBC Top News",
-    "impact": 3.9,
-    "sentiment_label": "bearish"
+    "impact": 3.3,
+    "sentiment_label": "neutral"
    }
   },
   {
@@ -829,7 +830,7 @@
  "movers": {
   "mode": "last session (market not in pre-market)",
   "basis": "opening gap (open vs prior close) of the last session; RVOL = session volume / 20-day avg",
-  "fetched_et": "Nov 15 07:00 PM ET",
+  "fetched_et": "Nov 16 01:13 AM ET",
   "gappers": [
    {
     "symbol": "ADSK",
@@ -1168,7 +1169,7 @@
  "economic_calendar": {
   "source": "FairEconomy / ForexFactory weekly calendar (nfs.faireconomy.media)",
   "fallback": false,
-  "fetched_et": "Nov 15 07:00 PM ET",
+  "fetched_et": "Nov 16 01:13 AM ET",
   "events": [
    {
     "when_et": "Nov 16 05:00 AM ET",
@@ -1207,6 +1208,14 @@
     "date": "2026-11-16",
     "event": "Fed Chairman Warsh Speaks",
     "importance": "high",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "when_et": "Nov 16 02:15 PM ET",
+    "date": "2026-11-16",
+    "event": "FOMC Member Hammack Speaks",
+    "importance": "low",
     "forecast": "",
     "previous": ""
    },
@@ -1470,7 +1479,7 @@
     "when_et": "Nov 20 08:25 AM ET",
     "date": "2026-11-20",
     "event": "FOMC Member Waller Speaks",
-    "importance": "medium",
+    "importance": "low",
     "forecast": "",
     "previous": ""
    },
@@ -1502,7 +1511,7 @@
  },
  "earnings": {
   "source": "Nasdaq earnings calendar API (api.nasdaq.com), filtered to S&P 500 + watchlist",
-  "fetched_et": "Nov 15 03:14 PM ET",
+  "fetched_et": "Nov 16 01:13 AM ET",
   "events": [
    {
     "date": "2026-11-16",
@@ -1653,24 +1662,24 @@
  "sentiment_validation": {
   "logged": 4000,
   "min_sample": 100,
-  "generated_et": "Nov 15 07:00 PM ET",
+  "generated_et": "Nov 16 01:13 AM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
-    "n_scored": 3747,
-    "n_directional": 3239,
-    "hit_rate": 49.8,
+    "n_scored": 3699,
+    "n_directional": 3195,
+    "hit_rate": 50.1,
     "ci95": 1.7,
     "corr": -0.01,
     "status": "NO EDGE (≈ coin flip)"
    },
    "r1d": {
     "name": "+1 day",
-    "n_scored": 3550,
-    "n_directional": 3095,
-    "hit_rate": 50.7,
+    "n_scored": 3502,
+    "n_directional": 3050,
+    "hit_rate": 50.9,
     "ci95": 1.8,
-    "corr": -0.003,
+    "corr": 0.004,
     "status": "NO EDGE (≈ coin flip)"
    }
   },
@@ -1752,108 +1761,108 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 15 07:00 PM ET",
-   "newest_et": "Nov 15 06:57 PM ET",
-   "newest": "2026-11-15T23:57:19+00:00"
+   "fetched_et": "Nov 16 01:12 AM ET",
+   "newest_et": "Nov 16 12:24 AM ET",
+   "newest": "2026-11-16T05:24:23+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 15 07:00 PM ET",
-   "newest_et": "Nov 13 04:18 PM ET",
-   "newest": "2026-11-13T21:18:30+00:00"
+   "fetched_et": "Nov 16 01:12 AM ET",
+   "newest_et": "Nov 15 09:56 PM ET",
+   "newest": "2026-11-16T02:56:24+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 15 07:00 PM ET",
+   "fetched_et": "Nov 16 01:12 AM ET",
    "newest_et": "Nov 15 08:00 AM ET",
    "newest": "2026-11-15T13:00:02+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Nov 15 07:00 PM ET",
-   "newest_et": "Nov 15 06:30 PM ET",
-   "newest": "2026-11-15T23:30:00+00:00"
+   "fetched_et": "Nov 16 01:12 AM ET",
+   "newest_et": "Nov 15 11:15 PM ET",
+   "newest": "2026-11-16T04:15:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 15 07:00 PM ET",
+   "fetched_et": "Nov 16 01:12 AM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
-   "count": 16,
-   "fetched_et": "Nov 15 07:00 PM ET",
-   "newest_et": "Nov 15 06:36 PM ET",
-   "newest": "2026-11-15T23:36:46+00:00"
+   "count": 20,
+   "fetched_et": "Nov 16 01:12 AM ET",
+   "newest_et": "Nov 16 01:00 AM ET",
+   "newest": "2026-11-16T06:00:00+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 57,
-   "fetched_et": "Nov 15 07:00 PM ET",
-   "newest_et": "Nov 15 05:30 PM ET",
-   "newest": "2026-11-15T22:30:03+00:00"
+   "fetched_et": "Nov 16 01:12 AM ET",
+   "newest_et": "Nov 16 01:03 AM ET",
+   "newest": "2026-11-16T06:03:39+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Nov 15 07:00 PM ET",
-   "newest_et": "Nov 15 04:22 PM ET",
-   "newest": "2026-11-15T21:22:37+00:00"
+   "fetched_et": "Nov 16 01:12 AM ET",
+   "newest_et": "Nov 15 09:00 PM ET",
+   "newest": "2026-11-16T02:00:00+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Nov 15 07:00 PM ET",
-   "newest_et": "Nov 15 06:51 PM ET",
-   "newest": "2026-11-15T23:51:00+00:00"
+   "fetched_et": "Nov 16 01:12 AM ET",
+   "newest_et": "Nov 15 10:55 PM ET",
+   "newest": "2026-11-16T03:55:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
-   "count": 19,
-   "fetched_et": "Nov 15 07:00 PM ET",
-   "newest_et": "Nov 15 02:20 PM ET",
-   "newest": "2026-11-15T19:20:53+00:00"
+   "count": 20,
+   "fetched_et": "Nov 16 01:12 AM ET",
+   "newest_et": "Nov 15 04:44 PM ET",
+   "newest": "2026-11-15T21:44:56+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
-   "count": 26,
-   "fetched_et": "Nov 15 07:00 PM ET",
-   "newest_et": "Nov 15 05:34 PM ET",
-   "newest": "2026-11-15T22:34:45+00:00"
+   "count": 28,
+   "fetched_et": "Nov 16 01:12 AM ET",
+   "newest_et": "Nov 15 11:37 PM ET",
+   "newest": "2026-11-16T04:37:03+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Nov 15 07:00 PM ET",
+   "fetched_et": "Nov 16 01:12 AM ET",
    "newest_et": "Nov 13 04:15 PM ET",
    "newest": "2026-11-13T21:15:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Nov 15 07:00 PM ET",
-   "newest_et": "Nov 15 06:33 PM ET",
-   "newest": "2026-11-15T23:33:23+00:00"
+   "fetched_et": "Nov 16 01:12 AM ET",
+   "newest_et": "Nov 15 11:47 PM ET",
+   "newest": "2026-11-16T04:47:02+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
-   "count": 25,
-   "fetched_et": "Nov 15 07:00 PM ET"
+   "count": 26,
+   "fetched_et": "Nov 16 01:12 AM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
    "count": 16,
-   "fetched_et": "Nov 15 03:14 PM ET"
+   "fetched_et": "Nov 16 01:13 AM ET"
   },
   "Economic calendar": {
    "ok": true,
-   "count": 41,
-   "fetched_et": "Nov 15 07:00 PM ET",
+   "count": 42,
+   "fetched_et": "Nov 16 01:13 AM ET",
    "note": "FairEconomy / ForexFactory weekly calendar (nfs.faireconomy.media)"
   }
  }
