@@ -1,220 +1,212 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Nov 17 12:33 PM ET",
- "generated_at": "2026-11-17T12:33:45.307971-05:00",
- "session": "regular",
+ "generated_et": "Nov 17 06:58 PM ET",
+ "generated_at": "2026-11-17T18:58:29.637935-05:00",
+ "session": "after-hours",
  "daily_report": {
   "date": "2026-11-17",
   "generated_et": "Tue Nov 17 2026, 02:58 AM ET"
  },
  "snapshot": [
   {
-   "symbol": "ES=F",
-   "label": "S&P 500 Fut",
-   "price": 7372.25,
-   "pct": -0.9,
-   "asof_et": "Nov 17 12:20 PM ET",
-   "freshness": "delayed"
-  },
-  {
    "symbol": "NQ=F",
    "label": "Nasdaq 100 Fut",
-   "price": 27042.25,
-   "pct": -0.89,
-   "asof_et": "Nov 17 12:20 PM ET",
+   "price": 27450.0,
+   "pct": 0.61,
+   "asof_et": "Nov 17 06:45 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "YM=F",
    "label": "Dow Fut",
-   "price": 51025.0,
-   "pct": -1.25,
-   "asof_et": "Nov 17 12:20 PM ET",
+   "price": 50970.0,
+   "pct": -1.35,
+   "asof_et": "Nov 17 06:45 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "RTY=F",
    "label": "Russell 2000 Fut",
-   "price": 2729.5,
-   "pct": -0.8,
-   "asof_et": "Nov 17 12:20 PM ET",
+   "price": 2721.6,
+   "pct": -1.08,
+   "asof_et": "Nov 17 06:45 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "SPY",
    "label": "SPY",
-   "price": 732.97,
-   "pct": -0.94,
-   "asof_et": "Nov 17 12:30 PM ET",
+   "price": 737.36,
+   "pct": -0.35,
+   "asof_et": "Nov 17 06:55 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "QQQ",
    "label": "QQQ",
-   "price": 655.71,
-   "pct": -0.91,
-   "asof_et": "Nov 17 12:30 PM ET",
+   "price": 665.67,
+   "pct": 0.59,
+   "asof_et": "Nov 17 06:55 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "DIA",
    "label": "DIA",
-   "price": 508.93,
-   "pct": -1.31,
-   "asof_et": "Nov 17 12:30 PM ET",
+   "price": 508.7,
+   "pct": -1.35,
+   "asof_et": "Nov 17 06:40 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "IWM",
    "label": "IWM",
-   "price": 270.66,
-   "pct": -0.83,
-   "asof_et": "Nov 17 12:30 PM ET",
+   "price": 270.16,
+   "pct": -1.02,
+   "asof_et": "Nov 17 06:55 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "^VIX",
    "label": "VIX",
-   "price": 24.89,
-   "pct": 8.64,
-   "asof_et": "Nov 17 12:15 PM ET",
-   "freshness": "delayed"
+   "price": 25.46,
+   "pct": 11.13,
+   "asof_et": "Nov 17 04:15 PM ET",
+   "freshness": "stale"
   },
   {
    "symbol": "CL=F",
    "label": "WTI Crude",
-   "price": 86.28,
-   "pct": 0.65,
-   "asof_et": "Nov 17 12:20 PM ET",
+   "price": 85.86,
+   "pct": 0.16,
+   "asof_et": "Nov 17 06:45 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "GC=F",
    "label": "Gold",
-   "price": 3872.0,
-   "pct": 0.49,
-   "asof_et": "Nov 17 12:20 PM ET",
+   "price": 3851.8,
+   "pct": -0.03,
+   "asof_et": "Nov 17 06:45 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "DX-Y.NYB",
    "label": "Dollar Index",
-   "price": 103.4,
-   "pct": -0.14,
-   "asof_et": "Nov 17 12:20 PM ET",
-   "freshness": "delayed"
+   "price": 103.6,
+   "pct": 0.05,
+   "asof_et": "Nov 17 06:00 PM ET",
+   "freshness": "stale"
   },
   {
    "symbol": "^TNX",
    "label": "10Y Yield",
    "price": 5.1,
-   "pct": -0.39,
-   "asof_et": "Nov 17 12:15 PM ET",
-   "freshness": "delayed"
+   "pct": -0.35,
+   "asof_et": "Nov 17 02:55 PM ET",
+   "freshness": "stale"
   },
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 63566.6,
-   "pct": -1.99,
-   "asof_et": "Nov 17 12:30 PM ET",
+   "price": 64897.46,
+   "pct": 0.06,
+   "asof_et": "Nov 17 06:55 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "XLK",
    "label": "Technology",
-   "price": 162.32,
-   "pct": -1.48,
-   "asof_et": "Nov 17 12:30 PM ET",
+   "price": 166.6,
+   "pct": 1.12,
+   "asof_et": "Nov 17 06:53 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "XLF",
    "label": "Financials",
-   "price": 57.33,
-   "pct": -1.47,
-   "asof_et": "Nov 17 12:30 PM ET",
-   "freshness": "delayed"
+   "price": 57.17,
+   "pct": -1.74,
+   "asof_et": "Nov 17 06:15 PM ET",
+   "freshness": "stale"
   },
   {
    "symbol": "XLE",
    "label": "Energy",
-   "price": 63.53,
-   "pct": -0.24,
-   "asof_et": "Nov 17 12:30 PM ET",
+   "price": 63.4,
+   "pct": -0.46,
+   "asof_et": "Nov 17 06:52 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "XLV",
    "label": "Health Care",
-   "price": 186.14,
-   "pct": -0.93,
-   "asof_et": "Nov 17 12:30 PM ET",
+   "price": 184.54,
+   "pct": -1.78,
+   "asof_et": "Nov 17 06:55 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "XLY",
    "label": "Cons. Discretionary",
-   "price": 117.51,
-   "pct": -0.54,
-   "asof_et": "Nov 17 12:30 PM ET",
-   "freshness": "delayed"
+   "price": 117.1,
+   "pct": -0.89,
+   "asof_et": "Nov 17 05:35 PM ET",
+   "freshness": "stale"
   },
   {
    "symbol": "XLP",
    "label": "Cons. Staples",
-   "price": 92.16,
-   "pct": -0.48,
-   "asof_et": "Nov 17 12:30 PM ET",
+   "price": 91.01,
+   "pct": -1.72,
+   "asof_et": "Nov 17 06:40 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "XLI",
    "label": "Industrials",
-   "price": 165.11,
-   "pct": -0.33,
-   "asof_et": "Nov 17 12:30 PM ET",
-   "freshness": "delayed"
+   "price": 165.24,
+   "pct": -0.25,
+   "asof_et": "Nov 17 06:15 PM ET",
+   "freshness": "stale"
   },
   {
    "symbol": "XLB",
    "label": "Materials",
-   "price": 51.48,
-   "pct": 0.02,
-   "asof_et": "Nov 17 12:30 PM ET",
-   "freshness": "delayed"
+   "price": 50.84,
+   "pct": -1.22,
+   "asof_et": "Nov 17 05:35 PM ET",
+   "freshness": "stale"
   },
   {
    "symbol": "XLU",
    "label": "Utilities",
-   "price": 43.8,
-   "pct": -0.73,
-   "asof_et": "Nov 17 12:30 PM ET",
+   "price": 43.49,
+   "pct": -1.43,
+   "asof_et": "Nov 17 06:25 PM ET",
    "freshness": "delayed"
   },
   {
    "symbol": "XLRE",
    "label": "Real Estate",
-   "price": 43.99,
-   "pct": -0.58,
-   "asof_et": "Nov 17 12:30 PM ET",
-   "freshness": "delayed"
+   "price": 43.59,
+   "pct": -1.49,
+   "asof_et": "Nov 17 05:35 PM ET",
+   "freshness": "stale"
   },
   {
    "symbol": "XLC",
    "label": "Communication",
-   "price": 106.14,
-   "pct": -0.63,
-   "asof_et": "Nov 17 12:30 PM ET",
-   "freshness": "delayed"
+   "price": 105.26,
+   "pct": -1.46,
+   "asof_et": "Nov 17 05:41 PM ET",
+   "freshness": "stale"
   },
   {
    "symbol": "SMH",
    "label": "Semiconductors",
-   "price": 457.68,
-   "pct": -0.91,
-   "asof_et": "Nov 17 12:30 PM ET",
+   "price": 476.0,
+   "pct": 3.05,
+   "asof_et": "Nov 17 06:55 PM ET",
    "freshness": "delayed"
   }
  ],
@@ -381,242 +373,248 @@
  ],
  "breaking": [
   {
-   "title": "7 smart reasons to sell a stock—and my ‘golden rule’ for offloading shares, says hedge fund CEO",
-   "link": "https://www.cnbc.com/2026/11/17/when-to-sell-a-stock.html",
+   "title": "Nvidia’s Kress tells CNBC that 'customers continue to be with us’ in exclusive interview: Live updates",
+   "link": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
+   "source": "CNBC Top News",
+   "impact": 3.3,
+   "tickers": [
+    "NVDA"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 17 06:59 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "CNBC Digital Finance Forum recap: Wall Street's AI and crypto future",
+   "link": "https://www.cnbc.com/2026/11/17/digital-finance-forum-2026-live-updates.html",
    "source": "CNBC Top News",
    "impact": 2.5,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 17 12:34 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "FAA pauses installation of new routers after ground stop",
-   "link": "https://www.cnbc.com/2026/11/17/faa-ground-stop-routers.html",
-   "source": "CNBC Top News",
-   "impact": 2.4,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Nov 17 12:34 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "USPS wants to raise shipping rates starting next year",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObW1UWTlCY2I4QjZjTk82Q2tCQ1FHb25QYnBtdnZyLVJaU3E3ZlVvZ2dodzdQTENYNng0MnN3dTlMcFhZR0lzUzUwWnZwckNvaV8wY0NnX0FqZjM1a3dhTHVnRGt4UkRYNG1McjZJZVRiZDJHbUxDdGxnM3Vua2FuSDlld0xHeEhmclRSUVpOdmRKZEJneEZKX3ZOX21pQy1PUTgtcGFXYjhCQzFOQlB5NUZRUzJVOFpOY2VOdi00SFo1aFBZSTM1cVJyYi13blhyYUI0dldR?oc=5",
-   "source": "KVUE",
-   "impact": 3.3,
-   "tickers": [],
+   "tickers": [
+    "BTC-USD",
+    "COIN"
+   ],
    "sentiment_label": "neutral",
-   "seen_et": "Nov 17 12:34 PM ET",
-   "consumer": true
+   "seen_et": "Nov 17 06:59 PM ET",
+   "consumer": false
   },
   {
-   "title": "Update: Market Chatter: Amazon, Google, Meta Lobbying Fails to Stop Trump From Pursuing China Data Center Curbs",
-   "link": "https://finance.yahoo.com/technology/articles/market-chatter-amazon-google-meta-172106872.html?.tsrc=rss",
-   "source": "Yahoo Finance",
+   "title": "Stock futures rise as Nvidia gains on earnings beat and solid outlook: Live updates",
+   "link": "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html",
+   "source": "CNBC Top News",
    "impact": 4.0,
    "tickers": [
-    "AMZN",
-    "GOOGL",
-    "META",
-    "MSFT"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Nov 17 12:34 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "Not Nvidia. Not Broadcom. This Is the AI Chip Stock I’d Buy Before the Year Ends.",
-   "link": "https://www.nasdaq.com/articles/not-nvidia-not-broadcom-ai-chip-stock-id-buy-year-ends",
-   "source": "Nasdaq Markets",
-   "impact": 2.8,
-   "tickers": [
-    "AVGO",
     "NVDA"
    ],
    "sentiment_label": "bullish",
-   "seen_et": "Nov 17 12:34 PM ET",
+   "seen_et": "Nov 17 06:59 PM ET",
    "consumer": false
   },
   {
-   "title": "Nvidia Earnings: Wolfe Research Says Stock Already Prices In Guidance Cut, Shareholder Flags Succession Risk",
-   "link": "https://stocktwits.com/news-articles/markets/equity/nvidia-earnings-wolfe-research-says-stock-already-prices-in-guidance-cut-shareholder-flags-succession-risk/cNbORofR9h2?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 5.2,
+   "title": "Nvidia chairman says board does not intend to reinstate Jensen Huang as CEO",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObnhLd21OYlROQnV3Z2ZRc29BZlRubWM4T2tVN3d3ektLVUdiMXNSS1dhclFQNVZrUEVrdG5rUHFUY0ozQWJJRjFFVlFvVjJ0SC15eEdoUm1JUEdwY2FZdTgyNmNDQnozOWRXSGJBRlVHaC13M09mZ0U3em9hYkp2V1BFWHJvR2ViRFZGcEk5RE8yTWNwUmM5dlhBMC1oMGYzYzE3TXl5akNYTGlOb2c?oc=5",
+   "source": "AP News",
+   "impact": 2.0,
    "tickers": [
+    "NVDA"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 17 06:59 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Dow Jones Futures Rise, Techs Jump As Nvidia Beats, Says This On Jensen Huang; Target, Anthropic IPO Ahead",
+   "link": "https://finance.yahoo.com/m/3b22ed8c-00c3-32f8-89f5-91bc21ccb366/dow-jones-futures-rise%2C-techs.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 4.2,
+   "tickers": [
+    "DIA",
     "NVDA",
     "TGT"
    ],
-   "sentiment_label": "bearish",
-   "seen_et": "Nov 17 12:34 PM ET",
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 17 06:59 PM ET",
    "consumer": false
   },
   {
-   "title": "Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss",
-   "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "impact": 2.8,
+   "title": "2 of the Best Dividend Stocks to Buy With $5,000 in November",
+   "link": "https://www.fool.com/investing/2026/11/17/2-of-the-best-dividend-stocks-to-buy-with-usd5-000-in-november/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.3,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 17 06:59 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Nvidia's Q3 numbers were pretty good. Its earnings call optics were another story.",
+   "link": "https://finance.yahoo.com/video/nvidias-q3-numbers-were-pretty-good-its-earnings-call-optics-were-another-story-234451647.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 4.0,
    "tickers": [
     "NVDA"
    ],
-   "sentiment_label": "bearish",
-   "seen_et": "Nov 17 12:34 PM ET",
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 17 06:59 PM ET",
    "consumer": false
   },
   {
-   "title": "Nvidia's Jensen Huang Issues Mea Culpa, Wants To Return",
-   "link": "https://finance.yahoo.com/m/783900b1-ad08-3211-bdf6-6fb970ccac90/nvidia%27s-jensen-huang-issues.html?.tsrc=rss",
+   "title": "Stocks making the biggest moves Tuesday: Nvidia, CoreWeave, Nebius & more",
+   "link": "https://www.cnbc.com/2026/11/17/stocks-moving-the-most-today-live-updates.html",
+   "source": "CNBC Top News",
+   "impact": 2.6,
+   "tickers": [
+    "NVDA"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 17 06:59 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Nvidia’s 103% Revenue Growth Took a Backseat to Its Internal Drama",
+   "link": "https://www.fool.com/investing/2026/11/17/nvidias-103-revenue-growth-took-a-backseat-to-its-internal-drama/?.tsrc=rss",
    "source": "Yahoo Finance",
    "impact": 2.5,
    "tickers": [
     "NVDA"
    ],
-   "sentiment_label": "bearish",
-   "seen_et": "Nov 17 12:34 PM ET",
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 17 06:59 PM ET",
    "consumer": false
   },
   {
-   "title": "Kyntra Bio (KYNB) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/kyntra-bio-kynb-q3-2026-earnings-call-transcript",
+   "title": "Billionaire Stanley Druckenmiller Says He's 'Staying Away' From Stocks. Here's What He Bought and Sold Last Quarter",
+   "link": "https://www.fool.com/investing/2026/11/17/billionaire-stanley-druckenmiller-says-he-s-staying-away-from-stocks-here-s-what-he-bought-and-sold-last-quarter/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.3,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 17 06:59 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "AI Agents vs. Banks: Who Will Win? I'm Betting on Banks.",
+   "link": "https://www.fool.com/investing/2026/11/17/ai-agents-vs-banks-who-will-win-i-m-betting-on-banks/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.3,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 17 06:59 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Nvidia just sent a powerful signal to SpaceX stock investors",
+   "link": "https://www.thestreet.com/investing/stocks/nvidia-spacex-stake-q3-13f?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.6,
+   "tickers": [
+    "NVDA"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 17 06:59 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Nvidia doubles revenue as board says it does not intend to reinstate Jensen Huang",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-doubles-quarterly-revenue-first-215151401.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.4,
+   "tickers": [
+    "NVDA"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 17 06:59 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Nvidia earnings special coverage: \"The street wants to believe in Nvidia after Jensen\"",
+   "link": "https://finance.yahoo.com/video/nvidia-earnings-special-coverage-the-street-wants-to-believe-in-nvidia-after-jensen-233044562.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.6,
+   "tickers": [
+    "NVDA"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 17 06:59 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Klarna (KLAR) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/klarna-klar-q3-2026-earnings-call-transcript",
    "source": "Nasdaq Markets",
    "impact": 3.6,
    "tickers": [
-    "KYNB"
+    "KLAR"
    ],
    "sentiment_label": "bullish",
-   "seen_et": "Nov 17 12:34 PM ET",
+   "seen_et": "Nov 17 06:59 PM ET",
    "consumer": false
   },
   {
-   "title": "Canadian Market Down 0.77% As Tech, Financials Weigh",
-   "link": "https://www.nasdaq.com/articles/canadian-market-down-077-tech-financials-weigh",
+   "title": "FuboTV: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/fubotv-3-key-takeaways-long-term-investors",
    "source": "Nasdaq Markets",
+   "impact": 1.6,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 17 06:59 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Nvidia doubles revenue in third quarter, exceeding expectations",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-doubles-revenue-third-quarter-232528958.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.9,
+   "tickers": [
+    "NVDA"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Nov 17 06:59 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Only 11% of the Power Plants Vistra Just Bought Are in Texas. Here's Why That Matters After the Election.",
+   "link": "https://www.fool.com/investing/2026/11/17/only-11-of-the-power-plants-vistra-just-bought-are/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.9,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 17 06:59 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Nvidia says no return for ousted CEO, reports revenue boom",
+   "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-earnings-test-ai-boom-014359078.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.9,
+   "tickers": [
+    "NVDA"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Nov 17 06:59 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "3 Founder Led Stocks With Revenue Growth Up To 20%",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/3-founder-led-stocks-revenue-232311677.html?.tsrc=rss",
+   "source": "Yahoo Finance",
    "impact": 2.2,
    "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Nov 17 12:34 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "Jensen Huang breaks silence, says he would return as Nvidia CEO",
-   "link": "https://www.usatoday.com/story/tech/2026/11/17/former-nvidia-ceo-jensen-huang-speaks-out-after-resignation/92826990007/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.7,
-   "tickers": [
-    "NVDA"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Nov 17 12:34 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Former Nvidia boss Jensen Huang speaks out about return for first time in wake of scandal that rocked AI industry",
-   "link": "https://www.independent.co.uk/tech/nvidia-jensen-huang-return-ai-artificial-intelligence-b3086611.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.4,
-   "tickers": [
-    "NVDA"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Nov 17 12:34 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Former Nvidia CEO Jensen Huang says he’s open to returning in first statement since resignation",
-   "link": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html",
-   "source": "CNBC Top News",
-   "impact": 2.1,
-   "tickers": [
-    "NVDA"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 17 12:34 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "How much Salesforce stock does CEO Marc Benioff actually own?",
-   "link": "https://www.thestreet.com/personalities/how-much-salesforce-crm-stock-does-marc-benioff-own?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.1,
-   "tickers": [
-    "CRM"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 17 12:34 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "FedEx urges customers not to miss first holiday deadline to save money on shipping",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMlB0Y1ZnVVlJQzUySXJoTFlldHdIU0VIcDhJbHZaemNxWWxZcXltWHBQZ3hDQl9QZVVFamlFVVdaU3BuMUhGTU1rNF9ITTY3RTh3eWtGVG5JcmNzSkJEcEpXMTJlZmhtSEdZNVBRY0VLRXRDLWthMjRWbG5NUG1EMjhRbV9MTENsOXprd3ZNdnFnOTQ?oc=5",
-   "source": "The Sun",
-   "impact": 6.5,
-   "tickers": [
-    "FDX"
-   ],
    "sentiment_label": "bullish",
-   "seen_et": "Nov 17 12:34 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "The latest tech failure: U.S. classified national security communications network",
-   "link": "https://www.marketwatch.com/story/the-latest-tech-failure-u-s-classified-national-security-communications-network-ad271899?mod=mw_rss_topstories",
-   "source": "MarketWatch Top",
-   "impact": 2.0,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Nov 17 12:34 PM ET",
-   "consumer": true
-  },
-  {
-   "title": "Dow falls 600 points as tech shares decline, traders eye reported NSA network outage: Live updates",
-   "link": "https://www.cnbc.com/2026/11/16/stock-market-today-live-updates.html",
-   "source": "CNBC Top News",
-   "impact": 3.9,
-   "tickers": [
-    "DIA",
-    "NVDA"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 17 12:34 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Jensen Huang Said He Will “Answer the Call” and Return to Nvidia If Asked",
-   "link": "https://247wallst.com/investing/2026/11/17/jensen-huang-said-he-will-answer-the-call-and-return-to-nvidia-if-asked/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.9,
-   "tickers": [
-    "NVDA",
-    "QQQ"
-   ],
-   "sentiment_label": "bearish",
-   "seen_et": "Nov 17 12:34 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "U.S. officially loses measles elimination status amid ongoing outbreaks",
-   "link": "https://www.cnbc.com/2026/11/17/us-measles-elimination-status.html",
-   "source": "CNBC Top News",
-   "impact": 1.9,
-   "tickers": [],
-   "sentiment_label": "bearish",
-   "seen_et": "Nov 17 12:34 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Jensen Huang Offered to Come Back. Bettors Still Pick Arm’s CEO Over Him to Run Nvidia",
-   "link": "https://247wallst.com/investing/2026/11/17/jensen-huang-offered-to-come-back-bettors-still-pick-arms-ceo-over-him-to-run-nvidia/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.0,
-   "tickers": [
-    "NVDA"
-   ],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 17 12:34 PM ET",
+   "seen_et": "Nov 17 06:59 PM ET",
    "consumer": false
   }
  ],
- "high_impact": [],
+ "high_impact": [
+  {
+   "title": "Stock Market Today, Nov. 17: Grab Holdings Shares Slip Amid Broader Stock Market Sell-Off",
+   "link": "https://www.nasdaq.com/articles/stock-market-today-nov-17-grab-holdings-shares-slip-amid-broader-stock-market-sell",
+   "impact": 7.6,
+   "tickers": [
+    "GRAB",
+    "QQQ"
+   ]
+  }
+ ],
  "watchlist": [
   {
    "ticker": "NVDA",
@@ -817,338 +815,338 @@
  "movers": {
   "mode": "last session (market not in pre-market)",
   "basis": "opening gap (open vs prior close) of the last session; RVOL = session volume / 20-day avg",
-  "fetched_et": "Nov 17 12:33 PM ET",
+  "fetched_et": "Nov 17 06:58 PM ET",
   "gappers": [
    {
     "symbol": "COHR",
     "name": "Coherent Corp.",
     "sector": "Information Technology",
-    "price": 209.16,
+    "price": 210.86,
     "gap_pct": 5.64,
-    "day_pct": 2.82,
-    "volume": 6973139,
-    "rvol": 0.72,
+    "day_pct": 3.65,
+    "volume": 10492716,
+    "rvol": 1.08,
     "asof_et": "2026-11-17 close"
    },
    {
     "symbol": "NKE",
     "name": "Nike, Inc.",
     "sector": "Consumer Discretionary",
-    "price": 37.78,
+    "price": 35.85,
     "gap_pct": 5.07,
-    "day_pct": -1.24,
-    "volume": 27725033,
-    "rvol": 1.29,
+    "day_pct": -6.3,
+    "volume": 66228090,
+    "rvol": 3.07,
     "asof_et": "2026-11-17 close"
    },
    {
     "symbol": "LITE",
     "name": "Lumentum",
     "sector": "Information Technology",
-    "price": 553.48,
+    "price": 559.97,
     "gap_pct": 3.91,
-    "day_pct": 1.37,
-    "volume": 2770589,
-    "rvol": 0.43,
+    "day_pct": 2.56,
+    "volume": 4632450,
+    "rvol": 0.72,
     "asof_et": "2026-11-17 close"
    },
    {
     "symbol": "HD",
     "name": "Home Depot (The)",
     "sector": "Consumer Discretionary",
-    "price": 338.54,
+    "price": 339.01,
     "gap_pct": -3.58,
-    "day_pct": -2.58,
-    "volume": 3457135,
-    "rvol": 0.76,
+    "day_pct": -2.45,
+    "volume": 7154516,
+    "rvol": 1.58,
     "asof_et": "2026-11-17 close"
    },
    {
     "symbol": "MRVL",
     "name": "Marvell Technology",
     "sector": "Information Technology",
-    "price": 146.66,
+    "price": 148.74,
     "gap_pct": 3.33,
-    "day_pct": 0.89,
-    "volume": 13465880,
-    "rvol": 0.44,
+    "day_pct": 2.33,
+    "volume": 26073358,
+    "rvol": 0.86,
     "asof_et": "2026-11-17 close"
    },
    {
     "symbol": "CVS",
     "name": "CVS Health",
     "sector": "Health Care",
-    "price": 86.62,
+    "price": 85.81,
     "gap_pct": -3.1,
-    "day_pct": -2.22,
-    "volume": 5883305,
-    "rvol": 0.52,
+    "day_pct": -3.14,
+    "volume": 13613596,
+    "rvol": 1.2,
     "asof_et": "2026-11-17 close"
    },
    {
     "symbol": "UNH",
     "name": "UnitedHealth Group",
     "sector": "Health Care",
-    "price": 397.78,
+    "price": 389.68,
     "gap_pct": -3.1,
-    "day_pct": -3.46,
-    "volume": 3570254,
-    "rvol": 0.73,
+    "day_pct": -5.42,
+    "volume": 7936659,
+    "rvol": 1.62,
     "asof_et": "2026-11-17 close"
    },
    {
     "symbol": "HUM",
     "name": "Humana",
     "sector": "Health Care",
-    "price": 444.11,
+    "price": 443.34,
     "gap_pct": -3.09,
-    "day_pct": -3.72,
-    "volume": 627727,
-    "rvol": 0.4,
+    "day_pct": -3.88,
+    "volume": 1888450,
+    "rvol": 1.2,
     "asof_et": "2026-11-17 close"
    },
    {
     "symbol": "P",
     "name": "Everpure",
     "sector": "Information Technology",
-    "price": 103.44,
+    "price": 101.79,
     "gap_pct": 2.72,
-    "day_pct": -0.23,
-    "volume": 807395,
-    "rvol": 0.27,
+    "day_pct": -1.82,
+    "volume": 2723817,
+    "rvol": 0.92,
     "asof_et": "2026-11-17 close"
    },
    {
     "symbol": "CRM",
     "name": "Salesforce",
     "sector": "Information Technology",
-    "price": 194.11,
+    "price": 194.52,
     "gap_pct": -2.71,
-    "day_pct": -9.64,
-    "volume": 6711855,
-    "rvol": 1.0,
+    "day_pct": -9.45,
+    "volume": 13337457,
+    "rvol": 1.98,
     "asof_et": "2026-11-17 close"
    },
    {
     "symbol": "MCHP",
     "name": "Microchip Technology",
     "sector": "Information Technology",
-    "price": 59.87,
+    "price": 59.43,
     "gap_pct": 2.68,
-    "day_pct": 2.09,
-    "volume": 6146135,
-    "rvol": 0.38,
+    "day_pct": 1.35,
+    "volume": 16791726,
+    "rvol": 1.05,
     "asof_et": "2026-11-17 close"
    },
    {
     "symbol": "CPRT",
     "name": "Copart",
     "sector": "Industrials",
-    "price": 31.69,
+    "price": 31.45,
     "gap_pct": -2.52,
-    "day_pct": -1.2,
-    "volume": 2849739,
-    "rvol": 0.25,
+    "day_pct": -1.96,
+    "volume": 10697626,
+    "rvol": 0.96,
     "asof_et": "2026-11-17 close"
    },
    {
     "symbol": "CIEN",
     "name": "Ciena",
     "sector": "Information Technology",
-    "price": 260.93,
+    "price": 264.82,
     "gap_pct": 2.49,
-    "day_pct": 1.31,
-    "volume": 981374,
-    "rvol": 0.3,
+    "day_pct": 2.82,
+    "volume": 2437327,
+    "rvol": 0.76,
     "asof_et": "2026-11-17 close"
    },
    {
     "symbol": "CSCO",
     "name": "Cisco",
     "sector": "Information Technology",
-    "price": 94.6,
+    "price": 95.11,
     "gap_pct": 2.42,
-    "day_pct": 0.08,
-    "volume": 7122900,
-    "rvol": 0.35,
+    "day_pct": 0.62,
+    "volume": 19400267,
+    "rvol": 0.95,
     "asof_et": "2026-11-17 close"
    },
    {
     "symbol": "WDAY",
     "name": "Workday, Inc.",
     "sector": "Information Technology",
-    "price": 185.06,
+    "price": 182.8,
     "gap_pct": -2.38,
-    "day_pct": -4.64,
-    "volume": 815561,
-    "rvol": 0.38,
+    "day_pct": -5.8,
+    "volume": 2987337,
+    "rvol": 1.4,
     "asof_et": "2026-11-17 close"
    }
   ],
   "volume_leaders": [
    {
+    "symbol": "NKE",
+    "name": "Nike, Inc.",
+    "sector": "Consumer Discretionary",
+    "price": 35.85,
+    "gap_pct": 5.07,
+    "day_pct": -6.3,
+    "volume": 66228090,
+    "rvol": 3.07,
+    "asof_et": "2026-11-17 close"
+   },
+   {
     "symbol": "ED",
     "name": "Consolidated Edison",
     "sector": "Utilities",
-    "price": 120.24,
+    "price": 119.23,
     "gap_pct": -1.58,
-    "day_pct": -1.35,
-    "volume": 3882480,
-    "rvol": 1.57,
+    "day_pct": -2.17,
+    "volume": 7551137,
+    "rvol": 3.05,
     "asof_et": "2026-11-17 close"
    },
    {
     "symbol": "DIS",
     "name": "Walt Disney Company (The)",
     "sector": "Communication Services",
-    "price": 119.96,
+    "price": 116.94,
     "gap_pct": -0.37,
-    "day_pct": 1.07,
-    "volume": 11059311,
-    "rvol": 1.36,
+    "day_pct": -1.48,
+    "volume": 20143997,
+    "rvol": 2.49,
     "asof_et": "2026-11-17 close"
    },
    {
-    "symbol": "NKE",
-    "name": "Nike, Inc.",
-    "sector": "Consumer Discretionary",
-    "price": 37.78,
-    "gap_pct": 5.07,
-    "day_pct": -1.24,
-    "volume": 27725033,
-    "rvol": 1.29,
+    "symbol": "VYLR",
+    "name": "Vylor",
+    "sector": "Consumer Staples",
+    "price": 70.21,
+    "gap_pct": -0.06,
+    "day_pct": -2.21,
+    "volume": 7335259,
+    "rvol": 2.25,
+    "asof_et": "2026-11-17 close"
+   },
+   {
+    "symbol": "XEL",
+    "name": "Xcel Energy",
+    "sector": "Utilities",
+    "price": 80.72,
+    "gap_pct": -0.32,
+    "day_pct": -0.6,
+    "volume": 18294150,
+    "rvol": 2.18,
+    "asof_et": "2026-11-17 close"
+   },
+   {
+    "symbol": "VRSK",
+    "name": "Verisk Analytics",
+    "sector": "Industrials",
+    "price": 205.31,
+    "gap_pct": -1.6,
+    "day_pct": -3.5,
+    "volume": 2740765,
+    "rvol": 2.14,
+    "asof_et": "2026-11-17 close"
+   },
+   {
+    "symbol": "AES",
+    "name": "AES Corporation",
+    "sector": "Utilities",
+    "price": 14.97,
+    "gap_pct": -0.07,
+    "day_pct": 0.2,
+    "volume": 17621359,
+    "rvol": 2.07,
     "asof_et": "2026-11-17 close"
    },
    {
     "symbol": "CRM",
     "name": "Salesforce",
     "sector": "Information Technology",
-    "price": 194.11,
+    "price": 194.52,
     "gap_pct": -2.71,
-    "day_pct": -9.64,
-    "volume": 6711855,
-    "rvol": 1.0,
-    "asof_et": "2026-11-17 close"
-   },
-   {
-    "symbol": "NVDA",
-    "name": "Nvidia",
-    "sector": "Information Technology",
-    "price": 154.49,
-    "gap_pct": 0.49,
-    "day_pct": -1.05,
-    "volume": 196315360,
-    "rvol": 0.89,
-    "asof_et": "2026-11-17 close"
-   },
-   {
-    "symbol": "SWK",
-    "name": "Stanley Black & Decker",
-    "sector": "Industrials",
-    "price": 110.0,
-    "gap_pct": -1.88,
-    "day_pct": -2.59,
-    "volume": 1572479,
-    "rvol": 0.82,
-    "asof_et": "2026-11-17 close"
-   },
-   {
-    "symbol": "SNDK",
-    "name": "Sandisk",
-    "sector": "Information Technology",
-    "price": 790.72,
-    "gap_pct": 0.09,
-    "day_pct": -2.27,
-    "volume": 9825877,
-    "rvol": 0.81,
-    "asof_et": "2026-11-17 close"
-   },
-   {
-    "symbol": "TTWO",
-    "name": "Take-Two Interactive",
-    "sector": "Communication Services",
-    "price": 204.29,
-    "gap_pct": 1.04,
-    "day_pct": -4.3,
-    "volume": 2722789,
-    "rvol": 0.78,
-    "asof_et": "2026-11-17 close"
-   },
-   {
-    "symbol": "HD",
-    "name": "Home Depot (The)",
-    "sector": "Consumer Discretionary",
-    "price": 338.54,
-    "gap_pct": -3.58,
-    "day_pct": -2.58,
-    "volume": 3457135,
-    "rvol": 0.76,
-    "asof_et": "2026-11-17 close"
-   },
-   {
-    "symbol": "UNH",
-    "name": "UnitedHealth Group",
-    "sector": "Health Care",
-    "price": 397.78,
-    "gap_pct": -3.1,
-    "day_pct": -3.46,
-    "volume": 3570254,
-    "rvol": 0.73,
-    "asof_et": "2026-11-17 close"
-   },
-   {
-    "symbol": "COHR",
-    "name": "Coherent Corp.",
-    "sector": "Information Technology",
-    "price": 209.16,
-    "gap_pct": 5.64,
-    "day_pct": 2.82,
-    "volume": 6973139,
-    "rvol": 0.72,
-    "asof_et": "2026-11-17 close"
-   },
-   {
-    "symbol": "BMY",
-    "name": "Bristol Myers Squibb",
-    "sector": "Health Care",
-    "price": 60.82,
-    "gap_pct": -1.28,
-    "day_pct": -3.35,
-    "volume": 7141793,
-    "rvol": 0.71,
+    "day_pct": -9.45,
+    "volume": 13337457,
+    "rvol": 1.98,
     "asof_et": "2026-11-17 close"
    },
    {
     "symbol": "TECH",
     "name": "Bio-Techne",
     "sector": "Health Care",
-    "price": 72.79,
+    "price": 72.63,
     "gap_pct": 0.01,
-    "day_pct": 0.0,
-    "volume": 2071246,
-    "rvol": 0.68,
+    "day_pct": -0.22,
+    "volume": 5694130,
+    "rvol": 1.87,
     "asof_et": "2026-11-17 close"
    },
    {
-    "symbol": "HOOD",
-    "name": "Robinhood Markets",
-    "sector": "Financials",
-    "price": 68.32,
-    "gap_pct": -0.48,
-    "day_pct": -5.19,
-    "volume": 13133819,
-    "rvol": 0.67,
+    "symbol": "TJX",
+    "name": "TJX Companies",
+    "sector": "Consumer Discretionary",
+    "price": 129.85,
+    "gap_pct": -0.42,
+    "day_pct": -0.95,
+    "volume": 11392115,
+    "rvol": 1.86,
     "asof_et": "2026-11-17 close"
    },
    {
-    "symbol": "JBHT",
-    "name": "J.B. Hunt",
+    "symbol": "CHRW",
+    "name": "C.H. Robinson",
     "sector": "Industrials",
-    "price": 225.63,
-    "gap_pct": -0.65,
-    "day_pct": -2.83,
-    "volume": 551575,
-    "rvol": 0.66,
+    "price": 137.95,
+    "gap_pct": 0.02,
+    "day_pct": 2.44,
+    "volume": 3309573,
+    "rvol": 1.85,
+    "asof_et": "2026-11-17 close"
+   },
+   {
+    "symbol": "AMP",
+    "name": "Ameriprise Financial",
+    "sector": "Financials",
+    "price": 505.77,
+    "gap_pct": -0.28,
+    "day_pct": -1.61,
+    "volume": 1079329,
+    "rvol": 1.83,
+    "asof_et": "2026-11-17 close"
+   },
+   {
+    "symbol": "ATO",
+    "name": "Atmos Energy",
+    "sector": "Utilities",
+    "price": 171.91,
+    "gap_pct": -0.91,
+    "day_pct": -2.41,
+    "volume": 1786468,
+    "rvol": 1.78,
+    "asof_et": "2026-11-17 close"
+   },
+   {
+    "symbol": "TTWO",
+    "name": "Take-Two Interactive",
+    "sector": "Communication Services",
+    "price": 203.93,
+    "gap_pct": 1.04,
+    "day_pct": -4.47,
+    "volume": 6190812,
+    "rvol": 1.77,
+    "asof_et": "2026-11-17 close"
+   },
+   {
+    "symbol": "MKC",
+    "name": "McCormick & Company",
+    "sector": "Consumer Staples",
+    "price": 44.73,
+    "gap_pct": -0.68,
+    "day_pct": -5.09,
+    "volume": 6100398,
+    "rvol": 1.73,
     "asof_et": "2026-11-17 close"
    }
   ]
@@ -1156,7 +1154,7 @@
  "economic_calendar": {
   "source": "FairEconomy / ForexFactory weekly calendar (nfs.faireconomy.media)",
   "fallback": false,
-  "fetched_et": "Nov 17 12:34 PM ET",
+  "fetched_et": "Nov 17 06:59 PM ET",
   "events": [
    {
     "when_et": "Nov 17 07:30 AM ET",
@@ -1283,7 +1281,7 @@
     "date": "2026-11-18",
     "event": "Pending Home Sales m/m",
     "importance": "low",
-    "forecast": "-1.8%",
+    "forecast": "-2.0%",
     "previous": "-7.3%"
    },
    {
@@ -1291,7 +1289,7 @@
     "date": "2026-11-18",
     "event": "Crude Oil Inventories",
     "importance": "low",
-    "forecast": "-0.3M",
+    "forecast": "0.4M",
     "previous": "4.7M"
    },
    {
@@ -1347,7 +1345,7 @@
     "date": "2026-11-19",
     "event": "Philly Fed Manufacturing Index",
     "importance": "medium",
-    "forecast": "19.2",
+    "forecast": "20.6",
     "previous": "20.9"
    },
    {
@@ -1355,7 +1353,7 @@
     "date": "2026-11-19",
     "event": "Unemployment Claims",
     "importance": "medium",
-    "forecast": "199K",
+    "forecast": "198K",
     "previous": "200K"
    },
    {
@@ -1395,7 +1393,7 @@
     "date": "2026-11-19",
     "event": "Natural Gas Storage",
     "importance": "low",
-    "forecast": "",
+    "forecast": "25B",
     "previous": "61B"
    },
    {
@@ -1443,7 +1441,7 @@
     "date": "2026-11-20",
     "event": "Revised UoM Consumer Sentiment",
     "importance": "medium",
-    "forecast": "52.1",
+    "forecast": "51.7",
     "previous": "51.0"
    },
    {
@@ -1466,7 +1464,7 @@
  },
  "earnings": {
   "source": "Nasdaq earnings calendar API (api.nasdaq.com), filtered to S&P 500 + watchlist",
-  "fetched_et": "Nov 17 12:34 PM ET",
+  "fetched_et": "Nov 17 06:59 PM ET",
   "events": [
    {
     "date": "2026-11-17",
@@ -1626,97 +1624,97 @@
  "sentiment_validation": {
   "logged": 4000,
   "min_sample": 100,
-  "generated_et": "Nov 17 12:34 PM ET",
+  "generated_et": "Nov 17 06:59 PM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
-    "n_scored": 3901,
-    "n_directional": 3332,
-    "hit_rate": 50.5,
+    "n_scored": 3930,
+    "n_directional": 3351,
+    "hit_rate": 50.6,
     "ci95": 1.7,
     "corr": -0.004,
     "status": "NO EDGE (≈ coin flip)"
    },
    "r1d": {
     "name": "+1 day",
-    "n_scored": 3808,
-    "n_directional": 3281,
-    "hit_rate": 50.3,
+    "n_scored": 3763,
+    "n_directional": 3240,
+    "hit_rate": 50.2,
     "ci95": 1.7,
-    "corr": 0.015,
+    "corr": 0.014,
     "status": "NO EDGE (≈ coin flip)"
    }
   },
   "status": "MEASURED",
   "recent": [
    {
-    "ticker": "XLE",
-    "sentiment": -0.813,
-    "title": "Stocks end lower ahead of Nvidia earnings and Anthropic IPO; oil drops",
-    "r1h": 0.426,
+    "ticker": "DIA",
+    "sentiment": 0.318,
+    "title": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates",
+    "r1h": 0.014,
+    "r1d": null
+   },
+   {
+    "ticker": "FDX",
+    "sentiment": 0.856,
+    "title": "FedEx CEO Raj Subramaniam on AI, global trade and getting ready for holiday shipping",
+    "r1h": -0.153,
+    "r1d": null
+   },
+   {
+    "ticker": "QQQ",
+    "sentiment": 0.527,
+    "title": "European shares fall, Nasdaq futures inch up ahead of Nvidia earnings",
+    "r1h": 0.125,
     "r1d": null
    },
    {
     "ticker": "NVDA",
-    "sentiment": -0.813,
-    "title": "Stocks end lower ahead of Nvidia earnings and Anthropic IPO; oil drops",
-    "r1h": 0.809,
+    "sentiment": 0.527,
+    "title": "European shares fall, Nasdaq futures inch up ahead of Nvidia earnings",
+    "r1h": -0.078,
     "r1d": null
    },
    {
     "ticker": "XLE",
-    "sentiment": -0.527,
-    "title": "Oil settles lower as recovering Middle East exports bolster surplus outlook",
-    "r1h": 0.426,
+    "sentiment": -0.7,
+    "title": "Oil prices caught between tanker attacks and rising Mideast exports",
+    "r1h": -0.134,
     "r1d": null
    },
    {
     "ticker": "SPY",
-    "sentiment": 0.89,
-    "title": "US Retail Sales Today: Will Consumer Strength Revive December Fed Rate-Hike Bets?",
-    "r1h": 0.114,
+    "sentiment": 0.202,
+    "title": "Gold inches up from over one-year low, Fed outlook caps gains",
+    "r1h": 0.026,
+    "r1d": null
+   },
+   {
+    "ticker": "META",
+    "sentiment": -0.832,
+    "title": "Meta says it tuned Instagram to curb suggestive, violent content in India",
+    "r1h": 0.32,
+    "r1d": null
+   },
+   {
+    "ticker": "C",
+    "sentiment": 0.751,
+    "title": "Citigroup boosting global corporate banking headcount, top banker says",
+    "r1h": 0.134,
     "r1d": null
    },
    {
     "ticker": "UPS",
-    "sentiment": -0.735,
-    "title": "UPS accident in Miami sidelines 767 freighter during busy shipping season",
-    "r1h": -0.063,
+    "sentiment": 0.66,
+    "title": "USPS, UPS, FedEx 2026 holiday shipping deadlines for Christmas",
+    "r1h": 0.041,
     "r1d": null
    },
    {
-    "ticker": "SPY",
-    "sentiment": -0.402,
-    "title": "Fed's Warsh says emerging technologies to have 'significant impact,' but there are risks",
-    "r1h": 0.114,
-    "r1d": null
-   },
-   {
-    "ticker": "XLE",
-    "sentiment": -0.955,
-    "title": "Dollar-yen extends slide into lower 159 range as U.S. stock slump, oil plunge spur yen buying; U.S. retail sales and Nvidia earnings in focu",
-    "r1h": 0.426,
-    "r1d": null
-   },
-   {
-    "ticker": "NVDA",
-    "sentiment": -0.955,
-    "title": "Dollar-yen extends slide into lower 159 range as U.S. stock slump, oil plunge spur yen buying; U.S. retail sales and Nvidia earnings in focu",
-    "r1h": 0.809,
-    "r1d": null
-   },
-   {
-    "ticker": "GOOGL",
-    "sentiment": -0.318,
-    "title": "Hawaii lawmakers urge USPS to reverse shipping changes that could delay deliveries",
-    "r1h": -0.014,
-    "r1d": null
-   },
-   {
-    "ticker": "MSFT",
-    "sentiment": -0.202,
-    "title": "OpenAI sued by California over Hugging Face attack",
-    "r1h": 0.287,
+    "ticker": "FDX",
+    "sentiment": 0.66,
+    "title": "USPS, UPS, FedEx 2026 holiday shipping deadlines for Christmas",
+    "r1h": -0.153,
     "r1d": null
    }
   ]
@@ -1725,108 +1723,108 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 17 12:33 PM ET",
-   "newest_et": "Nov 17 12:33 PM ET",
-   "newest": "2026-11-17T17:33:05+00:00"
+   "fetched_et": "Nov 17 06:58 PM ET",
+   "newest_et": "Nov 17 06:58 PM ET",
+   "newest": "2026-11-17T23:58:03+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 17 12:33 PM ET",
+   "fetched_et": "Nov 17 06:58 PM ET",
    "newest_et": "Nov 17 10:35 AM ET",
    "newest": "2026-11-17T15:35:13+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 17 12:33 PM ET",
-   "newest_et": "Nov 17 12:27 PM ET",
-   "newest": "2026-11-17T17:27:57+00:00"
+   "fetched_et": "Nov 17 06:58 PM ET",
+   "newest_et": "Nov 17 05:17 PM ET",
+   "newest": "2026-11-17T22:17:44+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Nov 17 12:33 PM ET",
-   "newest_et": "Nov 17 12:12 PM ET",
-   "newest": "2026-11-17T17:12:00+00:00"
+   "fetched_et": "Nov 17 06:58 PM ET",
+   "newest_et": "Nov 17 06:30 PM ET",
+   "newest": "2026-11-17T23:30:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 17 12:33 PM ET",
+   "fetched_et": "Nov 17 06:58 PM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
-   "count": 18,
-   "fetched_et": "Nov 17 12:33 PM ET",
-   "newest_et": "Nov 17 12:21 PM ET",
-   "newest": "2026-11-17T17:21:06+00:00"
+   "count": 17,
+   "fetched_et": "Nov 17 06:58 PM ET",
+   "newest_et": "Nov 17 06:49 PM ET",
+   "newest": "2026-11-17T23:49:45+00:00"
   },
   "BBC Business": {
    "ok": true,
    "count": 55,
-   "fetched_et": "Nov 17 12:33 PM ET",
-   "newest_et": "Nov 17 12:19 PM ET",
-   "newest": "2026-11-17T17:19:56+00:00"
+   "fetched_et": "Nov 17 06:58 PM ET",
+   "newest_et": "Nov 17 06:03 PM ET",
+   "newest": "2026-11-17T23:03:39+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Nov 17 12:33 PM ET",
-   "newest_et": "Nov 17 11:21 AM ET",
-   "newest": "2026-11-17T16:21:30+00:00"
+   "fetched_et": "Nov 17 06:58 PM ET",
+   "newest_et": "Nov 17 05:27 PM ET",
+   "newest": "2026-11-17T22:27:45+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Nov 17 12:33 PM ET",
-   "newest_et": "Nov 17 11:49 AM ET",
-   "newest": "2026-11-17T16:49:00+00:00"
+   "fetched_et": "Nov 17 06:58 PM ET",
+   "newest_et": "Nov 17 06:50 PM ET",
+   "newest": "2026-11-17T23:50:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
    "count": 26,
-   "fetched_et": "Nov 17 12:33 PM ET",
-   "newest_et": "Nov 17 12:27 PM ET",
-   "newest": "2026-11-17T17:27:37+00:00"
+   "fetched_et": "Nov 17 06:58 PM ET",
+   "newest_et": "Nov 17 06:15 PM ET",
+   "newest": "2026-11-17T23:15:25+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
-   "count": 16,
-   "fetched_et": "Nov 17 12:33 PM ET",
-   "newest_et": "Nov 17 11:03 AM ET",
-   "newest": "2026-11-17T16:03:00+00:00"
+   "count": 21,
+   "fetched_et": "Nov 17 06:58 PM ET",
+   "newest_et": "Nov 17 04:49 PM ET",
+   "newest": "2026-11-17T21:49:00+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Nov 17 12:33 PM ET",
+   "fetched_et": "Nov 17 06:58 PM ET",
    "newest_et": "Nov 13 04:15 PM ET",
    "newest": "2026-11-13T21:15:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Nov 17 12:33 PM ET",
-   "newest_et": "Nov 17 12:20 PM ET",
-   "newest": "2026-11-17T17:20:02+00:00"
+   "fetched_et": "Nov 17 06:58 PM ET",
+   "newest_et": "Nov 17 06:28 PM ET",
+   "newest": "2026-11-17T23:28:34+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
-   "count": 26,
-   "fetched_et": "Nov 17 12:33 PM ET"
+   "count": 25,
+   "fetched_et": "Nov 17 06:58 PM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
    "count": 17,
-   "fetched_et": "Nov 17 12:34 PM ET"
+   "fetched_et": "Nov 17 06:59 PM ET"
   },
   "Economic calendar": {
    "ok": true,
    "count": 38,
-   "fetched_et": "Nov 17 12:34 PM ET",
+   "fetched_et": "Nov 17 06:59 PM ET",
    "note": "FairEconomy / ForexFactory weekly calendar (nfs.faireconomy.media)"
   }
  }
