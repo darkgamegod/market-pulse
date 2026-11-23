@@ -1,8 +1,8 @@
 {
  "schema": "market-pulse/summary@1",
  "disclaimer": "Educational research only - not financial advice. Automated heuristics; may be wrong or delayed.",
- "generated_et": "Nov 22 05:08 PM ET",
- "generated_at": "2026-11-22T17:08:00.210599-05:00",
+ "generated_et": "Nov 22 09:48 PM ET",
+ "generated_at": "2026-11-22T21:48:19.500736-05:00",
  "session": "closed",
  "daily_report": {
   "date": "2026-11-22",
@@ -12,34 +12,34 @@
   {
    "symbol": "ES=F",
    "label": "S&P 500 Fut",
-   "price": 6935.0,
-   "pct": -3.64,
-   "asof_et": "Nov 20 04:55 PM ET",
-   "freshness": "closed"
+   "price": 7062.75,
+   "pct": 1.84,
+   "asof_et": "Nov 22 09:35 PM ET",
+   "freshness": "delayed"
   },
   {
    "symbol": "NQ=F",
    "label": "Nasdaq 100 Fut",
-   "price": 25126.5,
-   "pct": -5.54,
-   "asof_et": "Nov 20 04:55 PM ET",
-   "freshness": "closed"
+   "price": 25663.75,
+   "pct": 2.14,
+   "asof_et": "Nov 22 09:35 PM ET",
+   "freshness": "delayed"
   },
   {
    "symbol": "YM=F",
    "label": "Dow Fut",
-   "price": 48216.0,
-   "pct": -1.96,
-   "asof_et": "Nov 20 04:55 PM ET",
-   "freshness": "closed"
+   "price": 48928.0,
+   "pct": 1.48,
+   "asof_et": "Nov 22 09:35 PM ET",
+   "freshness": "delayed"
   },
   {
    "symbol": "RTY=F",
    "label": "Russell 2000 Fut",
-   "price": 2587.4,
-   "pct": -2.85,
-   "asof_et": "Nov 20 04:55 PM ET",
-   "freshness": "closed"
+   "price": 2629.6,
+   "pct": 1.63,
+   "asof_et": "Nov 22 09:35 PM ET",
+   "freshness": "delayed"
   },
   {
    "symbol": "SPY",
@@ -78,32 +78,32 @@
    "label": "VIX",
    "price": 35.89,
    "pct": 26.2,
-   "asof_et": "Nov 20 04:15 PM ET",
-   "freshness": "closed"
+   "asof_et": "Nov 20 04:00 PM ET",
+   "freshness": "stale"
   },
   {
    "symbol": "CL=F",
    "label": "WTI Crude",
-   "price": 83.41,
-   "pct": 0.24,
-   "asof_et": "Nov 20 04:55 PM ET",
-   "freshness": "closed"
+   "price": 83.05,
+   "pct": -1.11,
+   "asof_et": "Nov 22 09:35 PM ET",
+   "freshness": "delayed"
   },
   {
    "symbol": "GC=F",
    "label": "Gold",
-   "price": 3515.4,
-   "pct": -4.62,
-   "asof_et": "Nov 20 04:55 PM ET",
-   "freshness": "closed"
+   "price": 3578.2,
+   "pct": 1.79,
+   "asof_et": "Nov 22 09:35 PM ET",
+   "freshness": "delayed"
   },
   {
    "symbol": "DX-Y.NYB",
    "label": "Dollar Index",
-   "price": 103.84,
-   "pct": -0.06,
-   "asof_et": "Nov 20 04:55 PM ET",
-   "freshness": "closed"
+   "price": 103.74,
+   "pct": -0.07,
+   "asof_et": "Nov 22 09:35 PM ET",
+   "freshness": "delayed"
   },
   {
    "symbol": "^TNX",
@@ -111,15 +111,23 @@
    "price": 4.91,
    "pct": -2.77,
    "asof_et": "Nov 20 02:55 PM ET",
-   "freshness": "closed"
+   "freshness": "stale"
   },
   {
    "symbol": "BTC-USD",
    "label": "Bitcoin",
-   "price": 60785.27,
-   "pct": 1.15,
-   "asof_et": "Nov 22 05:05 PM ET",
+   "price": 60440.67,
+   "pct": 0.58,
+   "asof_et": "Nov 22 09:45 PM ET",
    "freshness": "delayed"
+  },
+  {
+   "symbol": "XLK",
+   "label": "Technology",
+   "price": 151.84,
+   "pct": -5.51,
+   "asof_et": "Nov 20 07:55 PM ET",
+   "freshness": "closed"
   },
   {
    "symbol": "XLF",
@@ -368,223 +376,225 @@
  ],
  "breaking": [
   {
-   "title": "BridgeBio: 3 Key Takeaways for Long-Term Investors",
-   "link": "https://www.nasdaq.com/articles/bridgebio-3-key-takeaways-long-term-investors",
-   "source": "Nasdaq Markets",
-   "impact": 1.5,
+   "title": "Mr Price warns Durban port delays risk Christmas retail stock flow",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaG93eTdSTzhRdmpnR0NhczkxbHBGSnk5TUk1UlN3NkpMMktaeWhwcVhJS3dyNS1NTzlEaVBJY3VBcmlmQ0I4UnNrQ2RMUi1Cd3hBMDJubHVjM1Vlb3ZkbzRnQzV1Sk13Umg0MlNsVDR2WWp3dlZTMXd2VzRxS0VJaWJCVzR3TWdPNDMwMGVNR0JKTmNWa2c?oc=5",
+   "source": "Traders Union",
+   "impact": 3.4,
    "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 22 05:08 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Altria Yields 5.9%. Here's How Many Shares You'd Need for $5,000 in Yearly Dividend Income.",
-   "link": "https://www.fool.com/investing/2026/11/22/altria-yields-59-heres-how-many-shares-youd-need-f/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.5,
-   "tickers": [
-    "^TNX"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 22 05:08 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Ron Johnson’s Social Security gaffe buried important news",
-   "link": "https://www.marketwatch.com/story/ron-johnsons-social-security-gaffe-buried-important-news-b96e0ce8?mod=mw_rss_topstories",
-   "source": "MarketWatch Top",
-   "impact": 2.5,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 22 05:08 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Avery Dennison: 3 Key Takeaways for Long-Term Investors",
-   "link": "https://www.nasdaq.com/articles/avery-dennison-3-key-takeaways-long-term-investors",
-   "source": "Nasdaq Markets",
-   "impact": 1.9,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 22 05:08 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Stoke Therapeutics: 3 Key Takeaways for Long-Term Investors",
-   "link": "https://www.nasdaq.com/articles/stoke-therapeutics-3-key-takeaways-long-term-investors",
-   "source": "Nasdaq Markets",
-   "impact": 1.8,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 22 05:08 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Procter & Gamble Has Raised Its Dividend 70 Straight Years. Here's Why I'd Buy Before 2027.",
-   "link": "https://www.fool.com/investing/2026/11/22/procter-gamble-has-raised-its-dividend-70-straight-years-heres-why-id-buy-before-2027/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 1.6,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 22 05:08 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Charlie Bilello Flags the Nasdaq 100’s First Bear Market Since April 2025",
-   "link": "https://247wallst.com/investing/2026/11/22/charlie-bilello-flags-the-nasdaq-100s-first-bear-market-since-april-2025/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.4,
-   "tickers": [
-    "QQQ"
-   ],
    "sentiment_label": "bearish",
-   "seen_et": "Nov 22 05:08 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "15% of parents already cut college savings after Microsoft AI CEO told a mom 'probably not' to bother saving",
-   "link": "https://finance.yahoo.com/technology/ai/articles/15-parents-already-cut-college-211500548.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.7,
-   "tickers": [
-    "MSFT"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 22 05:08 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "How exposed is the S&P 500 to an AI trade bust?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/exposed-p-500-ai-trade-211253614.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 2.4,
-   "tickers": [
-    "SPY"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 22 05:08 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Regional Management: 3 Key Takeaways for Long-Term Investors",
-   "link": "https://www.nasdaq.com/articles/regional-management-3-key-takeaways-long-term-investors",
-   "source": "Nasdaq Markets",
-   "impact": 1.5,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 22 05:08 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "U.S. Treasury Secretary Scott Bessent Just Delivered Great News to Former Nvidia CEO Jensen Huang. Should You Buy Nvidia Stock Before Nov. 25?",
-   "link": "https://www.fool.com/investing/2026/11/22/u-s-treasury-secretary-scott-bessent-just-delivered-great-news-to-former-nvidia-ceo-jensen-huang-should-you-buy-nvidia-stock-before-nov-25/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.9,
-   "tickers": [
-    "NVDA",
-    "^TNX"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 22 05:08 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Jeff Bezos sends a strong signal to Nvidia stock investors as CEO search heats up",
-   "link": "https://www.thestreet.com/investing/jeff-bezos-sends-a-strong-signal-to-nvidia-stock-investors-as-ceo-search-heats-up?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 4.0,
-   "tickers": [
-    "AMZN",
-    "NVDA"
-   ],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 22 05:08 PM ET",
+   "seen_et": "Nov 22 09:49 PM ET",
    "consumer": true
   },
   {
-   "title": "Dow Jones Futures Due As Oracle, Korea Try To Ease Market Fears; Look For These Absolute Losers",
-   "link": "https://finance.yahoo.com/m/9ef9da98-bccf-3565-9a30-9bc3e57ad4b9/dow-jones-futures-due-as.html?.tsrc=rss",
+   "title": "Dow Jones Futures Rise As Oracle, Korea Try To Ease Market Fears; Look For These Absolute Losers",
+   "link": "https://finance.yahoo.com/m/9ef9da98-bccf-3565-9a30-9bc3e57ad4b9/dow-jones-futures-rise-as.html?.tsrc=rss",
    "source": "Yahoo Finance",
-   "impact": 3.4,
+   "impact": 3.5,
    "tickers": [
     "DIA",
     "ORCL"
    ],
    "sentiment_label": "bearish",
-   "seen_et": "Nov 22 05:08 PM ET",
+   "seen_et": "Nov 22 09:49 PM ET",
    "consumer": false
   },
   {
-   "title": "One Stop: 3 Key Takeaways for Long-Term Investors",
-   "link": "https://www.nasdaq.com/articles/one-stop-3-key-takeaways-long-term-investors",
-   "source": "Nasdaq Markets",
-   "impact": 2.9,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 22 05:08 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Why York Space Systems Stock Plunged This Week",
-   "link": "https://www.nasdaq.com/articles/why-york-space-systems-stock-plunged-week",
-   "source": "Nasdaq Markets",
-   "impact": 4.3,
-   "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 22 05:08 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Does Anthropic Have a Competitive Advantage? These are the Four Big Ones",
-   "link": "https://www.fool.com/investing/2026/11/22/does-anthropic-have-a-competitive-advantage-these-are-the-four-big-ones/?.tsrc=rss",
+   "title": "NVDA, INTC, MU, AMD Chip Stocks Rip Higher: Dan Ives Says ‘Bears Feel Validated,’ But There’s No Stopping The AI Wave",
+   "link": "https://stocktwits.com/news-articles/markets/equity/nvda-intc-mu-amd-chip-stocks-rip-higher-dan-ives-says-bears-feel-validated-but-there-s-no-stopping-the-ai-wave/cNbYZnYR916?.tsrc=rss",
    "source": "Yahoo Finance",
-   "impact": 1.6,
-   "tickers": [],
-   "sentiment_label": "neutral",
-   "seen_et": "Nov 22 05:08 PM ET",
-   "consumer": false
-  },
-  {
-   "title": "Warren Buffett’s Successor, Greg Abel, Has Invested Nearly 47% of Berkshire Hathaway’s $360 Billion Stock Portfolio in Just 3 Stocks (and None Are AI Hyperscalers)",
-   "link": "https://www.fool.com/investing/2026/11/22/warren-buffett-s-successor-greg-abel-has-invested-nearly-47-of-berkshire-hathaway-s-usd360-billion-stock-portfolio-in-just-3-stocks-and-none-are-ai-hyperscalers/?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "impact": 3.7,
+   "impact": 5.0,
    "tickers": [
-    "BRK-B"
+    "AAPL",
+    "AMD"
    ],
    "sentiment_label": "bullish",
-   "seen_et": "Nov 22 05:08 PM ET",
+   "seen_et": "Nov 22 09:49 PM ET",
    "consumer": false
   },
   {
-   "title": "Anthropic Stock Could Soar by 72%, According to This Wall Street Analyst",
-   "link": "https://www.fool.com/investing/2026/11/22/anthropic-stock-could-soar-by-72-according-to-this-wall-street-analyst/?.tsrc=rss",
+   "title": "Mercedes-Benz Buyback Presses On as UBS Flags a Quarter-Loss in Chinese Retail Sales",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPT3hvT0NsSEZMM2RReXhmQlR0R3RBLVNwV0FzbXpvVnNTYkNzLVJCeko5VGZ4aHpVY2JtUnI3dnVnRV84SEs2SUFWcEVYVGJ0ODE0bmlfY0NyUmhRRl9HNEtPRGk2Zmg0clRnOFF4Y25taXNTci15Tm0xdU5YYXVNZFhSRUZPRWQzNVJBX0Zwc05xVEhXUlptYnJqeUhJclZ5RnZrdWg2Y3dDRXpSMWFWa3JMVDl5aFhsQzM0V2xiM3o5U1BzUmtfUUlka2lqVVVYQVdySzBnSUZmVFFaV2lseWxJaTdZTkpHS253Ng?oc=5",
+   "source": "ad-hoc-news.de",
+   "impact": 1.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 22 09:49 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Forget Flying Roadsters. Tesla Investors Have 3 Bigger Challenges to Watch.",
+   "link": "https://www.fool.com/investing/2026/11/22/forget-flying-roadsters-tesla-investors-have-3-bigger-challenges-to-watch/?.tsrc=rss",
    "source": "Yahoo Finance",
-   "impact": 3.0,
+   "impact": 2.5,
+   "tickers": [
+    "TSLA"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 22 09:49 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Is FedEx (FDX) A Bargain After Naming Katherine Boyle To Its Board?",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX0tnX3FuTWNwVHhDTGdZS25oekxXVWlPRFJ4SEZ3YnhPdHhGT2dWUFF5Z2ptVGVZX2JVeHVZUXJvc3NXSHRvWDROeVhKSGtIZndnMENtenRZaTRRRG5veHN6WmdHdmotdjFlV2NJU2phV0xaUHZGNTF5aVQtM21Vb2Zhb1RhbFBzdlFNWFZkUTNidUxyUTQzLUdJMk0zanUwSW1sU3d1WUNmOFFXVDFKTG9jX1djLWZrYjV3S1E3QWhLbFFVVnfSAcsBQVVfeXFMT0h2bkk1eEt4alV4VnBUZ2c2djF1ZVo2RXdZSzl0cVM1Y1JvQjR3UTFLQTBwNHdldDBna2RrMjdQZVNQaTlueUNvdm5fbzlTVXhJcmVsc2lNUVI1Y1B0cjZzNUY5Q2dDRUozRkdJbTQtZWN5WHhIMnd4VnNuQVNPekQzWVRieHVHaXJuYzJxR3pLUE5sWVZuNVZIX2JaaHZVaVF5M3UtTzhzZGRYYUdBN28ycnBycU9VUlQ2Nko0aFEtNTJNakVfRHBsSEU?oc=5",
+   "source": "Simply Wall St",
+   "impact": 4.4,
+   "tickers": [
+    "FDX",
+    "GOOGL"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 22 09:49 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "ANT, BABA, PANW, TTWO, ZS: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVVU4SEdUSE5lUmJxakFvVUVtNnUtUWdXakZxLWtQM1hudHlCcTc1eTlXU1lzWFF5V2ZkT2tjVm8zVTlZQlMxU2JsY25mcXlEMGhnV1U1WllCdkdiQ1B6cWtBenFJdGxUTWUzUThYb3dRbHdnTFJXcUhqZXdsTlBSTWFEX09Tc25ENy1hS0E4R29vY1BMWmY1RDkySnoxNTRUeDduMFVGaVdDQVBxNmh3dXNzbV9NTlR4WDBGdFVmZVJ0czhGTzk0R3RZWE9scXJseTBmdnVNQ0NmQmh6OTdFV2Nna0xnN1BDMm9Jdw?oc=5",
+   "source": "Stocktwits",
+   "impact": 1.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 22 09:49 PM ET",
+   "consumer": true
+  },
+  {
+   "title": "Kandi Technologies: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/kandi-technologies-3-key-takeaways-long-term-investors",
+   "source": "Nasdaq Markets",
+   "impact": 3.7,
    "tickers": [],
    "sentiment_label": "bullish",
-   "seen_et": "Nov 22 05:08 PM ET",
+   "seen_et": "Nov 22 09:49 PM ET",
    "consumer": false
   },
   {
-   "title": "When Can Anthropic Insiders Sell? What the Post-IPO Lockup Period Means for Shareholders.",
-   "link": "https://www.fool.com/investing/2026/11/22/when-can-anthropic-insiders-sell-what-the-lockup-means-for-shareholders/?.tsrc=rss",
-   "source": "Yahoo Finance",
+   "title": "Thai Stock Market Likely Rangebound On Monday",
+   "link": "https://www.nasdaq.com/articles/thai-stock-market-likely-rangebound-monday",
+   "source": "Nasdaq Markets",
    "impact": 1.8,
    "tickers": [],
-   "sentiment_label": "bullish",
-   "seen_et": "Nov 22 05:08 PM ET",
+   "sentiment_label": "bearish",
+   "seen_et": "Nov 22 09:49 PM ET",
    "consumer": false
   },
   {
-   "title": "Social Security should be shut down, this Republican senator says",
-   "link": "https://www.marketwatch.com/story/social-security-should-be-shut-down-this-republican-senator-says-8f7fef81?mod=mw_rss_topstories",
-   "source": "MarketWatch Top",
+   "title": "Miley Cyrus marries rock drummer Maxx Morando in an intimate Palm Springs wedding",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQUlkclo1SlpxNkZuU0lxTUNlUkZoSHdsdEtEaEJ5bUNwQzhZUlNhTGNaVWd1OGlNS0ljTGNHU3VYNHJBUGpLOTZoLTRlNUQ5VERQU1Vnc3lfa1BqRzlzSE40ZmlvV1lqLUpaVTFYUGhySjZGSDdfNGVhelRfVEl0V3V1UWJRZw?oc=5",
+   "source": "AP News",
+   "impact": 1.5,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 22 09:49 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "S&P 500 futures rebound sharply to rise 2%, kick-starting shortened week after tech rout: Live updates",
+   "link": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html",
+   "source": "CNBC Top News",
+   "impact": 3.9,
+   "tickers": [
+    "SPY"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 22 09:49 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Jensen Huang Has Lost $92 Billion and Nvidia’s Board Does Not Intend to Bring Him Back. Here’s What 9 Stocks Did the Year After Their Founder Handed Over",
+   "link": "https://247wallst.com/investing/2026/11/22/jensen-huang-has-lost-92-billion-and-nvidias-board-does-not-intend-to-bring-him-back-heres-what-9-stocks-did-the-year-after-their-founder-handed-over/?.tsrc=rss",
+   "source": "Yahoo Finance",
    "impact": 2.3,
+   "tickers": [
+    "NVDA"
+   ],
+   "sentiment_label": "bearish",
+   "seen_et": "Nov 22 09:49 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "With the Nasdaq in a Correction, Vanguard's Tech ETF Is the Fund I'd Buy Now",
+   "link": "https://www.fool.com/investing/2026/11/22/with-the-nasdaq-in-a-correction-vanguard-s-tech-etf-is-the-fund-i-d-buy-now/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 3.1,
+   "tickers": [
+    "QQQ"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 22 09:49 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Indonesia Stock Market May Stop The Bleeding On Monday",
+   "link": "https://www.nasdaq.com/articles/indonesia-stock-market-may-stop-bleeding-monday",
+   "source": "Nasdaq Markets",
+   "impact": 1.9,
+   "tickers": [],
+   "sentiment_label": "bearish",
+   "seen_et": "Nov 22 09:49 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Australian Markets Slightly Lower",
+   "link": "https://www.nasdaq.com/articles/australian-markets-slightly-lower",
+   "source": "Nasdaq Markets",
+   "impact": 2.2,
+   "tickers": [
+    "SPY"
+   ],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 22 09:49 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Nokia vs. AT&T: Which Telecom Stock Is a Better Buy for 2027?",
+   "link": "https://www.nasdaq.com/articles/nokia-vs-att-which-telecom-stock-better-buy-2027",
+   "source": "Nasdaq Markets",
+   "impact": 1.7,
+   "tickers": [],
+   "sentiment_label": "neutral",
+   "seen_et": "Nov 22 09:49 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Stifel Says SpaceX Could Buy Stalled Data Centers for One Reason: Their Power. Here’s Why Electricity Is the Real Asset.",
+   "link": "https://www.fool.com/investing/2026/11/22/stifel-says-spacex-could-buy-stalled-data-centers-for-one-reason-their-power-heres-why-electricity-is-the-real-asset/?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.2,
    "tickers": [],
    "sentiment_label": "bullish",
-   "seen_et": "Nov 22 05:08 PM ET",
+   "seen_et": "Nov 22 09:49 PM ET",
    "consumer": false
+  },
+  {
+   "title": "Hong Kong Stock Market Due For Support",
+   "link": "https://www.nasdaq.com/articles/hong-kong-stock-market-due-support-0",
+   "source": "Nasdaq Markets",
+   "impact": 1.9,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 22 09:49 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "Energy bills will soar - here's how you can ease the pain",
+   "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "impact": 3.3,
+   "tickers": [],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 22 09:49 PM ET",
+   "consumer": false
+  },
+  {
+   "title": "XPENG Launches Public Advanced ADAS Test Rides at Its Paris Store, Becoming the First Chinese Automaker to Offer the Experience Overseas",
+   "link": "https://finance.yahoo.com/technology/ai/articles/xpeng-launches-public-advanced-adas-010200031.html?.tsrc=rss",
+   "source": "Yahoo Finance",
+   "impact": 2.8,
+   "tickers": [
+    "TSLA"
+   ],
+   "sentiment_label": "bullish",
+   "seen_et": "Nov 22 09:49 PM ET",
+   "consumer": true
   }
  ],
  "high_impact": [],
@@ -788,7 +798,7 @@
  "movers": {
   "mode": "last session (market not in pre-market)",
   "basis": "opening gap (open vs prior close) of the last session; RVOL = session volume / 20-day avg",
-  "fetched_et": "Nov 22 05:08 PM ET",
+  "fetched_et": "Nov 22 09:48 PM ET",
   "gappers": [
    {
     "symbol": "INTU",
@@ -1127,7 +1137,7 @@
  "economic_calendar": {
   "source": "FairEconomy / ForexFactory weekly calendar (nfs.faireconomy.media)",
   "fallback": false,
-  "fetched_et": "Nov 22 05:08 PM ET",
+  "fetched_et": "Nov 22 09:48 PM ET",
   "events": [
    {
     "when_et": "Nov 23 09:45 AM ET",
@@ -1325,7 +1335,7 @@
  },
  "earnings": {
   "source": "Nasdaq earnings calendar API (api.nasdaq.com), filtered to S&P 500 + watchlist",
-  "fetched_et": "Nov 22 05:08 PM ET",
+  "fetched_et": "Nov 22 09:48 PM ET",
   "events": [
    {
     "date": "2026-11-23",
@@ -1449,22 +1459,22 @@
  "sentiment_validation": {
   "logged": 4000,
   "min_sample": 100,
-  "generated_et": "Nov 22 05:08 PM ET",
+  "generated_et": "Nov 22 09:49 PM ET",
   "horizons": {
    "r1h": {
     "name": "+1 hour",
-    "n_scored": 3760,
-    "n_directional": 3225,
+    "n_scored": 3738,
+    "n_directional": 3210,
     "hit_rate": 51.3,
     "ci95": 1.7,
-    "corr": 0.011,
+    "corr": 0.012,
     "status": "NO EDGE (≈ coin flip)"
    },
    "r1d": {
     "name": "+1 day",
-    "n_scored": 3663,
-    "n_directional": 3164,
-    "hit_rate": 50.3,
+    "n_scored": 3641,
+    "n_directional": 3149,
+    "hit_rate": 50.2,
     "ci95": 1.7,
     "corr": 0.039,
     "status": "NO EDGE (≈ coin flip)"
@@ -1548,108 +1558,108 @@
   "CNBC Top News": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 22 05:08 PM ET",
-   "newest_et": "Nov 22 01:55 PM ET",
-   "newest": "2026-11-22T18:55:05+00:00"
+   "fetched_et": "Nov 22 09:48 PM ET",
+   "newest_et": "Nov 22 08:50 PM ET",
+   "newest": "2026-11-23T01:50:10+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 22 05:08 PM ET",
+   "fetched_et": "Nov 22 09:48 PM ET",
    "newest_et": "Nov 21 10:04 AM ET",
    "newest": "2026-11-21T15:04:56+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 22 05:08 PM ET",
+   "fetched_et": "Nov 22 09:48 PM ET",
    "newest_et": "Nov 22 01:55 PM ET",
    "newest": "2026-11-22T18:55:05+00:00"
   },
   "MarketWatch Top": {
    "ok": true,
    "count": 10,
-   "fetched_et": "Nov 22 05:08 PM ET",
+   "fetched_et": "Nov 22 09:48 PM ET",
    "newest_et": "Nov 22 04:51 PM ET",
    "newest": "2026-11-22T21:51:00+00:00"
   },
   "MarketWatch Pulse": {
    "ok": true,
    "count": 30,
-   "fetched_et": "Nov 22 05:08 PM ET",
+   "fetched_et": "Nov 22 09:48 PM ET",
    "newest_et": "Jul 03 08:36 AM ET",
    "newest": "2025-07-03T12:36:00+00:00"
   },
   "Yahoo Finance": {
    "ok": true,
    "count": 19,
-   "fetched_et": "Nov 22 05:08 PM ET",
-   "newest_et": "Nov 22 04:34 PM ET",
-   "newest": "2026-11-22T21:34:00+00:00"
+   "fetched_et": "Nov 22 09:48 PM ET",
+   "newest_et": "Nov 22 09:25 PM ET",
+   "newest": "2026-11-23T02:25:00+00:00"
   },
   "BBC Business": {
    "ok": true,
-   "count": 58,
-   "fetched_et": "Nov 22 05:08 PM ET",
-   "newest_et": "Nov 22 08:50 AM ET",
-   "newest": "2026-11-22T13:50:21+00:00"
+   "count": 46,
+   "fetched_et": "Nov 22 09:48 PM ET",
+   "newest_et": "Nov 22 08:05 PM ET",
+   "newest": "2026-11-23T01:05:07+00:00"
   },
   "Reuters (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Nov 22 05:08 PM ET",
-   "newest_et": "Nov 22 08:29 AM ET",
-   "newest": "2026-11-22T13:29:02+00:00"
+   "fetched_et": "Nov 22 09:48 PM ET",
+   "newest_et": "Nov 22 06:44 PM ET",
+   "newest": "2026-11-22T23:44:00+00:00"
   },
   "AP Business (via Google News)": {
    "ok": true,
    "count": 60,
-   "fetched_et": "Nov 22 05:08 PM ET",
-   "newest_et": "Nov 22 02:54 PM ET",
-   "newest": "2026-11-22T19:54:00+00:00"
+   "fetched_et": "Nov 22 09:48 PM ET",
+   "newest_et": "Nov 22 08:53 PM ET",
+   "newest": "2026-11-23T01:53:00+00:00"
   },
   "Shipping & Postage (via Google News)": {
    "ok": true,
    "count": 22,
-   "fetched_et": "Nov 22 05:08 PM ET",
-   "newest_et": "Nov 22 10:00 AM ET",
-   "newest": "2026-11-22T15:00:52+00:00"
+   "fetched_et": "Nov 22 09:48 PM ET",
+   "newest_et": "Nov 22 09:09 PM ET",
+   "newest": "2026-11-23T02:09:17+00:00"
   },
   "Retail & E-commerce (via Google News)": {
    "ok": true,
    "count": 22,
-   "fetched_et": "Nov 22 05:08 PM ET",
-   "newest_et": "Nov 22 02:17 PM ET",
-   "newest": "2026-11-22T19:17:59+00:00"
+   "fetched_et": "Nov 22 09:48 PM ET",
+   "newest_et": "Nov 22 09:25 PM ET",
+   "newest": "2026-11-23T02:25:26+00:00"
   },
   "Fed Press Releases": {
    "ok": true,
    "count": 20,
-   "fetched_et": "Nov 22 05:08 PM ET",
+   "fetched_et": "Nov 22 09:48 PM ET",
    "newest_et": "Nov 20 04:15 PM ET",
    "newest": "2026-11-20T21:15:00+00:00"
   },
   "Nasdaq Markets": {
    "ok": true,
    "count": 15,
-   "fetched_et": "Nov 22 05:08 PM ET",
-   "newest_et": "Nov 22 04:35 PM ET",
-   "newest": "2026-11-22T21:35:02+00:00"
+   "fetched_et": "Nov 22 09:48 PM ET",
+   "newest_et": "Nov 22 09:20 PM ET",
+   "newest": "2026-11-23T02:20:01+00:00"
   },
   "Yahoo Finance quotes": {
    "ok": true,
-   "count": 25,
-   "fetched_et": "Nov 22 05:08 PM ET"
+   "count": 26,
+   "fetched_et": "Nov 22 09:48 PM ET"
   },
   "Nasdaq earnings API": {
    "ok": true,
    "count": 13,
-   "fetched_et": "Nov 22 05:08 PM ET"
+   "fetched_et": "Nov 22 09:48 PM ET"
   },
   "Economic calendar": {
    "ok": true,
    "count": 24,
-   "fetched_et": "Nov 22 05:08 PM ET",
+   "fetched_et": "Nov 22 09:48 PM ET",
    "note": "FairEconomy / ForexFactory weekly calendar (nfs.faireconomy.media)"
   }
  }
